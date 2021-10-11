@@ -1,0 +1,7 @@
+name = "Bhrigu Sanhita Astrology"
+repo = "https://wikifactory.com/@indiaastrology/bhrigu-sanhita-astrology"
+version = "20200921034050"
+spdx-license = "N/A"
+licensor = "Jyotirvidh Shyama Gurudev"
+documentation-language = "en"
+function = "To create a software to connect vedic astrology with Bhrigu sanhita astrology"

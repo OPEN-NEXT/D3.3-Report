@@ -1,0 +1,13 @@
+name = "My  Pecha Kucha"
+repo = "https://wikifactory.com/@fergushughes/my-petcha-cucha"
+version = "20210119132259"
+spdx-license = "N/A"
+licensor = "Fergus Hughes"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTkzNzE="
+function = "My Pecha Kucha starts from hydrofoils and leads you through facts and interesting insights about space travel, Amazon tribes, and more."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjIyOTE="
+mimetype = "text/markdown"
+

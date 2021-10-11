@@ -1,0 +1,63 @@
+name = "CapteurDHT22_Wifi_Bat"
+repo = "https://wikifactory.com/@mcariou/capteurdht22wifibat"
+version = "20210121094951"
+spdx-license = "N/A"
+licensor = "Mathieu Cariou"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1MjMwNDk="
+function = "Capteur de température et humidité basé sur le composant DHT22. Les information sont envoyé par Wifi grace à la carte ESP12. Ce capteur connecté est alimenté par une batterie."
+[[files]]
+name = "fichiers _Eagle/main.brd"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQwNzc="
+mimetype = "application/xml"
+
+[[files]]
+name = "fichiers _Eagle/main.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjMwNjM="
+mimetype = "application/xml"
+
+[[files]]
+name = "Fichiers_Gerber/detourrage.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjMwNzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fichiers_Gerber/face_pistes.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQwNzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fichiers_Gerber/percage.xln"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjMwNjk="
+mimetype = "text/plain"
+
+[[files]]
+name = "infos_carte/dimensions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjMxNjM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "infos_carte/implantation_composants.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjMxNjI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "infos_carte/implantation_generale.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQwNzk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Programme/programme.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjMyMzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQwODY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "schema_electrique/schema electrique.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjMyMTQ="
+mimetype = "application/pdf"
+

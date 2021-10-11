@@ -1,0 +1,7 @@
+name = "Ottomoi"
+repo = "https://wikifactory.com/@arckanew/ottomoi"
+version = "20210307143703"
+spdx-license = "N/A"
+licensor = "val lec"
+documentation-language = "en"
+function = "mon robot"

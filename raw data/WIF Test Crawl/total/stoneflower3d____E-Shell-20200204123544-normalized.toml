@@ -1,0 +1,28 @@
+name = "E-Shell"
+repo = "https://wikifactory.com/@stoneflower3d/e-shell"
+version = "20200204123544"
+spdx-license = "N/A"
+licensor = "Anatoly Berezkin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDI1MDk="
+function = "Generative design, and programming, related to additive technologies"
+[[files]]
+name = "/DSC_1184.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMDMxMTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/lamp_Andrea.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMDI2MTY="
+mimetype = "application/3dm"
+
+[[files]]
+name = "/lamp_Andrea.gh"
+permalink = "https://wikifactory.com/files/RmlsZTozMDI2MTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/venation.gh"
+permalink = "https://wikifactory.com/files/RmlsZTozMDI1MTM="
+mimetype = "application/octet-stream"
+

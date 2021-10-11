@@ -1,0 +1,7 @@
+name = "earthquake resistance"
+repo = "https://wikifactory.com/@piyushsharma/earthquake-resistance"
+version = "20210121020327"
+spdx-license = "N/A"
+licensor = "Piyush kumar"
+documentation-language = "en"
+function = "A structure which will balence itself to the shear force"

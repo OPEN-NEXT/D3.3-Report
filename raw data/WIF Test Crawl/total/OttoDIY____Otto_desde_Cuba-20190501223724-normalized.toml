@@ -1,0 +1,13 @@
+name = "Otto desde Cuba"
+repo = "https://wikifactory.com/@hrd/otto-desde-cuba"
+version = "20190501223724"
+spdx-license = "GPL-3.0"
+licensor = "Horacio Regalado Díaz"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZToyMTE5MTQ="
+function = "Dedicado a desarrollar soluciones para el robo Otto diseñado por Camilo."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMDcxMDU="
+mimetype = "text/plain"
+

@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@hsiung723/test"
+version = "20210225062230"
+spdx-license = "N/A"
+licensor = "HSIUNG,CHIN-LI"
+documentation-language = "en"
+function = "hi"

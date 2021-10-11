@@ -1,0 +1,13 @@
+name = "Pechakucha - Alex Witty"
+repo = "https://wikifactory.com/@alexwitty/pechakucha-alex-witty"
+version = "20210121132227"
+spdx-license = "N/A"
+licensor = "Alex Witty"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTk4Mjk="
+function = "To further understand my own passions and interests I created a Loose Association Pecha Kucha presentation. Click the image to see the presentation on my WikiFactory profile."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQyOTA="
+mimetype = "text/markdown"
+

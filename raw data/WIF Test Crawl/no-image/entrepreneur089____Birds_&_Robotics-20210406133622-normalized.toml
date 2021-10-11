@@ -1,0 +1,7 @@
+name = "Birds & Robotics"
+repo = "https://wikifactory.com/@entrepreneur089/birds-robotics"
+version = "20210406133622"
+spdx-license = "N/A"
+licensor = "Harsh"
+documentation-language = "en"
+function = "Most museums around the world cant allow visitors to touch items stored but touch is very important to understand how a biological/man-made thing is formed, is it possible to create a physical/virtual system that allows people to touch & feel different birds & objects body shapes with AR?"

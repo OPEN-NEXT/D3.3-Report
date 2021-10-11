@@ -1,0 +1,7 @@
+name = "Multi-System Integration"
+repo = "https://wikifactory.com/@ourtechgroups/multi-system-integration"
+version = "20201111152026"
+spdx-license = "N/A"
+licensor = "Alelign A. Wudie"
+documentation-language = "en"
+function = "It is producing a system that can integrate satellites, computers and on-land functionalities."

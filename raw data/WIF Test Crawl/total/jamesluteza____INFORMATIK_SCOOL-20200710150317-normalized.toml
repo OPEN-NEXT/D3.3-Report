@@ -1,0 +1,7 @@
+name = "INFORMATIK SCOOL"
+repo = "https://wikifactory.com/@jamesluteza/informatik-scool"
+version = "20200710150317"
+spdx-license = "N/A"
+licensor = "LUTEZA VUTUDI JAMES"
+documentation-language = "fr"
+function = "Logiciel de gestion des établissements scolaires. Ce logiciel va aider les gestionnaires des écoles dans la conservation des données de chaque membre de l'établissement."

@@ -1,0 +1,13 @@
+name = "HelloBP"
+repo = "https://wikifactory.com/@rutvijpathak/hellobp"
+version = "20191023142209"
+spdx-license = "N/A"
+licensor = "Rutvij Pathak"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODUzNzY="
+function = "This is a design for an apparatus to measure the blood pressure of patients"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU5NDE="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Face Mask "
+repo = "https://wikifactory.com/@swatyouthsociety/face-mask"
+version = "20200714113851"
+spdx-license = "N/A"
+licensor = "Ziaullah Khan"
+documentation-language = "en"
+function = "A face Mask that will be highly used for protection against COViD-19 and allergies."

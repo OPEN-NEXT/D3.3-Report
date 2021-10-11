@@ -1,0 +1,7 @@
+name = "Never stop"
+repo = "https://wikifactory.com/@mmuvais/never-stop"
+version = "20201129095315"
+spdx-license = "N/A"
+licensor = "mmuvais"
+documentation-language = "en"
+function = "Never ending automatic power generator"

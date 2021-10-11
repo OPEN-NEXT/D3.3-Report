@@ -1,0 +1,12 @@
+name = "sun"
+repo = "https://wikifactory.com/@ibrabayern1010/sun"
+version = "20200728070744"
+spdx-license = "N/A"
+licensor = "ibrabayern1010"
+documentation-language = "en"
+function = "the sun lights"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTYyOTI="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "FUELLESS GENERATOR"
+repo = "https://wikifactory.com/@olushola/fuelless-generator"
+version = "20200820230723"
+spdx-license = "N/A"
+licensor = "Adeniyi Olushola"
+documentation-language = "en"
+function = "A fuelless generator is one that produces electricity without the use of fuel."

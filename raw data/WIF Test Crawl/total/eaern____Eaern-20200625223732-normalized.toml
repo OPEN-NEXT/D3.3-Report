@@ -1,0 +1,7 @@
+name = "Eaern"
+repo = "https://wikifactory.com/@eaern/eaern"
+version = "20200625223732"
+spdx-license = "N/A"
+licensor = "Mariaephilothea Ernest"
+documentation-language = "en"
+function = "Gnss device"

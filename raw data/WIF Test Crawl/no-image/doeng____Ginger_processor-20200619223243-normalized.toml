@@ -1,0 +1,7 @@
+name = "Ginger processor"
+repo = "https://wikifactory.com/@doeng/ginger-processor"
+version = "20200619223243"
+spdx-license = "N/A"
+licensor = "SAMUEL DAMA"
+documentation-language = "en"
+function = "Design and fabrication of automatic Ginger processor. Washing, peeling, slicing and drying"

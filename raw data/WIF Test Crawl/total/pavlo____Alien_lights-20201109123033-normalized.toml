@@ -1,0 +1,13 @@
+name = "Alien lights"
+repo = "https://wikifactory.com/@pavlo/alien-lights"
+version = "20201109123033"
+spdx-license = "N/A"
+licensor = "Pavlo Chopyk"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NzE2NTc="
+function = "My project is aimed at improving driving safety."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzE2NTg="
+mimetype = "text/markdown"
+

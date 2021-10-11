@@ -1,0 +1,7 @@
+name = "Payment Terminal"
+repo = "https://wikifactory.com/@gambo/payment-terminal"
+version = "20200812081648"
+spdx-license = "N/A"
+licensor = "Abdulqadir Gambo"
+documentation-language = "en"
+function = "This Device is meant for scanning and processing payments card to process financial transactions.\nThe device will help tackle financial inclusion in Africa where there are no banks and people that don't have bank accounts. It will help in reducing the poverty rate in some rural areas in Africa"

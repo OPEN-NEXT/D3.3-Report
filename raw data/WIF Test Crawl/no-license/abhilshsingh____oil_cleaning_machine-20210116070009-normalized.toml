@@ -1,0 +1,7 @@
+name = "oil cleaning machine"
+repo = "https://wikifactory.com/@abhilshsingh/oil-cleaning-machine"
+version = "20210116070009"
+spdx-license = "N/A"
+licensor = "Abhilash Kumar Singh"
+documentation-language = "en"
+function = "i want to develop a machine which is efficiantly clean hydraulic oil . the machine which remove contamination as well as moisture too .\n\nCleaning efficiency up to below 1 micron & below 500 ppm ( moisture level ) ."

@@ -1,0 +1,53 @@
+name = "KOMBUCHA"
+repo = "https://wikifactory.com/@sdgsolutionspace/kombucha"
+version = "20200624111423"
+spdx-license = "N/A"
+licensor = "DURNEY Jean-Marie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozODk3NzI="
+function = "BioFabricating Material from Scoby ( Symbiotic Culture Of Bacteria and Yeast)"
+[[files]]
+name = "Pictures/AlienEgg.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY2NDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/kombuchaBubbles.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY2NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/KombuchaProcess.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY2NDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/kombuchaProduction.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY2NDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/OpenBioFabrics.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozODI3NDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/Over4mmLayer.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY2NDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/ThinLayerAndColor.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY2NDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODk3NzM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/RecetteBiocouture.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY2NTI="
+mimetype = "application/pdf"
+

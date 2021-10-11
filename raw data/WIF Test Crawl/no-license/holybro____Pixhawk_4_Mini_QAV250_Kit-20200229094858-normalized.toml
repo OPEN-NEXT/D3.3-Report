@@ -1,0 +1,13 @@
+name = "Pixhawk 4 Mini QAV250 Kit"
+repo = "https://wikifactory.com/@vincentpoont2/pixhawk-4-mini-qav250-kit"
+version = "20200229094858"
+spdx-license = "N/A"
+licensor = "Vince Tiko Poon"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTE1NjM="
+function = "The Pixhawk 4 Mini QAV250 Basic Kit is the perfect way to get started developing on Pixhawk 4 Mini. It pairs a carbon fiber 250 racing frame and essential electronics with a Pixhawk 4 Mini autopilot. This kit is easy to assemble and no soldering needed."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE1NzA="
+mimetype = "text/markdown"
+

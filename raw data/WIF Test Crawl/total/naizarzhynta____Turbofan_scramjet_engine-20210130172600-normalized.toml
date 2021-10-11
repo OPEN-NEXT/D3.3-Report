@@ -1,0 +1,7 @@
+name = "Turbofan scramjet engine"
+repo = "https://wikifactory.com/@naizarzhynta/turbofan-scramjet-engine"
+version = "20210130172600"
+spdx-license = "N/A"
+licensor = "Yayang Zhynta"
+documentation-language = "en"
+function = "innovation in the aerospace sector by combining the weaknesses of each type of turbofan jet engine and scramjet jet engine so that a new type of jet engine is obtained."

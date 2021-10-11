@@ -1,0 +1,7 @@
+name = "pungTH"
+repo = "https://wikifactory.com/@pungth19/pungth"
+version = "20210202103021"
+spdx-license = "N/A"
+licensor = "pungpong pipattanasakulwongTH"
+documentation-language = "en"
+function = "pungTH"

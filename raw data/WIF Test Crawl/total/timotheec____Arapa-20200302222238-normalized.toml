@@ -1,0 +1,243 @@
+name = "Arapa"
+repo = "https://wikifactory.com/@timotheec/arapa"
+version = "20200302222238"
+spdx-license = "N/A"
+licensor = "timotheec"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTIxNTc="
+function = "The purpose of this project is to propose several shapes to build a strorage pouch for laptops, tablets or any right pave. \nFor that I propose a design inspired by the weaving of Polynesian baskets (called \"Arapa\")."
+[[files]]
+name = "design_results/final_pouch_mini_ipad_assembled_1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxNTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/final_pouch_mini_ipad_assembled_2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxNDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/final_pouch_mini_ipad_assembled_3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxNTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/final_pouch_mini_ipad_assembled_4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxNDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/final_pouch_mini_ipad_not_assembled.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxNTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/final_pouch_mini_ipad_semi_assembled.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxNTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/foam_pouch_1.0_1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTc2OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/foam_pouch_1.0_2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTc2OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/foam_pouch_1.0_3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTc2OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/foam_pouch_1.0_4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTc3MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/foam_pouch_1.0_5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTc3MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/foam_pouch_2.0_assembled_back.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/foam_pouch_2.0_assembled_clip.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/foam_pouch_2.0_semi_assembled.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/ipad_mini_4_results.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1MzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/pre-pouch_mini_ipad_1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxNTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/pre-pouch_mini_ipad_2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxNTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/pre-pouch_mini_ipad_3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxNTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/product_exhibition.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxNDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/prototype1.1_fully assembled.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYzOTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/prototype1.1_semi_assembled_1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYzOTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/prototype1.1_semi_assembled_2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYzOTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/prototype1.1_semi_assembled_3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYzOTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/prototype1_base_shapes.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODc5NjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/prototype1_fully_assembled_back.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODc5OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/prototype1_fully_assembled_front.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODc5OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/prototype1_on_phone_1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODc5NjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/prototype1_on_phone_2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODc5NTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/prototype1_semi_assembled_back.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODc5NTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "design_results/prototype1_semi_assembled_front.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODc5NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "external_assets/ipad_mini_4_dimension_schema.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1MzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "external_assets/laser_cutter.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODc5NTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "external_assets/polynesian_basket_example_1.png"
+permalink = "https://wikifactory.com/files/RmlsZToyODY0MDY="
+mimetype = "image/png"
+
+[[files]]
+name = "external_assets/polynesian_basket_example_2.png"
+permalink = "https://wikifactory.com/files/RmlsZToyODY0MDU="
+mimetype = "image/png"
+
+[[files]]
+name = "fusion360_models/foam_pouch_1.f3d"
+permalink = "https://wikifactory.com/files/RmlsZToyOTc2OTI="
+mimetype = "application/zip"
+
+[[files]]
+name = "fusion360_models/foam_pouch_shot_1.png"
+permalink = "https://wikifactory.com/files/RmlsZToyOTc2OTE="
+mimetype = "image/png"
+
+[[files]]
+name = "fusion360_models/prototype1.1_parametrized.f3d"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYzOTc="
+mimetype = "application/zip"
+
+[[files]]
+name = "fusion360_models/prototype1.f3d"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYzOTY="
+mimetype = "application/zip"
+
+[[files]]
+name = "fusion360_models/prototype1_shot_no_measures.png"
+permalink = "https://wikifactory.com/files/RmlsZToyODc5NTA="
+mimetype = "image/png"
+
+[[files]]
+name = "fusion360_models/prototype1_shot_with_measures.png"
+permalink = "https://wikifactory.com/files/RmlsZToyODc5NDk="
+mimetype = "image/png"
+
+[[files]]
+name = "hand_sketches/brainstorm_1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODQ2NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxOTM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "reports/report1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyODc5OTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "reports/report2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYzOTg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "reports/report3.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyOTc3MDI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "reports/report 4.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1Mzc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "reports/report 5.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxNjI="
+mimetype = "application/pdf"
+

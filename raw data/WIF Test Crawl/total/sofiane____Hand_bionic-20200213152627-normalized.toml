@@ -1,0 +1,8 @@
+name = "Hand bionic "
+repo = "https://wikifactory.com/@sofiane/hand-bionic"
+version = "20200213152627"
+spdx-license = "N/A"
+licensor = "s k"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MTUyNDU="
+function = "hi, I would like to modify a hand prosthesis 3D print to make it bionic I have already designed the electronic system for a fluid control of the hand. \nI find two open source hand very interesting but my problem is that I do not know how to model to modify the hand to adapt it to my system."

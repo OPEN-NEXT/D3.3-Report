@@ -1,0 +1,23 @@
+name = "Baby monitor"
+repo = "https://wikifactory.com/@jakubm/baby-monitor"
+version = "20210113215331"
+spdx-license = "N/A"
+licensor = "JakubMikolaj"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTgyNjA="
+function = "Smart baby monitor based on raspberry Pi - concept"
+[[files]]
+name = "/Case for Baby Monitor with place for camera.iges"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTgyMzM="
+mimetype = "model/iges"
+
+[[files]]
+name = "/Case for Baby Monitor.iges"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTgyMzQ="
+mimetype = "model/iges"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg0NDM="
+mimetype = "text/markdown"
+

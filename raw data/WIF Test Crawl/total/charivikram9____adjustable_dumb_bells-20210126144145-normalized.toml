@@ -1,0 +1,7 @@
+name = "adjustable dumb bells"
+repo = "https://wikifactory.com/@charivikram9/adjustable-dumb-bells"
+version = "20210126144145"
+spdx-license = "N/A"
+licensor = "charivikram9"
+documentation-language = "en"
+function = "adjustable dumb bells that can change weights with rotation of the handle and doesen't need tightening of nuts. simple to change weights but locks and secures the weights correctly so to avoid any possible accidents."

@@ -1,0 +1,13 @@
+name = "Brief #3"
+repo = "https://wikifactory.com/@ethankent01/brief-3"
+version = "20210204050658"
+spdx-license = "N/A"
+licensor = "Ethan"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MzU5NTI="
+function = ".."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzYwNDU="
+mimetype = "text/markdown"
+

@@ -1,0 +1,12 @@
+name = "Test"
+repo = "https://wikifactory.com/@dspicio/test"
+version = "20210209141141"
+spdx-license = "N/A"
+licensor = "dspicio"
+documentation-language = "en"
+function = "Test"
+[[files]]
+name = "/as1-oc-214_1.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg2ODc="
+mimetype = "text/plain"
+

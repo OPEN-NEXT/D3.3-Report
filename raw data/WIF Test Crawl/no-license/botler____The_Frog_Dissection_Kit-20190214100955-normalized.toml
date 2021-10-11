@@ -1,0 +1,33 @@
+name = "The Frog Dissection Kit"
+repo = "https://wikifactory.com/@botler/the-frog-dissection-kit"
+version = "20190214100955"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNTM4OQ=="
+function = "The<a href=\"https://www.makerbot.com/\"> MakerBot</a> Frog Dissection Kit is the first 3D printable curriculum unit for teachers and their students to download and 3D print in the classroom."
+[[files]]
+name = "/Frog_Body.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM1Ng=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Frog_Dissection_Kit.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM2OA=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/MakerBot_Frog_Dissection_Kit_Lesson_Plan.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM3MA=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Organs_Combined.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM1OA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM5Mw=="
+mimetype = "text/markdown"
+

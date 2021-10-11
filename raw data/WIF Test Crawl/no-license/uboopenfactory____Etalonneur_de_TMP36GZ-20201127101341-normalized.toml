@@ -1,0 +1,93 @@
+name = "Etalonneur de TMP36GZ"
+repo = "https://wikifactory.com/@laurent-marchal/etalonneur-de-tmp36gz"
+version = "20201127101341"
+spdx-license = "N/A"
+licensor = "MARCHAL Laurent"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0MzE5MTQ="
+function = "Etalonner jusqu'à 4 capteurs de température de type TMP36GZ"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTA1NTU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "V1/2D/Boitier comparateur de TMP36GZ2.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE5NTY="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "V1/2D/Boitier comparateur de TMP36GZ.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE5NTM="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "V1/photos/assemblage carte arduino.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE5MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "V1/photos/carte V1 cote composants.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE5MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "V1/photos/Carte V1 cote pistes.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE5MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "V1/photos/Connecteur arduino.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE5MjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "V1/photos/Fonctionnement 2 mesures.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE5NDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "V1/photos/Prises alim_v1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE5MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "V1/photos/V1 fonctionnement_initialisation.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE5Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "V1/photos/Vue générale V1 - Copie.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE5MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "V1/photos/Vue générale V1 petit.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE5MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "V1/programme/V1_0_comparateur_complet.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE5MjU="
+mimetype = "text/x-c"
+
+[[files]]
+name = "V1/Schéma électrique/schéma électrique.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE5NzU="
+mimetype = "image/png"
+
+[[files]]
+name = "V2 amelioration de la sensibilité/calcul des biais.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTA1NDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "V2 amelioration de la sensibilité/schéma électrique.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTAxOTc="
+mimetype = "image/png"
+
+[[files]]
+name = "V2 amelioration de la sensibilité/V2_0_amelioration_sensibilite.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTAyMDQ="
+mimetype = "text/x-c"
+

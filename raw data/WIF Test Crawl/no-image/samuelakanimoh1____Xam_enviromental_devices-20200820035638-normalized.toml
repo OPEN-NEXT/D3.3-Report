@@ -1,0 +1,7 @@
+name = "Xam enviromental devices"
+repo = "https://wikifactory.com/@samuelakanimoh1/xam-enviromental-devices"
+version = "20200820035638"
+spdx-license = "N/A"
+licensor = "Samuel Akanimoh"
+documentation-language = "en"
+function = "Devices that can carry out impact assessment"

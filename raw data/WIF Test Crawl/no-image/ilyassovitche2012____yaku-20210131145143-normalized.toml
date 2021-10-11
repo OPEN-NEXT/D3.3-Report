@@ -1,0 +1,7 @@
+name = "yaku"
+repo = "https://wikifactory.com/@ilyassovitche2012/yaku"
+version = "20210131145143"
+spdx-license = "N/A"
+licensor = "Ilyass Labiad"
+documentation-language = "ca"
+function = "lasser project"

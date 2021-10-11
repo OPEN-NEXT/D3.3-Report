@@ -1,0 +1,7 @@
+name = "Otto Santa"
+repo = "https://wikifactory.com/@natashabr2/otto-santa"
+version = "20201124111256"
+spdx-license = "N/A"
+licensor = "Natasha Brændekilde"
+documentation-language = "en"
+function = "Santa Project with FabLab"

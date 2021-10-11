@@ -1,0 +1,12 @@
+name = "TermoShop MOS 2019"
+repo = "https://wikifactory.com/@3d-art/termoshop-mos-2019"
+version = "20190823100834"
+spdx-license = "N/A"
+licensor = "Matej"
+documentation-language = "sv"
+function = "Stnad MOS 2019"
+[[files]]
+name = "/TERMO SHOP_MOS 2019_V10 - za 3D viewer.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyNDIwMzU="
+mimetype = "application/octet-stream"
+

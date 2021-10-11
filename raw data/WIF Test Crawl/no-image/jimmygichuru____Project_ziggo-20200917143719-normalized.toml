@@ -1,0 +1,7 @@
+name = "Project_ziggo"
+repo = "https://wikifactory.com/@jimmygichuru/projectziggo"
+version = "20200917143719"
+spdx-license = "N/A"
+licensor = "James Gichuru"
+documentation-language = "en"
+function = "A logistics app"

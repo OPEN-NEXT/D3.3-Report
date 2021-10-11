@@ -1,0 +1,32 @@
+name = "AUV"
+repo = "https://wikifactory.com/@shashank-katiyar/auv"
+version = "20210326091605"
+spdx-license = "N/A"
+licensor = "Shashank Katiyar"
+documentation-language = "en"
+function = "autonomous underwater vehicle"
+[[files]]
+name = "/torpedo 1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NzU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/torpedo assembly1.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NzQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/torpedo_khancha1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NzM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/torpedo_spring1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NzI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/torpedo_torpedo1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NzE="
+mimetype = "application/octet-stream"
+

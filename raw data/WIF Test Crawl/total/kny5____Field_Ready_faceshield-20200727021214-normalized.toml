@@ -1,0 +1,28 @@
+name = "Field Ready faceshield"
+repo = "https://wikifactory.com/@kny5/3-pieces-faceshield-model"
+version = "20200727021214"
+spdx-license = "N/A"
+licensor = "Antonio Anaya"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MTU3Mjg="
+function = "I splitted a simple faceshield model in three pieces, to make it repairable, increase the printing speed and make it suitable for small 3D printers."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTU3MzI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Solidworks model/careta_puzzle.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTU1MDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Solidworks model/careta_puzzle_base.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTU1MDg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Solidworks model/careta_puzzle_left.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTU1MTI="
+mimetype = "application/octet-stream"
+

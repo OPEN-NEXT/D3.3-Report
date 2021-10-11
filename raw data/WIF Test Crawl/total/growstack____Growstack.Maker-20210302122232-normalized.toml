@@ -1,0 +1,18 @@
+name = "Growstack.Maker"
+repo = "https://wikifactory.com/@frederiklean/growstackmaker"
+version = "20210302122232"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Frederik Lean"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDU0NzQ="
+function = "An aeroponic grow system that anyone can build less than a day."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU0OQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDY2NjU="
+mimetype = "text/markdown"
+

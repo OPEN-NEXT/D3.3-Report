@@ -1,0 +1,13 @@
+name = "Phoenix Hand"
+repo = "https://wikifactory.com/@wildmustangs/phoenix-hand"
+version = "20190314212258"
+spdx-license = "CC0-1.0"
+licensor = "Sven Pedersen"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDQ3NDg="
+function = "My first hand i printed and assembled for e-NABLE Netherlands"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQ3NDY="
+mimetype = "text/plain"
+

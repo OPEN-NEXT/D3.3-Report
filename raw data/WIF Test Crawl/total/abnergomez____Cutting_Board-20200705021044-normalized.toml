@@ -1,0 +1,78 @@
+name = "Cutting Board"
+repo = "https://wikifactory.com/@abnergomez/cutting-board-9b43e"
+version = "20200705021044"
+spdx-license = "N/A"
+licensor = "Abner Gómez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTQxNTA="
+function = "An antibacterial, lightweight and durable cutting board."
+[[files]]
+name = "Blueprints/Cutting Board (ADOBE PDF 3D).PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM5OTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Blueprints/Cutting Board.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM5OTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/booklet__MDflex2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozOTEyNDE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Images/Scene3.png"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg3NTk="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Scene 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg3NjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/Scene 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg3NjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/Sketch1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM5NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/Sketch.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM5NzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/View (1).png"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM5NzM="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/View (2).png"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM5NzI="
+mimetype = "image/png"
+
+[[files]]
+name = "Parts/Cutting Board.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM5ODU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Parts/Cutting Board.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM5ODY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg3NzE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/SafeToPlay Design Challenge Methodology.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2NTE="
+mimetype = "application/pdf"
+

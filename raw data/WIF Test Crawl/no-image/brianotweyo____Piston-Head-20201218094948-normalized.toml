@@ -1,0 +1,17 @@
+name = "Piston-Head"
+repo = "https://wikifactory.com/@brianotweyo/piston-head"
+version = "20201218094948"
+spdx-license = "N/A"
+licensor = "brianotweyo"
+documentation-language = "en"
+function = "A piston is a moving disk enclosed in a cylinder which is made gas-tight by piston rings. ... Pistons work by transferring the force output of an expanding gas in the cylinder to a crankshaft, which provides rotational momentum to a flywheel. \nHeres is part of its head designed in Siemens NX"
+[[files]]
+name = "/connecting-rod.prt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDI4NzM="
+mimetype = "application/unigraphics"
+
+[[files]]
+name = "/Piston-Head.prt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDAxODc="
+mimetype = "chemical/x-ncbi-asn1-ascii"
+

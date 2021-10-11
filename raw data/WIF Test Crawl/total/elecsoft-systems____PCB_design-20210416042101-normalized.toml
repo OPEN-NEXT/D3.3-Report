@@ -1,0 +1,7 @@
+name = "PCB design"
+repo = "https://wikifactory.com/@elecsoft-systems/pcb-design"
+version = "20210416042101"
+spdx-license = "N/A"
+licensor = "Ashima Chakraborty"
+documentation-language = "en"
+function = "Designing PCB"

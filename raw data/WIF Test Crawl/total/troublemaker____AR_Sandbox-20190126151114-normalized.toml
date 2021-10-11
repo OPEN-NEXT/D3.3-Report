@@ -1,0 +1,48 @@
+name = "AR Sandbox"
+repo = "https://wikifactory.com/@henkwerner/ar-sandbox"
+version = "20190126151114"
+spdx-license = "N/A"
+licensor = "Henk Werner"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDIxMg=="
+function = "The AR Sandbox is an interactive tool to play, study and develop team building skills. When the sand it moved around, the depth sensor will create real-time an accurate map of the surfaceb and a projector will shed a color map according to the sand shapes."
+[[files]]
+name = "Pictures/1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDIwNw=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDIwOA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDIwOQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDIwNg=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDIxMA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDIxMQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDIxMg=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Videos/Short sandbox video.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyMTAyNQ=="
+mimetype = "video/mp4"
+

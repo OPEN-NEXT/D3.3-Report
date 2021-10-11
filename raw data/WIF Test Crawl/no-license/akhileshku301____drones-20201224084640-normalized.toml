@@ -1,0 +1,7 @@
+name = "drones"
+repo = "https://wikifactory.com/@akhileshku301/drones"
+version = "20201224084640"
+spdx-license = "N/A"
+licensor = "Akhilesh Kumar"
+documentation-language = "en"
+function = "autonomous drone"

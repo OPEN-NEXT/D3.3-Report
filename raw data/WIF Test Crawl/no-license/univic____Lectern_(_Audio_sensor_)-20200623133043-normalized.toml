@@ -1,0 +1,7 @@
+name = "Lectern ( Audio sensor )"
+repo = "https://wikifactory.com/@univic/lectern-audio-sensor"
+version = "20200623133043"
+spdx-license = "N/A"
+licensor = "Jeremiah Ene"
+documentation-language = "en"
+function = "My idea is based on the invention. I thought on an electronic podium stand with a programmed audio sensor which enables the user to speak without holding or getting close to a microphone. 2nd. The podium stand or lectern will also be a carrier of a display screen which will enable the user to view."

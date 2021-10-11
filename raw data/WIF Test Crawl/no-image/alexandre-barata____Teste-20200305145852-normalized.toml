@@ -1,0 +1,7 @@
+name = "Teste"
+repo = "https://wikifactory.com/@alexandre-barata/teste"
+version = "20200305145852"
+spdx-license = "N/A"
+licensor = "Alexandre Barata"
+documentation-language = "en"
+function = "1234"

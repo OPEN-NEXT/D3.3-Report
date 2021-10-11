@@ -1,0 +1,7 @@
+name = " tortilla de harina "
+repo = "https://wikifactory.com/@vicgonz7210/tortilla-de-harina"
+version = "20210218231901"
+spdx-license = "N/A"
+licensor = "Victor Hugo González Guerrero "
+documentation-language = "es"
+function = "Maquina para hacer tortillas de harina"

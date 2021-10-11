@@ -1,0 +1,7 @@
+name = "Prop force sensor"
+repo = "https://wikifactory.com/@h0tbird/prop-force-sensor"
+version = "20210410150212"
+spdx-license = "N/A"
+licensor = "Marc Villacorta"
+documentation-language = "en"
+function = "This device will be used to mesure the compression force applied to a construction prop, think of it as a scale for props."

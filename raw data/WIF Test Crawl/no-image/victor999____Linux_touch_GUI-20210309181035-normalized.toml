@@ -1,0 +1,7 @@
+name = "Linux touch GUI"
+repo = "https://wikifactory.com/@victor999/linux-touch-gui"
+version = "20210309181035"
+spdx-license = "N/A"
+licensor = "Victor"
+documentation-language = "en"
+function = "Attempt to design Linux touch friendly interface, not depended on specific platform or architecture. It should be some universal, cross-platform package, that you compile and install. Should support also phone.\nI am open to ideas and collaborators"

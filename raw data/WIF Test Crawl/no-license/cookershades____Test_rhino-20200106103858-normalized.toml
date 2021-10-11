@@ -1,0 +1,12 @@
+name = "Test rhino"
+repo = "https://wikifactory.com/@cookershades/test-rhino"
+version = "20200106103858"
+spdx-license = "N/A"
+licensor = "Charles Harris"
+documentation-language = "en"
+function = "Test"
+[[files]]
+name = "/BOTTLE.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYyMzc="
+mimetype = "application/octet-stream"
+

@@ -1,0 +1,78 @@
+name = "Variações Temporais."
+repo = "https://wikifactory.com/@lobod/tecv"
+version = "20210129230409"
+spdx-license = "N/A"
+licensor = "Lobo.D"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTo1MzA3OTQ="
+function = "<b>Desenho. Esquematização. Conceptualização.</b>"
+[[files]]
+name = "/Corte a laser"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjIyMzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Desenho Técnico - Tecnologias Grupo 1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzAwNjA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Diagrama para laser.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTI1NjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Laser.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDA4NTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Modelos- Troncos.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDA4OTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Modulos primarios.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDA4NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Outros estudos.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDA4NDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Pagina de estudos.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDA4NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzEyMjc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Relatório Final"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzA5NDU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Tabela Tarefas"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzA4OTg="
+mimetype = "image/png"
+
+[[files]]
+name = "/Tecnologias V.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzA5Mzk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Troncos.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDA4NTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Troncos.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDA4OTk="
+mimetype = "application/sla"
+

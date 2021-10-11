@@ -1,0 +1,7 @@
+name = "Access Sanistation"
+repo = "https://wikifactory.com/@jamontoyah/access-sanistation"
+version = "20201027160156"
+spdx-license = "N/A"
+licensor = "JOSE ANTONIO MONTOYA HERNANDEZ"
+documentation-language = "es"
+function = "Solución de Hardware/Software que apoya las actividades de control de acceso seguro (COVID-19)  que registra asistencia de personal o visitantes a centros de trabajo, habitacionales, fabricas, centros comerciales, etc.  con monitoreo de temperatura y notificaciones a los responsables de sanidad."

@@ -1,0 +1,7 @@
+name = "Quard copter sprayer"
+repo = "https://wikifactory.com/@sumitanand7004889183/quard-copter-sprayer"
+version = "20210312010331"
+spdx-license = "N/A"
+licensor = "Sumit anand pathak"
+documentation-language = "en"
+function = "U can spray anti flye solution to protect your crops by flys"

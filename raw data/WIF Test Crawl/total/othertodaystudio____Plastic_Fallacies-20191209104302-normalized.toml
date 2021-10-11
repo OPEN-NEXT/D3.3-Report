@@ -1,0 +1,13 @@
+name = "Plastic Fallacies "
+repo = "https://wikifactory.com/@jpoulton/plastic-fallacies"
+version = "20191209104302"
+spdx-license = "N/A"
+licensor = "James Poulton"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODEyMjc="
+function = "A 20 page Pecha Kutcha based around common misconceptions with plastics degradation."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODkyNDE="
+mimetype = "text/markdown"
+

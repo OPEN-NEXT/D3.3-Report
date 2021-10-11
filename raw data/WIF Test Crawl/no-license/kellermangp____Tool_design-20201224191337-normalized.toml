@@ -1,0 +1,7 @@
+name = "Tool design"
+repo = "https://wikifactory.com/@kellermangp/tool-design"
+version = "20201224191337"
+spdx-license = "N/A"
+licensor = "George Kellerman"
+documentation-language = "en"
+function = "Design tools to repair specific items and appliances."

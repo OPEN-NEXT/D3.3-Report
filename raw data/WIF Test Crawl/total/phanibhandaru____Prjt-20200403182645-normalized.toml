@@ -1,0 +1,7 @@
+name = "Prjt"
+repo = "https://wikifactory.com/@phanibhandaru/prjt"
+version = "20200403182645"
+spdx-license = "N/A"
+licensor = "phanibhandaru"
+documentation-language = "en"
+function = "my \ufefffirst project"

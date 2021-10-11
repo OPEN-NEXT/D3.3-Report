@@ -1,0 +1,7 @@
+name = "Low cost House"
+repo = "https://wikifactory.com/@mandis-dre/low-cost-house"
+version = "20200918070246"
+spdx-license = "N/A"
+licensor = "Muuber Spider Robert"
+documentation-language = "en"
+function = "simple low cost building design"

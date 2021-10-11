@@ -1,0 +1,7 @@
+name = "Shadow_art"
+repo = "https://wikifactory.com/@vjc/shadowart"
+version = "20201221115601"
+spdx-license = "N/A"
+licensor = "Vishal"
+documentation-language = "en"
+function = "3d printed shadow art article"

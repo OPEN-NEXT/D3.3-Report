@@ -1,0 +1,13 @@
+name = "One Sheet Brief 02 "
+repo = "https://wikifactory.com/@selinasahans/one-sheet"
+version = "20191209155328"
+spdx-license = "N/A"
+licensor = "Selina Sahans"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODk2NTk="
+function = "Contour Stack \n\nA versatile approach for cosmetics brush organiser. \nBy Selina Sahans"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk3Mjc="
+mimetype = "text/markdown"
+

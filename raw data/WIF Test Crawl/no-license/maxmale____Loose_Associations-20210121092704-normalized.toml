@@ -1,0 +1,13 @@
+name = "Loose Associations "
+repo = "https://wikifactory.com/@maxmale/loose-associations"
+version = "20210121092704"
+spdx-license = "N/A"
+licensor = "Max Male"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTc5OTk="
+function = "A Pecha Kucha slide show, where each slide is linked"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQwNTU="
+mimetype = "text/markdown"
+

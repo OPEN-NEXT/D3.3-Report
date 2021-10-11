@@ -1,0 +1,12 @@
+name = "Pristine"
+repo = "https://wikifactory.com/@trushant-adeshara/pristine"
+version = "20200704165645"
+spdx-license = "N/A"
+licensor = "Trushant Adeshara"
+documentation-language = "en"
+function = "Due to the COVID-19 pandemic there is a need for spraying disinfectant on surrounding as many times possible to take precaution so a small ultrasonic diffuser which will be used for sanitizing small spaces and  where there is possibility of more interaction in closed spaces."
+[[files]]
+name = "/Pristine - Google Docs.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDE3ODM="
+mimetype = "application/pdf"
+

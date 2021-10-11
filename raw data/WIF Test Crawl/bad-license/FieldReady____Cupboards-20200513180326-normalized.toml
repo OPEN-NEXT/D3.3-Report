@@ -1,0 +1,33 @@
+name = "Cupboards"
+repo = "https://wikifactory.com/@ekt17/cupboards"
+version = "20200513180326"
+spdx-license = "BAD"
+licensor = "Ellen Troyanosky"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTA2NTM="
+function = "PET bottles & cardboard construction for storage of various items"
+[[files]]
+name = "/GN004_Image_Use2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTA2NDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/GN004_Image_Use (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTA2NDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/GN004_Image_Use.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTA2NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNTA2NTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTA2Njg="
+mimetype = "text/markdown"
+

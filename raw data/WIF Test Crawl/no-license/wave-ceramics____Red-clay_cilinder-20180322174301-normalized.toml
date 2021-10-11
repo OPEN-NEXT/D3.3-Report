@@ -1,0 +1,8 @@
+name = "Red-clay cilinder"
+repo = "https://wikifactory.com/@juan/red-clay-cilinder"
+version = "20180322174301"
+spdx-license = "N/A"
+licensor = "Juan Mazzuchelli"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMTE3"
+function = "Testing of textures with ceramic 3D printing generated through slicing a textured cilinder"

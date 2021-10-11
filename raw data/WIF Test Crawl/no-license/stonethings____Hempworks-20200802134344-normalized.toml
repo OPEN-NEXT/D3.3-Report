@@ -1,0 +1,7 @@
+name = "Hempworks"
+repo = "https://wikifactory.com/@stonethings/hempworks"
+version = "20200802134344"
+spdx-license = "N/A"
+licensor = "stonethings"
+documentation-language = "en"
+function = "Hemp farming and processing"

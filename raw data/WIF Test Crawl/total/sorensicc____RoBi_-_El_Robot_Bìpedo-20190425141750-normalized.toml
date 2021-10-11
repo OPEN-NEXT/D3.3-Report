@@ -1,0 +1,18 @@
+name = "RoBi - El Robot Bìpedo "
+repo = "https://wikifactory.com/@sorensicc/robi-el-robot-bìpedo"
+version = "20190425141750"
+spdx-license = "N/A"
+licensor = "Cristian Cisneros"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDU5MTg="
+function = "RoBi is an open source robot based in many other designs of 4th degree of freedom biped robots."
+[[files]]
+name = "images/RoBi.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1Mjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1Mjc="
+mimetype = "text/plain"
+

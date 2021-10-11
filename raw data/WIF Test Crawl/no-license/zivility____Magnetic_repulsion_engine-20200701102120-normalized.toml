@@ -1,0 +1,7 @@
+name = "Magnetic repulsion engine"
+repo = "https://wikifactory.com/@zivility/magnetic-repulsion-engine"
+version = "20200701102120"
+spdx-license = "N/A"
+licensor = "Chiroma Magayaki"
+documentation-language = "en"
+function = "This is an electric engine concept which uses magnetic repulsion power to drive a common Atkinson type engine"

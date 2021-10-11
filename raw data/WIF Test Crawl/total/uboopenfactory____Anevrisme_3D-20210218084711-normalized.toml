@@ -1,0 +1,33 @@
+name = "Anevrisme 3D"
+repo = "https://wikifactory.com/@uboopenfactory/anevrisme-3d"
+version = "20210218084711"
+spdx-license = "N/A"
+licensor = "uboopenfactory"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTozNzc2MTk="
+function = "Evaluation de l’intérêt d’une procédure simulée réalisée sur modèle imprimé 3D dans le traitement endovasculaire des anévrismes carotido-sylviens"
+[[files]]
+name = "/2020-09-18_anevrisme-Procédé de modélisation.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzU5MDc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/ANEV3D SFNR 2020 MAJ.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzU5MTg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Présentation Projet ANVEV3D.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzU5MTI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/ProcessusModelisation.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzg4MjM="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzg4MjU="
+mimetype = "text/markdown"
+

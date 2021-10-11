@@ -1,0 +1,17 @@
+name = "ዤል uno multimeter"
+repo = "https://wikifactory.com/@lilaymen3/ዤል-uno-multimeter"
+version = "20200514080717"
+spdx-license = "N/A"
+licensor = "lilaymen3"
+documentation-language = "en"
+function = "an android app based wireless multimeter the device uses blutooth module then it will be connected to the smart phone then it works fine and it might help  for any kind of innovators , engeeners , developers every one else"
+[[files]]
+name = "/ዤል UNO መልቲሜትር.apk"
+permalink = "https://wikifactory.com/files/RmlsZTozNTEwMTE="
+mimetype = "application/vnd.android.package-archive"
+
+[[files]]
+name = "/ዤል.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNTEwMDg="
+mimetype = "image/png"
+

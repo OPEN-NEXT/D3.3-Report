@@ -1,0 +1,7 @@
+name = " Granular  Dispenser"
+repo = "https://wikifactory.com/@stephen-mvula/granular-dispenser"
+version = "20200619133315"
+spdx-license = "N/A"
+licensor = "Stephen Mvula"
+documentation-language = "en"
+function = "My Project is fertilizer Dispenser designed to apply solid fertilizer in crops, The innovation is designed with a calibration mechanism which determes the amount of fertilizer required on a particular crop."

@@ -1,0 +1,12 @@
+name = "Secuencial"
+repo = "https://wikifactory.com/@psicrometrica/secuencial"
+version = "20210418142922"
+spdx-license = "N/A"
+licensor = "Rafael Colmenarez"
+documentation-language = "en"
+function = "This is a secuencial to check coil and inyector in vehicles."
+[[files]]
+name = "/3D project.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODMxNjU="
+mimetype = "image/png"
+

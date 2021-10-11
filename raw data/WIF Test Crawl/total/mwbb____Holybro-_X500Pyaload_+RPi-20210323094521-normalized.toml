@@ -1,0 +1,37 @@
+name = "Holybro- X500Pyaload +RPi"
+repo = "https://wikifactory.com/@mwbb/holybro-x500pyaload-rpi"
+version = "20210323094521"
+spdx-license = "N/A"
+licensor = "Farhang Naderi"
+documentation-language = "en"
+function = "Two approaches with the new PX4 payload bus will be proposed in this project. Either to put RPi on top or bottom."
+[[files]]
+name = "/Realsense-D455_mount.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzE1NDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/RPI-Bottom-shell.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzE0MTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/RPI-top-shell.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzE0MTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/X500-Payload-RPI-Top.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjgxMzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/X500-Payload-RPI-Under.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjgxMDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/X500-RPi-Under-CameraMount.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzE1NDA="
+mimetype = "text/plain"
+

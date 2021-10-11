@@ -1,0 +1,38 @@
+name = "Measuring Our Impact"
+repo = "https://wikifactory.com/@jeremy/measuring-our-impact"
+version = "20190526222449"
+spdx-license = "N/A"
+licensor = "Jeremy Simon"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTA3Nzk="
+function = "It is critically important that we work together on data collection to gather defensible estimates and accounts of our outputs, impacts, processes and patterns. This project is a place where we can start to collaborate on that effort."
+[[files]]
+name = "/ijerph-16-01641-v2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTExNTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Innovation_Labs_A_Do-It-Yourself_Guide.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTExNTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Measuring_the_Social_Impact_of_Maker_Ini.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTA4Mjc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Meauring_impact.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTA4MjU="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTA4MzE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Recipient Interviews/Ronit A. Interview Form.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ2NjE="
+mimetype = "application/pdf"
+

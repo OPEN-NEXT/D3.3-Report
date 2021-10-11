@@ -1,0 +1,7 @@
+name = "Power theft monitoring "
+repo = "https://wikifactory.com/@alexbarasa847/power-theft-monitoring"
+version = "20201007191244"
+spdx-license = "N/A"
+licensor = "alexbarasa847"
+documentation-language = "en"
+function = "The project is based on microcontroller to control power theft"

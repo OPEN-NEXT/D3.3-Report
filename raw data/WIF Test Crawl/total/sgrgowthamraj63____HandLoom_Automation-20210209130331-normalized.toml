@@ -1,0 +1,7 @@
+name = "HandLoom Automation"
+repo = "https://wikifactory.com/@sgrgowthamraj63/handloom-automation"
+version = "20210209130331"
+spdx-license = "N/A"
+licensor = "Gowthamraj Somanathan"
+documentation-language = "en"
+function = "Make automatic handloom machine"

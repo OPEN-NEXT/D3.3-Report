@@ -1,0 +1,8 @@
+name = "Hosting Team"
+repo = "https://wikifactory.com/@rebel/hosting-team"
+version = "20190629152534"
+spdx-license = "N/A"
+licensor = "Christina Rebel"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTY1NTA="
+function = "The Hosting team of your hackathon in one workspace."

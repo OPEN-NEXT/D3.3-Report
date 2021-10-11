@@ -1,0 +1,7 @@
+name = "fabricacion tejas  "
+repo = "https://wikifactory.com/@franklinvallenilla/fabricacion-tejas"
+version = "20200621125613"
+spdx-license = "N/A"
+licensor = "franklin vallenilla"
+documentation-language = "es"
+function = "fabricacion de tejas (techo de vivienda) de concreto liviano"

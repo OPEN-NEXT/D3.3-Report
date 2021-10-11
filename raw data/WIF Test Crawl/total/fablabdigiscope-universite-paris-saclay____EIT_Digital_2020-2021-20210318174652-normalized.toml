@@ -1,0 +1,13 @@
+name = "EIT Digital 2020-2021"
+repo = "https://wikifactory.com/@romaindivozzo/eit-digital-2020-2021"
+version = "20210318174652"
+spdx-license = "N/A"
+licensor = "ROMAIN DI VOZZO"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1Njk5OTI="
+function = "EIT Digital Master Students 2020-2021 will study Digital Fabrication & Shades Design. This is where they will regroup their individual documentations."
+[[files]]
+name = "/IMG_20210304_151918.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Njk5ODk="
+mimetype = "image/jpeg"
+

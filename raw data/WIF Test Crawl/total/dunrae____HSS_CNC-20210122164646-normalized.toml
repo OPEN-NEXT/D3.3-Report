@@ -1,0 +1,28 @@
+name = "HSS CNC"
+repo = "https://wikifactory.com/@dunrae/hss-cnc"
+version = "20210122164646"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Duncan Rae"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0OTgyNzE="
+function = "An open-source CNC machine using widely available, inexpensive off-the-shelf hardware and simple construction techniques. +cnc +fusion360 +3dprinting"
+[[files]]
+name = "/HSS-CNC v58.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTgyNTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/HSSCNC-RoughWork-22Jan2021.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjUzNjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTc4MDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjUzODQ="
+mimetype = "text/markdown"
+

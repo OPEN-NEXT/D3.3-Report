@@ -1,0 +1,7 @@
+name = "a-to-m"
+repo = "https://wikifactory.com/@feklee/a-to-m"
+version = "20200816020623"
+spdx-license = "N/A"
+licensor = "Felix E. Klee"
+documentation-language = "en"
+function = "A hardware toy that allows playing together alone with a voice assistant, and remotely."

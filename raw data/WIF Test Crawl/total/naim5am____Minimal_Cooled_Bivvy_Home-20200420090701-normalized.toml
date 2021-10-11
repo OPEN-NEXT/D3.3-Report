@@ -1,0 +1,13 @@
+name = "Minimal Cooled Bivvy Home"
+repo = "https://wikifactory.com/@naim5am/minimal-cooled-bivvy-home"
+version = "20200420090701"
+spdx-license = "BAD"
+licensor = "Naim Abou Darwish"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzg3Nzk="
+function = "A sleeping bag tent combo connected to a small AC"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMzg3NzU="
+mimetype = "text/plain"
+

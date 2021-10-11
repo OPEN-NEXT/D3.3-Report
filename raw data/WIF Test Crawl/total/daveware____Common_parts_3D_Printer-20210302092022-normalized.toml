@@ -1,0 +1,38 @@
+name = "Common parts 3D Printer"
+repo = "https://wikifactory.com/@daveware/common-parts-3d-printer"
+version = "20210302092022"
+spdx-license = "N/A"
+licensor = "DAVID ELIAS FLORES ESCALANTE"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NTQ1NDQ="
+function = "3D Printer build using common parts from hardware store: common Aluminum frame, local  dealers and manufacturers parts. All first Designed using 3D Design Software SketchUp 2017"
+[[files]]
+name = "3D Design files: Virtual/Primera 016.skb"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjAyNDE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjAyNDA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Videos & Pictures: Reality/3dPrinter Design.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjAyNDg="
+mimetype = "image/png"
+
+[[files]]
+name = "Videos & Pictures: Reality/Frame.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjAyNDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Videos & Pictures: Reality/Y axis.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjAyNDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Videos & Pictures: Reality/Z axis.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjAyNDU="
+mimetype = "video/mp4"
+

@@ -1,0 +1,7 @@
+name = "Dimarkos"
+repo = "https://wikifactory.com/@dimarkosashanti/dimarkos"
+version = "20210322173956"
+spdx-license = "N/A"
+licensor = "dimarkosashanti"
+documentation-language = "en"
+function = "dd"

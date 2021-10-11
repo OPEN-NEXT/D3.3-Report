@@ -1,0 +1,7 @@
+name = "Radiant Baffles"
+repo = "https://wikifactory.com/@madhu/radiant-baffles"
+version = "20201227042646"
+spdx-license = "N/A"
+licensor = "Madhusudhan Rao"
+documentation-language = "en"
+function = "Radiant cooling baffles"

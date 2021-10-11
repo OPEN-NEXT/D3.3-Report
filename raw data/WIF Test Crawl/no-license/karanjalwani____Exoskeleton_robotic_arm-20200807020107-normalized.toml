@@ -1,0 +1,7 @@
+name = "Exoskeleton robotic arm "
+repo = "https://wikifactory.com/@karanjalwani/exoskeleton-robotic-arm"
+version = "20200807020107"
+spdx-license = "N/A"
+licensor = "Karan"
+documentation-language = "en"
+function = "This arm help paralysis person to improve there moveability"

@@ -1,0 +1,7 @@
+name = "Anything"
+repo = "https://wikifactory.com/@melbourne/anything"
+version = "20210115040655"
+spdx-license = "N/A"
+licensor = "Melbourne Dela Cruz"
+documentation-language = "en"
+function = "I don't know"

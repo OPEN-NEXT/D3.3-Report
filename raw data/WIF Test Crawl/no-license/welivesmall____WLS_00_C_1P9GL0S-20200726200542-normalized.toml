@@ -1,0 +1,28 @@
+name = "WLS_00_C_1P9GL0S"
+repo = "https://wikifactory.com/@welivesmall/wls00c1p9gl0s"
+version = "20200726200542"
+spdx-license = "N/A"
+licensor = "WeLiveSmall"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDg4NTE="
+function = "00 UTILITIES - Structure | Walls - Panels\n\"Wall panel made in potentially many different materials, that can easily be tweaked to accommodate a new feature \""
+[[files]]
+name = "01 Models/WLS_00_C_1P9GL0S_GEN Drawing 1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTU2NTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "01 Models/WLS_00_C_1P9GL0S_GEN.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTU2NTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "01 Models/WLS_00_C_1P9GL0S_GEN.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTU2NTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "01 Models/WLS_00_C_1P9GL0S_GEN.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTU2NTM="
+mimetype = "text/plain"
+

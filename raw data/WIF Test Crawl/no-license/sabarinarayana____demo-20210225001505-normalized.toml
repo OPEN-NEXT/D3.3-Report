@@ -1,0 +1,7 @@
+name = "demo"
+repo = "https://wikifactory.com/@sabarinarayana/demo"
+version = "20210225001505"
+spdx-license = "N/A"
+licensor = "KG Sabari Narayana"
+documentation-language = "en"
+function = "demo"

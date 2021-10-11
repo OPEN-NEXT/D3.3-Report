@@ -1,0 +1,13 @@
+name = "3Dprintedweavements.com"
+repo = "https://wikifactory.com/@derckvan/isoweave"
+version = "20181014225550"
+spdx-license = "N/A"
+licensor = "Derck van Schuylenburch"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDAxMQ=="
+function = "3D-weaving is here presented as geometries that are -geometrically-\n<b>exact</b> 3D-analogues of conventional \"fabric-like\" 2D-weaving. They are printed, not woven, but exhibit 3D-woven construction, and are called: \"Weavements\".\nThese weavements have a certain fascination & beauty, and functionality even."
+[[files]]
+name = "/Architectural_Grillework.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMg=="
+mimetype = "image/png"
+

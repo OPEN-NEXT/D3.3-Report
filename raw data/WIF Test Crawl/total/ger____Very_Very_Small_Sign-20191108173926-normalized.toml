@@ -1,0 +1,28 @@
+name = "Very Very Small Sign"
+repo = "https://wikifactory.com/@ger/very-very-small-sign"
+version = "20191108173926"
+spdx-license = "N/A"
+licensor = "Gerard Walsh"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODAxMzg="
+function = "An example of a *very small* digital display.\n\nFor this project I'm using Node Red on a Raspberry Pi, scraping publicly available information - for example, parking and bus times - and publishing strings over MQTT to a number of screens, in this case a 0.91 OLED with custom firmware."
+[[files]]
+name = "/heltectDisplay.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODAxMTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODAxMTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/limerick-public-apis.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODAxMDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODAxMzY="
+mimetype = "text/markdown"
+

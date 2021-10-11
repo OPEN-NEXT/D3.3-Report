@@ -1,0 +1,872 @@
+name = "FC MVP - Gipuzkoa Style"
+repo = "https://wikifactory.com/@egokitek/fc-mvp-gipuzkoa-style-bcfae"
+version = "20210407134729"
+spdx-license = "N/A"
+licensor = "Victor Barahona"
+documentation-language = "en"
+function = "Project imported from https://github.com/Egokitek/Food-Computer-a-la-guipuzcoana"
+[[files]]
+name = "/BOM.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NTU="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "/Cofinanciadores.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Construccion bastidor/Bastidor_50x50x100.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Construccion bastidor/Bastidor_50x100x100.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Construccion bastidor/Bastidor_aluminio.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Construccion bastidor/Bastidor_carton.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Construccion bastidor/Bastidor_estanteria.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Construccion bastidor/Bastidor_LACK.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Bastidor_carton.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4Njg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Bastidor_carton_BlueRibbon.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Bastidor_carton_BMF17.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Bastidor_tslot.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Bastidor_tslot_burlete.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Bastidor_tslot_fijacion_sensor.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Bastidor_tslot_fijacion_webcam.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Bastidor_tslot_frontal_on.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Bastidor_tslot_interior.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Bastidor_tslot_lateral_on.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Bastidor_tslot_led.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4Nzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Bastidor_tslot_superior.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/lack_base_forrada.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/lack_cierre_paneles.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/lack_fijacion_led.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4ODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/lack_frontal_puerta.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4ODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/lack_paneles_laterales.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4ODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/lack_patas.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/lack_terminado.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/lack_trasera_puerta.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Piezas_3d_lack.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_cajas.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_cajas_colocadas.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_cajas_presemtar.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_interior_aluminio.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_led_off.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_led_on.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_ok.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_placa_colocada.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_placa_exterior.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_placa_interior.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_placa_poli.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_placa_poli_2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_placa_poli_forrado_exterior.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_placa_presentar.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_placa_superior.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_prueba_encendido.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/shelf_vacio.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Tarjeta_control_bastidor_carton.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_100_apagado.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_100_bombillas_encendido.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_100_bombillas_encendido_2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_100_placa_bombillas.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_100_placa_bombillas_up.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_100_presentar_puerta.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_100_puerta_abierta.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_100_puerta_cerrada.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_100_sin_puerta.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_200_barra_fijacion_led.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_200_bisagra.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_200_led_on.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_200_led_on_2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_200_led_on_3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_200_prueba_led.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/tslot_placa_bombillas_down.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/Imagenes/Ventana_bastidor_carton.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Construccion bastidor/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4Njc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Cultivo/Imagenes/albahaca.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/Germinado.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/lechuga_rosa.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/lechuga_verde.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/Nutrientes_ph_ec_tds.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5Mjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/ph_ec_tds.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/primer_cultivo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5Mzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/primer_cultivo_creciendo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5Mzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/primer_cultivo_creciendo_II.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/Primer_cultivo_en_marcha.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5Mjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/Primer_cultivo_frontal.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5Mjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/primer_cultivo_fuera.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/primer_cultivo_ok.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/Primeros_brotes.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/raices_DWC.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/Semillas.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/tomate_I.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/tomate_II.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/tomate_III.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/Verde_vs_rosa.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/Imagenes/verde_vs_rosa_II.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Cultivo/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5MjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "DOCs/Astroplant brochure (1) (1).pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NDc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DOCs/Cultivo_en_hidroponia.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DOCs/EIT-Vertical-Farming.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NDk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DOCs/Hidroponiapopular.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NTA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DOCs/Hidroponicospopulares.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DOCs/Hydroponic-Herb-Guide.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NTI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DOCs/Lechugahidroponica.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DOCs/measuring-Light-Spectrom-Technology-inc.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NjE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DOCs/Microhuertos.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DOCs/NFT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DOCs/Paper Eduardo Ferrer.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DOCs/Plant_Info_Table-1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DOCs/Plant_Pillows.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NTg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DOCs/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "DOCs/Unahuertaparatodos.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NjA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Food_computer_MVP.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Introduccion.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/LICENSE"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Placa de control - Brain/Iluminacion_LED.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Barra_led_85w.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5Njg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Barra_led_85W_OFF.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Brain_MVP_1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Brain_piezas_3d.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Corte_placas_brain.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Encendido_COB.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Instrumentos_y_hw.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Montaje_COB.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/MVP_Victor_breadboard.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Panel_40W.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Panel_40W_IR.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5ODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Panel_40W_ON.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Panel_300W.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Panel_300W_Test.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5Nzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Paneles_40W_ON.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Placas_control_montaje.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Test_cob_rosa.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Test_cob_warm.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5ODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/Test_Panel_300W.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/tslot50_medicion_corriente.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5ODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/Imagenes/tslot50cm.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5ODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Placa de control - Brain/MVP_Brain.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Placa de control - Brain/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5NjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4NjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/Imagenes/sw_clonado.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Software/Imagenes/sw_vnc_conexion_remota.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Software/Instalacion_FC_MVP_ESP.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/Instalation_FC_MVP_ENG.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "STL/4xDampers.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5ODk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/acople-patas.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5OTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/acople_bisagra_policarb.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5OTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Escuadra exterior.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5OTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Placa electronica.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5OTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5OTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "STL/resalte-patas.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5OTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Soporte interruptor ac.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5OTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Thingiverse/80mm_honeycomb_full_fan_cover.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5OTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "STL/Thingiverse/parametric-net-pot.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "STL/Thingiverse/Prusa_Enclosure_Cable_clip.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5OTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Thingiverse/Prusa_Enclosure_Door_Knob.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMDA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Thingiverse/Prusa_Enclosure_Top_Corners.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMDE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Thingiverse/relay_case_bottom.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Thingiverse/relay_case_top.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Thingiverse/rpi2-top_netfabb.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Thingiverse/rpi3-bottom_netfabb.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMDg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Thingiverse/Tweezers_type_1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "STL/Thingiverse/Tweezers_V8.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Tope pieza porexpan.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY5OTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Varios/Imagenes/Area_FC_1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Area_FC_2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Area_FC_3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Area_FC_4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Area_FC_5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Area_FC_6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Area_FC_7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Area_FC_8.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Area_FC_9.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Banner_impreso.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Banner_openag.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Draft_mvps.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/fc50_lack_frontal.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/fc50_lack_lateral.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Imprimiendo_banner.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Pano_workshop_1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/Imagenes/Workshop_proyecto.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Varios/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzcwMTU="
+mimetype = "text/plain"
+

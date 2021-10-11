@@ -1,0 +1,203 @@
+name = "test"
+repo = "https://wikifactory.com/@tomasmacek/test"
+version = "20191029174852"
+spdx-license = "N/A"
+licensor = "tomasmacek"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzY5MzA="
+function = "this is an experiment only to discover how wikifactory collaboration works"
+[[files]]
+name = "folder1/Otto DIY Activity+Workshop.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU2MzY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "images/front_live.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4ODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/front_live.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4ODc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/holding_woodstick.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4ODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/OttOWooD_All.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4ODU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/OttOWooD_All_explode1.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/OttOWooD_All_explode2.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MDk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/OttOWooD_All_gray.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MDg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/OttOWooD_Feet_assembled.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MDc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/OttOWooD_Feet_parts.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MDY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/OttoWood_Hands_assembled.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MDU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/OttoWood_Hands_parts.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/OttOWood_Head_assembled.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MDM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/OttOWood_Head_parts.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MDI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/OttoWooD_Leg_assembled.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MDE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/OttoWooD_Leg_parts.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MDA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/OttOWood_Nose_assembled.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4OTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/step_drill.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/tools_and_plast.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/tools_and_woodsticks.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/two_wholes.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/upside_down.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/whole_for_servo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/WoodStick.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4OTI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/woodstick_drilled.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/woodstick_servo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/wotto_in_head.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/OttoDIY_programming_mblock_scratch_arduino_v01.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU2Mzc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/readme.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU2NDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "SKP/OttOWooD_All.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MTY="
+mimetype = "application/x-koan"
+
+[[files]]
+name = "SKP/OttOWooD_All_explode2.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MTU="
+mimetype = "application/x-koan"
+
+[[files]]
+name = "SKP/OttOWooD_Feet.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MTQ="
+mimetype = "application/x-koan"
+
+[[files]]
+name = "SKP/OttoWood_Hands.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MTM="
+mimetype = "application/x-koan"
+
+[[files]]
+name = "SKP/OttOWood_Head.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MjE="
+mimetype = "application/x-koan"
+
+[[files]]
+name = "SKP/OttoWooD_Leg.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MjA="
+mimetype = "application/x-koan"
+
+[[files]]
+name = "SKP/OttOWood_Nose.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MTk="
+mimetype = "application/x-koan"
+
+[[files]]
+name = "SKP/OttoWood_Servo.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MTg="
+mimetype = "application/x-koan"
+
+[[files]]
+name = "SKP/WoodStick.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY5MTc="
+mimetype = "application/x-koan"
+

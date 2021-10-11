@@ -1,0 +1,12 @@
+name = "Tensky"
+repo = "https://wikifactory.com/@dannelley/tensky"
+version = "20210413215842"
+spdx-license = "N/A"
+licensor = "Richard Dannelley"
+documentation-language = "en"
+function = "Using high-performance aerial drones to spin nets around school shooters"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzk3NzA="
+mimetype = "text/markdown"
+

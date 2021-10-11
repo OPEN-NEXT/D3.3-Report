@@ -1,0 +1,28 @@
+name = "BT controllable VW Bus"
+repo = "https://wikifactory.com/@willemluijkx/bt-controllable-vw-bus"
+version = "20201212064702"
+spdx-license = "N/A"
+licensor = "Willem Luijkx"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTE2MDA="
+function = "<br />I wanted to make a bluetooth controllable Volkswagen Bus, because I wanted a showcase project for showing all amazing toys kids could make themselfs I they are willing to learn some skills, but also because it's a fun thing to have."
+[[files]]
+name = "/Arduino BT VW T1_bb.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE4Mjg="
+mimetype = "image/png"
+
+[[files]]
+name = "Code and App/BT_REMOTE_CONTOL.apk"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE1Nzg="
+mimetype = "application/vnd.android.package-archive"
+
+[[files]]
+name = "Code and App/VW_T1_RC.ino"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE1NzU="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTg1NTI="
+mimetype = "text/markdown"
+

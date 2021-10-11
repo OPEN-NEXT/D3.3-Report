@@ -1,0 +1,7 @@
+name = "Nanuto"
+repo = "https://wikifactory.com/@othmannanu/nanuto"
+version = "20200518104122"
+spdx-license = "N/A"
+licensor = "othmannanu"
+documentation-language = "en"
+function = "It's a drone programmed with python, basically to track owners location."

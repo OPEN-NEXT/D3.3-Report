@@ -1,0 +1,7 @@
+name = "Handle"
+repo = "https://wikifactory.com/@sebastianjose/handle"
+version = "20210301200841"
+spdx-license = "N/A"
+licensor = "Sebastian"
+documentation-language = "en"
+function = "handle"

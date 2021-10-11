@@ -1,0 +1,13 @@
+name = "P-EXTRUDER #m4g #fabxlive"
+repo = "https://wikifactory.com/@correo-92074/plastic-extruder"
+version = "20201026190357"
+spdx-license = "N/A"
+licensor = "FABLAB DF MEXICO"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MTY5NzA="
+function = "Custom 3D printer for CNC machine"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTcwNTY="
+mimetype = "text/markdown"
+

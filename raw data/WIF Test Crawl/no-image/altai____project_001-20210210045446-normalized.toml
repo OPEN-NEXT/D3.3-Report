@@ -1,0 +1,7 @@
+name = "project 001"
+repo = "https://wikifactory.com/@altai/project-001"
+version = "20210210045446"
+spdx-license = "N/A"
+licensor = "Altai Sukhbaatar"
+documentation-language = "en"
+function = "a project"

@@ -1,0 +1,7 @@
+name = "Edupein"
+repo = "https://wikifactory.com/@karencarolinasalazar/edupein"
+version = "20210324140714"
+spdx-license = "N/A"
+licensor = "Carolina Salazar"
+documentation-language = "es"
+function = "Dedicada a crear recursos educativos."

@@ -1,0 +1,28 @@
+name = "PopUp Fablab"
+repo = "https://wikifactory.com/@santifu/popup-fablab"
+version = "20190425141719"
+spdx-license = "N/A"
+licensor = "Santi Fuentemilla"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDU5MjQ="
+function = "The Pop Up Fab Lab is a mobile Fab Lab, a basic infrastructure for small-scale production which small size allows movement and transportation to any location. \u200b \u200b \u200b"
+[[files]]
+name = "images/13.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/IMG_9900.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/IMG_9924.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0Nzk="
+mimetype = "text/plain"
+

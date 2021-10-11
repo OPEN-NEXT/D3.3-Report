@@ -1,0 +1,7 @@
+name = "Trial"
+repo = "https://wikifactory.com/@mohamed-hares/trial"
+version = "20210130192249"
+spdx-license = "N/A"
+licensor = "Mohamed Hares"
+documentation-language = "en"
+function = "Trial"

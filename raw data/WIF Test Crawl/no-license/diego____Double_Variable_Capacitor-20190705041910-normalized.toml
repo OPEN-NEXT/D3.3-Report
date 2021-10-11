@@ -1,0 +1,28 @@
+name = "Double Variable Capacitor"
+repo = "https://wikifactory.com/@diego/variable-capacitor"
+version = "20190705041910"
+spdx-license = "N/A"
+licensor = "Diego Rasero"
+documentation-language = "ca"
+image = "https://wikifactory.com/files/RmlsZToyMTgyOTc="
+function = "Parametric Double variable capacitor model"
+[[files]]
+name = "/condensador1.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgzMDA="
+mimetype = "image/png"
+
+[[files]]
+name = "/condensador2.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyOTk="
+mimetype = "image/png"
+
+[[files]]
+name = "/condensador3.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyOTg="
+mimetype = "image/png"
+
+[[files]]
+name = "/condensador_variable_doble.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgzMDE="
+mimetype = "application/x-openscad"
+

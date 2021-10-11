@@ -1,0 +1,43 @@
+name = "2020 Digital technology"
+repo = "https://wikifactory.com/@miaainsworth-5123f/2020-digital-technology"
+version = "20200930104800"
+spdx-license = "N/A"
+licensor = "Mia Ainsworth"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NDQyMzA="
+function = "2020 Digital technology"
+[[files]]
+name = "/2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDM3MDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/94D20C68-C92E-4FEF-B269-B047B80C1BEE.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDQyMzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/D0067BAB-6FD9-4962-8B4E-67990C9B6731.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDM4NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/prototype 1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDM3MTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/protype 1.3mf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDM3MzM="
+mimetype = "application/zip"
+
+[[files]]
+name = "/protype 1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDM3MTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDQyNDI="
+mimetype = "text/markdown"
+

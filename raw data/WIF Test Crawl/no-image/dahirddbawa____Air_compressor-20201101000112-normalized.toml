@@ -1,0 +1,7 @@
+name = "Air compressor"
+repo = "https://wikifactory.com/@dahirddbawa/air-compressor"
+version = "20201101000112"
+spdx-license = "N/A"
+licensor = "dahirddbawa"
+documentation-language = "ca"
+function = "18volt air compressor"

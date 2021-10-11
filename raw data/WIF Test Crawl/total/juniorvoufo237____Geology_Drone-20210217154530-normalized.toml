@@ -1,0 +1,7 @@
+name = "Geology Drone "
+repo = "https://wikifactory.com/@juniorvoufo237/geology-drone"
+version = "20210217154530"
+spdx-license = "N/A"
+licensor = "juniorvoufo237"
+documentation-language = "fr"
+function = "Ce projet vise la fabrication d'un drone ayant une application en géologie plus précisément la détection d'indice de fer"

@@ -1,0 +1,7 @@
+name = "Afribot head"
+repo = "https://wikifactory.com/@owilijastine/afribot-head"
+version = "20201102030430"
+spdx-license = "N/A"
+licensor = "owilijastine"
+documentation-language = "en"
+function = "Afribot Robot Brain Casing"

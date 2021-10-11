@@ -1,0 +1,63 @@
+name = "Pliers"
+repo = "https://wikifactory.com/@mayaroman/pliers"
+version = "20200508202634"
+spdx-license = "BAD"
+licensor = "Maya Roman"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDc4OTM="
+function = "3D printed hand tool used to hold objects firmly"
+[[files]]
+name = "CAD Data/GN008_CAD.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc4NzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/GN008_Lower.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc4Nzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/GN008_Lower.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc4NjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "CAD Data/GN008_Pin.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc4ODQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/GN008_Pin.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc4NjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "CAD Data/GN008_Upper.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc4ODA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/GN008_Upper.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc4NjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Drawing Pack/GN008_Eng_Dwg.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc4ODY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/GN008_Eng_Dwg.slddrw"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc4ODc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc4OTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc4OTc="
+mimetype = "text/markdown"
+

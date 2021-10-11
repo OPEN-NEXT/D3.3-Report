@@ -1,0 +1,22 @@
+name = "Culture innovante fraise "
+repo = "https://wikifactory.com/@arianekouassi/culture-innovante-fraise"
+version = "20201209091130"
+spdx-license = "N/A"
+licensor = "Ariane Kouassi"
+documentation-language = "fr"
+function = "Projet de culture hydroponique de fraise en Cote d'ivoire, couplé de techniques innovantset respectueuses de l'environnement."
+[[files]]
+name = "Fraise innovante/inha-pauliuchenka-j2qY5wJma88-unsplash.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTU0NjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/inha-pauliuchenka-j2qY5wJma88-unsplash.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTU0NTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTU0NzA="
+mimetype = "text/markdown"
+

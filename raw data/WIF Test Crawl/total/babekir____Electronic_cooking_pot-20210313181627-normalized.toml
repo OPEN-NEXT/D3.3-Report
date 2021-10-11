@@ -1,0 +1,7 @@
+name = "Electronic cooking pot "
+repo = "https://wikifactory.com/@babekir/electronic-cooking-pot"
+version = "20210313181627"
+spdx-license = "N/A"
+licensor = "Babekir "
+documentation-language = "en"
+function = "The Smart Cooking Pot:\nIt is an intelligent electronic device used for cooking so that the chef adds the ingredients in the upper part that is isolated from the heat and controled and planed via mobile app such as (putting the oil first, then waiting for five minutes and so"

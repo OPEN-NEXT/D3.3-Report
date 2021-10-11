@@ -1,0 +1,7 @@
+name = "Ballburn"
+repo = "https://wikifactory.com/@oil/ballburn"
+version = "20200919222900"
+spdx-license = "N/A"
+licensor = "Mortada Al-Mousawi"
+documentation-language = "en"
+function = "CAD3D"

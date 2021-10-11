@@ -1,0 +1,7 @@
+name = "Drone "
+repo = "https://wikifactory.com/@inamullahnaseeh/drone"
+version = "20200413104030"
+spdx-license = "N/A"
+licensor = "inamullahnaseeh"
+documentation-language = "en"
+function = "my project is related to drone"

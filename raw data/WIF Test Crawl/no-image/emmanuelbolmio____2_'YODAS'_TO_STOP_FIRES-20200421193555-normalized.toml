@@ -1,0 +1,17 @@
+name = "2 'YODAS' TO STOP FIRES"
+repo = "https://wikifactory.com/@emmanuelbolmio/2-yodas-to-stop-fires"
+version = "20200421193555"
+spdx-license = "N/A"
+licensor = "Emmanuel Bolmio"
+documentation-language = "en"
+function = "2 prototypes easy to build and which can help stopping fires;\nEspecialy in dry places (using the dry soil) where there is no water around"
+[[files]]
+name = "/Mobile with soil fire stopper.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDA1MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Stop fire trooper.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDA1MDA="
+mimetype = "image/jpeg"
+

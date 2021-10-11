@@ -1,0 +1,13 @@
+name = "Chromatography Experiment"
+repo = "https://wikifactory.com/@jbfac14/chromatography-experiment"
+version = "20201113152645"
+spdx-license = "N/A"
+licensor = "jbfac14"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTUwNTg="
+function = "A simple chemical experiment that proves how a misture is a combination of sereval different substances."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTUwNTc="
+mimetype = "text/markdown"
+

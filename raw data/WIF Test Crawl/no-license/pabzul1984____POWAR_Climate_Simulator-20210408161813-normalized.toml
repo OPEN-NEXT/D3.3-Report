@@ -1,0 +1,798 @@
+name = "POWAR Climate Simulator"
+repo = "https://wikifactory.com/@pabzul1984/powar-climate-simulator"
+version = "20210408161813"
+spdx-license = "N/A"
+licensor = "Pablo Zuloaga Betancourt"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1OTIyMjA="
+function = "POWAR is a DIY, open source climate simulation box for kids to build at home or school, and experiment about how weather and climate change affects the plants we grow nowadays, in different future weather conditions."
+[[files]]
+name = "LATEST FILES/CABLE PODER v2.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3NTc="
+mimetype = "application/zip"
+
+[[files]]
+name = "LATEST FILES/CABLE PODER v2.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3NTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "LATEST FILES/CAPACITIVE SENSOR CASE v2.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3NTU="
+mimetype = "application/zip"
+
+[[files]]
+name = "LATEST FILES/CAPACITIVE SENSOR CASE v2.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3NTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "LATEST FILES/CAPACITIVE SENSOR CASE v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3NTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "LATEST FILES/L Hose Connection x14mm v2.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3NTA="
+mimetype = "application/zip"
+
+[[files]]
+name = "LATEST FILES/L Hose Connection x14mm v2.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3NDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "LATEST FILES/Media Argolla Manguera v2.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3NDc="
+mimetype = "application/zip"
+
+[[files]]
+name = "LATEST FILES/Media Argolla Manguera v2.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3NDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "LATEST FILES/New Box - Size Change v8.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3NDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "LATEST FILES/POWAR NEW BOX.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3NDM="
+mimetype = "application/zip"
+
+[[files]]
+name = "LATEST FILES/Regadera manguera LATERAL v2.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3NDE="
+mimetype = "application/zip"
+
+[[files]]
+name = "LATEST FILES/Regadera manguera LATERAL v2.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3Mzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "LATEST FILES/Regadera manguera v2 v1.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3Mzg="
+mimetype = "application/zip"
+
+[[files]]
+name = "LATEST FILES/Regadera manguera v2 v1.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3Mzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "LATEST FILES/Regadera manguera v3 v4.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3MzY="
+mimetype = "application/zip"
+
+[[files]]
+name = "LATEST FILES/Regadera manguera v3 v4.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3MzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "LATEST FILES/T Hose Connection x14mm v2.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3MzQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "LATEST FILES/T Hose Connection x14mm v2.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc3MzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTY3ODE="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR BOX 3D Files/3D Print level support.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5MjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "POWAR BOX 3D Files/laser acryl division.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4OTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "POWAR BOX 3D Files/Laser Acrylic Front Door.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4OTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "POWAR BOX 3D Files/POWAR 3.0.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4OTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "POWAR BOX 3D Files/POWAR BOX CNC.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4ODU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "POWAR BOX 3D Files/POWAR export.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4ODM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "POWAR Shield/fp-info-cache"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4Nzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/fp-lib-table"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4Nzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4Nzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino-B_Cu.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino-B_Mask.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino-B_Paste.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino-B_SilkS.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino-cache.lib"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino-Edge_Cuts.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino-F_Cu.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino-F_Mask.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4Njk="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino-F_Paste.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4Njg="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino-F_SilkS.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4Njc="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino.kicad_pcb"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino.kicad_pcb-bak"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino.net"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino.pro"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NjI="
+mimetype = ""
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino.sch-bak"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/POWAR SHIELD barduino.xml"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NjA="
+mimetype = "text/xml"
+
+[[files]]
+name = "POWAR Shield/POWAR.net"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "POWAR Shield/Schematics.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NTg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "POWAR Shield/SVG/Holes2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NTU="
+mimetype = "image/png"
+
+[[files]]
+name = "POWAR Shield/SVG/Holes3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NTM="
+mimetype = "image/png"
+
+[[files]]
+name = "POWAR Shield/SVG/Holes4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NTI="
+mimetype = "image/png"
+
+[[files]]
+name = "POWAR Shield/SVG/Holes22.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "POWAR Shield/SVG/Holes.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NTY="
+mimetype = "image/png"
+
+[[files]]
+name = "POWAR Shield/SVG/Outline2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NTA="
+mimetype = "image/png"
+
+[[files]]
+name = "POWAR Shield/SVG/Outline.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NTE="
+mimetype = "image/png"
+
+[[files]]
+name = "POWAR Shield/SVG/POWAR SHIELD barduino-brd.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NDk="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "POWAR Shield/SVG/Traces2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NDc="
+mimetype = "image/png"
+
+[[files]]
+name = "POWAR Shield/SVG/Traces.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NDg="
+mimetype = "image/png"
+
+[[files]]
+name = "POWAR Shield/sym-lib-table"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4NTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "PROTOTYPE PICTURES/96d3feb7-97a4-4205-8158-f1a569d0f3f4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/603b0393-ea2f-4f64-835e-0720cde59065.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/850e412c-5adc-455c-9b89-298052913500.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5MzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200416-WA0063.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200714-WA0013.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200714-WA0014.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200715-WA0002.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200715-WA0003.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200715-WA0004.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200715-WA0005.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200715-WA0006.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200716-WA0016.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200717-WA0020.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200717-WA0021.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200717-WA0022.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200717-WA0027.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200717-WA0028.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200730-WA0036.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200730-WA0040.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5Mzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG-20200730-WA0041.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5Mzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200709_185339.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200709_185441.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200709_185443.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200709_185448.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200714_165510.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200714_165517.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200714_165518.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200714_165527.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200714_165529.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200714_165706.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200714_165713.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200714_165739.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200714_165743.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200714_194718.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200714_194720.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200714_194726.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200714_194728.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200715_145318.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200715_145449.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200715_145452.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200715_145519.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200715_145523.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200715_145525.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200715_145529.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200715_145544.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200715_145548.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200716_134940.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_134223.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_134424.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_134428.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwMDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135618.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135625.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135629.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135637.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135642.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135649.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135651.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135654.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135658.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135703.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135705.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135712.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5ODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135714.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5ODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135718.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5ODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135722.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135727.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135729.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135734.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135736.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135741.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5ODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135750.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135756.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5Nzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_135759.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_141044.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_141055.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_141103.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_141111.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_152838.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_152859.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_152905.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_152907.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_152914.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5Njg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_152920.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200717_152924.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200730_190703.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200730_190722.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200730_190732.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200730_190735.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200730_190740.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200730_190743.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200731_150933.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200731_150937.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200731_150941.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200731_150946.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200731_152921.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/IMG_20200731_152938.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5NTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PROTOTYPE PICTURES/Screen Shot 2020-10-06 at 2.21.22 PM.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5MzU="
+mimetype = "image/png"
+
+[[files]]
+name = "PROTOTYPE PICTURES/Screen Shot 2020-10-06 at 2.21.53 PM.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5MzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM5MzA="
+mimetype = "text/markdown"
+

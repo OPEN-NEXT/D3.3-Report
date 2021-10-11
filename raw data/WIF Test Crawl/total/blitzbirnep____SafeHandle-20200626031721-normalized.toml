@@ -1,0 +1,28 @@
+name = "SafeHandle"
+repo = "https://wikifactory.com/@blitzbirnep/safehandle"
+version = "20200626031721"
+spdx-license = "N/A"
+licensor = "Peter T"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTEyNzA="
+function = "This tool is a great helper while playing Geocaching (or commuting anywhere). The SafeHandle prevents you from touching contaminated surfaces in public transportation/public areas."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTEzMjM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/SafeHandle.png"
+permalink = "https://wikifactory.com/files/RmlsZTozOTEyNTI="
+mimetype = "image/png"
+
+[[files]]
+name = "/SafeHandle.stp"
+permalink = "https://wikifactory.com/files/RmlsZTozOTEyNTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/SafeHandle_side.png"
+permalink = "https://wikifactory.com/files/RmlsZTozOTEyNTQ="
+mimetype = "image/png"
+

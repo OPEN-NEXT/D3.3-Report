@@ -1,0 +1,7 @@
+name = "NaVisu4D"
+repo = "https://wikifactory.com/@serge-morvan/navisu4d"
+version = "20200305175522"
+spdx-license = "N/A"
+licensor = "Serge Morvan"
+documentation-language = "en"
+function = "Visualization georeferenced data marine and cities."

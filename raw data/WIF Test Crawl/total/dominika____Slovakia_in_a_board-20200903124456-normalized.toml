@@ -1,0 +1,8 @@
+name = "Slovakia in a board"
+repo = "https://wikifactory.com/@dominika/slovakia-in-a-board"
+version = "20200903124456"
+spdx-license = "N/A"
+licensor = "Dominika Tóthová"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0Mjk2MTM="
+function = "Project made in FabLab Bratislava by group of young kids during DesignThinking course!\nThis board game is designed for children from 7 to 12 years old. It helps children to learn the regions of Slovakia in the style of a simple puzzle. The game is made of plywood. We used laser cutter to make it."

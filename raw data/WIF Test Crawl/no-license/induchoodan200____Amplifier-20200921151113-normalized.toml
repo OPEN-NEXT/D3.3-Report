@@ -1,0 +1,7 @@
+name = "Amplifier"
+repo = "https://wikifactory.com/@induchoodan200/amplifier"
+version = "20200921151113"
+spdx-license = "N/A"
+licensor = "induchoodan200"
+documentation-language = "en"
+function = "Mechanical amplifiers"

@@ -1,0 +1,38 @@
+name = "Holographic Box"
+repo = "https://wikifactory.com/@remy/holographic-box"
+version = "20210401070120"
+spdx-license = "CC-BY-4.0"
+licensor = "Remy Ducros"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzQyNzA="
+function = "An attempt to create an holographic device powered by a smartphone and made thanks to digital fabrication tools."
+[[files]]
+name = "Cut Files/0,2mm PVC cut.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzQzMDA="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Cut Files/5mm Plywood cut.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzQyOTk="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzQyNjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzQ0MDc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "STEP File/holobox.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzQyOTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "STL file/handle.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzQyOTU="
+mimetype = "application/sla"
+

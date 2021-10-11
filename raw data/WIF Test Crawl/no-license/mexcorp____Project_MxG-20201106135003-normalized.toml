@@ -1,0 +1,7 @@
+name = "Project MxG"
+repo = "https://wikifactory.com/@mason/project-mxg"
+version = "20201106135003"
+spdx-license = "N/A"
+licensor = "Gbogi A David"
+documentation-language = "en"
+function = "MxG is a software development program inniated by Mexcorp Group, it aims at improving the security,durability and efficiency of Software Projects."

@@ -1,0 +1,7 @@
+name = "staking"
+repo = "https://wikifactory.com/@firan/staking"
+version = "20200320035217"
+spdx-license = "N/A"
+licensor = "firan ran"
+documentation-language = "no"
+function = "staking platform token"

@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@licad/test"
+version = "20210312120615"
+spdx-license = "N/A"
+licensor = "Max Mustermann"
+documentation-language = "en"
+function = "Test"

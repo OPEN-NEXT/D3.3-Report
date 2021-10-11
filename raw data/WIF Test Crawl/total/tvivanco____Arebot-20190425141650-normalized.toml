@@ -1,0 +1,28 @@
+name = "Arebot "
+repo = "https://wikifactory.com/@tvivanco/arebot"
+version = "20190425141650"
+spdx-license = "N/A"
+licensor = "Tomas Vivanco Larrain"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTY0MzY="
+function = "Arebot is a sand 3d printing bot. Applied research project, funded by the Chilean National Arts Council, to research the use of sand as a material for manufacturing objects. \u200b \u200b"
+[[files]]
+name = "images/3d2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0MzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/IMG_4232_copia.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0MzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/IMG_4239_copia.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0MzI="
+mimetype = "text/plain"
+

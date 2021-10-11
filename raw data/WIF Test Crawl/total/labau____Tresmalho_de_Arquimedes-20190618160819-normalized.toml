@@ -1,0 +1,18 @@
+name = "Tresmalho de Arquimedes"
+repo = "https://wikifactory.com/@labau/tresmalho-de-arquimedes"
+version = "20190618160819"
+spdx-license = "CC-BY-4.0"
+licensor = "Mauricio Guimaraes de Oliveira"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZToyMTM2NzM="
+function = "Instrumento criado por Arquimedes de Siracusa para traçar elipses."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2NzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/tresmalho.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2NzQ="
+mimetype = "text/plain"
+

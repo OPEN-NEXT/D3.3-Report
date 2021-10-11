@@ -1,0 +1,8 @@
+name = "Example"
+repo = "https://wikifactory.com/@garowello/example"
+version = "20210421095946"
+spdx-license = "N/A"
+licensor = "Gareth Owen Lloyd"
+documentation-language = "en"
+function = "Example description"
+files = []

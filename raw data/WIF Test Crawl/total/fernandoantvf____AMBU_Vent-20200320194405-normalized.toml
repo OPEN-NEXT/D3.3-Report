@@ -1,0 +1,7 @@
+name = "AMBU Vent"
+repo = "https://wikifactory.com/@fernandoantvf/ambu-vent"
+version = "20200320194405"
+spdx-license = "N/A"
+licensor = "Fernando Figueiredo"
+documentation-language = "en"
+function = "A 3D Printed AMBU based ventilator driven by a NEMA17 stepper motor."

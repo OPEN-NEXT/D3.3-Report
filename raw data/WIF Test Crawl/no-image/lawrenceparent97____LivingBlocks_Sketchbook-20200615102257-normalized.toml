@@ -1,0 +1,12 @@
+name = "LivingBlocks_Sketchbook"
+repo = "https://wikifactory.com/@lawrenceparent97/livingblockssketchbook"
+version = "20200615102257"
+spdx-license = "N/A"
+licensor = "Lawrence Parent"
+documentation-language = "en"
+function = "The sketchbook for all the work behind the Living Blocks project."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODE5MDA="
+mimetype = "text/markdown"
+

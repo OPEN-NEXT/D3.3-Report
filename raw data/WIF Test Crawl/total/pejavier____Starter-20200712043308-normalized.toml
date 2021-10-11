@@ -1,0 +1,7 @@
+name = "Starter"
+repo = "https://wikifactory.com/@pejavier/starter"
+version = "20200712043308"
+spdx-license = "N/A"
+licensor = "Javier"
+documentation-language = "en"
+function = "Vvvv"

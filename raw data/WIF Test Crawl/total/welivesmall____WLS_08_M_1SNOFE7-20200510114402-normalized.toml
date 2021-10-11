@@ -1,0 +1,13 @@
+name = "WLS_08_M_1SNOFE7"
+repo = "https://wikifactory.com/@welivesmall/wls08m1snofe7"
+version = "20200510114402"
+spdx-license = "N/A"
+licensor = "WeLiveSmall"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDc2NzU="
+function = "08 STORAGE - Object | Organizing Systems - Addon for Boxes | Picked group - Adaptive grid : ZIP bag holder-holder\n\n\"Modified Box-Half top made to sort and store items in zip bags\""
+[[files]]
+name = "01 Models/emty.txt.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNDg1ODQ="
+mimetype = "application/x-empty"
+

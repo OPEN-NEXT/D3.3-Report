@@ -1,0 +1,7 @@
+name = "NFC codes "
+repo = "https://wikifactory.com/@nilima-topno/nfc-codes"
+version = "20201209115538"
+spdx-license = "N/A"
+licensor = "Nilima topno"
+documentation-language = "en"
+function = "NFC Codes for the garment Industry applications"

@@ -1,0 +1,7 @@
+name = "DomeTech"
+repo = "https://wikifactory.com/@carlow/dometech"
+version = "20210218214415"
+spdx-license = "N/A"
+licensor = "Carlo Elias CANAN"
+documentation-language = "en"
+function = "A 3d tool that can construct a natural building (dome shape) with a minimum use of primary resources and material."

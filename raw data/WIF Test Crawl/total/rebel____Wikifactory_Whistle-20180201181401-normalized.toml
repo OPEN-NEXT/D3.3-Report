@@ -1,0 +1,18 @@
+name = "Wikifactory Whistle"
+repo = "https://wikifactory.com/@rebel/wikifactory-whistle"
+version = "20180201181401"
+spdx-license = "CC0-1.0"
+licensor = "Christina Rebel"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2NjQ="
+function = "Fully functioning whistle we&#x27;ve been printing since the earliest of our Wikifactory days!"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo2NjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Wikifactory_Whistle.obj"
+permalink = "https://wikifactory.com/files/RmlsZToxNzUwNg=="
+mimetype = "text/plain"
+

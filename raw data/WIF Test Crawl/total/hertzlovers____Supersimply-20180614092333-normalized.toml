@@ -1,0 +1,18 @@
+name = "Supersimply"
+repo = "https://wikifactory.com/@retosmontesquieu/supersimply"
+version = "20180614092333"
+spdx-license = "CC-BY-4.0"
+licensor = "Alejandro Fabregas Brieva"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NzY2"
+function = "The #supersimply <a href=\"https://en.wikipedia.org/wiki/Absorption_(acoustics)\">absorbent</a> panel is probably the quickest, easiest and cheapest design ever."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTQ0"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTQx"
+mimetype = "text/markdown"
+

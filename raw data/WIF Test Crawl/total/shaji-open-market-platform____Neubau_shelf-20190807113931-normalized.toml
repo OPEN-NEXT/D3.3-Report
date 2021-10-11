@@ -1,0 +1,83 @@
+name = "Neubau shelf"
+repo = "https://wikifactory.com/@ronen/neubau-shelf"
+version = "20190807113931"
+spdx-license = "N/A"
+licensor = "Ronen Kadushin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMzQzMjI="
+function = "The Neubau (New building in German) is an easy to assemble, simple plug-in system shelf. <br />\n\nIt consists of interlocking, precision milled Birch plywood shelves and blades. \n\nThis minimalist and sculptural shelf creates a rhythmic visual presence in the room."
+[[files]]
+name = "Assembly Instructions/Neubau Shelf Assembly Instructions 1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMzY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "CAD/Neubau shelf 190_160_6x30_ 18mm v1_1 231018.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "FIT Furniture logo/FIT Furniture logo ©All Rights Reserved-Ronen Kadushin 2019.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMzc="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Images/FIT_Neubau  isolated Oak 2_M2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau Birch 5000px_M_3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau Birch isolated 5000px_M.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau Birch isolated  3-4 5000px_M.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau White Isolated 5000px_M.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau_shelf_assembly_DSC0765-2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau_shelf_front_DSC0773-V4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau_shelf_half front_DSC0776.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau_shelf_Parts_DSC0741.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau_shelf_side_DSC0780.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Ronen Kadushin_Neubau_DSC0786_2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzNDA="
+mimetype = "text/markdown"
+

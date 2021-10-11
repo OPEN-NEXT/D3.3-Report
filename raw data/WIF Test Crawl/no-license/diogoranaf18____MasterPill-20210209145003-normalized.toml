@@ -1,0 +1,23 @@
+name = "MasterPill"
+repo = "https://wikifactory.com/@diogoranaf18/dispensador-inovador"
+version = "20210209145003"
+spdx-license = "N/A"
+licensor = "diogoranaf18"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MzQzMzI="
+function = "This project is the idealization of an innovative product to serve not only people who do not have any type of disability, but also people who need special care such as the blind and the deaf. Our fundamental objective is to improve people's way of life as well as to meet their needs."
+[[files]]
+name = "/Dispensadores de gel desinfetante-moodboard materiais.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTIwNDA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3NjE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Tipos de Dispensores.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTE4OTA="
+mimetype = "application/pdf"
+

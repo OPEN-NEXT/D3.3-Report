@@ -1,0 +1,12 @@
+name = "erste muster "
+repo = "https://wikifactory.com/@adrianamatrix/erste-muster"
+version = "20200909153850"
+spdx-license = "N/A"
+licensor = "Adriana Cabrera"
+documentation-language = "nl"
+function = "erstes project DPA"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzEzMjU="
+mimetype = "text/markdown"
+

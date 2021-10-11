@@ -1,0 +1,13 @@
+name = "Better Made"
+repo = "https://wikifactory.com/@edenbunce2/better-made"
+version = "20200615132021"
+spdx-license = "N/A"
+licensor = "Eden Bunce"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozODAzNzA="
+function = "Eden Bunce \nStudio Other Today\nInsta: eden.b_design\nWHAT: Better Made is a project improving mental health and wellbeing and supporting people in re-establishing their connection to <br />society through making. \nHOW: Prescribed Maker-kits on the NHS\nWHY: More dynamic approach needed to mental health therapy"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODIwNDQ="
+mimetype = "text/markdown"
+

@@ -1,0 +1,18 @@
+name = "DIYbio Orbital Shaker "
+repo = "https://wikifactory.com/@progressth/diybio-orbital-shaker"
+version = "20200425184439"
+spdx-license = "CC-BY-4.0"
+licensor = "ProgressTH"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNzc0Mw=="
+function = "An orbital shaker is used to agitate containers in a laboratory setting. Containers can remain closed and be shaken at variable speeds for any amount of time.\n\nThis 3D printed DIYbio orbital shaker includes a relatively large working space and can shake large containers."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNzc0MA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNzc0OA=="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Chicken Coop"
+repo = "https://wikifactory.com/@apostrophe/chicken-coop"
+version = "20210313170002"
+spdx-license = "N/A"
+licensor = "Chevy"
+documentation-language = "en"
+function = "A Chicken Coop"

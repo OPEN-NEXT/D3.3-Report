@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@emg/test"
+version = "20210120140608"
+spdx-license = "N/A"
+licensor = "Eugenio Gelos"
+documentation-language = "en"
+function = "test1"

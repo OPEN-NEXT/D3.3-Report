@@ -1,0 +1,7 @@
+name = "Visaya"
+repo = "https://wikifactory.com/@neanda/visaya"
+version = "20210202161734"
+spdx-license = "N/A"
+licensor = "John Rooney"
+documentation-language = "ro"
+function = "Modular Control Surface"

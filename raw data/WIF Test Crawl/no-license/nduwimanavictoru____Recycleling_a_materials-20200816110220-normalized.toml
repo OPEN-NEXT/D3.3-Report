@@ -1,0 +1,7 @@
+name = "Recycleling a materials "
+repo = "https://wikifactory.com/@nduwimanavictoru/recycleling-a-materials"
+version = "20200816110220"
+spdx-license = "N/A"
+licensor = "nduwimanavictoru"
+documentation-language = "en"
+function = "Recycling materials and make product in them like phone, computer,speakers,TVs,etc...."

@@ -1,0 +1,7 @@
+name = "Vital Health Tracker"
+repo = "https://wikifactory.com/@moulikin/vital-health-tracker"
+version = "20210302122145"
+spdx-license = "N/A"
+licensor = "Moulik Shah"
+documentation-language = "en"
+function = "A Wrist watch having all health vital sensors plugged in to one without a touch screen, data transfer to Android and ios."

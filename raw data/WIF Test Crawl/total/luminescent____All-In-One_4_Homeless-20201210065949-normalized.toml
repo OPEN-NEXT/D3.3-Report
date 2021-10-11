@@ -1,0 +1,13 @@
+name = "All-In-One 4 Homeless"
+repo = "https://wikifactory.com/@luminescent/all-in-one-4-homeless"
+version = "20201210065949"
+spdx-license = "N/A"
+licensor = "Luminescent Designs"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0OTc0MTU="
+function = "A design for an all-in-one solution for homeless people. Credits to Mr. Teboho Mashinini for the original design drawing."
+[[files]]
+name = "/Homeless Solution.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTc0MTA="
+mimetype = "image/jpeg"
+

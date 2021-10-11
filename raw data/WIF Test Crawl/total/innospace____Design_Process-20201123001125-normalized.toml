@@ -1,0 +1,7 @@
+name = "Design Process"
+repo = "https://wikifactory.com/@innospace/design-process"
+version = "20201123001125"
+spdx-license = "N/A"
+licensor = "Brian James"
+documentation-language = "en"
+function = "Creating a 3D sign from a picture"

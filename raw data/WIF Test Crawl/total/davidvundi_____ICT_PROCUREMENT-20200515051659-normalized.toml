@@ -1,0 +1,12 @@
+name = " ICT PROCUREMENT"
+repo = "https://wikifactory.com/@davidvundi/ict-procurement"
+version = "20200515051659"
+spdx-license = "N/A"
+licensor = "DAVID VUNDI"
+documentation-language = "en"
+function = "PROCURE ICT EQUIPMENT FROM OFF SHORE  COUNTRIES"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE2NzA="
+mimetype = "text/markdown"
+

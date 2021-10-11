@@ -1,0 +1,7 @@
+name = "Face mask clip adapters"
+repo = "https://wikifactory.com/@ruchit00774/face-mask-clip-adapters"
+version = "20200904034455"
+spdx-license = "N/A"
+licensor = "Ruchit P Patel"
+documentation-language = "en"
+function = "These clips adapters allows to use any rectangular cloth to use as a mask"

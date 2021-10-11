@@ -1,0 +1,7 @@
+name = "SCA ARM"
+repo = "https://wikifactory.com/@lamarraq/sca-arm"
+version = "20201115191805"
+spdx-license = "N/A"
+licensor = "Andelbasset Lamarraq"
+documentation-language = "fr"
+function = "Un système pour vérifier les plaques d'immatriculation avant qu'il lesse les automobilistes passer"

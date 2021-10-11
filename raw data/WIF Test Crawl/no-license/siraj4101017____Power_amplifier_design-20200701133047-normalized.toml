@@ -1,0 +1,17 @@
+name = "Power amplifier design"
+repo = "https://wikifactory.com/@siraj4101017/power-amplifier-design"
+version = "20200701133047"
+spdx-license = "N/A"
+licensor = "siraj4101017"
+documentation-language = "en"
+function = "power amplifier design class B circuit report and simulation etc"
+[[files]]
+name = "/ASSINGMENT aic sim.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc5NTQ="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/assingment aic.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc5NTU="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+

@@ -1,0 +1,7 @@
+name = "Jigs"
+repo = "https://wikifactory.com/@juanoz/jigs"
+version = "20210325052338"
+spdx-license = "N/A"
+licensor = "Juan Ortiz Zaforas"
+documentation-language = "en"
+function = "3D printed tools to help makers built better parts without expensive hardware"

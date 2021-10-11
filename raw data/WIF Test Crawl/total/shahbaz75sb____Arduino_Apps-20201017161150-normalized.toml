@@ -1,0 +1,12 @@
+name = "Arduino Apps"
+repo = "https://wikifactory.com/@shahbaz75sb/arduino-apps"
+version = "20201017161150"
+spdx-license = "N/A"
+licensor = "Shahbaz Ahmad"
+documentation-language = "en"
+function = "Arduino Apps for windows PC, Android and apple. These Apps are windows and android based, used for  programming. To run wi-fi controlled devices."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQzNTA="
+mimetype = "text/markdown"
+

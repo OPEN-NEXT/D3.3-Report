@@ -1,0 +1,23 @@
+name = "Maggio "
+repo = "https://wikifactory.com/@zoe/maggio"
+version = "20180605103814"
+spdx-license = "CC-BY-4.0"
+licensor = "Zoe Romano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDAz"
+function = "Part of the Modular Fashion initiative at <a href=\"www.wikifactory.com/+wemake\">WeMake</a>. This project is a collaboration between Martina Dominici and Giovanna D’Apuzzo. This felt backpack is created from interlocked squares with beveled edges. Designers focused on possible joints among the squares and various geometric patterns formed."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMzY4"
+mimetype = "text/plain"
+
+[[files]]
+name = "/MAGGIO module.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzc5"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM4"
+mimetype = "text/markdown"
+

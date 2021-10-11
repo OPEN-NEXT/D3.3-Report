@@ -1,0 +1,8 @@
+name = "BeastBox"
+repo = "https://wikifactory.com/@sdgsolutionspace/lego-box"
+version = "20200624162221"
+spdx-license = "N/A"
+licensor = "DURNEY Jean-Marie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTAwODM="
+function = "A wood box to store lego brick and pack them away when you're done"

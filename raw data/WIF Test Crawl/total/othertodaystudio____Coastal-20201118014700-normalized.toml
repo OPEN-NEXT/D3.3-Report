@@ -1,0 +1,13 @@
+name = "Coastal "
+repo = "https://wikifactory.com/@alexwitty/coastal"
+version = "20201118014700"
+spdx-license = "N/A"
+licensor = "Alex Witty"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjQyMzM="
+function = "Coastal's aim is to spark conversation about the pollution levels in ours ocean whilst keeping your coffee table clean. Made out of 100% recycled  plastic gathered from local beaches. Through its use, it will prompt needed conversation between friends about the damage we are causing to our sea life."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODU5NjQ="
+mimetype = "text/markdown"
+

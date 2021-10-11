@@ -1,0 +1,13 @@
+name = "MasX"
+repo = "https://wikifactory.com/@treedi/masx"
+version = "20200706013726"
+spdx-license = "N/A"
+licensor = "Semir Poturak"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDE2MTk="
+function = "Masx is a wearable which provides additional protection over the existing textile masks. It is aesthetically pleasing and it allows only for strategic air flow."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2OTg="
+mimetype = "text/markdown"
+

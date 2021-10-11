@@ -1,0 +1,23 @@
+name = "CARETAS DE PROTECCIÓN "
+repo = "https://wikifactory.com/@fablabiyem/caretas-de-protección"
+version = "20200701201414"
+spdx-license = "N/A"
+licensor = "fablabiyem"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTozOTg0ODU="
+function = "El Instituto Yucateco de Emprendedores (IYEM), unió esfuerzos con universidades y empresas, para fabricar caretas de acrílico, que están siendo distribuidas proteger al personal del sector salud de Yucatán ante la contingencia por el coronavirus COVID-19."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg0ODQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/VISERA_ acrílico de 3mm_CERRADO.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg1MzM="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "/VISOR FINAL.eps"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg1MzA="
+mimetype = "application/postscript"
+

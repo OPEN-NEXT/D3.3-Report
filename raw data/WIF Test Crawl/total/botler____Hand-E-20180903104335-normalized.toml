@@ -1,0 +1,18 @@
+name = "Hand-E"
+repo = "https://wikifactory.com/@botler/hand-e"
+version = "20180903104335"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMDQ1MA=="
+function = "The Hand-E, Hand Exerciser, is a wearable device that helps people with degenerative diseases in their hands, such as osteoarthritis to perform the necesary exercises that improve and maintain their mobility, strengthening muscles and tendons!"
+[[files]]
+name = "License/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMDU1Mg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMDU1Mw=="
+mimetype = "text/markdown"
+

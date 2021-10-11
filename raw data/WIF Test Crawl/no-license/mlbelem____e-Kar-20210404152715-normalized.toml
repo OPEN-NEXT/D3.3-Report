@@ -1,0 +1,7 @@
+name = "e-Kar"
+repo = "https://wikifactory.com/@mlbelem/e-kar"
+version = "20210404152715"
+spdx-license = "N/A"
+licensor = "Manoel Belem"
+documentation-language = "en"
+function = "STEM-PBL active learning program for brazilian students to cresce a electric car accepting to International standard"

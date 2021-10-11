@@ -1,0 +1,8 @@
+name = "Make Your Pod"
+repo = "https://wikifactory.com/@botler/make-your-pod"
+version = "20171107172719"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDg="
+function = "Pod is an open source stool. The stool is currently developed for manufacturing from laser cutting. Other developments are in progress to allow its manufacture from other machines such as milling machines."

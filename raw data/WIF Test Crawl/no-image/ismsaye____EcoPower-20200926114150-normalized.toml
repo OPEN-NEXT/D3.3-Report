@@ -1,0 +1,7 @@
+name = "EcoPower"
+repo = "https://wikifactory.com/@ismsaye/ecopower"
+version = "20200926114150"
+spdx-license = "N/A"
+licensor = "Mustapha Ibrahim"
+documentation-language = "en"
+function = "Free Electric energy generator"

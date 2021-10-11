@@ -1,0 +1,7 @@
+name = "Project 1"
+repo = "https://wikifactory.com/@madhushanka/project-1"
+version = "20201121055109"
+spdx-license = "N/A"
+licensor = "madhushankakumarasingha"
+documentation-language = "en"
+function = "My project"

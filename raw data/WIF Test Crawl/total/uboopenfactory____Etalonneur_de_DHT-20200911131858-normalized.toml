@@ -1,0 +1,88 @@
+name = "Etalonneur de DHT"
+repo = "https://wikifactory.com/@laurent-marchal/etalonneur-de-dht"
+version = "20200911131858"
+spdx-license = "N/A"
+licensor = "MARCHAL Laurent"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0MzE4Mzc="
+function = "Comparer les capteurs de température et d'humidité de types DHT11 et 22 entre eux ou à un étalon afin de les étalonner."
+[[files]]
+name = "2d/Boitier comparateur de DHT V1.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzEyMDA="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "photos/Exemple d affichage 0.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzEyMzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photos/Exemple d affichage 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzEyNDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photos/Exemple d affichage 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzEyNDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photos/Fixation de l afficheur.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzEyMzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photos/L arduino et ses connecteurs et fixations.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzEyMTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photos/Mise en route.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzEyMzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photos/platine côté composants.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzEyMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photos/Platine côté filasse.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzEyMDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photos/Un des connecteurs pour arduino.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzEyMTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photos/Vue coté alimentation.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzA5NjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photos/Vue générale 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzA5NTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photos/Vue générale 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzA5NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Programme/Etalonneur_de_DHT11_et_DHT22_V1.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE4Mzk="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE4NDM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Schéma électrique/schema électrique.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzExOTQ="
+mimetype = "image/png"
+

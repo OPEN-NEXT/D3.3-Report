@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@gyan/test"
+version = "20201209181815"
+spdx-license = "N/A"
+licensor = "Gyan Prayaga"
+documentation-language = "en"
+function = "my first project"

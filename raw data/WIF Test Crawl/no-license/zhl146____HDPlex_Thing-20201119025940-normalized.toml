@@ -1,0 +1,7 @@
+name = "HDPlex Thing"
+repo = "https://wikifactory.com/@zhl146/hdplex-thing"
+version = "20201119025940"
+spdx-license = "N/A"
+licensor = "zhl146"
+documentation-language = "ca"
+function = "HDplex end caps"

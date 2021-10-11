@@ -1,0 +1,18 @@
+name = "3Dprinting101/FDM edition"
+repo = "https://wikifactory.com/@jmm/3dprinting101fdm-edition"
+version = "20190417093723"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Jean-Michel Molenaar"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTU3MDM="
+function = "This is an overview of FDM (Fused deposition modeling, also known as FFF - fused filament fabrication) 3D printing and it's possibilities and materials."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxOTU3MDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcwNjQ="
+mimetype = "text/markdown"
+

@@ -1,0 +1,12 @@
+name = "<Development for all>; gr"
+repo = "https://wikifactory.com/@abdulmuyassir-alkali/development-for-all-gr"
+version = "20191030135338"
+spdx-license = "N/A"
+licensor = "AbdulmuyassirAlkaliAbdulrahman"
+documentation-language = "en"
+function = "we are in need of more>"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzc1NTc="
+mimetype = "text/markdown"
+

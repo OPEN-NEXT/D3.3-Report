@@ -1,0 +1,7 @@
+name = "Meds tracker "
+repo = "https://wikifactory.com/@astro01/meds-tracker"
+version = "20210131012538"
+spdx-license = "N/A"
+licensor = "Uwem Akpan "
+documentation-language = "en"
+function = "The watch is called a med tracker , it has a pill pocket underneath it to store pills, For users to carry their meds anywhere and keep track on when to take them."

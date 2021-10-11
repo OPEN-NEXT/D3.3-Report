@@ -1,0 +1,7 @@
+name = "Cars"
+repo = "https://wikifactory.com/@aadil-meraj/cars"
+version = "20201206053424"
+spdx-license = "N/A"
+licensor = "AADIL MEERAJ"
+documentation-language = "en"
+function = "I want to made a car"

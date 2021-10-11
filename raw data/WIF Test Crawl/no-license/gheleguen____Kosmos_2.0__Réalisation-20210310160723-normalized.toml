@@ -1,0 +1,248 @@
+name = "Kosmos 2.0 / Réalisation"
+repo = "https://wikifactory.com/@gheleguen/kosmos-20-réalisation"
+version = "20210310160723"
+spdx-license = "N/A"
+licensor = "gheleguen"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1MzA0MzA="
+function = "Le projet Kosmos vise à concevoir en concertation collective un système autonome sous-marin pour la captation d’images sous marines pour l'écologie.  Le protocole ci dessous détail le protocole de réalisation du KOSMOS version 2.0."
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Gp1_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4ODg="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Gp2_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4ODk="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Rd1_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4OTA="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Rd2_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4OTY="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Rd3_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4OTc="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Rd4_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4OTg="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Rd5_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4OTk="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Rd6_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc5MDA="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Rd7_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc5MDE="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Rd8_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4ODU="
+mimetype = "application/sla"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Rd9_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4ODI="
+mimetype = "application/sla"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Rd10_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4ODM="
+mimetype = "application/sla"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Rd11_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4ODQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Rd12_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc5MDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Rd13_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc5Mjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Sp1_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4ODY="
+mimetype = "application/sla"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Sp2_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4ODc="
+mimetype = "application/sla"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Str1_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4OTE="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Str2_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4OTI="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Str3_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4OTM="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Str4_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4OTU="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/3Dmodels_KOSMOS_2-0_beta1/Str5_2-0_beta1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc4OTQ="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/kosmos_cam.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MDM="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/kosmos_config.ini"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/kosmos_config.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MDY="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/kosmos_csv.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MTA="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/kosmos_esc_motor.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MTI="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/kosmos_esc_motor_RPI_GPIO.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY3OTc="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/kosmos_find_usb.sh"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY3OTA="
+mimetype = "application/x-shellscript"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/kosmos_gps.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MDc="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/kosmos_gps_USB.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY3OTg="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/kosmos_led.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MTQ="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/kosmos_main.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MTM="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/kosmos_main_old.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY3OTY="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/motor_base.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MDk="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/ms5837.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MDE="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/testu_config.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY3OTI="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/testu_gps.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY3OTE="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/testu_gps_date_gpsd.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY3OTk="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/testu_gps_folium.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MDA="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/testu_gps_sync2.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY3OTQ="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/testu_led.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MDU="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/testu_motor_run.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MTE="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/testu_motor_run_RPI_GPIO..py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY3OTU="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/testu_motor_start.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MDg="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/testu_motor_thread.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY3OTM="
+mimetype = "text/x-python"
+
+[[files]]
+name = "KOSMOS_2-0_beta1/Software_KOSMOS_2-0_beta1/testu_state_m.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY4MDI="
+mimetype = "text/x-python"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjQ1NTU="
+mimetype = "text/markdown"
+

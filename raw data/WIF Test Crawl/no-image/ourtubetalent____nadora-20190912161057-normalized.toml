@@ -1,0 +1,7 @@
+name = "nadora"
+repo = "https://wikifactory.com/@ourtubetalent/nadora"
+version = "20190912161057"
+spdx-license = "N/A"
+licensor = "روبوت مطروح"
+documentation-language = "en"
+function = "\ufeffrobot"

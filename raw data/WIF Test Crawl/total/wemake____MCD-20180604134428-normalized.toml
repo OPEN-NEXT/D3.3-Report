@@ -1,0 +1,13 @@
+name = "MCD"
+repo = "https://wikifactory.com/@zoe/mcd"
+version = "20180604134428"
+spdx-license = "CC-BY-4.0"
+licensor = "Zoe Romano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzk3"
+function = "Diamond-shaped interlocking modules. Part of the Modular Fashion initiative at <a href=\"www.wikifactory.com/+wemake\">WeMake</a>."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMzI5"
+mimetype = "text/plain"
+

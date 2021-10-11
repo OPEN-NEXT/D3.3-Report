@@ -1,0 +1,37 @@
+name = "TOCIO-doc principale"
+repo = "https://wikifactory.com/@uboopenfactory/tocio-plateformetech"
+version = "20200609150108"
+spdx-license = "N/A"
+licensor = "uboopenfactory"
+documentation-language = "fr"
+function = "Documentation de la plateforme technique TOCIO - Licence CC-BY-SA 4.0"
+[[files]]
+name = "Photo/Architecture Générale.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY4MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photo/Capture d’écran 2020-04-16 à 12.01.02.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY4Mzk="
+mimetype = "image/png"
+
+[[files]]
+name = "Photo/Capture d’écran 2020-05-19 à 07.58.51.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY4NDk="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY4MTc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "SchemaElec/RN-52 Breakout_v11.brd"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY4MjU="
+mimetype = "application/xml"
+
+[[files]]
+name = "SchemaElec/RN-52 Breakout_v11.sch"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY4MjY="
+mimetype = "application/xml"
+

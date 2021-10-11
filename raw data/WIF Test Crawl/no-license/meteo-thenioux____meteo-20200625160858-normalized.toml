@@ -1,0 +1,7 @@
+name = "meteo"
+repo = "https://wikifactory.com/@meteo-thenioux/meteo"
+version = "20200625160858"
+spdx-license = "N/A"
+licensor = "Meteo Francis Thenioux"
+documentation-language = "fr"
+function = "meteo et environnement"

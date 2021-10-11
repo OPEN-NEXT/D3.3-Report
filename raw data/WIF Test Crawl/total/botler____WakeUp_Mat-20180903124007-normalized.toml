@@ -1,0 +1,73 @@
+name = "WakeUp Mat"
+repo = "https://wikifactory.com/@botler/wakeup-mat"
+version = "20180903124007"
+spdx-license = "CC-BY-4.0"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMDQ3MA=="
+function = "This mat has 2 sensors and an App that work together. The App will give different routines that need to be made on the mat and with the dumbell. The sensor will check if you are really doing the exercise. By <a href=\"http://fabacademy.org/2018/labs/fablabtecsup/students/andrea-lazo/final_project.html\">Adrea Lazo</a>"
+[[files]]
+name = "Final/aux-milling-traces.png"
+permalink = "https://wikifactory.com/files/RmlsZToxMDUzNg=="
+mimetype = "image/png"
+
+[[files]]
+name = "Final/aux_board.sch"
+permalink = "https://wikifactory.com/files/RmlsZToxMDUzNw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Final/box.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToxMDUzNA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Final/dumbbell.c"
+permalink = "https://wikifactory.com/files/RmlsZToxMDUzNQ=="
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Final/dumbbell.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDUzOA=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Final/felt_lasercut.eps"
+permalink = "https://wikifactory.com/files/RmlsZToxMDUzOQ=="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Final/mat.f3z"
+permalink = "https://wikifactory.com/files/RmlsZToxMDU0MA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Final/milling-traces.png"
+permalink = "https://wikifactory.com/files/RmlsZToxMDU0MQ=="
+mimetype = "image/png"
+
+[[files]]
+name = "Final/pad.c"
+permalink = "https://wikifactory.com/files/RmlsZToxMDU0Mw=="
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Final/pad.sch"
+permalink = "https://wikifactory.com/files/RmlsZToxMDU0Mg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Final/WakeUpMat_copy.apk"
+permalink = "https://wikifactory.com/files/RmlsZToxMDU0NA=="
+mimetype = "application/vnd.android.package-archive"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMDQ2OA=="
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMDUyOQ=="
+mimetype = "text/markdown"
+

@@ -1,0 +1,13 @@
+name = "VAWT"
+repo = "https://wikifactory.com/@mindforge/vawt"
+version = "20210210174358"
+spdx-license = "N/A"
+licensor = "MindForge"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1Mzk1MjI="
+function = "Vertical axis wind turbine along the lines of John Ettridge's design"
+[[files]]
+name = "/EWT animation1a.gif"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzk1MTk="
+mimetype = "image/gif"
+

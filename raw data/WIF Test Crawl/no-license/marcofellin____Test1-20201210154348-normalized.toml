@@ -1,0 +1,7 @@
+name = "Test1"
+repo = "https://wikifactory.com/@marcofellin/test1"
+version = "20201210154348"
+spdx-license = "N/A"
+licensor = "marcofellin"
+documentation-language = "en"
+function = "Just trying the new tool"

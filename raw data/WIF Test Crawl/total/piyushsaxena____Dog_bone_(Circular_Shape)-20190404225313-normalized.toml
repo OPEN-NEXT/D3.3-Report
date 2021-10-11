@@ -1,0 +1,13 @@
+name = "Dog bone (Circular Shape)"
+repo = "https://wikifactory.com/@piyushsaxena/dogbone-circular-shape"
+version = "20190404225313"
+spdx-license = "N/A"
+licensor = "Piyush Saxena"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTQyNzY="
+function = "A 'dog bone' structure (circular in shape) will undergo the process of 3D printing using two different materials, PLA and Nylon."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTQzMTM="
+mimetype = "text/markdown"
+

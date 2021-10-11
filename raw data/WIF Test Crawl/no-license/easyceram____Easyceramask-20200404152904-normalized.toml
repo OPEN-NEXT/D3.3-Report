@@ -1,0 +1,8 @@
+name = "Easyceramask"
+repo = "https://wikifactory.com/@easyceram/easyceramask"
+version = "20200404152904"
+spdx-license = "N/A"
+licensor = "Simon Gal"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjkxNDI="
+function = "After looking into different possibilities, I thought about a mask with a compartment on the front to be filled with a filter cut into a FFP2 mask, keeping in mind that a FFP2 mask can be divided in 4 pieces of equal size. I was able to extend the lifespan of a mask to four times as long! #covid19"

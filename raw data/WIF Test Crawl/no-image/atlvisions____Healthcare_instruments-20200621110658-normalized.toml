@@ -1,0 +1,7 @@
+name = "Healthcare instruments"
+repo = "https://wikifactory.com/@atlvisions/healthcare-instruments"
+version = "20200621110658"
+spdx-license = "N/A"
+licensor = "Lawal Ahmad Tijjani "
+documentation-language = "en"
+function = "Designing cheap, safe, and effective healthcare instruments/equipment"

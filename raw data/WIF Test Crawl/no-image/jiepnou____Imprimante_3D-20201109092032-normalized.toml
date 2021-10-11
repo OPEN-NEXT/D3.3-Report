@@ -1,0 +1,7 @@
+name = "Imprimante 3D"
+repo = "https://wikifactory.com/@jiepnou/imprimante-3d"
+version = "20201109092032"
+spdx-license = "N/A"
+licensor = "Nzeusseu Jiepnou Patrick"
+documentation-language = "fr"
+function = "Conception ans réalisation imprimant 3D"

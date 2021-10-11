@@ -1,0 +1,28 @@
+name = " Clip-Tenon Joint"
+repo = "https://wikifactory.com/@roisinberg/structural-peg-joint"
+version = "20190510180144"
+spdx-license = "N/A"
+licensor = "Roisin Berg"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDkwMTE="
+function = "This project was part of the Digital Joinery elective taught at Fab Lab Limerick, School of Architecture, UL on the Spring Semester of 2019\nThis project was carried out by a group of three people, including: Róisín Berg @roisinberg , Simon Donnelly @sidonn , and John Welby @johnwelby"
+[[files]]
+name = "/digital joint.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkwMzk="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkxOTQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/sketch dfx.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDg4MTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/sketch pencil.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDg4MTg="
+mimetype = "image/jpeg"
+

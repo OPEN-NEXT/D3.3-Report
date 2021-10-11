@@ -1,0 +1,7 @@
+name = "CNc machining"
+repo = "https://wikifactory.com/@cvkengar09/cnc-machining"
+version = "20200515180013"
+spdx-license = "N/A"
+licensor = "Kengar"
+documentation-language = "en"
+function = "I have set of CNC Machines like CNC Turning, Grinding, CNC Milling,CNC Laser cutting and Bending."

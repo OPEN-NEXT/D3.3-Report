@@ -1,0 +1,7 @@
+name = "glowy"
+repo = "https://wikifactory.com/@green-wermy/glowy"
+version = "20210403134504"
+spdx-license = "N/A"
+licensor = "green wermy"
+documentation-language = "en"
+function = "a only two motor otto \nthat control the feet"

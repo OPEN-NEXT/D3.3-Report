@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@smnajibulhaque/test"
+version = "20201225112401"
+spdx-license = "N/A"
+licensor = "smnajibulhaque"
+documentation-language = "en"
+function = "test"

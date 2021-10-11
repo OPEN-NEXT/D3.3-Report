@@ -1,0 +1,22 @@
+name = "Pixhawk Payload Bus"
+repo = "https://wikifactory.com/@jinger26/pixhawk-payload-bus"
+version = "20210226120512"
+spdx-license = "N/A"
+licensor = "Jinger Zeng"
+documentation-language = "en"
+function = "Payload standard interface - mechanical and electrical"
+[[files]]
+name = "/Payload Interface_1_19_21.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTk0NDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/QR Dovetail Receiver Standalone.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTk0NDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/X500-PayloadBUS.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTk0NDQ="
+mimetype = "text/plain"
+

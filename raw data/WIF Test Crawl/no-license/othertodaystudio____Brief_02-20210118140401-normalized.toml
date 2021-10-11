@@ -1,0 +1,13 @@
+name = "Brief 02"
+repo = "https://wikifactory.com/@garowello/brief-02"
+version = "20210118140401"
+spdx-license = "N/A"
+licensor = "Gareth Owen Lloyd"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0OTAzNTE="
+function = "For webcap\nYour name Your Title\nUse this space for an overview\nInclude your instagram \nDesigner: @yourname\nDesigned on the Distributed Design Studio with @othertoday on Product Design with Professional Experience BSc(Hons) at Brighton University\n#hashtag #hashtag #hashtag #hashtag #hashtag"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjEwMzA="
+mimetype = "text/markdown"
+

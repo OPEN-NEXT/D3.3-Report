@@ -1,0 +1,7 @@
+name = "ROVER"
+repo = "https://wikifactory.com/@fqantonio/rover"
+version = "20191031175701"
+spdx-license = "N/A"
+licensor = "António Carlos Gonçalves"
+documentation-language = "en"
+function = "ROVER"

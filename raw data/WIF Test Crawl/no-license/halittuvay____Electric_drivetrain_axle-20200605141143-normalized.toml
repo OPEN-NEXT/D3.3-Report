@@ -1,0 +1,8 @@
+name = "Electric drivetrain axle"
+repo = "https://wikifactory.com/@halittuvay/electric-axles"
+version = "20200605141143"
+spdx-license = "N/A"
+licensor = "Halit Tuvay"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzM4NzI="
+function = "The project is consisting of 3 sub projects.\n1)Electric axles for trailer axle\n2)Energy harvesting from axle vibrations\n3)Air brake caliper\nThe axles can be redesign for all commercial vehicles.\nJust the body is left for a commercial vehicle."

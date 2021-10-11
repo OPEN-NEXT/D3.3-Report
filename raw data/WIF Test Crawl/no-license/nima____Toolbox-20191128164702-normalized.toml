@@ -1,0 +1,7 @@
+name = "Toolbox"
+repo = "https://wikifactory.com/@nima/toolbox"
+version = "20191128164702"
+spdx-license = "N/A"
+licensor = "Nawel Khenak"
+documentation-language = "en"
+function = "This project describes the steps of building a toolbox for the Fablab.\nMaterial used: Milling machine\nMachines used:  Wood or PLA ??"

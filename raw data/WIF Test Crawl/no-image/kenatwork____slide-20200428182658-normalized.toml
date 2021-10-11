@@ -1,0 +1,12 @@
+name = "slide"
+repo = "https://wikifactory.com/@kenatwork/slide"
+version = "20200428182658"
+spdx-license = "N/A"
+licensor = "Kenneth Faulkner"
+documentation-language = "en"
+function = "linear slide"
+[[files]]
+name = "/3501-0606-0650.zip"
+permalink = "https://wikifactory.com/files/RmlsZTozNDM3Njk="
+mimetype = "application/x-zip-compressed"
+

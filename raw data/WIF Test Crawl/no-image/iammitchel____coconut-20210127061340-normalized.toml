@@ -1,0 +1,7 @@
+name = "coconut"
+repo = "https://wikifactory.com/@iammitchel/coconut"
+version = "20210127061340"
+spdx-license = "N/A"
+licensor = "Mitchel Monsels"
+documentation-language = "en"
+function = "coconut dehusking machine"

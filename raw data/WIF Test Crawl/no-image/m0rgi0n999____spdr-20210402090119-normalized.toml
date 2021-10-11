@@ -1,0 +1,7 @@
+name = "spdr"
+repo = "https://wikifactory.com/@m0rgi0n999/spdr"
+version = "20210402090119"
+spdx-license = "N/A"
+licensor = "m0rgi0n999"
+documentation-language = "en"
+function = "spdr"

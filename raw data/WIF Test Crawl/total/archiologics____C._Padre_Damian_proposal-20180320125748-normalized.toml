@@ -1,0 +1,13 @@
+name = "C. Padre Damian proposal"
+repo = "https://wikifactory.com/@adolfo/c-padre-damian-proposal"
+version = "20180320125748"
+spdx-license = "N/A"
+licensor = "Adolfo Nadal Serrano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMDcx"
+function = "A study for a 10000 sqm office complex in northern City of Madrid. The idea behind it is to create differentiated and contained, accesible, interior, semi-public urban spaces that serve both as parks and as programmatic pedestrian traffic flow devices."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTYz"
+mimetype = "text/markdown"
+

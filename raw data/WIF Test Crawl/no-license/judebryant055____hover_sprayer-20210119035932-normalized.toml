@@ -1,0 +1,7 @@
+name = "hover sprayer"
+repo = "https://wikifactory.com/@judebryant055/hover-sprayer"
+version = "20210119035932"
+spdx-license = "N/A"
+licensor = "judebryant055"
+documentation-language = "en"
+function = "a hover like craft that would help small agricultural land to spray their crops with fertilizer"

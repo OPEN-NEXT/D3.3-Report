@@ -1,0 +1,7 @@
+name = "Innovations"
+repo = "https://wikifactory.com/@lere/innovations"
+version = "20200826153428"
+spdx-license = "N/A"
+licensor = "Alimi olalere"
+documentation-language = "en"
+function = "Design of electromachanical parts"

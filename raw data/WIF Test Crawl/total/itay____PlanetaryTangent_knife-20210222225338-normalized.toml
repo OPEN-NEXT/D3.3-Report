@@ -1,0 +1,28 @@
+name = "PlanetaryTangent knife"
+repo = "https://wikifactory.com/@itay/planetarytangent-knife"
+version = "20210222225338"
+spdx-license = "CC-BY-4.0"
+licensor = "Itay Laniado"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NTcxODI="
+function = "using a simple 1.8º NEMA17 to control the rotation of a utility blade in thangant to X/Y cutting direction"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTcxODM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Screen Shot 2021-02-23 at 0.34.06.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTcxNzM="
+mimetype = "image/png"
+
+[[files]]
+name = "/Screen Shot 2021-02-23 at 0.37.43.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTcxNzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/Screen Shot 2021-02-23 at 0.38.22.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTcxNzU="
+mimetype = "image/png"
+

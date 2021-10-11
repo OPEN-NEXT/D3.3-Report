@@ -1,0 +1,12 @@
+name = "time cash"
+repo = "https://wikifactory.com/@verizonnet/time-cash"
+version = "20210428083920"
+spdx-license = "N/A"
+licensor = "John Thee"
+documentation-language = "en"
+function = "using time as currency through phone"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTIxNjk="
+mimetype = "text/markdown"
+

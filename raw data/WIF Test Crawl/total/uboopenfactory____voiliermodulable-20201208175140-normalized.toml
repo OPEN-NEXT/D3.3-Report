@@ -1,0 +1,18 @@
+name = "voiliermodulable"
+repo = "https://wikifactory.com/@yquere/voiliermodulable"
+version = "20201208175140"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0OTUwMzA="
+function = "Projet Etudiant. Réalisation d'une maquette à échelle réduite d'un voilier bas-coût, personnalisable, avec des matériaux recyclés.\nlicence envisagée : CC-BY-NC-SA"
+[[files]]
+name = "/dessin-1.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTE5MzY="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTUwMzQ="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Robot test"
+repo = "https://wikifactory.com/@trocalos/robot-test"
+version = "20201209225540"
+spdx-license = "N/A"
+licensor = "Jose Luis Garcia Vazquez"
+documentation-language = "es"
+function = "Robot que pueda orientarse sin chocar mediante ultrasonidos"

@@ -1,0 +1,7 @@
+name = "Key Empire "
+repo = "https://wikifactory.com/@johnkimani440/key-empire"
+version = "20200917213135"
+spdx-license = "N/A"
+licensor = "johnkimani440"
+documentation-language = "en"
+function = "Surveillance system installation"

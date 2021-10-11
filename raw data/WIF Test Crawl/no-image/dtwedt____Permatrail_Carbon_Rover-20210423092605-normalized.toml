@@ -1,0 +1,7 @@
+name = "Permatrail Carbon Rover"
+repo = "https://wikifactory.com/@dtwedt/permatrail-carbon-rover"
+version = "20210423092605"
+spdx-license = "N/A"
+licensor = "dtwedt"
+documentation-language = "en"
+function = "Semi Autonomous Terran Rover (SATR) with soil excavation and processing technology. Solar powered. Able to create \"Biochar\" with concentrated Solar Thermal energy. Able to characterize and remediate microbial-deprived soils. Able to quietly maintain regenerative sites and landscapes."

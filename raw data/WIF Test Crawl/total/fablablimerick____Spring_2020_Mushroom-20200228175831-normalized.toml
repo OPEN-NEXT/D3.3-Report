@@ -1,0 +1,68 @@
+name = "Spring 2020: Mushroom"
+repo = "https://wikifactory.com/@javierburongarcia/spring-2020-mushroom"
+version = "20200228175831"
+spdx-license = "N/A"
+licensor = "Javier Buron"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNjE1NTM="
+function = "Work space for SAUL Spring 2020 Elective - Open sourcin' +CityxChange. Project: Mushroom"
+[[files]]
+name = "/attempt 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEzMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and PDF's/attempt 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEzMDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and PDF's/mushroom general measurments.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEzMDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Images and PDF's/render1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE0MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and PDF's/render2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE0MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/mushroom general measurments.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEzMDA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Presentation/Mushrooms 2nd Week.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5MTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Presentation/Mushrooms 2nd Week.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5MTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE0NTQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "The Code/doit32_online-offline_lighs.ino"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEyNzA="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Week 1/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5OTA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Week 2/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwMDM="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "mold making"
+repo = "https://wikifactory.com/@mokhtar/mold-making"
+version = "20200606033433"
+spdx-license = "N/A"
+licensor = "mokhtar belhadj"
+documentation-language = "en"
+function = "design and manufacturing mold tools"

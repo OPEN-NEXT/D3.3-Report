@@ -1,0 +1,8 @@
+name = "Supply Chain "
+repo = "https://wikifactory.com/@jpoulton/supply-chain-43789"
+version = "20191113155650"
+spdx-license = "N/A"
+licensor = "James Poulton"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODE5NDQ="
+function = "Initial supply chain exorcise."

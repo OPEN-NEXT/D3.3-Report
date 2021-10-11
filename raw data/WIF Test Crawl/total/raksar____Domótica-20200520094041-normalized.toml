@@ -1,0 +1,8 @@
+name = "Domótica"
+repo = "https://wikifactory.com/@raksar/domótica"
+version = "20200520094041"
+spdx-license = "N/A"
+licensor = "Jorge Miguel Silva da Silva"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTg1NjE="
+function = "Casa Inteligente"

@@ -1,0 +1,13 @@
+name = "Vertical Tower Concept"
+repo = "https://wikifactory.com/@diego/vertical-tower-concept"
+version = "20190610075216"
+spdx-license = "N/A"
+licensor = "Diego Rasero"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZToyMjUwNTA="
+function = "(Bocetos del concepto)"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUzOTI="
+mimetype = "text/markdown"
+

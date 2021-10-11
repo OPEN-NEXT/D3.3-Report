@@ -1,0 +1,83 @@
+name = "Olive Oil Regulator"
+repo = "https://wikifactory.com/@vsxco/dis"
+version = "20210209155442"
+spdx-license = "N/A"
+licensor = "Vasco Marques"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MzY1MDg="
+function = "This project counts with the development of a redesigned and improved  olive oil dispenser,  a hibrid that has the capacity to regulate the density of the liquid giving multifunctionality to the product.\nProject by Vasco Marques and João Pereira,  for the discipline of Product Design and Interaction."
+[[files]]
+name = "/Application in Space.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4ODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/B.O.M.  Bill of Materials.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/oliveoildispenser.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg2NDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Oliver_Oil_Dispenser.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4ODc="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/prancheta.final..jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY4NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg2NTc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Renders/3a377f2b-0d61-4f89-87c8-ae355eefaf3e.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4NzM="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/31de5c9e-f1df-42b6-b7c6-3077d23816d7.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4Nzc="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/84c3d57a-7a08-4af0-a82f-1d9a26f5c233.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4NzY="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/3345f3b7-deba-496b-95f5-741f2e6f78af.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4NzU="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/aae685b3-2fa7-4ceb-abc3-6c5b5e77084a.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4NzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/diyafram_2021-Feb-05_07-09-05PM-000_CustomizedView14717184233.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4NzI="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/vsss_2021-Feb-05_04-12-47AM-000_CustomizedView30445207133.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4ODA="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/vsss_2021-Feb-05_04-19-26AM-000_CustomizedView1145644494.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4Nzk="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/vsss_2021-Feb-05_12-34-57AM-000_CustomizedView3070769344.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4Nzg="
+mimetype = "image/png"
+

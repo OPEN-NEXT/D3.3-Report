@@ -1,0 +1,18 @@
+name = "Brief 01"
+repo = "https://wikifactory.com/@garowello/brief-01"
+version = "20191016164729"
+spdx-license = "N/A"
+licensor = "Gareth Owen Lloyd"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzQzMDM="
+function = "<b>Loose Associations </b>\n\n‘Hello, I’m Ryan. Erm … all these things are linked somehow, but at times the associations may be a bit loose.’ Ryan Gander\n\nIn this brief you will be exploring and expanding your subject field and identifying a line of enquiry that is individual to you."
+[[files]]
+name = "/Pecha Kucha.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQzMTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQzMTM="
+mimetype = "text/markdown"
+

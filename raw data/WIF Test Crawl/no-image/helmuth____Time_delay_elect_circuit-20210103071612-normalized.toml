@@ -1,0 +1,7 @@
+name = "Time delay elect circuit"
+repo = "https://wikifactory.com/@helmuth/time-delay-elect-circuit"
+version = "20210103071612"
+spdx-license = "N/A"
+licensor = "Helmut Hertzog"
+documentation-language = "en"
+function = "To design an electrical circuit that will activate a delay timer (activate a circulation pump) with a single bell push and automatically reset when the delay time is expired."

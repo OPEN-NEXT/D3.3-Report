@@ -1,0 +1,7 @@
+name = "Vayuenergy"
+repo = "https://wikifactory.com/@patoleakshay22/vayuenergy"
+version = "20200720164302"
+spdx-license = "N/A"
+licensor = "Akshay Bhausaheb Patole "
+documentation-language = "en"
+function = "Portable home windmill"

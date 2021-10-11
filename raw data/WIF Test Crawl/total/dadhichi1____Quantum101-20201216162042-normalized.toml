@@ -1,0 +1,7 @@
+name = "Quantum101"
+repo = "https://wikifactory.com/@dadhichi1/quantum101"
+version = "20201216162042"
+spdx-license = "N/A"
+licensor = "Dadhichi Tripathi"
+documentation-language = "pt"
+function = "Do a quantum computer modeling"

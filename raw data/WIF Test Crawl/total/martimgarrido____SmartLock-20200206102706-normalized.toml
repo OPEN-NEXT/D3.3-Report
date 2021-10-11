@@ -1,0 +1,7 @@
+name = "SmartLock"
+repo = "https://wikifactory.com/@martimgarrido/smartlock"
+version = "20200206102706"
+spdx-license = "N/A"
+licensor = "Martim Garrido"
+documentation-language = "en"
+function = "My project is a lock that opens not only with a key, but also with a RFId card and/or a code"

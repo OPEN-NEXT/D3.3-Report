@@ -1,0 +1,53 @@
+name = "Otto Gonk Droid"
+repo = "https://wikifactory.com/@joedaniels1996/otto-gonk-droid"
+version = "20191224153824"
+spdx-license = "N/A"
+licensor = "joedaniels1996"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyOTE5NDE="
+function = "To celebrate Star Wars, this Otto robot has been customized to resemble a small 'Gonk Droid'! The final prototype will include sounds used for this droid in the films."
+[[files]]
+name = "/Body.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyOTE5NDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Final Render 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTE5NTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Final Render 4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTE5NTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Final Render 5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTE5NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Final Render 6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTE5NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/final.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTE5NDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Head.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyOTE5NDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Leg.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyOTE5NDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTE5Njk="
+mimetype = "text/markdown"
+

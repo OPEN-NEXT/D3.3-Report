@@ -1,0 +1,33 @@
+name = "Gesture control"
+repo = "https://wikifactory.com/@stoneflower3d/gesture-control"
+version = "20210406103210"
+spdx-license = "N/A"
+licensor = "Anatoly Berezkin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1OTIyMTY="
+function = "Gesture control combined with numerically controlled manipulation in 3 dimensions opens enormous possibilities for art and research applications. In this project i'm going to combine this technique with technology of 3d paste/liquid extrusion."
+[[files]]
+name = "/Leap3DControl.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE1MDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/LeapScript_arm.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE1MDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/LeapScriptprinter.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE1MDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzYwMzI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/roboticarm.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE1MDY="
+mimetype = "text/x-c"
+

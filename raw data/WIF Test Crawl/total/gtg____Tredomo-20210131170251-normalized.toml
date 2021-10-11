@@ -1,0 +1,7 @@
+name = "Tredomo"
+repo = "https://wikifactory.com/@gtg/tredomo"
+version = "20210131170251"
+spdx-license = "N/A"
+licensor = "Mohammed Algazzar"
+documentation-language = "en"
+function = "Integrated validation and monitoring system for biologics"

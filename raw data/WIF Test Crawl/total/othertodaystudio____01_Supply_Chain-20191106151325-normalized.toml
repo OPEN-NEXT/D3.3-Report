@@ -1,0 +1,18 @@
+name = "01 Supply Chain"
+repo = "https://wikifactory.com/@josephine/brief"
+version = "20191106151325"
+spdx-license = "N/A"
+licensor = "Josephine Choy"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzkwMDI="
+function = "Brief 01: Supply chain for coffee beans"
+[[files]]
+name = "/coffee beans supply chain.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkwMDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkwMTM="
+mimetype = "text/markdown"
+

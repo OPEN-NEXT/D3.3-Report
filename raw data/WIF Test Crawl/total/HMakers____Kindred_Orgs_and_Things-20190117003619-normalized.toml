@@ -1,0 +1,18 @@
+name = "Kindred Orgs and Things"
+repo = "https://wikifactory.com/@nlundman/kindred-orgs-and-things"
+version = "20190117003619"
+spdx-license = "N/A"
+licensor = "Naiomi Lundman"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxODkwOA=="
+function = "This is an attempt to map the space and catalog hundreds of solutions, in over a dozen Collections, created by 30 Organizations (and growing), many of which are collaborating.\nInitiated by Jon Schull, founder of e-Nable.org."
+[[files]]
+name = "/Jon_Schull_map_readme.docx"
+permalink = "https://wikifactory.com/files/RmlsZToxODkwOQ=="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQ3MjA="
+mimetype = "text/markdown"
+

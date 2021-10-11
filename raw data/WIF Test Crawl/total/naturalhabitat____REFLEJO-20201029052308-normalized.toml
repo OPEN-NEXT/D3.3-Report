@@ -1,0 +1,28 @@
+name = "REFLEJO"
+repo = "https://wikifactory.com/@naturalhabitat/reflejo"
+version = "20201029052308"
+spdx-license = "N/A"
+licensor = "REFLEJO"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTgwOTY="
+function = "REFLEJO (REFLECTION) is a spatial structure that offers a sensorial experience in its interior. It is designed to increase mental wellness by interpreting climactic data in real time to stimulate inner peace for the user, while facilitating a deep connection with themselves and the environment."
+[[files]]
+name = "Design/8f0b305a-2801-4ef2-9ba9-e0eb2daf2ef3.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTgxMDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Design/61208c7a-8bd7-48e5-b1b7-1be3fb5d3eef.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTgxMDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Design/f08c7d3a-04d5-4c5f-931a-48cc0ce43b51.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTgxMDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjAxNDU="
+mimetype = "text/markdown"
+

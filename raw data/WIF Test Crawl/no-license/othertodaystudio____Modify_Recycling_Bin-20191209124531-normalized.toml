@@ -1,0 +1,13 @@
+name = "Modify Recycling Bin"
+repo = "https://wikifactory.com/@cummingfin/modify-recycling-bin"
+version = "20191209124531"
+spdx-license = "N/A"
+licensor = "cummingfin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODk0OTY="
+function = "In this project I have modified a recycling bin along with the system of recycling collection in order to improve the efficiency of collection and storage or recycled waste. My aim is to make recycling system more cost efficient in an effort to allow people to monetise of their own waste."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk0OTM="
+mimetype = "text/markdown"
+

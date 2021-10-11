@@ -1,0 +1,7 @@
+name = "perros"
+repo = "https://wikifactory.com/@szeb/perros"
+version = "20210113162504"
+spdx-license = "N/A"
+licensor = "Sebastian acuna"
+documentation-language = "ca"
+function = "Historia clinica para animales"

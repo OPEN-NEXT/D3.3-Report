@@ -1,0 +1,12 @@
+name = "Findlay Cumming Term 2 "
+repo = "https://wikifactory.com/@cummingfin/findlay-cumming-term-2"
+version = "20200120144025"
+spdx-license = "N/A"
+licensor = "cummingfin"
+documentation-language = "en"
+function = "Looking into the reusability of waste"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTk2ODc="
+mimetype = "text/markdown"
+

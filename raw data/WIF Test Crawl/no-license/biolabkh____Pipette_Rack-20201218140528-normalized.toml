@@ -1,0 +1,28 @@
+name = "Pipette Rack"
+repo = "https://wikifactory.com/@commodore/pipette-rack"
+version = "20201218140528"
+spdx-license = "N/A"
+licensor = "Prince Samoh"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MDMwOTI="
+function = "Pipette stands are used to hold pipettes to reduce cross contamination between pipettes and from benchtops. The high cost of buying one influenced our decision to build one for use in our lab."
+[[files]]
+name = "/Design Images.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDMwMzM="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/Rack Base.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDMwMzc="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "/Rack Stand.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDMwMzY="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "/Rack Top.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDMwMzU="
+mimetype = "image/vnd.dwg"
+

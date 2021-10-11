@@ -1,0 +1,12 @@
+name = "ARDUINO"
+repo = "https://wikifactory.com/@lababertofablab/arduino"
+version = "20210423105820"
+spdx-license = "N/A"
+licensor = "LAB ABERTO FAB LAB"
+documentation-language = "pt"
+function = "Breve introduço ao ARDUINO com a utilizaçao de sensores e actuadores. Este projecto   patrocinado pela MAUSER, mauser.pt"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTAzMjg="
+mimetype = "text/markdown"
+

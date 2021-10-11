@@ -1,0 +1,7 @@
+name = "Bomb disposal robot"
+repo = "https://wikifactory.com/@chamika9999/bomb-disposal-robot"
+version = "20200623000358"
+spdx-license = "N/A"
+licensor = "Chamika Ravindu Ekanayaka"
+documentation-language = "en"
+function = "to build a bomb disposal unit with AI, Radio jammers, a controllable arm, and a rover type subframe in order to save lives that might be at risk in the battle field for a low cost"

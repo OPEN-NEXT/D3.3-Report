@@ -1,0 +1,13 @@
+name = "The Hawaiian set"
+repo = "https://wikifactory.com/@kacajaksic/modular-fablab-project"
+version = "20200316090251"
+spdx-license = "N/A"
+licensor = "Katarina"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTA2MjA="
+function = "This is my blog for during the class Digital Fabrication. Here I will create a new parametric, flat, foldable and modular fabric."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTczMDU="
+mimetype = "text/markdown"
+

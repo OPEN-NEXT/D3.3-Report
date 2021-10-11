@@ -1,0 +1,7 @@
+name = "CNC"
+repo = "https://wikifactory.com/@zaq201601997/cnc"
+version = "20200928144348"
+spdx-license = "N/A"
+licensor = "zaq201601997"
+documentation-language = "en"
+function = "CNC"

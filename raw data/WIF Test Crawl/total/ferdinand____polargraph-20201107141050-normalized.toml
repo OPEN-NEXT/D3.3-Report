@@ -1,0 +1,13 @@
+name = "polargraph"
+repo = "https://wikifactory.com/@ferdinand/polargraph"
+version = "20201107141050"
+spdx-license = "N/A"
+licensor = "Ferdinand"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NDk4Njg="
+function = "polar robot"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk4NDM="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "My project"
+repo = "https://wikifactory.com/@danyelangel/my-project"
+version = "20201218210803"
+spdx-license = "N/A"
+licensor = "danyelangel"
+documentation-language = "ca"
+function = "My project description"

@@ -1,0 +1,32 @@
+name = "Dr. AC"
+repo = "https://wikifactory.com/@in5ni8/dr-ac"
+version = "20201225172249"
+spdx-license = "N/A"
+licensor = "Aks S R"
+documentation-language = "en"
+function = "Smart Plug and Play IAQ Monitoring and Air Quality Control Device based on Wifi and Bluetooth"
+[[files]]
+name = "/Basic Option View (1)"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDkxNjI="
+mimetype = "image/png"
+
+[[files]]
+name = "/Market Gap Comparison Overview"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDkxNjU="
+mimetype = "image/png"
+
+[[files]]
+name = "/Premium Option View (1)"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDkxNjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/Premium Option View(2)"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDkxNjM="
+mimetype = "image/png"
+
+[[files]]
+name = "/Title Picture"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDkxNjE="
+mimetype = "image/png"
+

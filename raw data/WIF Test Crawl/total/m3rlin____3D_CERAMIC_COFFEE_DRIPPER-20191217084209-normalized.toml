@@ -1,0 +1,17 @@
+name = "3D CERAMIC COFFEE DRIPPER"
+repo = "https://wikifactory.com/@joana/3d-ceramic-coffee-dripper"
+version = "20191217084209"
+spdx-license = "N/A"
+licensor = "Joana Schmitz"
+documentation-language = "en"
+function = "How can the material qualities of 3D printed ceramics be utilised in functional ways? Unlike traditional slip casting, 3D printed ceramics allows for non-realising forms and create extremely fine and accurate structures. Let's develop products that take advantage of that!"
+[[files]]
+name = "/coffee_dripper.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDc1NTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDc3MDQ="
+mimetype = "text/markdown"
+

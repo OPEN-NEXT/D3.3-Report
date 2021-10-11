@@ -1,0 +1,7 @@
+name = "WIND"
+repo = "https://wikifactory.com/@inventcorp/wind"
+version = "20210116071500"
+spdx-license = "N/A"
+licensor = "Michael Kent Fluge"
+documentation-language = "en"
+function = "WIND SYSTEM TO GENERATE ENERGY."

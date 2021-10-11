@@ -1,0 +1,43 @@
+name = "DS006 - Cup holder "
+repo = "https://wikifactory.com/@brynmorjohn/wheelchair-cup-holder"
+version = "20190505161053"
+spdx-license = "N/A"
+licensor = "Brynmor John"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDkyMzM="
+function = "DS006\n\nA holder that attaches to the wheelchairs arms, providing a storge for a cup"
+[[files]]
+name = "CAD & Drawing Pack/CAD Data/DS006_CAD_Assy.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyMDc3MjU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD & Drawing Pack/CAD Data/DS006_CAD_Clamp1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMDc3MjQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD & Drawing Pack/CAD Data/DS006_CAD_Clamp2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMDc3MjM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD & Drawing Pack/CAD Data/DS006_CAD_Holder.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMDc3MjI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD & Drawing Pack/ENG DWG/DS006_Eng_Dwg.PDF"
+permalink = "https://wikifactory.com/files/RmlsZToyMDc3Mjg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "CAD & Drawing Pack/ENG DWG/DS006_Eng_Dwg.SLDDRW"
+permalink = "https://wikifactory.com/files/RmlsZToyMDc3Mjc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkwNzk="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "inverter design"
+repo = "https://wikifactory.com/@albert3404/inverter-design"
+version = "20210125223154"
+spdx-license = "N/A"
+licensor = "Righteous  Albert"
+documentation-language = "en"
+function = "how to program different micro-controllers and how to design, build and organize a pure sine wave inverter and modified sine wave inverter"

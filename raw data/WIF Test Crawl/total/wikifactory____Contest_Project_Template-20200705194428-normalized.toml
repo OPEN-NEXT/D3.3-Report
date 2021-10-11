@@ -1,0 +1,18 @@
+name = "Contest Project Template"
+repo = "https://wikifactory.com/@flowalistik/contest-project-template"
+version = "20200705194428"
+spdx-license = "CC0-1.0"
+licensor = "Agustín \"Flowalistik\" Arroyo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzM5NDc="
+function = "A template that will help you develop a great project for any Wikifactory contest.\n\nSimply <a href=\"https://wikifactory.com/+wikifactory/contest-project-template/files\">download</a> the Template and upload it into the Drive of a new Project to guide your product development."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg5NjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA3MDI="
+mimetype = "text/markdown"
+

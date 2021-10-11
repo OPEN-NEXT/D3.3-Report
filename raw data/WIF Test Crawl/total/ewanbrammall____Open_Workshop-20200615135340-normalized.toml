@@ -1,0 +1,68 @@
+name = "Open Workshop"
+repo = "https://wikifactory.com/@ewanbrammall/open-workshop"
+version = "20200615135340"
+spdx-license = "N/A"
+licensor = "Ewan Brammall"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzcxNDM="
+function = "Name: Ewan Brammall\nProject: Open Workshop\nSTUDIO : Other Today<br />\nPERSONAL URL: www.ewanbrammall.co.uk , https://www.instagram.com/ewanbrammall/?hl=en\ufeff<br />"
+[[files]]
+name = "/Assem1.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTozODA0OTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Back peice.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODA0Nzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Bottom Piece.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODA0ODE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/clip.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODA0Nzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Corner piece 45 2 way.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODA0ODU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Corner piece new.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODA0ODg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Corner piece vert 2.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODA0ODY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Final Wheel v2.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTozODA0OTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Front piece.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODA0Nzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/grip.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODA0NzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODIwODc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/teeth 2.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODA0NzU="
+mimetype = "application/sla"
+

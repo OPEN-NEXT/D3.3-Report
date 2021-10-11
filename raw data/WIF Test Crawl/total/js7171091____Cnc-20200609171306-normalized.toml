@@ -1,0 +1,7 @@
+name = "Cnc"
+repo = "https://wikifactory.com/@js7171091/cnc"
+version = "20200609171306"
+spdx-license = "N/A"
+licensor = "js7171091"
+documentation-language = "en"
+function = "Cnc machine"

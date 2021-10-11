@@ -1,0 +1,93 @@
+name = "Plant Shelter"
+repo = "https://wikifactory.com/@joaoinocencio/plant-shelter"
+version = "20200607190817"
+spdx-license = "N/A"
+licensor = "Joao Daniel Abaladas Inocêncio"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzMwODc="
+function = "A shelter for plants, in which they are protected from the adverse climate of the outside, and can be safely cultivated and consumed."
+[[files]]
+name = "/ageroz curv.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjYyMjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/algeroz.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjYxOTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Junction.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjYxODE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzU4MTc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/shelter img.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjYxNTI="
+mimetype = "image/png"
+
+[[files]]
+name = "/Shelter.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjI5MDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Sketches/esboços 1.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM5ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/esboços 2.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM5ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/esboços 3.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM5ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/esboços 4.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM5ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/esboços 5.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM5ODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/esboços 6.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM5ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/esboços 7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM5NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/esboços 8.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM5NzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/esboços 9.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM5Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/esboços 10.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM5Njg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/esboços 11.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM5ODA="
+mimetype = "image/jpeg"
+

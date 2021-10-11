@@ -1,0 +1,7 @@
+name = "CNC and 3D printing"
+repo = "https://wikifactory.com/@tshewangjamtsho/cnc-and-3d-printing"
+version = "20200811172612"
+spdx-license = "N/A"
+licensor = "tshewangj amtsho"
+documentation-language = "en"
+function = "Working on building a simple CNC machine with 3D printing features"

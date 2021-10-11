@@ -1,0 +1,13 @@
+name = "e-NABLE OT consultancy"
+repo = "https://wikifactory.com/@jonschull/e-nable-ot-consultancy"
+version = "20190911151515"
+spdx-license = "N/A"
+licensor = "Jon Schull"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTQxMzU="
+function = "This is a placeholder for the Private e-NABLE OT consultancy project."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTU4NTM="
+mimetype = "text/markdown"
+

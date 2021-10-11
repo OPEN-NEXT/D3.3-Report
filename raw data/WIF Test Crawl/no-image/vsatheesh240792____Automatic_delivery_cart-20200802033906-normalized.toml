@@ -1,0 +1,7 @@
+name = "Automatic delivery cart "
+repo = "https://wikifactory.com/@vsatheesh240792/automatic-delivery-cart"
+version = "20200802033906"
+spdx-license = "N/A"
+licensor = "vsatheesh240792"
+documentation-language = "en"
+function = "Delivery of groceries, food and other products to door to door"

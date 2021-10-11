@@ -1,0 +1,7 @@
+name = "Peoplevolution"
+repo = "https://wikifactory.com/@rebornin3d/peoplevolution"
+version = "20210219001448"
+spdx-license = "N/A"
+licensor = "Florin Vasilescu"
+documentation-language = "en"
+function = "A fully transparent NGO with the purpose of helping people in poverty.A platform where everybody can see how much everybody else donated  and the receipts of how much the NGO has spent on everything.The donators would be in teams and would have a chat room."

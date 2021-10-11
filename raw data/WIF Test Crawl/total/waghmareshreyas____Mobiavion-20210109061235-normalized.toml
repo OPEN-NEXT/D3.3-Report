@@ -1,0 +1,12 @@
+name = "Mobiavion"
+repo = "https://wikifactory.com/@waghmareshreyas/mobiavion"
+version = "20210109061235"
+spdx-license = "N/A"
+licensor = "Shreyas Waghmare"
+documentation-language = "en"
+function = "Mobiavion is a drone that can carry your mobile to capture unique memories for solo travelers enahncing their photography  experience. I have no experienc on drone design and need people who can help me design it based on requirement I have. waghmareshreyas@gmail.com for more info"
+[[files]]
+name = "/MobiAvion_Image1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTU1Mjk="
+mimetype = "image/png"
+

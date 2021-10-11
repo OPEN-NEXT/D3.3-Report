@@ -1,0 +1,43 @@
+name = "Bosch/Ryobi Dust Extract"
+repo = "https://wikifactory.com/@davidbozec/boschryobi-dust-extract"
+version = "20200522090339"
+spdx-license = "N/A"
+licensor = "David Bozec"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTk4Nzc="
+function = "I wanted to get rid of my multiple adapters to plug my Bosch Dust Extractor to my Ryobi Orbital Sander, so I designed this."
+[[files]]
+name = "/20200522_102547.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk5MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20200522_102629.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk5MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20200522_102733.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk5MDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/OrbitalSanderAdapter.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk4OTk="
+mimetype = "application/x-extension-fcstd"
+
+[[files]]
+name = "/OrbitalSanderAdapter.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk4OTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/OrbitalSanderAdapter.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk4OTc="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk4OTQ="
+mimetype = "text/markdown"
+

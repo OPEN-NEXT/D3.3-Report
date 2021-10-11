@@ -1,0 +1,7 @@
+name = "Proyecto para Perú"
+repo = "https://wikifactory.com/@jesusquintoc/proyecto-para-perú"
+version = "20200621160122"
+spdx-license = "N/A"
+licensor = "jesusquintoc"
+documentation-language = "es"
+function = "Desarrollar maquina automática para realizar ensayos de control de calidad en laboratorios de suelos concreto y asfalto, prensa de California ratio o bearing Automatic."

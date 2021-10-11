@@ -1,0 +1,13 @@
+name = "Mask Armor"
+repo = "https://wikifactory.com/@dustin9710/mask-armor"
+version = "20200704143612"
+spdx-license = "N/A"
+licensor = "Ho Dustin Pak Lam"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDE1ODc="
+function = "Mask armor is a multipurpose personal protection equipment (PPE). It was designed to be used in conjunction with surgical masks, as well as act a temporary mask storage to protect the user from COVID-19."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDE1ODQ="
+mimetype = "text/markdown"
+

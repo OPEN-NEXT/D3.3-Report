@@ -1,0 +1,23 @@
+name = "Banco de Arrumação"
+repo = "https://wikifactory.com/@patriciaabasilio/banco-de-arrumação"
+version = "20191111231314"
+spdx-license = "N/A"
+licensor = "patriciaabasilio"
+documentation-language = "ca"
+image = "https://wikifactory.com/files/RmlsZTozNTExMTA="
+function = "Banco de Benfica"
+[[files]]
+name = "/banco de benfica.f3d"
+permalink = "https://wikifactory.com/files/RmlsZToyODA4Mjk="
+mimetype = "application/zip"
+
+[[files]]
+name = "/BANCO.step"
+permalink = "https://wikifactory.com/files/RmlsZToyODA4Mjg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/pdf.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyODA4MzA="
+mimetype = "application/pdf"
+

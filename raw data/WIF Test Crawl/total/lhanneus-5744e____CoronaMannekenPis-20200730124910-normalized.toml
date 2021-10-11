@@ -1,0 +1,8 @@
+name = "CoronaMannekenPis"
+repo = "https://wikifactory.com/@lhanneus-5744e/coronamanbekenpis"
+version = "20200730124910"
+spdx-license = "N/A"
+licensor = "Hanneuse Luc"
+documentation-language = "nl"
+image = "https://wikifactory.com/files/RmlsZTo0MTcxODY="
+function = "An advanced CoronaManbekenPis"

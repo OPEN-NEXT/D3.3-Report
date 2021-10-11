@@ -1,0 +1,7 @@
+name = "Drivetest"
+repo = "https://wikifactory.com/@alexmullerdesign/drivetest"
+version = "20201221175535"
+spdx-license = "N/A"
+licensor = "Alex Muller"
+documentation-language = "en"
+function = "drive test"

@@ -1,0 +1,58 @@
+name = "CompOttO"
+repo = "https://wikifactory.com/@elc0mpa/otto"
+version = "20190714140812"
+spdx-license = "N/A"
+licensor = "José Gabriel Companioni "
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDExMzA="
+function = "This is an Otto DIY based on Raspberry Pi Zero W and arduino nano. The original Otto DIY .stl files were impressed and the updgrades were done without using 3d printers. In order to use digital image processing we used a Raspberry Pi Camera"
+[[files]]
+name = "Code/_3_SerialTest.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1OTY="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Code/CompOtto.py"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1Njg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Code/utils.py"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1Njc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Pictures/IMG_20190713_220732.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1ODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20190713_220743.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1ODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20190713_220752.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1ODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20190713_220801.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20190713_220812.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20190713_220832.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20190713_220909.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1ODI="
+mimetype = "image/jpeg"
+

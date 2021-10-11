@@ -1,0 +1,58 @@
+name = "High Stool"
+repo = "https://wikifactory.com/@botler/high-stool"
+version = "20190411121439"
+spdx-license = "CC-BY-4.0"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTUyNDA="
+function = "The stools have an ergonomic design, again, based on Triangulations. Most are arranged in the bar, forming a elevation in which the letters L – E – K – A play within the ensemble."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxOTUyMzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Print Files/Letras_Taburete_FAB.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToxOTUyNTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Print Files/Stool_SOCKS.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToxOTUyNTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Print Files/Stool_SOCKS.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToxOTUyNTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Print Files/Taburete.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToxOTUyNDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Print Files/Taburete_05_3.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToxOTUyNDk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Print Files/Taburete_05_3.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToxOTUyNDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Print Files/Taburete_05_3.gh"
+permalink = "https://wikifactory.com/files/RmlsZToxOTUyNDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Print Files/Taburete_D02_Fab.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToxOTUyNDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Print Files/Taburete_D02_Fab.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToxOTUyNDM="
+mimetype = "text/plain"
+

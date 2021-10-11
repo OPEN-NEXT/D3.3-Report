@@ -1,0 +1,7 @@
+name = "Cnc"
+repo = "https://wikifactory.com/@moloch1357/cnc"
+version = "20201012151052"
+spdx-license = "N/A"
+licensor = "moloch1357"
+documentation-language = "en"
+function = "Auto"

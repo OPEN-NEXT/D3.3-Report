@@ -1,0 +1,7 @@
+name = "Planter"
+repo = "https://wikifactory.com/@bornoffire/planter"
+version = "20210427181739"
+spdx-license = "N/A"
+licensor = "Adrian Leeck"
+documentation-language = "en"
+function = "Planter sensor"

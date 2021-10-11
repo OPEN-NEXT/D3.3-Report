@@ -1,0 +1,18 @@
+name = "OS Herb Grinder"
+repo = "https://wikifactory.com/@diego/os-herb-grinder"
+version = "20190610085554"
+spdx-license = "N/A"
+licensor = "Diego Rasero"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTI4MTg="
+function = "OpenSource Herb Grinder, it was designed to be as flat as possible."
+[[files]]
+name = "/tapa1.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI4MTM="
+mimetype = "application/x-openscad"
+
+[[files]]
+name = "/tapa2.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI4NTY="
+mimetype = "application/x-openscad"
+

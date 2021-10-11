@@ -1,0 +1,13 @@
+name = "ReviveBeau "
+repo = "https://wikifactory.com/@selinasahans/selina-sahans-portfolio"
+version = "20200326143658"
+spdx-license = "N/A"
+licensor = "Selina Sahans"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjA4MjU="
+function = "How might we use makeup to improve our mental/physical wellbeing?"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjQzNzM="
+mimetype = "text/markdown"
+

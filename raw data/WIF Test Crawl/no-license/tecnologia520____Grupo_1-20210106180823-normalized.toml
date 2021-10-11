@@ -1,0 +1,12 @@
+name = "Grupo 1"
+repo = "https://wikifactory.com/@nunop/grupo-1"
+version = "20210106180823"
+spdx-license = "N/A"
+licensor = "nunop"
+documentation-language = "hr"
+function = "Projeto livre da UC Tecnologia 5"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQxMjk="
+mimetype = "text/markdown"
+

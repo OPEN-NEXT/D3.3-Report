@@ -1,0 +1,13 @@
+name = "The SmartBrush"
+repo = "https://wikifactory.com/@alexwitty/the-smartbrush"
+version = "20201028151556"
+spdx-license = "N/A"
+licensor = "Alex Witty"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTk4MjY="
+function = "This is the SmartBrush, a technologically advanced toothbrush that allows the user to monitor the state of their own oral health from the comfort of their home."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk0MDU="
+mimetype = "text/markdown"
+

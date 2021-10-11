@@ -1,0 +1,18 @@
+name = "The Challenge"
+repo = "https://wikifactory.com/@rebel/the-challenge"
+version = "20190629150503"
+spdx-license = "N/A"
+licensor = "Christina Rebel"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTY1Mjk="
+function = "Start a project inside the Hackathon to share resources and information with participants!"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY1MzQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "TEMPLATE/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY1MzY="
+mimetype = "text/plain"
+

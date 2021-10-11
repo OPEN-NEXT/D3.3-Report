@@ -1,0 +1,13 @@
+name = "Lilipil ceramic 3dprinter"
+repo = "https://wikifactory.com/@lilipil/lilipil-ceramic-3dprinter"
+version = "20200728220503"
+spdx-license = "N/A"
+licensor = "Anton Art"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTQ3OTE="
+function = "My progress on building and using the multicolor ceramic 3d printer."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTY2MDA="
+mimetype = "text/markdown"
+

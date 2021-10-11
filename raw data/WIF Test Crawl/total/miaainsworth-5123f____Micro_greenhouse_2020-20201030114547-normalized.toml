@@ -1,0 +1,13 @@
+name = "Micro greenhouse 2020"
+repo = "https://wikifactory.com/@miaainsworth-5123f/micro-greenhouse-2020"
+version = "20201030114547"
+spdx-license = "N/A"
+licensor = "Mia Ainsworth"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NjI0NjE="
+function = "Digital technology module"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI0NTk="
+mimetype = "text/markdown"
+

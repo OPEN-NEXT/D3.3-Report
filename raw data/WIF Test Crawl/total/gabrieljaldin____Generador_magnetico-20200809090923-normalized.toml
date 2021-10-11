@@ -1,0 +1,7 @@
+name = "Generador magnetico"
+repo = "https://wikifactory.com/@gabrieljaldin/generador-magnetico"
+version = "20200809090923"
+spdx-license = "N/A"
+licensor = "Gabriel Jaldin peralta"
+documentation-language = "es"
+function = "\ufefftransgeneragor magnético es un generador de energía libre que a partir de la fuerza magnética direccionada y amplificada de manera eficiente logrando una fuente segura de energía para un consumo promedio de una vivienda familiar."

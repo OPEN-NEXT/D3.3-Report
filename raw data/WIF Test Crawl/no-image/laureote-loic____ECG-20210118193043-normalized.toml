@@ -1,0 +1,7 @@
+name = "ECG"
+repo = "https://wikifactory.com/@laureote-loic/ecg"
+version = "20210118193043"
+spdx-license = "N/A"
+licensor = "Loïc Lauréote"
+documentation-language = "en"
+function = "ecg"

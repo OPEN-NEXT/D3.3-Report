@@ -1,0 +1,12 @@
+name = "3D PRINTED VENTILATOR"
+repo = "https://wikifactory.com/@digitaldentalacademy/3d-printed-ventilator"
+version = "20200316123754"
+spdx-license = "N/A"
+licensor = "Adam Nulty"
+documentation-language = "en"
+function = "Heres my idea. The Digital Dentistry scene quite possibly has the largest variety and collection of 3D printers outside of engineers.\nPerhaps not even the actual ventilator, but parts required, intubators. Perhaps even biocompatible parts hospital services may need in vast quantities."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc0NDE="
+mimetype = "text/markdown"
+

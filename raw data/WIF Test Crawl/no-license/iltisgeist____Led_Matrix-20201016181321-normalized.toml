@@ -1,0 +1,18 @@
+name = "Led Matrix"
+repo = "https://wikifactory.com/@iltisgeist/led-matrix"
+version = "20201016181321"
+spdx-license = "N/A"
+licensor = "Engel Thomas"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTQxOTQ="
+function = "This is a practical tool to e.g. Transferring information via smartphone to mobile phones via bluetooth."
+[[files]]
+name = "/LED_Matrix v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQyMjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQyMzE="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "CVG19"
+repo = "https://wikifactory.com/@sarveshpathakit/cvg19"
+version = "20200921021609"
+spdx-license = "N/A"
+licensor = "sarveshpathakit"
+documentation-language = "en"
+function = "COVID19 safety glass"

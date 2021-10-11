@@ -1,0 +1,13 @@
+name = "Eyebrow - RC Skateboard"
+repo = "https://wikifactory.com/@josephlyons/eyebrow-rc-skateboard"
+version = "20200325002146"
+spdx-license = "N/A"
+licensor = "Joseph Lyons"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjEwMjA="
+function = "Tony Hawk Circuit Board RC Skateboard hack for Eyebrow Control."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjMyMjY="
+mimetype = "text/markdown"
+

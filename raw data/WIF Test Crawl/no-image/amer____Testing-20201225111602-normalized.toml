@@ -1,0 +1,7 @@
+name = "Testing"
+repo = "https://wikifactory.com/@amer/testing"
+version = "20201225111602"
+spdx-license = "N/A"
+licensor = "Amer Hamayel"
+documentation-language = "en"
+function = "T"

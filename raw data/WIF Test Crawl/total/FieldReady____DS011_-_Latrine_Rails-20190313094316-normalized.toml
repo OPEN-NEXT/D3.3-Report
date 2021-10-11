@@ -1,0 +1,78 @@
+name = "DS011 - Latrine Rails"
+repo = "https://wikifactory.com/@brynmorjohn/ds011-latrine-rails"
+version = "20190313094316"
+spdx-license = "N/A"
+licensor = "Brynmor John"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDQxNDQ="
+function = "To aid in safe and easy transfers between wheelchair and latrine"
+[[files]]
+name = "CAD Data/DS011_CAD_Assy.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQxNTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/DS011_CAD_Board.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQxNTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/DS011_CAD_Cap.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQxNTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/DS011_CAD_Elbow.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQxNTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/DS011_CAD_M8_Bar.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQxNTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/DS011_CAD_M8_Nut.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQxNDk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/DS011_CAD_Pipe40.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQxNDg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/DS011_CAD_Pipe45.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQxNDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/DS011_CAD_Pipe70.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQxNDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/DS011_CAD_Pipe75.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQxNDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Manual.pptx"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQxNTY="
+mimetype = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTM5MTU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Risk_Assessment_Template.docx"
+permalink = "https://wikifactory.com/files/RmlsZToxNDU2MTU="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/Testing_Template.docx"
+permalink = "https://wikifactory.com/files/RmlsZToxNDYwOTc="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+

@@ -1,0 +1,13 @@
+name = "FabForm"
+repo = "https://wikifactory.com/@medchedli/fabform"
+version = "20210109231051"
+spdx-license = "N/A"
+licensor = "Mohamed Chedli Ben Yaghlane"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTU3MTM="
+function = "Open Source Hardware fabbable Vacuum Forming Machine. We will be publishing the initial prototype documentation very soon. If you are interested in the idea follow the project for updates. #vaccum-forming #OSHW"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTU3MTQ="
+mimetype = "text/markdown"
+

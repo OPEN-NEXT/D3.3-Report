@@ -1,0 +1,7 @@
+name = "Interior design"
+repo = "https://wikifactory.com/@slimbagamoyo84/interior-design"
+version = "20200524175529"
+spdx-license = "N/A"
+licensor = "slimbagamoyo84"
+documentation-language = "en"
+function = "Design and build house"

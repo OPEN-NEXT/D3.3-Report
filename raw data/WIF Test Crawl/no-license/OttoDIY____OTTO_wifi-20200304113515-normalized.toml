@@ -1,0 +1,13 @@
+name = "OTTO wifi"
+repo = "https://wikifactory.com/@samael/otto-wifi"
+version = "20200304113515"
+spdx-license = "N/A"
+licensor = "Gabriel"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTozMTE3ODc="
+function = "Es el comienzo del proyecto OTTO wifi:\nEn donde OTTO es controlado a través de una página web."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE3OTQ="
+mimetype = "text/markdown"
+

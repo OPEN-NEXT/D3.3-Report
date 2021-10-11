@@ -1,0 +1,7 @@
+name = "Soap holder"
+repo = "https://wikifactory.com/@marcosshayo1/soap-holder"
+version = "20210109115001"
+spdx-license = "N/A"
+licensor = "Marcos Shayo "
+documentation-language = "en"
+function = "Make a soap holder with a hanger"

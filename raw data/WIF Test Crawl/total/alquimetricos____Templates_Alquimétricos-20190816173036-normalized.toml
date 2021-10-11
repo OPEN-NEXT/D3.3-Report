@@ -1,0 +1,53 @@
+name = "Templates Alquimétricos"
+repo = "https://wikifactory.com/@ferdaguanno/templates"
+version = "20190816173036"
+spdx-license = "CC-BY-4.0"
+licensor = "ferdaguanno"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDEyNjc="
+function = "Alquimétricos /al.kiˈmɛ.tɾi.kos/ are meant to be produced locally either digitally or manually. \nFor handcraft fabrication, it is very usefull to have a template that allows kids and adults to transfer the alquimetricos hub design to the material."
+[[files]]
+name = "/Alquimétricos - template hex large.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNDEzMDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Alquimétricos - template hex small.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNDEzMTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Alquimétricos - template hex small.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDEzMTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Alquimétricos - template pent large.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNDEzMTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Alquimétricos - template pent small.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNDEzMTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Alquimétricos - template pent small.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDEzMTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/alquimétricos template pent large.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDEzMTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDEyNjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDEzMjE="
+mimetype = "text/markdown"
+

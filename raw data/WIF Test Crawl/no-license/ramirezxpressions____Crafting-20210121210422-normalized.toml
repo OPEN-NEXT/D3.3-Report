@@ -1,0 +1,7 @@
+name = "Crafting"
+repo = "https://wikifactory.com/@ramirezxpressions/crafting"
+version = "20210121210422"
+spdx-license = "N/A"
+licensor = "Celso Ramirez"
+documentation-language = "en"
+function = "Crafting with paper, wood, cement"

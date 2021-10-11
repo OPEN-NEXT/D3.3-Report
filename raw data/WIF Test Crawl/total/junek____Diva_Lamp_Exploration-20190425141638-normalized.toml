@@ -1,0 +1,18 @@
+name = "Diva Lamp Exploration "
+repo = "https://wikifactory.com/@junek/diva-lamp-exploration"
+version = "20190425141638"
+spdx-license = "N/A"
+licensor = "June Kim"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTY0MTM="
+function = "I took a designer lamp (Diva Lamp by Northern Lighting) and underwent multiple iterations to imitation, iterate and improvisation on the design and to create my own lamp from the process. \n\u200b\n\n\u200b\n\n\u200b\n\n\u200b\n\n\u200b\n\n\u200b"
+[[files]]
+name = "images/diva.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0MTE="
+mimetype = "text/plain"
+

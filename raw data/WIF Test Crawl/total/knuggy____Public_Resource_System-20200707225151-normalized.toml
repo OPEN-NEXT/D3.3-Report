@@ -1,0 +1,7 @@
+name = "Public Resource System "
+repo = "https://wikifactory.com/@knuggy/public-resource-system"
+version = "20200707225151"
+spdx-license = "N/A"
+licensor = "Nathan Wilson Cravens"
+documentation-language = "en"
+function = "How can the web can better engage people with the material world, while also enriching the social and strengthening personal bonds.\n\nSee: https://www.loomio.org/d/bqvymzoF/a-public-resource-management-system"

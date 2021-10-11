@@ -1,0 +1,7 @@
+name = "Steamin engine"
+repo = "https://wikifactory.com/@dancook94/steamin-engine"
+version = "20210417165246"
+spdx-license = "N/A"
+licensor = "Daniel Lee Cook"
+documentation-language = "en"
+function = "I'm trying to make a new age steam engine with a torque converter style engine with boiling water or vegetable oil to run a vehicle or aircraft"

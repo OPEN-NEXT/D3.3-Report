@@ -1,0 +1,7 @@
+name = "New pick up"
+repo = "https://wikifactory.com/@sigmachagrani/new-pick-up"
+version = "20200705104808"
+spdx-license = "N/A"
+licensor = "sigma chagrani"
+documentation-language = "en"
+function = "A car realized to be part of pick-up category and first Tunisian Model"

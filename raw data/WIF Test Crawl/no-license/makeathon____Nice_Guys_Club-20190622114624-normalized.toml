@@ -1,0 +1,63 @@
+name = "Nice Guys Club"
+repo = "https://wikifactory.com/@tauan/nice-guys-club"
+version = "20190622114624"
+spdx-license = "N/A"
+licensor = "Tauan Bernardo"
+documentation-language = "tl"
+image = "https://wikifactory.com/files/RmlsZToyMTUyMzI="
+function = "Making garbage-picking great (and cool)"
+[[files]]
+name = "Gcode/garra1.gcode"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUwODI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Gcode/garra2.gcode"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUwODE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTYwMDk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "STLS/eixo tampa.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUxNTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "STLS/eixo.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUxNTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "STLS/garra1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUwODA="
+mimetype = "application/sla"
+
+[[files]]
+name = "STLS/garra2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUwNzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "STLS/Pega1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUxNTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "STLS/Pega2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUxNTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "STLS/Pega.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUxNTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "STLS/Suporte.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUxNTE="
+mimetype = "application/sla"
+

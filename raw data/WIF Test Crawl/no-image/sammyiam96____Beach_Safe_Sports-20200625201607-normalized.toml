@@ -1,0 +1,12 @@
+name = "Beach Safe Sports"
+repo = "https://wikifactory.com/@sammyiam96/beach-safe-sports"
+version = "20200625201607"
+spdx-license = "N/A"
+licensor = "sammyiam96"
+documentation-language = "en"
+function = "The beaches are open and people have swarmed, nets & polls are back up on the beach volleyball courts just begging to be used. We can make it #safetoplay and still follow social distancing and other regulations by using a few of the designs and ideas included in this project."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTA5ODA="
+mimetype = "text/plain"
+

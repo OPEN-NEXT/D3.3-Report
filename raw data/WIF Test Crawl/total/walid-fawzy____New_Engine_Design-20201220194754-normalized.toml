@@ -1,0 +1,7 @@
+name = "New Engine Design"
+repo = "https://wikifactory.com/@walid-fawzy/new-engine-design"
+version = "20201220194754"
+spdx-license = "N/A"
+licensor = "@walid-fawzy"
+documentation-language = "en"
+function = "new design saving mechanical parts"

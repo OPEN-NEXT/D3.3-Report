@@ -1,0 +1,7 @@
+name = "Cooker and Cleaner"
+repo = "https://wikifactory.com/@sumayyayellow/cooker-and-cleaner"
+version = "20201118113537"
+spdx-license = "N/A"
+licensor = "sumayyayellow"
+documentation-language = "en"
+function = "Daily making food and cleaning,it waste time. If can make a robot for saving time, it would be helpful."

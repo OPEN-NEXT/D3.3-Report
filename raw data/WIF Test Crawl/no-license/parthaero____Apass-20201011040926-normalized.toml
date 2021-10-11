@@ -1,0 +1,7 @@
+name = "Apass"
+repo = "https://wikifactory.com/@parthaero/apass"
+version = "20201011040926"
+spdx-license = "N/A"
+licensor = "parthaero"
+documentation-language = "en"
+function = "Testing"

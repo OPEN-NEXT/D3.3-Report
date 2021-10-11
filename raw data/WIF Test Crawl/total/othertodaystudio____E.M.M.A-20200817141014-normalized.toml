@@ -1,0 +1,13 @@
+name = "E.M.M.A "
+repo = "https://wikifactory.com/@abuazharahmed/build-a-business"
+version = "20200817141014"
+spdx-license = "N/A"
+licensor = "Azhar Ahmed"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTQ2MjY="
+function = "The most simplist and easiest to use epos system. An app service soley created for new business owners and quick startups, and epos system that doesnt break the bank and which you have full control over. Add its Simple layout will a. Keep it simple, make it simple."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjMzMjI="
+mimetype = "text/markdown"
+

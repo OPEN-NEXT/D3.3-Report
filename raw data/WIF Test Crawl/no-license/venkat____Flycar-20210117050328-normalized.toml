@@ -1,0 +1,7 @@
+name = "Flycar"
+repo = "https://wikifactory.com/@venkat/flycar"
+version = "20210117050328"
+spdx-license = "N/A"
+licensor = "VENKATESH"
+documentation-language = "en"
+function = "A car  is to fly on the air"

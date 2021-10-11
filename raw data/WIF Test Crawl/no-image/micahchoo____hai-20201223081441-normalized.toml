@@ -1,0 +1,7 @@
+name = "hai"
+repo = "https://wikifactory.com/@micahchoo/hai"
+version = "20201223081441"
+spdx-license = "N/A"
+licensor = "micahchoo"
+documentation-language = "en"
+function = "sds"

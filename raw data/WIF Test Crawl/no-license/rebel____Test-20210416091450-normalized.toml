@@ -1,0 +1,33 @@
+name = "Test"
+repo = "https://wikifactory.com/@rebel/test-cde85"
+version = "20210416091450"
+spdx-license = "N/A"
+licensor = "Christina Rebel"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODIzNjg="
+function = "A template that will help you develop a great project for the Mayku design challenge.\n<a href=\"https://wikifactory.com/invite/SW52aXRlTGluazo2ODM/zPxOCov0RV9gghCWb6M3zMFDqaBdrwFTnxYLYZpKXxA\">JOIN US</a>!\ufeff\nFork this project and use the existing sections to document your own project."
+[[files]]
+name = "CAD Files/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIzODE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Firmware + Software/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIzODI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIzNzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Photos + Videos/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIzODA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIzODQ="
+mimetype = "text/markdown"
+

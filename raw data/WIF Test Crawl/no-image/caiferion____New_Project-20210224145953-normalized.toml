@@ -1,0 +1,7 @@
+name = "New Project"
+repo = "https://wikifactory.com/@caiferion/new-project"
+version = "20210224145953"
+spdx-license = "N/A"
+licensor = "Cai Ferion"
+documentation-language = "en"
+function = "Random things first. Trying out the platform."

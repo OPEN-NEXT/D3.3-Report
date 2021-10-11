@@ -1,0 +1,37 @@
+name = "Tawashi"
+repo = "https://wikifactory.com/@alex-brest/tawashi"
+version = "20210218084616"
+spdx-license = "N/A"
+licensor = "Alexandre PERETJATKO"
+documentation-language = "fr"
+function = "Création d'un Tawashi à la découpeuse laser"
+[[files]]
+name = "/20210215_163649.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTQ1MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20210215_163659.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTQ1MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20210215_165950.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTQ1MDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20210215_165957.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTQ1MDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Planche A Tawashi.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTQ0OTQ="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUxMjc="
+mimetype = "text/markdown"
+

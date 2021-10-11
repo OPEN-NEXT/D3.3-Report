@@ -1,0 +1,7 @@
+name = "Home Automation"
+repo = "https://wikifactory.com/@ndepeter00/home-automation"
+version = "20210127052605"
+spdx-license = "N/A"
+licensor = "Ngu Mcbright "
+documentation-language = "en"
+function = "designing a circuit that can automate the house appliances"

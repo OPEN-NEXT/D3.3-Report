@@ -1,0 +1,583 @@
+name = "GrowCab"
+repo = "https://wikifactory.com/@skar/growcab"
+version = "20201130192118"
+spdx-license = "N/A"
+licensor = "Oscar Gonzalez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzY3MjI="
+function = "GrowCab is an open-source growth cabinet designed with speed breeding in mind. We aim to research plant breeding and crop improvement.\nWe are taking part in the <a href=\"https://thoughtforfood.org/content-hub/the-tff-challenge-boost-program-explained/\">TFF Challenge Boost</a> and are winners of the <a href=\"https://thoughtforfood.org/content-hub/heading-to-space-scale-down-to-size-up-with-growcab/\">TFF x Beta.Space Space Colonization Challenge</a>"
+[[files]]
+name = "/BoM_GrowCab.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTE0ODU="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "images/MainControler.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzMTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/Step_1-2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_3a.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_3b.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_3c.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_3d.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_7d.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_7tip.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_8.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_9.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_10.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_11.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_12.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_13.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_13tip.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_14.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_15-16.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_19a.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_19b.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_19c.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_19d.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_19e-f-20-21.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_21.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM2OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_23.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM2OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_24a-b-25.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM2OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_25.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM2OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_26.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM2OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_27.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM2OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_28.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM2OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_29.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM2OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_30a.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM2OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_30b.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM2OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_30c.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3NDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_30d.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_30e.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_31-32.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3NDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_33.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3NDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_35a-b.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3NDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_35c-d.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3NDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_35e.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3NDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_35f.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_36.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3Mzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_37.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3Mzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_38.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_39.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_40.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_41.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_42.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_43.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_44.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_45-46.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3Mjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_48.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3Mjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_49.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3Mjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_50.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Step_51.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM3MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMyOTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM5ODU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Software/.gitignore"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MzU="
+mimetype = ""
+
+[[files]]
+name = "Software/backend/.gitignore"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MzQ="
+mimetype = ""
+
+[[files]]
+name = "Software/backend/app.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MzM="
+mimetype = "text/javascript"
+
+[[files]]
+name = "Software/backend/bin/www"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/backend/package.json"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MzE="
+mimetype = "application/json"
+
+[[files]]
+name = "Software/backend/public/stylesheets/style.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MzA="
+mimetype = "text/css"
+
+[[files]]
+name = "Software/backend/routes/getMonitors.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0Mjk="
+mimetype = "text/javascript"
+
+[[files]]
+name = "Software/backend/routes/getSettings.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0Mjg="
+mimetype = "text/javascript"
+
+[[files]]
+name = "Software/backend/routes/index.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0Mjc="
+mimetype = "text/javascript"
+
+[[files]]
+name = "Software/backend/routes/power.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MjY="
+mimetype = "text/javascript"
+
+[[files]]
+name = "Software/backend/routes/restart.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MjU="
+mimetype = "text/javascript"
+
+[[files]]
+name = "Software/backend/routes/setSettings.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MjQ="
+mimetype = "text/javascript"
+
+[[files]]
+name = "Software/backend/routes/users.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MjM="
+mimetype = "text/javascript"
+
+[[files]]
+name = "Software/backend/views/error.jade"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/backend/views/index.jade"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/backend/views/layout.jade"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/daemon/put_preferences.py"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MjA="
+mimetype = ""
+
+[[files]]
+name = "Software/daemon/speed_seed_daemon"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MTg="
+mimetype = ""
+
+[[files]]
+name = "Software/gui/.eslintrc.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MTc="
+mimetype = "text/javascript"
+
+[[files]]
+name = "Software/gui/.gitignore"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MTY="
+mimetype = ""
+
+[[files]]
+name = "Software/gui/Dockerfile"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MTU="
+mimetype = ""
+
+[[files]]
+name = "Software/gui/package.json"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MTQ="
+mimetype = "application/json"
+
+[[files]]
+name = "Software/gui/public/favicon.ico"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MTM="
+mimetype = "image/x-icon"
+
+[[files]]
+name = "Software/gui/public/index.html"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MTI="
+mimetype = "text/html"
+
+[[files]]
+name = "Software/gui/public/manifest.json"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MTE="
+mimetype = "application/json"
+
+[[files]]
+name = "Software/gui/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MTA="
+mimetype = ""
+
+[[files]]
+name = "Software/gui/src/App.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MDk="
+mimetype = "text/css"
+
+[[files]]
+name = "Software/gui/src/App.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MDg="
+mimetype = "text/javascript"
+
+[[files]]
+name = "Software/gui/src/App.test.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MDc="
+mimetype = "text/javascript"
+
+[[files]]
+name = "Software/gui/src/components/Arc/index.jsx"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MDY="
+mimetype = "text/x-c++"
+
+[[files]]
+name = "Software/gui/src/components/ConfigForm/index.jsx"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MDU="
+mimetype = ""
+
+[[files]]
+name = "Software/gui/src/components/DialControl/index.jsx"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MDQ="
+mimetype = ""
+
+[[files]]
+name = "Software/gui/src/index.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTM0MDM="
+mimetype = "text/css"
+
+[[files]]
+name = "Software/gui/src/index.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzNDk="
+mimetype = "text/javascript"
+
+[[files]]
+name = "Software/gui/src/logo.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzNDg="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Software/gui/src/registerServiceWorker.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzNDc="
+mimetype = "text/javascript"
+
+[[files]]
+name = "Software/hardware_controllers/.gitignore"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzNDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/hardware_controllers/.travis.yml"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzNDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/hardware_controllers/lib/Digital_Light_TSL2561/Digital_Light_TSL2561.cpp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzNDQ="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "Software/hardware_controllers/lib/Digital_Light_TSL2561/Digital_Light_TSL2561.h"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzNDM="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Software/hardware_controllers/lib/readme.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzNDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/hardware_controllers/platformio.ini"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzNDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/hardware_controllers/src/bme280.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzNDA="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software/hardware_controllers/src/bmp280.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzMzk="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software/hardware_controllers/src/datastructures.h"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzMzg="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Software/hardware_controllers/src/dht_control.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzMzc="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software/hardware_controllers/src/fan_control.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzMzY="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software/hardware_controllers/src/hardware_controllers.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzMzU="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software/hardware_controllers/src/relay_control.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzMzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/hardware_controllers/src/status_structure.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzMzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/install.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzMzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/package-lock.json"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzMzE="
+mimetype = "application/json"
+
+[[files]]
+name = "Software/start_services.sh"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTMzMjk="
+mimetype = "text/x-sh"
+

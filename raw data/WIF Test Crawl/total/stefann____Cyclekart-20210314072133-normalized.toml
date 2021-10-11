@@ -1,0 +1,7 @@
+name = "Cyclekart"
+repo = "https://wikifactory.com/@stefann/cyclekart"
+version = "20210314072133"
+spdx-license = "N/A"
+licensor = "stefan nahajski"
+documentation-language = "en"
+function = "Test project"

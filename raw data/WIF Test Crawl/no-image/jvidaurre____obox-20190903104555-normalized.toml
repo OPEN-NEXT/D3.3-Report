@@ -1,0 +1,7 @@
+name = "obox"
+repo = "https://wikifactory.com/@jvidaurre/obox"
+version = "20190903104555"
+spdx-license = "N/A"
+licensor = "jvidaurre"
+documentation-language = "en"
+function = "Modular structure"

@@ -1,0 +1,68 @@
+name = "Chessforblind"
+repo = "https://wikifactory.com/@yquere/chessforblind"
+version = "20210430112340"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1Njg0NTU="
+function = "Jeu d'échec pour non-voyants et mal-voyants"
+[[files]]
+name = "/Cheval blanc.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTE1NjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/cheval noir.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTI4NzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/cheval.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTI4Njg="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/échiquier final.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTIyODc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/échiquier.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTI4NjY="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/fou.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTI4NjU="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/pion blanc.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTE1NTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/pion noir.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTI4NjI="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/pion noir.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTI4NjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/roi blanc.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTI4NjA="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/Roi blanc.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTE1NTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/tour blanche.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTE1NTY="
+mimetype = "application/sla"
+

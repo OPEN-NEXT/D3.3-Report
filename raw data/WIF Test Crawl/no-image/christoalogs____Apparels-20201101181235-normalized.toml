@@ -1,0 +1,7 @@
+name = "Apparels"
+repo = "https://wikifactory.com/@christoalogs/apparels"
+version = "20201101181235"
+spdx-license = "N/A"
+licensor = "christoalogs"
+documentation-language = "en"
+function = "Fashion inclined..."

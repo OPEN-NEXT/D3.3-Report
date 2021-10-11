@@ -1,0 +1,7 @@
+name = "Land survey using drone"
+repo = "https://wikifactory.com/@kopparthi/land-survey-using-drone"
+version = "20201225052001"
+spdx-license = "N/A"
+licensor = "K sri harsha"
+documentation-language = "en"
+function = "Land survey can be done quick and acurate using drones and data from satelight"

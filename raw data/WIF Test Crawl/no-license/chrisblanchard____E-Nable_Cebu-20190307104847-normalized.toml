@@ -1,0 +1,123 @@
+name = "E-Nable Cebu"
+repo = "https://wikifactory.com/@chrisblanchard/e-nable-cebu"
+version = "20190307104847"
+spdx-license = "N/A"
+licensor = "Chris Blanchard"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDE1NDU="
+function = "This is the e-Nable chapter in Cebu, Philippines established in August of 2017.\nWe produce upper limb assistive 3D printed devices in order to enhance the quality of life for those in need."
+[[files]]
+name = "Kwawu Phoenix Hybrid/Arm1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDIwNjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Kwawu Phoenix Hybrid/Arm2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDIwNjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Kwawu Phoenix Hybrid/cuff hinge pin.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDIwNjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Kwawu Phoenix Hybrid/cuff hinge retainer.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDIwNjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Kwawu Phoenix Hybrid/cuff tension pins.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDIwNTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "Kwawu Phoenix Hybrid/cuff.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDIwNTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Kwawu Phoenix Hybrid/fingers.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDIwNTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "Kwawu Phoenix Hybrid/palm.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDIwNTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "Kwawu Phoenix Hybrid/Phalanx.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDIwNTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Kwawu Phoenix Hybrid/pins.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDIwNTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTM2NTE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Right Hand Partial Amputation/3pin_tensioner_box.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE2MzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Right Hand Partial Amputation/Finger_tips.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE2MzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Right Hand Partial Amputation/Gauntlet.STL"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE2Mjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "Right Hand Partial Amputation/jig.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE2Mjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Right Hand Partial Amputation/Phalanx_plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE2MjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Right Hand Partial Amputation/Pin_plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE2MjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "Right Hand Partial Amputation/pins plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE2MjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Right Hand Partial Amputation/Right Partial Palm.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE4MTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "Right Hand Partial Amputation/Right_Palm.STL"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE2MjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Right Hand Partial Amputation/Right_Palm_mesh.STL"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE2MjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Right Hand Partial Amputation/rounded_tensioner_pins.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE2MjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Right Hand Partial Amputation/wrist locks plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE2MTk="
+mimetype = "application/sla"
+

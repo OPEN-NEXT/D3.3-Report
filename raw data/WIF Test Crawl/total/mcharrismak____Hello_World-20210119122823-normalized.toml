@@ -1,0 +1,7 @@
+name = "Hello World"
+repo = "https://wikifactory.com/@mcharrismak/hello-world-197d8"
+version = "20210119122823"
+spdx-license = "N/A"
+licensor = "mcharrismak"
+documentation-language = "en"
+function = "hello world"

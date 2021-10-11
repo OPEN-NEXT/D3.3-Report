@@ -1,0 +1,7 @@
+name = "Cont Volume EQ."
+repo = "https://wikifactory.com/@luissiurob/cont-volume-eq"
+version = "20210327021531"
+spdx-license = "N/A"
+licensor = "Luis E. Anaya Siurob"
+documentation-language = "es"
+function = "Una pequeña estación de paso para control y ecualización de sonido en grabación con pequeños aparatos digitales, (Tabletas, celulares, Etc..)"

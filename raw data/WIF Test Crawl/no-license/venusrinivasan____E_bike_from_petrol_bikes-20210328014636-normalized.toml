@@ -1,0 +1,7 @@
+name = "E bike from petrol bikes"
+repo = "https://wikifactory.com/@venusrinivasan/e-bike-from-petrol-bikes"
+version = "20210328014636"
+spdx-license = "N/A"
+licensor = "Venusrinivasan V"
+documentation-language = "en"
+function = "My project is about converting a Petrol run bike into electric bike at very low cost."

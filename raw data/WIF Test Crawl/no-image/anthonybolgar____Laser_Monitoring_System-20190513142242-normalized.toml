@@ -1,0 +1,7 @@
+name = "Laser Monitoring System"
+repo = "https://wikifactory.com/@anthonybolgar/laser-monitoring-system"
+version = "20190513142242"
+spdx-license = "N/A"
+licensor = "anthonybolgar"
+documentation-language = "en"
+function = "System to monitor laser parameters such as interlocks and temperatures."

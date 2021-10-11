@@ -1,0 +1,7 @@
+name = "avtuka"
+repo = "https://wikifactory.com/@avtogordeladze/avtuka"
+version = "20201103071115"
+spdx-license = "N/A"
+licensor = "avtogordeladze"
+documentation-language = "en"
+function = "gurulo"

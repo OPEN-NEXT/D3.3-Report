@@ -1,0 +1,18 @@
+name = "Bicho 4.0"
+repo = "https://wikifactory.com/@fernandomeneses/bicho-40"
+version = "20190425141755"
+spdx-license = "N/A"
+licensor = "Fernando Meneses-Carlos"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTY1Mzk="
+function = "\"Bichos\" is an academic project that seeks to include philosophy and technologies of design and manufacturing from the beginning of the training of a future architect. \u200b \u200b \u200b \u200b"
+[[files]]
+name = "images/08.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1Mzc="
+mimetype = "text/plain"
+

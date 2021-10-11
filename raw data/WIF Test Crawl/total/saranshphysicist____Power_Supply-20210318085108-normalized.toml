@@ -1,0 +1,8 @@
+name = "Power Supply"
+repo = "https://wikifactory.com/@saranshphysicist/power-supply"
+version = "20210318085108"
+spdx-license = "N/A"
+licensor = "Saransh Malhotra"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzAwMDE="
+function = "We are making an efficient, cost effective, lightweight and mobile controllable Power Supply."

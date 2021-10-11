@@ -1,0 +1,7 @@
+name = "FitnessElectricGenerator"
+repo = "https://wikifactory.com/@ronaldltham/fitnesselectricgenerator"
+version = "20200313142137"
+spdx-license = "N/A"
+licensor = "ronald liem"
+documentation-language = "en"
+function = "Fitness \ufeffElectricGenerator, all movement's in Fitness/sport/exercise will produce Electricity and will be stored the energy's to the Batteries and will be used for lighting at night for free."

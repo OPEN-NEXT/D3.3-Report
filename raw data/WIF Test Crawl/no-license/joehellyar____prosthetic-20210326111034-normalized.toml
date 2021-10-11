@@ -1,0 +1,7 @@
+name = "prosthetic"
+repo = "https://wikifactory.com/@joehellyar/prosthetic"
+version = "20210326111034"
+spdx-license = "N/A"
+licensor = "Joe hellyar"
+documentation-language = "en"
+function = "machanically offset a missing limb (leg) using  the other remaining limb to power the prosthetic limb to work as a normal leg would. once balanced on the real leg and push away the prosthetic limb would do the oposite but controlled by the real leg.\njust an idea at the moment."

@@ -1,0 +1,7 @@
+name = "LED search light"
+repo = "https://wikifactory.com/@devaditek/led-search-light"
+version = "20210322153410"
+spdx-license = "N/A"
+licensor = "Sumith C Mohan"
+documentation-language = "en"
+function = "Source Lumen: 35000 \nReach: 6nm\nBeam deflection: 1 degree"

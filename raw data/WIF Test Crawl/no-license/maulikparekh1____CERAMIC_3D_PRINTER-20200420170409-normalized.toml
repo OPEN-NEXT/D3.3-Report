@@ -1,0 +1,7 @@
+name = "CERAMIC 3D PRINTER"
+repo = "https://wikifactory.com/@maulikparekh1/ceramic-3d-printer"
+version = "20200420170409"
+spdx-license = "N/A"
+licensor = "maulikparekh1"
+documentation-language = "en"
+function = "I  am an architect and i'm guding couple of thesis students woking on ceramic advance manufacturing. we are comfortable in making hardwares but we need help in choosing right firmware. helps will be credited and appreciated."

@@ -1,0 +1,13 @@
+name = "Rocket Surgeon"
+repo = "https://wikifactory.com/@carlmichaeldanger/rocket-surgeon"
+version = "20180928115356"
+spdx-license = "MIT"
+licensor = "Carl P-Conquilla"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjk3MA=="
+function = "For FabAcademy '18 Final Project. The Rocket Surgeon is a hand-held CNC machine configured in polar co-ord's. The polar format could be considered like a power-drill on the end of a power-drill."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMjk2OA=="
+mimetype = "{text/plain,NULL}"
+

@@ -1,0 +1,48 @@
+name = "DIY Speaker Cardboard"
+repo = "https://wikifactory.com/@botler/diy-speaker"
+version = "20190125122010"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDQzMg=="
+function = "Boombox speaker made of cardboard.\n\nDesigned by <a href=\"http://joshbuild.com/how-to-make-a-diy-boombox-speaker/?fbclid=IwAR30Yo9HbG0tChInNwycS4Q4mQ_yjCoyWb02qm4ByIRps_LNdKxMj3J5USs\">Josh Build</a>"
+[[files]]
+name = "Gerber Files/Gerber_BoardOutline.GKO"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU2OQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Gerber Files/Gerber_BottomLayer.GBL"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3Ng=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Gerber Files/Gerber_BottomSolderMaskLayer.GBS"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3Mw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Gerber Files/Gerber_drill_PTH.DRL"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Gerber Files/Gerber_TopLayer.GTL"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3Nw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Gerber Files/Gerber_TopSilkLayer.GTO"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3Mg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Gerber Files/Gerber_TopSolderMaskLayer.GTS"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU2Nw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU4MQ=="
+mimetype = "text/markdown"
+

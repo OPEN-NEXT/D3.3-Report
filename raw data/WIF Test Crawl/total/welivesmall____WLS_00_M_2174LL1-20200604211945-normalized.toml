@@ -1,0 +1,28 @@
+name = "WLS_00_M_2174LL1"
+repo = "https://wikifactory.com/@welivesmall/wls00m2174ll1"
+version = "20200604211945"
+spdx-license = "N/A"
+licensor = "WeLiveSmall"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzMyMjA="
+function = "00 UTILITIES - Structure | Allround - Mountingrails: C-cutoff tool"
+[[files]]
+name = "01 Models/Flamco_Cut_Jig- No Opening Drawing 1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyMzA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "01 Models/Flamco_Cut_Jig- No Opening.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyMjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "01 Models/Flamco_Cut_Jig_01 Drawing 1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyMjI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "01 Models/Flamco_Cut_Jig_01.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyMjk="
+mimetype = "text/plain"
+

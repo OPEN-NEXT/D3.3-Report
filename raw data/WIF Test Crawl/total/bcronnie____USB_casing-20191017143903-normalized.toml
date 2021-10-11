@@ -1,0 +1,33 @@
+name = "USB casing"
+repo = "https://wikifactory.com/@bcronnie/usb-casing"
+version = "20191017143903"
+spdx-license = "N/A"
+licensor = "Ben Ronnie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzQ5NTE="
+function = "3D frame to house and protect a USB. Designed towards players on the site Roll20."
+[[files]]
+name = "/DND hammer head.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ5NTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/DND hammer stem.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ5NjQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/hammer assembled blue.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ5NTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/hammer assembled yellow.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ5NTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/hammer assembled.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ5NTM="
+mimetype = "application/octet-stream"
+

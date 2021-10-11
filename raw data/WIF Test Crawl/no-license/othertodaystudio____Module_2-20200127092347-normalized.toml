@@ -1,0 +1,12 @@
+name = "Module 2"
+repo = "https://wikifactory.com/@meganjay/module-2"
+version = "20200127092347"
+spdx-license = "N/A"
+licensor = "Megan Stratford"
+documentation-language = "af"
+function = "Module 2 work"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDEyOTE="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "jojo"
+repo = "https://wikifactory.com/@josueacakpo/jojo"
+version = "20200802142901"
+spdx-license = "N/A"
+licensor = "ACAKPO Josue"
+documentation-language = "en"
+function = "arduino project"

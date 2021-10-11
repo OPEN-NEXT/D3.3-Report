@@ -1,0 +1,12 @@
+name = "Water charger"
+repo = "https://wikifactory.com/@jagmeethanspal/water-charger"
+version = "20201214154623"
+spdx-license = "N/A"
+licensor = "jagmeethanspal"
+documentation-language = "en"
+function = "Design and Develop a small and efficient electricity online charger from piped-water flow"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTU1NDk="
+mimetype = "text/markdown"
+

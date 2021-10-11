@@ -1,0 +1,13 @@
+name = "Alcorcon exhibition"
+repo = "https://wikifactory.com/@juan/first-exhibition"
+version = "20180606144448"
+spdx-license = "N/A"
+licensor = "Juan Mazzuchelli"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNjcx"
+function = "Exhibition at Alcorcon Town Hall (Madrid) - June 2018."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE0"
+mimetype = "text/markdown"
+

@@ -1,0 +1,18 @@
+name = "Z Ring"
+repo = "https://wikifactory.com/@zoe/z-ring"
+version = "20171107184050"
+spdx-license = "CC-BY-4.0"
+licensor = "Zoe Romano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDU="
+function = "My first ring"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/z-ring.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTU="
+mimetype = "application/sla"
+

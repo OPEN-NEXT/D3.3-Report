@@ -1,0 +1,13 @@
+name = "Water Drone"
+repo = "https://wikifactory.com/@yeaqutaliriponnipa123/water-drone"
+version = "20210329134210"
+spdx-license = "N/A"
+licensor = "Mohammed Yeaqut Ali Ripon"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzM1MTU="
+function = "This is a Water Surface Drone,  it have lots of options like  warless compass navigation system, Not sinkable, also high quality camera.....actually all customize by me...."
+[[files]]
+name = "/NVT-1.avi"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzM1MDE="
+mimetype = "video/avi"
+

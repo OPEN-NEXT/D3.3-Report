@@ -1,0 +1,7 @@
+name = "Enterprenaur"
+repo = "https://wikifactory.com/@sachinsonne/enterprenaur"
+version = "20200822061147"
+spdx-license = "N/A"
+licensor = "sachinsonne"
+documentation-language = "en"
+function = "Digital manufacturing"

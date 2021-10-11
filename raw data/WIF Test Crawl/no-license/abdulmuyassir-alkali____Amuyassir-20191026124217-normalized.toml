@@ -1,0 +1,7 @@
+name = "Amuyassir"
+repo = "https://wikifactory.com/@abdulmuyassir-alkali/amuyassir"
+version = "20191026124217"
+spdx-license = "N/A"
+licensor = "AbdulmuyassirAlkaliAbdulrahman"
+documentation-language = "en"
+function = "c##"

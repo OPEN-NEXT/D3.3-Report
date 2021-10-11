@@ -1,0 +1,7 @@
+name = "Mem"
+repo = "https://wikifactory.com/@farzi01mailcom/mem"
+version = "20200709045805"
+spdx-license = "N/A"
+licensor = "farzi01mailcom"
+documentation-language = "en"
+function = "Can be used as a tool"

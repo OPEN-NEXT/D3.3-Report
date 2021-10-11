@@ -1,0 +1,7 @@
+name = "Avocado powder Packaging "
+repo = "https://wikifactory.com/@jfpineda64/avocado-powder-packaging"
+version = "20200628175717"
+spdx-license = "N/A"
+licensor = "jfpineda64"
+documentation-language = "en"
+function = "Avocado powder requires special Packaging after opening for.prevent oxidation"

@@ -1,0 +1,7 @@
+name = "E-learning kit fo student"
+repo = "https://wikifactory.com/@tkakafid/e-learning-kit-fo-student"
+version = "20210430005801"
+spdx-license = "N/A"
+licensor = "Abdoul Kafid Toko Koutogui"
+documentation-language = "en"
+function = "This projet aim to design a e-leraning kit for student in rural area of Africa where there is poor internet and no may school."

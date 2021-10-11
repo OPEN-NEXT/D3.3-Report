@@ -1,0 +1,7 @@
+name = "ARG_01"
+repo = "https://wikifactory.com/@angelr/arg01"
+version = "20210226130818"
+spdx-license = "N/A"
+licensor = "Angel Rodriguez"
+documentation-language = "es"
+function = "Vamos a probar a ver que se puede hacer"

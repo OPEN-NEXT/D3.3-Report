@@ -1,0 +1,7 @@
+name = "My first public project"
+repo = "https://wikifactory.com/@cosmokramer/my-first-public-project"
+version = "20201202142519"
+spdx-license = "N/A"
+licensor = "Cosmo Kramer"
+documentation-language = "en"
+function = "Hello world"

@@ -1,0 +1,7 @@
+name = "human brain signals "
+repo = "https://wikifactory.com/@ambrosiya-amb/human-brain-signals"
+version = "20200416115137"
+spdx-license = "N/A"
+licensor = "Ashok Dhiman "
+documentation-language = "en"
+function = "This project on the bases of EMG signal, we want to develop prophetic human parts for handicapped persons\nThese parts will be control with human brain signals"

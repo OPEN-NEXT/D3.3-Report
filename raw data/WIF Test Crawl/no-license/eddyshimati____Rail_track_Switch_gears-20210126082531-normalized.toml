@@ -1,0 +1,7 @@
+name = "Rail track Switch gears"
+repo = "https://wikifactory.com/@eddyshimati/rail-track-switch-gears"
+version = "20210126082531"
+spdx-license = "N/A"
+licensor = "Edward"
+documentation-language = "en"
+function = "The Automated Mechanism for switching/changing rail lines."

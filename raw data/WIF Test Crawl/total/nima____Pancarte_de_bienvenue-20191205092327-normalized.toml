@@ -1,0 +1,13 @@
+name = "Pancarte de bienvenue"
+repo = "https://wikifactory.com/@nima/pancarte-de-bienvenue"
+version = "20191205092327"
+spdx-license = "N/A"
+licensor = "Nawel Khenak"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZToyNzk0MjA="
+function = "Tout simplement une pancarte de bienvenue à coller sur la porte du Fablab :)"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODc4OTE="
+mimetype = "text/markdown"
+

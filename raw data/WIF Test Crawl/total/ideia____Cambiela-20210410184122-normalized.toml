@@ -1,0 +1,28 @@
+name = "Cambiela"
+repo = "https://wikifactory.com/@ideia/cambiela"
+version = "20210410184122"
+spdx-license = "N/A"
+licensor = "Ideia Motora"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTo1Nzg2Nzc="
+function = "Uma curiosidade cinemática que converte movimento linear em movimento rotativo sem utilizar o sistema biela-manivela. Contudo para acionar a cremalheira opta-se por um motor elétrico e...um conjunto biela manivela :-)"
+[[files]]
+name = "/Conjunto_base.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjgzMzM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Falha.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzg2NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Kinematic_curiosity.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTc3OTQ="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Portal.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTc3OTg="
+mimetype = "image/jpeg"
+

@@ -1,0 +1,7 @@
+name = "Wareplot"
+repo = "https://wikifactory.com/@cygeth/wareplot"
+version = "20200910153232"
+spdx-license = "N/A"
+licensor = "Cyril G Thottumkal"
+documentation-language = "en"
+function = "Smart management of ware house spaces in an efficient manner."

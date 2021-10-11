@@ -1,0 +1,7 @@
+name = "Ozor free energy machine"
+repo = "https://wikifactory.com/@valentine-ozonnasom/ozor-free-energy-machine"
+version = "20200713162404"
+spdx-license = "N/A"
+licensor = "Valentine ebuka ozonnasom"
+documentation-language = "en"
+function = "This is a power machine that can produce electric current without the use of fuel or sun or water . all u need is just to switch it on when u want,"

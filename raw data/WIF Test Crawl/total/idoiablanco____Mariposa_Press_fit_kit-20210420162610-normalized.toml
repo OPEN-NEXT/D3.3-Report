@@ -1,0 +1,28 @@
+name = "Mariposa Press fit kit"
+repo = "https://wikifactory.com/@idoiablanco/mariposa-press-fit-kit"
+version = "20210420162610"
+spdx-license = "N/A"
+licensor = "Idoia Blanco"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo1ODY0NTU="
+function = "Mariposa diseñada para corte de impresion laser."
+[[files]]
+name = "/InstruccionesMontaje.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/PressFitKit.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMTg="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/Productofinal.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNzE="
+mimetype = "image/png"
+
+[[files]]
+name = "/VideoMontaje.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMzA="
+mimetype = "video/mp4"
+

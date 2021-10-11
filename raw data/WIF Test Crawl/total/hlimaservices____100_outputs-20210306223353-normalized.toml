@@ -1,0 +1,7 @@
+name = "100 outputs"
+repo = "https://wikifactory.com/@hlimaservices/100-outputs"
+version = "20210306223353"
+spdx-license = "N/A"
+licensor = "Hercules Lima"
+documentation-language = "en"
+function = "This project involves analog sound inputs that can drive up to 100 5V 3A motors"

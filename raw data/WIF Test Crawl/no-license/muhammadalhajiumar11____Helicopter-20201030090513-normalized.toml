@@ -1,0 +1,7 @@
+name = "Helicopter"
+repo = "https://wikifactory.com/@muhammadalhajiumar11/helicopter"
+version = "20201030090513"
+spdx-license = "N/A"
+licensor = "Muhammad alhaji umar "
+documentation-language = "en"
+function = "Rc helicopter"

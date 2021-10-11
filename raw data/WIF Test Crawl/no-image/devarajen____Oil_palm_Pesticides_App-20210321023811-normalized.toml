@@ -1,0 +1,7 @@
+name = "Oil palm Pesticides App"
+repo = "https://wikifactory.com/@devarajen/oil-palm-pesticides-app"
+version = "20210321023811"
+spdx-license = "N/A"
+licensor = "Devarajen Rajagopal"
+documentation-language = "en"
+function = "Its Android based app for oil palm growers"

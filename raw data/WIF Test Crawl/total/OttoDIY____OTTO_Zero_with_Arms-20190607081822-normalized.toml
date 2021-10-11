@@ -1,0 +1,38 @@
+name = "OTTO Zero with Arms"
+repo = "https://wikifactory.com/@personalrobots/otto-zero-with-arms"
+version = "20190607081822"
+spdx-license = "N/A"
+licensor = "personalrobots"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTIyOTE="
+function = "Otto Zero is more oriented to be portable robot a \"personal companion\" , a the robot aware of it's sourronding to make you company and cheer you up!\nThe robot code is still in progress, if you have ideas or you want to contribute feel free do to so!"
+[[files]]
+name = "/otto zero  arms combined with hand.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIyOTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/otto zero base arm.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIyOTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/otto zero head with microusb.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIyOTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/otto zero rotating base 99.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIyOTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/personalrobots-biz-ALL.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIyOTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIyOTM="
+mimetype = "text/markdown"
+

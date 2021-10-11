@@ -1,0 +1,7 @@
+name = "Green tech 001"
+repo = "https://wikifactory.com/@dmalthurin/green-tech-001"
+version = "20201118151739"
+spdx-license = "N/A"
+licensor = "Diymbah Malthurin"
+documentation-language = "en"
+function = "Automatic switch for house bulbs so as to prevent exersive energy loss from forgetfulness to switch off lights"

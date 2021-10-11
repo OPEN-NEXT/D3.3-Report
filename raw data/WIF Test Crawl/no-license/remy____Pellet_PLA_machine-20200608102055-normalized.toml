@@ -1,0 +1,23 @@
+name = "Pellet PLA machine"
+repo = "https://wikifactory.com/@remy/pellet-pla-machine"
+version = "20200608102055"
+spdx-license = "N/A"
+licensor = "Remy Ducros"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjYyNzE="
+function = "Here my attempt to make a machine to transform PLA filament into pellets."
+[[files]]
+name = "/Pelletizer v1.f3z"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYyNzU="
+mimetype = "application/zip"
+
+[[files]]
+name = "/Pelletizer v2.f3z"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYyNzQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYyNzA="
+mimetype = "text/markdown"
+

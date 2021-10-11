@@ -1,0 +1,7 @@
+name = "MM1"
+repo = "https://wikifactory.com/@madmuseum/mm1"
+version = "20200602124621"
+spdx-license = "N/A"
+licensor = "Mike Abbotts"
+documentation-language = "en"
+function = "Marble machine"

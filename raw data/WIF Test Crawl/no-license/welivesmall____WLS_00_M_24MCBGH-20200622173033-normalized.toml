@@ -1,0 +1,58 @@
+name = "WLS_00_M_24MCBGH"
+repo = "https://wikifactory.com/@welivesmall/wls00m24mcbgh"
+version = "20200622173033"
+spdx-license = "N/A"
+licensor = "WeLiveSmall"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozODgyNDg="
+function = "00 UTILITIES - Objects | Milling - WasteBoard For BUY_High-Z S-720"
+[[files]]
+name = "01 Models/WLS_00_M_24MCBGH.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozODgyNTg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "01 Models/WLS_00_M_24MCBGH.step"
+permalink = "https://wikifactory.com/files/RmlsZTozODgyNTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "02 Production/01 Dxf_dwg/001.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozODgyNzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "02 Production/01 Dxf_dwg/Wasteboard_Imal_Final.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozODgyNjk="
+mimetype = "text/plain"
+
+[[files]]
+name = "02 Production/02 Production/01 Dxf_dwg/001.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozODgyNjY="
+mimetype = ""
+
+[[files]]
+name = "02 Production/02 Production/01 Dxf_dwg/#Wasteboard_Imal_Final.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozODgyNjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "02 Production/02 Production/01 Dxf_dwg/Wasteboard_Imal_Final.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozODgyNjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "02 Production/02 Production/02_G-code/01.1_8_rondelen_edited.nc"
+permalink = "https://wikifactory.com/files/RmlsZTozODgyNjI="
+mimetype = "application/x-netcdf"
+
+[[files]]
+name = "02 Production/02 Production/02_G-code/02.1_3_175_Holes_edited.nc"
+permalink = "https://wikifactory.com/files/RmlsZTozODgyOTM="
+mimetype = "application/x-netcdf"
+
+[[files]]
+name = "02 Production/02 Production/02_G-code/02.2_3_175_Text and grapics_edited.nc"
+permalink = "https://wikifactory.com/files/RmlsZTozODgyOTI="
+mimetype = "application/x-netcdf"
+

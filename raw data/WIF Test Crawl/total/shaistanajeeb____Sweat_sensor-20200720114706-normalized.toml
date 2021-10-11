@@ -1,0 +1,7 @@
+name = "Sweat sensor"
+repo = "https://wikifactory.com/@shaistanajeeb/sweat-sensor"
+version = "20200720114706"
+spdx-license = "N/A"
+licensor = "shaistanajeeb"
+documentation-language = "en"
+function = "A sensor that detects your sweat and predict your exercise stress, dehydration and glucose levels"

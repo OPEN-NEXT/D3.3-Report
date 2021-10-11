@@ -1,0 +1,57 @@
+name = "EstufaGR"
+repo = "https://wikifactory.com/@gustavofunke/estufagr"
+version = "20201024145119"
+spdx-license = "N/A"
+licensor = "gustavofunke"
+documentation-language = "pt"
+function = "Um controlador de horta e estufas."
+[[files]]
+name = "Fritzing/fritzing-a1ffcea08814801903b1a9515b18cf97067968ae-master-498.mojave.10.2.dmg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYwMjQ="
+mimetype = "application/x-diskcopy"
+
+[[files]]
+name = "Fritzing/Parts/28BYJ-48 Stepper Motor.fzpz"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYwMzQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fritzing/Parts/DHT11 Humitidy and Temperature Sensor.fzpz"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYwMzM="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fritzing/Parts/DHT11 module.fzpz"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYwMzI="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fritzing/Parts/HC-SR04_Ultrasonic_Distance_Sensor_v2.fzpz"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYwMzE="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fritzing/Parts/MQ-3_Breakout_Board.fzpz"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYwMzA="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fritzing/Parts/NodeMCUV1.0.fzpz"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYwMjk="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fritzing/Parts/OLED_096_128x64_I2C_SSD1306.fzpz"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYwMjg="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fritzing/Parts/Water_Level_Sensor.fzpz"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYwMjc="
+mimetype = "application/zip"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYwMDA="
+mimetype = "text/markdown"
+

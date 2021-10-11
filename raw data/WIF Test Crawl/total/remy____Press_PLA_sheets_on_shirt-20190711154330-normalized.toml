@@ -1,0 +1,23 @@
+name = "Press PLA sheets on shirt"
+repo = "https://wikifactory.com/@remy/press-pla-sheets-on-shirt"
+version = "20190711154330"
+spdx-license = "CC-BY-4.0"
+licensor = "Remy Ducros"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjYwMDk="
+function = "Here is a way to press PLA sheet on shirts"
+[[files]]
+name = "/BearLowPoly.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYyODY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYwMTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYyNjM="
+mimetype = "text/markdown"
+

@@ -1,0 +1,18 @@
+name = "MWY"
+repo = "https://wikifactory.com/@alexseanhill/2nd-semester"
+version = "20200615133424"
+spdx-license = "N/A"
+licensor = "Alex Hill"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzU2ODI="
+function = "<b>Name: Alexander Hill</b>\n<b>Studio: Other Today Studio</b>\n<b>URL: https://blogs.brighton.ac.uk/mwy0/wp-admin/post.php?post=11&action=edit</b>"
+[[files]]
+name = "/Brochure .pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc5ODQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODIwNTg="
+mimetype = "text/markdown"
+

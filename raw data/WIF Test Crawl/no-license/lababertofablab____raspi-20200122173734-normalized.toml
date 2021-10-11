@@ -1,0 +1,8 @@
+name = "raspi"
+repo = "https://wikifactory.com/@lababertofablab/raspi"
+version = "20200122173734"
+spdx-license = "N/A"
+licensor = "LAB ABERTO FAB LAB"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTozMDAzMzA="
+function = "Computadores de baixo custo para utilização em projetos de porgramação de processadores e microcontroladores"

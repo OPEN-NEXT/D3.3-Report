@@ -1,0 +1,13 @@
+name = "Cork World Map"
+repo = "https://wikifactory.com/@filipkollar/cork-world-map"
+version = "20200107035359"
+spdx-license = "N/A"
+licensor = "Filip Kollar"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyOTYzNDA="
+function = "Cork world map made on laser cutter and inserted into ikea picture frame."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYzNDM="
+mimetype = "text/markdown"
+

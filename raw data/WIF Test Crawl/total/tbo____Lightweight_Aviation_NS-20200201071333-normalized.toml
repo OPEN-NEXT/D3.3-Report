@@ -1,0 +1,7 @@
+name = "Lightweight Aviation NS"
+repo = "https://wikifactory.com/@tbo/lightweight-aviation-ns"
+version = "20200201071333"
+spdx-license = "N/A"
+licensor = "Ashley"
+documentation-language = "en"
+function = "Develop aircraft, equipment and methods enabling junior space experiments and missions"

@@ -1,0 +1,7 @@
+name = "Flying Toy Car"
+repo = "https://wikifactory.com/@saifullahnizamani2/flying-toy-car"
+version = "20201225045745"
+spdx-license = "N/A"
+licensor = "saifullahnizamani2"
+documentation-language = "en"
+function = "In this project we will try to make a flying toy car that can fly around with a remote .. if anyone has an idea then tell.."

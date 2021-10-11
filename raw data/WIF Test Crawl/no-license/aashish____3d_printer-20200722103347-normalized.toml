@@ -1,0 +1,7 @@
+name = "3d printer"
+repo = "https://wikifactory.com/@aashish/3d-printer"
+version = "20200722103347"
+spdx-license = "N/A"
+licensor = "Aashish Pandey"
+documentation-language = "ca"
+function = "prusa i3 mk2 3d printer"

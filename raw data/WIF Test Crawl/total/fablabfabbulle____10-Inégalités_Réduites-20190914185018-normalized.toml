@@ -1,0 +1,18 @@
+name = "10-Inégalités Réduites"
+repo = "https://wikifactory.com/@burcadus/10-inégalités-réduites"
+version = "20190914185018"
+spdx-license = "CC-BY-4.0"
+licensor = "Jérôme Frédéric Bouchard"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZToyNDI1Nzc="
+function = "Sur l’ensemble du territoire du Bas-Saint-Laurent, comment pourrions-nous aller à la rencontre de nos différences et s’en enrichir afin d’éliminer les inégalités sociales ?"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI1Nzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYxNTk="
+mimetype = "text/markdown"
+

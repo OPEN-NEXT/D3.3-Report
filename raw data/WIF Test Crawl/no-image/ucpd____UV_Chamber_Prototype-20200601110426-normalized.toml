@@ -1,0 +1,57 @@
+name = "UV Chamber Prototype"
+repo = "https://wikifactory.com/@peachthief/uv-chamber-prototype"
+version = "20200601110426"
+spdx-license = "N/A"
+licensor = "Chris Jones"
+documentation-language = "en"
+function = "Prototype for UV chamber"
+[[files]]
+name = "Concepts/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk5NDc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Concepts/UV_Chamber_R1.x_t"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk5NDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Concepts/UV_Chamber_R2.x_t"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk5NDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Concepts/UV_Chamber_R3.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk5NDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Concepts/UV_Chamber_R4.x_t"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk5NDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzAyMjQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "UVChamber_Stanley/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk5NDE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "UVChamber_Stanley/UVPrototype_Stanley_V1.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk5MzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "UVChamber_Stanley/UVPrototype_Stanley_V1B.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk5MzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "UVChamber_Stanley/UVPrototype_Stanley_V2_Production.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA4MTA="
+mimetype = "text/plain"
+

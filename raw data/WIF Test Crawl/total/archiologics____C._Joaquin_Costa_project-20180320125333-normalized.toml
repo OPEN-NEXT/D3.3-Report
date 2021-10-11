@@ -1,0 +1,13 @@
+name = "C. Joaquin Costa project"
+repo = "https://wikifactory.com/@adolfo/c-joaquin-costa-project"
+version = "20180320125333"
+spdx-license = "N/A"
+licensor = "Adolfo Nadal Serrano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMDY5"
+function = "Joaquin Costa Plot proposal: includes the integration of the office tower within an existing plot with hard to deal with conditions, such as the presence of protected buildings and the referential tower of BBVA, which constitutes on most remarkable Madrid City landmarks."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0"
+mimetype = "text/markdown"
+

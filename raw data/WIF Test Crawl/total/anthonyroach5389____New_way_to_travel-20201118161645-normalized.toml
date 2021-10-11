@@ -1,0 +1,7 @@
+name = "New way to travel "
+repo = "https://wikifactory.com/@anthonyroach5389/new-way-to-travel"
+version = "20201118161645"
+spdx-license = "N/A"
+licensor = "anthonyroach5389"
+documentation-language = "en"
+function = "New travel method using gravity."

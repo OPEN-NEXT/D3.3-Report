@@ -1,0 +1,23 @@
+name = "Lpg gas detector"
+repo = "https://wikifactory.com/@johnnie33/lpg-gas-detector"
+version = "20201103111605"
+spdx-license = "N/A"
+licensor = "John mwadime"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NjUzMjU="
+function = "System that detects gas leak,sets an alarm  and activates different peripherals to help diffuse the gas incase of leakage"
+[[files]]
+name = "/lll.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjUzMjI="
+mimetype = "image/png"
+
+[[files]]
+name = "/project.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjUzMTg="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjUzMTU="
+mimetype = "text/markdown"
+

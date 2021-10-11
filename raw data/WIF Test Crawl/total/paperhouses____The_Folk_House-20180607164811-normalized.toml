@@ -1,0 +1,23 @@
+name = "The Folk House"
+repo = "https://wikifactory.com/@botler/the-folk-house"
+version = "20180607164811"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTQ1"
+function = "A longitudinally organised house by <a href=\"http://sporaarchitects.hu/\">Sporaarchitects</a>, which is similar to a traditional Hungarian farmhouse, with lower level common spaces, but bedrooms in addition, like in any private home today."
+[[files]]
+name = "/folk-house-plans.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozOTU4"
+mimetype = "application/pdf"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozOTY1"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTg5"
+mimetype = "text/markdown"
+

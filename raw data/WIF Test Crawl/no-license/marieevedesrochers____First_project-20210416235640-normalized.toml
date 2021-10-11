@@ -1,0 +1,7 @@
+name = "First project"
+repo = "https://wikifactory.com/@marieevedesrochers/first-project"
+version = "20210416235640"
+spdx-license = "N/A"
+licensor = "Marie-Eve Desrochers"
+documentation-language = "en"
+function = "To understand the platform I create a fake project"

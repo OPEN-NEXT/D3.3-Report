@@ -1,0 +1,57 @@
+name = "Grupo 3"
+repo = "https://wikifactory.com/@nunop/grupo-3"
+version = "20210201202106"
+spdx-license = "N/A"
+licensor = "nunop"
+documentation-language = "hr"
+function = "Projeto livre da UC Tecnologia 5"
+[[files]]
+name = "/mais padroes.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTM4Mzk="
+mimetype = "image/png"
+
+[[files]]
+name = "/padroes2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTc1MjY="
+mimetype = "image/png"
+
+[[files]]
+name = "/padroes.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTIyMTA="
+mimetype = "image/png"
+
+[[files]]
+name = "/padrões1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTc1MTg="
+mimetype = "image/png"
+
+[[files]]
+name = "Padrões dxf/padrão laser 1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMzMDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Padrões dxf/padrão laser 2.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMzMDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Padrões dxf/padrão laser 3.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMzMDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Projeto 4 Tecnologia V (2).pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE3OTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTc3Nzc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Tecnologias-V.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMyOTM="
+mimetype = "application/pdf"
+

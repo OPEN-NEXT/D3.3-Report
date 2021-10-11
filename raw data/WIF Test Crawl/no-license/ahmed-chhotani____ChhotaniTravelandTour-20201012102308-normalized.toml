@@ -1,0 +1,7 @@
+name = "ChhotaniTravelandTour"
+repo = "https://wikifactory.com/@ahmed-chhotani/chhotanitravelandtour"
+version = "20201012102308"
+spdx-license = "N/A"
+licensor = "AhmedAneesChhotani"
+documentation-language = "en"
+function = "TravelandTour"

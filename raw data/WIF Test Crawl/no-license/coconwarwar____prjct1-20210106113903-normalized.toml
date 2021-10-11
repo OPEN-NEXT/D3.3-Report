@@ -1,0 +1,7 @@
+name = "prjct1"
+repo = "https://wikifactory.com/@coconwarwar/prjct1"
+version = "20210106113903"
+spdx-license = "N/A"
+licensor = "Alx"
+documentation-language = "en"
+function = "hello world!"

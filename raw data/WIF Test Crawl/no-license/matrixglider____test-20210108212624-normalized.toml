@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@matrixglider/test"
+version = "20210108212624"
+spdx-license = "N/A"
+licensor = "matrixglider"
+documentation-language = "en"
+function = "testing"

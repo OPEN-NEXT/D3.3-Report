@@ -1,0 +1,13 @@
+name = "Intentional Community"
+repo = "https://wikifactory.com/@cubespawn/intentional-community"
+version = "20210102032215"
+spdx-license = "N/A"
+licensor = "CubeSpawn"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTE4NzM="
+function = "A pilot project and training center for applying CubeSpawn to the technology needs of an Intentional Community"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTE5OTY="
+mimetype = "text/markdown"
+

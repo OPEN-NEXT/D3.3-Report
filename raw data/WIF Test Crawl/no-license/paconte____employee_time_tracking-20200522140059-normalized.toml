@@ -1,0 +1,12 @@
+name = "employee time tracking"
+repo = "https://wikifactory.com/@paconte/employee-time-tracking"
+version = "20200522140059"
+spdx-license = "N/A"
+licensor = "Francisco Revilla"
+documentation-language = "en"
+function = "An European Union compliant fingerprint based employee time tracking."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjAxNTY="
+mimetype = "text/markdown"
+

@@ -1,0 +1,23 @@
+name = "Smart Watch"
+repo = "https://wikifactory.com/@sandipray-code/smart-watch"
+version = "20210111120825"
+spdx-license = "CC0-1.0"
+licensor = "Sandip Ray"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTA4Mzk="
+function = "A smart watch can be built with scanning along row and column according to Game Theory.  The attached document gives a color code for each entry in 3x3 matrix. The left and right will be tracing along row or column."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTA4NDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTA4NDY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Smart Watch Project.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTk4NjA="
+mimetype = "application/pdf"
+

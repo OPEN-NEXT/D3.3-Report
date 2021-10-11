@@ -1,0 +1,13 @@
+name = "Overmolded PCB"
+repo = "https://wikifactory.com/@davantech/overmolded-pcb"
+version = "20200416164401"
+spdx-license = "N/A"
+licensor = "Davy V"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzc4NTk="
+function = "In this project we design and manufacture an overmolded printed circuit board with integrated IC. The result is a custom made addressable connector with contact 6 pins and cable."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzc4NjM="
+mimetype = "text/markdown"
+

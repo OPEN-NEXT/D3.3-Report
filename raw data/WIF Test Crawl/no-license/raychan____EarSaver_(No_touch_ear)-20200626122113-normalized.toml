@@ -1,0 +1,7 @@
+name = "EarSaver (No touch ear)"
+repo = "https://wikifactory.com/@raychan/earsaver-no-touch-ear"
+version = "20200626122113"
+spdx-license = "N/A"
+licensor = "Remo Chan"
+documentation-language = "en"
+function = "This EarSaver design is to totally eliminate the straps of a facemask from touching any part of the ear."

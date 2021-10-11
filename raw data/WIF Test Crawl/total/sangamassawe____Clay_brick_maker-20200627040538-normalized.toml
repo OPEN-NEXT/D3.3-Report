@@ -1,0 +1,7 @@
+name = "Clay brick maker"
+repo = "https://wikifactory.com/@sangamassawe/clay-brick-maker"
+version = "20200627040538"
+spdx-license = "N/A"
+licensor = "sangamassawe"
+documentation-language = "en"
+function = "Making a small but most efficient clay brick making machine that is full auto from mixing clay, forming bricks, drying and firing."

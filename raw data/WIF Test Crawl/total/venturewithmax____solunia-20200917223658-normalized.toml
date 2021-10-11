@@ -1,0 +1,7 @@
+name = "solunia"
+repo = "https://wikifactory.com/@venturewithmax/solunia"
+version = "20200917223658"
+spdx-license = "N/A"
+licensor = "venturewithmax"
+documentation-language = "en"
+function = "Recovery and repositioning for the open innovation of the Volunia platform, the search engine of prof. Massimo Marchiori, professor of mathematics at the University of Padua and researcher of the W3C."

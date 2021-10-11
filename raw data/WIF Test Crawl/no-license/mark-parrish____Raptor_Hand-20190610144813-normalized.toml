@@ -1,0 +1,8 @@
+name = "Raptor Hand"
+repo = "https://wikifactory.com/@mark-parrish/raptor-hand"
+version = "20190610144813"
+spdx-license = "N/A"
+licensor = "Mark Parrish"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTI4NzM="
+function = "This project is for the printing and assembly of the Raptor Hand-demo #1."

@@ -1,0 +1,228 @@
+name = "FabLab experiments"
+repo = "https://wikifactory.com/@katebelakova/recyclesized"
+version = "20200302211735"
+spdx-license = "N/A"
+licensor = "Kate Belakova"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTIwODM="
+function = "In November 2019 - February 2020 I took a digital fabrication class as part of my HCI master's degree in Paris-Sud, we focused on creating designs based on these principles: \n1. Parametric\n2. Foldable\n3. Modular\n4. Flat"
+[[files]]
+name = "/breaking material.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIzMjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/bunch of designs.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIzMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/cirles.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIzMTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/coaster.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTE1NTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/cotton.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/curtain.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/earrings board.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/earrings final.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/exhibition.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/finalBag1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwOTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/finalBag2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwOTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/finalBag3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwOTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/foam1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/foam2.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIzMjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/foam3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_7532.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_7663.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_7664.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_7665.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_829511- final notes.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/jeans.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/laser.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/mask.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/mix-ar.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIzMTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/mix.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIzMDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/models.png"
+permalink = "https://wikifactory.com/files/RmlsZToyOTE1NDg="
+mimetype = "image/png"
+
+[[files]]
+name = "/more foam.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIzMzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/notes1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/notes2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/notes3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/photo5981187348244836937.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/plastic1.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIzMTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/plastic3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIzMjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/platic2.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIzMjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/printed designs.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIzMDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/prints.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/puzzle_1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/puzzle_2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMzg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/tiny bag.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwOTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/wood1.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIzMzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/wood2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/wood3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/wood4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIxMjk="
+mimetype = "image/jpeg"
+

@@ -1,0 +1,13 @@
+name = "à grue simple "
+repo = "https://wikifactory.com/@midoumecanique/à-grue-simple"
+version = "20210110093331"
+spdx-license = "N/A"
+licensor = "midoumecanique"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1MTU4MTM="
+function = "grue simple pour diffirent utilisation dans une atlier d'usinage , garage des travallieurs du métie ( mécanicienne, tôlier, chaudronieé,....)"
+[[files]]
+name = "/grue simple.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTU4MDE="
+mimetype = "application/CDFV2-unknown"
+

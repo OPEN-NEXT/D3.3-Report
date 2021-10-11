@@ -1,0 +1,7 @@
+name = "4 axis cnc"
+repo = "https://wikifactory.com/@suwitist/4-axis-cnc"
+version = "20210206212411"
+spdx-license = "N/A"
+licensor = "Suwit Wongsila"
+documentation-language = "en"
+function = "\ufefffor making 4 axis, cnc and draw the cad/cam file."

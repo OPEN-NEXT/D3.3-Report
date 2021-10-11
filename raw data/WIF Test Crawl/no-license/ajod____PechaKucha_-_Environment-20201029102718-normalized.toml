@@ -1,0 +1,13 @@
+name = "PechaKucha - Environment"
+repo = "https://wikifactory.com/@ajod/pecha-kucha-environment"
+version = "20201029102718"
+spdx-license = "N/A"
+licensor = "Alex"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTk1NjI="
+function = "This project is my first PechaKucha.\nI tried to find images that loosely associated to the previous image but did not follow a theme. This was because I wanted to try and find a theme after the project was complete."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk1NjA="
+mimetype = "text/markdown"
+

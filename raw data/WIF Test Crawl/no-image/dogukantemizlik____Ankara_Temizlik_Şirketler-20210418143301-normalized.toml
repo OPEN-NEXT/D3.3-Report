@@ -1,0 +1,12 @@
+name = "Ankara Temizlik Şirketler"
+repo = "https://wikifactory.com/@dogukantemizlik/ankara-temizlik-şirketler"
+version = "20210418143301"
+spdx-license = "N/A"
+licensor = "dogukan  temizlik"
+documentation-language = "tr"
+function = "Ankara Temizlik Şirketleri , Ankara Temizlik Firmaları Olarak Hijyen Anlamında Temizlik Hizmeti ve Dezenfeksiyon Hizmetleri\nhttps://www.dogukantemizlik.com"
+[[files]]
+name = "/ANKARA TEMİZLİK ŞİRKETLERİ.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODMxNzU="
+mimetype = "image/jpeg"
+

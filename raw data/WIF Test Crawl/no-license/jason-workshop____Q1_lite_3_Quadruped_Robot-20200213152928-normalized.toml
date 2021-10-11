@@ -1,0 +1,13 @@
+name = "Q1 lite 3 Quadruped Robot"
+repo = "https://wikifactory.com/@jason-workshop/q1-lite-3"
+version = "20200213152928"
+spdx-license = "N/A"
+licensor = "Q1 Robot"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDM0OTI="
+function = "Q1 lite 3 was a simple bionic quadruped robot project. It's easy to prepare and assemble, suitable for robot beginner and academy.\n\nDesigned by <a href=\"http://q1.jasonworkshop.com\">Q1 Robot @ Jason Workshop</a>"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDQwNDc="
+mimetype = "text/markdown"
+

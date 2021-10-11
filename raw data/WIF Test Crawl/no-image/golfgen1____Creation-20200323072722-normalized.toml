@@ -1,0 +1,7 @@
+name = "Creation"
+repo = "https://wikifactory.com/@golfgen1/creation"
+version = "20200323072722"
+spdx-license = "N/A"
+licensor = "golfgen1"
+documentation-language = "en"
+function = "design\ufeff and build the project from A To Z using printed 3D and Arduino bords and servo motor to build a usefull project\n\ufeff"

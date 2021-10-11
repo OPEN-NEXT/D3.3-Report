@@ -1,0 +1,7 @@
+name = "flowers"
+repo = "https://wikifactory.com/@godwinako10/flowers"
+version = "20200610001938"
+spdx-license = "N/A"
+licensor = "Ako Godwin"
+documentation-language = "en"
+function = "flowers"

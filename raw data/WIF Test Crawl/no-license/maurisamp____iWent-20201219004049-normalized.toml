@@ -1,0 +1,8 @@
+name = "iWent"
+repo = "https://wikifactory.com/@maurisamp/iwent"
+version = "20201219004049"
+spdx-license = "N/A"
+licensor = "Mauri Samp"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MDMyNzc="
+function = "Electric tricycle for two or the driver and cargo"

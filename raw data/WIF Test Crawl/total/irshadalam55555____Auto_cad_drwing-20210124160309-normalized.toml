@@ -1,0 +1,57 @@
+name = "Auto cad drwing"
+repo = "https://wikifactory.com/@irshadalam55555/auto-cad-drwing"
+version = "20210124160309"
+spdx-license = "N/A"
+licensor = "irshadalam55555"
+documentation-language = "nl"
+function = "2D & 3D Designe"
+[[files]]
+name = "/1 GRAPH.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjY1MTg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/1-15A GAURABH CHOUDHRY PUNJABI BAGH-BUILD.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjY1MTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/1-15A GAURABH CHOUDHRY PUNJABI BAGH-GRAPH.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjY1MTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/2 BUILT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjY1MTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/3 BUILT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjY1MTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/3 GRAPH.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjY1MTI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/7-20 MG CARS KIRTI NAGAR-BUILT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjY1MTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/7-20 MG CARS KIRTI NAGAR-GRAPH.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjY1MTA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/26-1 CORAL BELLS SHIVAJI MARG NAJAFGADH ROAD-BUILT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjY1MDk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/26-1 CORAL BELLS SHIVAJI MARG NAJAFGADH ROAD-GRAPH.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjY1MDg="
+mimetype = "application/pdf"
+

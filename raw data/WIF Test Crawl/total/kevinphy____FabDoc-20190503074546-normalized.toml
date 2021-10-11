@@ -1,0 +1,18 @@
+name = "FabDoc"
+repo = "https://wikifactory.com/@kevinphy/fabdoc"
+version = "20190503074546"
+spdx-license = "MIT"
+licensor = "Kevin Cheng"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDcxODk="
+function = "We are all facing a lot of works of documentation beyond making, especially when we would like to share and collaboratively develop \"hardware\" projects.\n\nTrying to hack the way of documenting for all of makers' projects, simply with Raspberry Pi + camera module, and an experimental platform."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMDcxODU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDcyMjM="
+mimetype = "text/markdown"
+

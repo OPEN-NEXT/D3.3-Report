@@ -1,0 +1,23 @@
+name = "Portable Parabolic trough"
+repo = "https://wikifactory.com/@simbarashe/elysium"
+version = "20210210095459"
+spdx-license = "N/A"
+licensor = "Simbarashe Saopa"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MzkzMzk="
+function = "Enchanted use of renewables to reduce the carbon foot print"
+[[files]]
+name = "/Nesac trough1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzkzMjc="
+mimetype = "image/png"
+
+[[files]]
+name = "/Nesac trough3.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzkzMjY="
+mimetype = "image/png"
+
+[[files]]
+name = "/Nesac trough7.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzkzMjg="
+mimetype = "image/png"
+

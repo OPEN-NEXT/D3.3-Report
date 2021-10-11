@@ -1,0 +1,8 @@
+name = "S500 BOT"
+repo = "https://wikifactory.com/@ic555/s500-bot"
+version = "20210208053715"
+spdx-license = "N/A"
+licensor = "liuming"
+documentation-language = "vi"
+image = "https://wikifactory.com/files/RmlsZTo1Mzc1ODg="
+function = "S500 \n云台底板\n集成了:\n2x电池接口（XT60）\n3X电源接口（XT60）\n4X电机接口（XT60）\n\n4 轴云台接口"

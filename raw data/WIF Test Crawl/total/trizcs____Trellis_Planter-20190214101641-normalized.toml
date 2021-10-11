@@ -1,0 +1,128 @@
+name = "Trellis Planter"
+repo = "https://wikifactory.com/@trizcs/trellis-planter"
+version = "20190214101641"
+spdx-license = "CC-BY-4.0"
+licensor = "Tristan Copley Smith"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNTMzMQ=="
+function = "This beautiful Trellis Planter is perfect for growing viny plants like tomatoes or lilacs."
+[[files]]
+name = "DXF/Plastic/Plastic_0.50in_0.375in.DXF"
+permalink = "https://wikifactory.com/files/RmlsZToyNTQxNA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "DXF/Plastic/Plastic_0.75in_0.375in.DXF"
+permalink = "https://wikifactory.com/files/RmlsZToyNTQxMA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "DXF/Plastic/Plastic_12mm_10mm.DXF"
+permalink = "https://wikifactory.com/files/RmlsZToyNTQxMw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "DXF/Plastic/Plastic_18mm_10mm.DXF"
+permalink = "https://wikifactory.com/files/RmlsZToyNTQxNw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "DXF/Wood/0.50in_0.375in.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM0Ng=="
+mimetype = "text/plain"
+
+[[files]]
+name = "DXF/Wood/0.75in_0.375in.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM0Nw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "DXF/Wood/12mm_10mm.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM0OA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "DXF/Wood/18mm_10mm.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM0OQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "DXF/Wood/Wood_0.50in_0.375in.DXF"
+permalink = "https://wikifactory.com/files/RmlsZToyNTQyMw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNjEyNA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNjEyNg=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "SolidWorks/Arrow.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM3Mw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SolidWorks/Assembled.sldasm"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM3OQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SolidWorks/Back.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM4NQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SolidWorks/Floor.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM4NA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SolidWorks/Front.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM4MQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SolidWorks/Left.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM4OA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SolidWorks/Right.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM3Nw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SolidWorks/Spring.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM3OA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SolidWorks/Trellis.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM4MA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SolidWorks/Trellis_Planter.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM5MQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SolidWorks/Trellis_Planter_v1.2_CNC.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM4Ng=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SolidWorks/Trellis_Planter_v1.2_Cut_Sheet.SLDDRW"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM5MA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STEP/Trellis_Planter.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNTM5NQ=="
+mimetype = "text/plain"
+

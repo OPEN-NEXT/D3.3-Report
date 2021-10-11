@@ -1,0 +1,12 @@
+name = "Project Pilipinas Frigate"
+repo = "https://wikifactory.com/@philippesalamanca/project-pilipinas-frigate"
+version = "20210415145655"
+spdx-license = "N/A"
+licensor = "Philippe John Salamacna"
+documentation-language = "en"
+function = "A ship design that may be a good suggestion to the Philippine navy department for their next frigate projects."
+[[files]]
+name = "/23.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIxMjE="
+mimetype = "image/png"
+

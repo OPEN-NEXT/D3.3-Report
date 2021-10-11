@@ -1,0 +1,28 @@
+name = "HIPPOCAMPUS"
+repo = "https://wikifactory.com/@2017262/hippocampus"
+version = "20200612132056"
+spdx-license = "N/A"
+licensor = "Carolina Alexandria"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTozNzQwMDU="
+function = "O nosso projeto surge com o objetivo de salvar as espécies de cavalos marinhos ameaçadas na Ria Formosa. Consiste numa bóia que estaria a flutuar à superfície e na sua parte inferior (debaixo de água) teria uma câmara com uma ocular de grande abertura."
+[[files]]
+name = "/20200502_170824.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjI1NDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20200502_170843.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjI1Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzQwMDc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/terceira v6.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkzODc="
+mimetype = "text/plain"
+

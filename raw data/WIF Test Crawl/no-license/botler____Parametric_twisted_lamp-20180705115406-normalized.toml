@@ -1,0 +1,28 @@
+name = "Parametric twisted lamp"
+repo = "https://wikifactory.com/@botler/parametric-twisted-lamp"
+version = "20180705115406"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODM1"
+function = "This is a parametric pendant lamp shade created with Grasshopper by <a href=\"http://www.fequalsf.com/\">Aaron Porterfield</a> licensed under <a href>CC BY-NC-SA 2.5</a>. Through this project, you can practically learn more about Grasshopper and laser cutting, with a resulting beautiful design for the home."
+[[files]]
+name = "Files/cutting specs.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3"
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "Files/twisted-lamps.ai"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2"
+mimetype = "application/postscript"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDMyOQ=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Software/twisted-lamp.gh"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ0"
+mimetype = "application/octet-stream"
+

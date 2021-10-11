@@ -1,0 +1,7 @@
+name = "Test Project"
+repo = "https://wikifactory.com/@patelmaulesh007/test-project"
+version = "20201217090021"
+spdx-license = "N/A"
+licensor = "patelmaulesh007"
+documentation-language = "fr"
+function = "Test Project detail"

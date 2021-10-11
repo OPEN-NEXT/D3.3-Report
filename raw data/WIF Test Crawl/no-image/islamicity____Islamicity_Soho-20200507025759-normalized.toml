@@ -1,0 +1,7 @@
+name = "Islamicity Soho"
+repo = "https://wikifactory.com/@islamicity/islamicity-soho"
+version = "20200507025759"
+spdx-license = "N/A"
+licensor = "benny.biggroup"
+documentation-language = "en"
+function = "http://global.islamicity.tv\nIslamicity SOHO 1\nIslamicity SOHO 2\nIslamicity SOHO 3"

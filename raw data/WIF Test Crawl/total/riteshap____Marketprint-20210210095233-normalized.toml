@@ -1,0 +1,7 @@
+name = "Marketprint"
+repo = "https://wikifactory.com/@riteshap/marketprint"
+version = "20210210095233"
+spdx-license = "N/A"
+licensor = "Ritesh Patil"
+documentation-language = "en"
+function = "Project is about researching the Indian market potential in order to develop a low-tech product for consumer industry."

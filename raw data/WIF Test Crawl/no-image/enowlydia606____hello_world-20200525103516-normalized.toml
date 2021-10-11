@@ -1,0 +1,7 @@
+name = "hello world"
+repo = "https://wikifactory.com/@enowlydia606/hello-world"
+version = "20200525103516"
+spdx-license = "N/A"
+licensor = "enowlydia606"
+documentation-language = "en"
+function = "Java programing"

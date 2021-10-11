@@ -1,0 +1,168 @@
+name = "Solar tracking cooker"
+repo = "https://wikifactory.com/@iliafeld/solar-tracking-cooker"
+version = "20180904104403"
+spdx-license = "N/A"
+licensor = "Ilia Feldshtein"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMDcwNQ=="
+function = "Solar tracking cooker with parabolic mirror. It has four light sensors measuring sun location using two stepper mottors control X and Y axises, each one per axis."
+[[files]]
+name = "Design/Dish/central_lock_ring.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk2MA=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Dish/diameret_lock_ring.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk2MQ=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Dish/dish.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk1OQ=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Dish/parabolic_ribs.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk1OA=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Dish/spheric_rib.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk1Nw=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/flower2.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk0NQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Molds/midlle_part_mold_laser2.png"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk1MA=="
+mimetype = "image/png"
+
+[[files]]
+name = "Design/Molds/mold_bottom_ilia.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk0OQ=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Molds/mold_top_ilia.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk1Mg=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Molds/slices_spacer_mold_top.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk1MQ=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Molds/top_mold_wthout_spacer.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk1Mw=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/parabolic/bottom_ilia.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk1Ng=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/parabolic/middle_ilia.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk1NQ=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/parabolic/top_ilia.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk1NA=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/ribs2.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk0Nw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/ribs3.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk0Ng=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Ribstruture/ribstructure-Slice-1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk2NA=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Ribstruture/ribstructure-Slice-2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk2Ng=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Ribstruture/ribstructure-Slice-3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk2NQ=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Ribstruture/ribstructure-Slice-4.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk3OQ=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Ribstruture/ribstructure-Slice-5.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk2Nw=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Ribstruture/ribstructure-Slice-6.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk2OA=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Ribstruture/ribstructure-Slice-7.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk3MA=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Ribstruture/ribstructure-Slice-8.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk3MQ=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Ribstruture/ribstructure-Slice-9.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk3Mg=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Ribstruture/ribstructure-Slice-10.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk2OQ=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Ribstruture/ribstructure.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk2Mw=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/structure1to4.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk0OA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/ilia_solar_track_parts.brd"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk3NQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/list_of_electronic_parts.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk3Ng=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Programming/Solar_Tracker_attiny.ino"
+permalink = "https://wikifactory.com/files/RmlsZToxMDk3OA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDExMQ=="
+mimetype = "text/markdown"
+

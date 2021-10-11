@@ -1,0 +1,88 @@
+name = "LK - Tyvek Tool Caddy"
+repo = "https://wikifactory.com/@lukekelly/tyvek-supply-chain"
+version = "20191206115530"
+spdx-license = "N/A"
+licensor = "Luke Kelly"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODA4Njg="
+function = "A supply chain for a recycled product that is made from waste Tyvek sheets commonly available from construction sites"
+[[files]]
+name = "/Final Layout 740x740mm.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4NTI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Hexagon tool bucket V2.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkxNzc="
+mimetype = "application/3dm"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODgyMzg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Research Images/8523219867_f88305bfa4_b.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkxODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Research Images/canvas.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkxODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Research Images/messy tools.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkxODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Research Images/Research Images.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkxODU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Research Images/skip.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkxODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Research Images/tool roll.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkxODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Research Images/toolbag.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkxODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Research Images/tyvek brighton.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkxODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Research Images/wallet.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkxODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Research_StoryPage.indd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkxNzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Research_StoryPage.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4NTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Tyvek Supply Chain.indd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkxNzg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Tyvek Supply Chain.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4NTU="
+mimetype = "application/pdf"
+

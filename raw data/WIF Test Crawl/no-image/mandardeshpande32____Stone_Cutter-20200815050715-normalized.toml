@@ -1,0 +1,7 @@
+name = "Stone Cutter"
+repo = "https://wikifactory.com/@mandardeshpande32/stone-cutter"
+version = "20200815050715"
+spdx-license = "N/A"
+licensor = "Mandar Deshpande "
+documentation-language = "en"
+function = "A portable stone cutting machine for precision cutting."

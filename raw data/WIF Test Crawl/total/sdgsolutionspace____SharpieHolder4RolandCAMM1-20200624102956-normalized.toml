@@ -1,0 +1,23 @@
+name = "SharpieHolder4RolandCAMM1"
+repo = "https://wikifactory.com/@sdgsolutionspace/sharpieholder4rolandcamm1"
+version = "20200624102956"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "DURNEY Jean-Marie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozODk3MTg="
+function = "SharpiePen Holder to replace blade on Roland CAMM1 GS24 Vinyl Cutter.<br />\n\ufeff<br />\nTransform your Vinyl Cutter into a plotter using Sharpie pens"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozODk3NDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODk3MzQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Sharpie Pen Holder.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODk3Mzg="
+mimetype = "application/sla"
+

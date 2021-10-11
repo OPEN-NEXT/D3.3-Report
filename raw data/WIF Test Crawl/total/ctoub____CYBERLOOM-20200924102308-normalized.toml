@@ -1,0 +1,13 @@
+name = "CYBERLOOM"
+repo = "https://wikifactory.com/@ctoub/cyberloom"
+version = "20200924102308"
+spdx-license = "N/A"
+licensor = "CAROLINE TOUBLANC"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0Mzk5OTQ="
+function = "CYBERLOOM explore le tissage par la fabrication de métiers à tisser à partir de matériaux de réemploi. Le second volet vise à tester et développer des ateliers participatifs sur la réparation textile visible grâce à la couture et au tissage via la fabrication de “patchs” de réparation tissés."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzk5ODc="
+mimetype = "text/markdown"
+

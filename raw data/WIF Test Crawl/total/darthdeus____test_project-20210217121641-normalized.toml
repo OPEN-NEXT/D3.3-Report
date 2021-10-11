@@ -1,0 +1,17 @@
+name = "test project"
+repo = "https://wikifactory.com/@darthdeus/test-project"
+version = "20210217121641"
+spdx-license = "N/A"
+licensor = "Jakub Arnold"
+documentation-language = "en"
+function = "test"
+[[files]]
+name = "/as1-oc-214 (1).stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTQ2OTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/CFPR_clay_hardness_tester_spike.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTQ2ODU="
+mimetype = "application/sla"
+

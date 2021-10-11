@@ -1,0 +1,503 @@
+name = "Dust Tech Headgear"
+repo = "https://wikifactory.com/@faustofonsecaribeiro/trabalho-de-produto"
+version = "20200605223634"
+spdx-license = "N/A"
+licensor = "Fausto da Fonseca Ribeiro"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzQxODI="
+function = "<b>This project is purely speculative.</b> It's also a part of a university project where the students had to create an idea for a shelter to be used in 2050."
+[[files]]
+name = "/assembly.avi"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4MzE="
+mimetype = "video/avi"
+
+[[files]]
+name = "/Dust_Tech_Headgear.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4MjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzQyNTU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Renders/Render1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM0MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM0MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM0MTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM0MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM0MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM0MDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render8.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM0MDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render_BLUELED.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NDU="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/Render_Components.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render_Display1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render_Display2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render_Display3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render_Display4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render_LEDS1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render_LEDS2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render_ORANGELED.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NDg="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/Render_Pillows1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render_Pillows2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renders/Render_PURPLELED.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NDk="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/Render_WHITELED.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NDI="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/Render_YELOWLED2.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4Nzg="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/Render_YELOWLED3.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4Nzc="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/Render_YELOWLED4.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4ODA="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/Render_YELOWLED5.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4NzU="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/Render_YELOWLED.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4ODE="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/Render_Zipper2.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4ODY="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/Render_Zipper.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4ODU="
+mimetype = "image/png"
+
+[[files]]
+name = "Simulations/up1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4MzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Simulations/up2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM4MzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 1 Sketches/phase1_sketch1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU1MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 1 Sketches/phase1_sketch2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 1 Sketches/phase1_sketch3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 1 Sketches/phase1_sketch4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU1MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 1 Sketches/phase1_sketch5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU1MDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 1 Sketches/phase1_sketch6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 1 Sketches/phase1_sketch7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0ODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 1 Sketches/phase1_sketch8.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 1 Sketches/phase1_sketch9.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 1 Sketches/phase1_sketch10.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU1MDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 1 Sketches/phase1_sketch11.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 1 Sketches/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU1MDk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0NTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0NTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0NDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch8.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0NDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch9.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0NDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch10.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch11.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch12.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY3MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch13.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY3MDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch14.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY3MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch15.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY3MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch16.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY3MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch17.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY3MDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch18.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY2OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/phase2_sketch19.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY3MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Sketches/Phase 2 Sketches/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU1MjA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Technical Drawings/technical_1_dth.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMzMDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_1_dth_detail.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMzMTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_2_visor.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMzMDY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_3_outerfilter.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMzMjc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_4_helmet.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMzMDQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_5_innerfilter.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMzMzE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_6_sidepillows.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMzMDI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_7_backpillow.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMzMDE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_8_upperpillow.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMzMDA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_9_touchpad_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyOTk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_10_displaypcb_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyOTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_11_battery_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyOTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_12_memsmic_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyOTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_13_usbc_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyOTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_14_logicboard_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyOTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_15_cameras_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyOTI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_16_conector_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyOTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_17_conectorcover_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMzMzU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_18_mountingbolt_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyODk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_19_usbcover_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyODg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_20_ventilationassembly_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyODc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_21_speaker_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyODY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_22_ledstrip_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyODU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Technical Drawings/technical_23_backlid_component.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzMyODQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Testing Models/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU1NDE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Testing Models/TestModel1_Shelter1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjcxOTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Testing Models/TestModel1_Shelter2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjcxOTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Testing Models/TestModel1_Shelter3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjcxOTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Testing Models/TestModel2_Shelter1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjcxOTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Testing Models/TestModel2_Shelter2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjcxODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Testing Models/TestModel_DTH1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU1MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Testing Models/TestModel_DTH2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU1MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Testing Models/TestModel_DTH3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU1MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Testing Models/TestModel_DTH4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjcxOTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Testing Models/TestModel_DTH5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjcxOTY="
+mimetype = "image/jpeg"
+

@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@sabdul/test"
+version = "20210109171102"
+spdx-license = "N/A"
+licensor = "abdulrahumans"
+documentation-language = "en"
+function = "Test wikifactory"

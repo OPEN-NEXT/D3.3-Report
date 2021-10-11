@@ -1,0 +1,8 @@
+name = "MicroplasticExtractor"
+repo = "https://wikifactory.com/@yquere/microplasticextractor"
+version = "20201020165606"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0NTk3MzI="
+function = "Création d'une méthode portable pour l'extraction de microplastiques à partir de sédiments marins (Océanopolis)"

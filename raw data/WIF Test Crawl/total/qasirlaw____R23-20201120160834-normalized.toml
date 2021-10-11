@@ -1,0 +1,12 @@
+name = "R23"
+repo = "https://wikifactory.com/@qasirlaw/r23"
+version = "20201120160834"
+spdx-license = "N/A"
+licensor = "qasirlaw"
+documentation-language = "en"
+function = "ANE Assistant Robot R23"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODc2Mjc="
+mimetype = "text/markdown"
+

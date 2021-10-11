@@ -1,0 +1,143 @@
+name = "Grupo 6"
+repo = "https://wikifactory.com/@nunop/grupo-6"
+version = "20210130100335"
+spdx-license = "N/A"
+licensor = "nunop"
+documentation-language = "hr"
+image = "https://wikifactory.com/files/RmlsZTo1MzE0NTM="
+function = "Projeto livre da UC Tecnologia 5"
+[[files]]
+name = "/ammonite com manta.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExNjQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/bolo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExOTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/desbaste cnc.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExNzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/esboço ammonite.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExMjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/estudo do desenho em programa digital ammonite (2).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExMjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/experiencias moldes termoformagem.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/gesso processo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Gesso.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/LASER.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzEyMDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/massa pao forma.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExNzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/massa pao resultado.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExNzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Modelo ammonite 3d.obj"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzEyMDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Modelo ammonite stl (corte).stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzA1ODE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Molde para a termoformagem.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExMzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/processo de termoformagem a vácuo (2).mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExNDI="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/programa de leitura G-code (desbaste).jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExNjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE0NTA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/resultado desbaste cnc 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzA1NjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/resultado gesso.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/resultado termoformagem (acetato preto).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExNTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/resultado termoformagem (acetato transparente).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExNTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/resultado termoformagem (acetato transparente, relevo).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExNTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/sobras de espuma de poliuretano (desbaste).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExMzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/tentativa de reprodução de amonite em espuma de poliuretano.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExMzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/terra termoformagem 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExOTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/terra termoformagem.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExOTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/terra.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzExOTU="
+mimetype = "image/jpeg"
+

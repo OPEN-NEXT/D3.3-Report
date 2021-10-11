@@ -1,0 +1,7 @@
+name = "Line follower "
+repo = "https://wikifactory.com/@aparnajha3357/line-follower"
+version = "20200620041018"
+spdx-license = "N/A"
+licensor = "aparnajha3357"
+documentation-language = "en"
+function = "My robo follows white and black strip to move on the path with the help of sensors and for coding it's direction arduino is insatalled#"

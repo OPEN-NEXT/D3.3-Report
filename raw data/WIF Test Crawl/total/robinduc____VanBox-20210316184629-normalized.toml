@@ -1,0 +1,7 @@
+name = "VanBox"
+repo = "https://wikifactory.com/@robinduc/vanbox"
+version = "20210316184629"
+spdx-license = "N/A"
+licensor = "Robin"
+documentation-language = "en"
+function = "Wood box design project to convert a monospace car into a small van"

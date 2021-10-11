@@ -1,0 +1,27 @@
+name = "reGrow"
+repo = "https://wikifactory.com/@v1v13n1/regrow"
+version = "20200420190824"
+spdx-license = "N/A"
+licensor = "vivien roussel"
+documentation-language = "en"
+function = "Awarded 1st prize in Wearable Tech, Reshape.io 2018.\nreGrow is an introductory exploration to the <a href=\"https://thr34d5.org/2019/08/20/karp/\">kARP</a>. It utilizes the simple cultivation of kombucha & the reuse of waste grapes to create a biomedical gown assisting the rehabilitation of a selection of skin injuries & ailments."
+[[files]]
+name = "/Kombucha pellicle recipe.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgxNDQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTEyNzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDAxMDM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/reGrow - research presentation"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI3MzE="
+mimetype = "application/pdf"
+

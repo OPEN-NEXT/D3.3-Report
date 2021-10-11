@@ -1,0 +1,7 @@
+name = "Lime Selector"
+repo = "https://wikifactory.com/@krisdianto/lime-selector"
+version = "20200314025724"
+spdx-license = "N/A"
+licensor = "krisdianto"
+documentation-language = "en"
+function = "Size \ufeffselector for selection lime base on their size"

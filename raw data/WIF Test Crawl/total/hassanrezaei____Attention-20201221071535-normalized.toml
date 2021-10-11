@@ -1,0 +1,7 @@
+name = "Attention"
+repo = "https://wikifactory.com/@hassanrezaei/attention"
+version = "20201221071535"
+spdx-license = "N/A"
+licensor = "Hassan Rezaei "
+documentation-language = "en"
+function = "This project will help people allocate attention to every domain of life effectively."

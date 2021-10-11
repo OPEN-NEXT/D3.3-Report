@@ -1,0 +1,7 @@
+name = "Badger Drones"
+repo = "https://wikifactory.com/@fesowola/badger-drones"
+version = "20200812210259"
+spdx-license = "N/A"
+licensor = "Fesowola Akintoye"
+documentation-language = "en"
+function = "Designand construction of  drones for spaying chemicals and fertilizers on farms"

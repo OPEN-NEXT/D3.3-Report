@@ -1,0 +1,7 @@
+name = "Property examiner"
+repo = "https://wikifactory.com/@preetham/property-examiner"
+version = "20200911045641"
+spdx-license = "N/A"
+licensor = "Padamatidevatala sai preetham"
+documentation-language = "en"
+function = "In different  scales of dimensions the properties visualised by users"

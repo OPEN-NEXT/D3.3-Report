@@ -1,0 +1,13 @@
+name = "AnycubicKossel to Ceramic"
+repo = "https://wikifactory.com/@gdiazfab/anycubickossel-to-ceramic"
+version = "20200425191816"
+spdx-license = "N/A"
+licensor = "Giovanna Diaz Fabiani"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjEyNDQ="
+function = "My attempt of modifying an Anycubic Linear Kossel kit to extrude clay.  \n<b>Goal</b>: To produce viable ceramic sculptures without the need for a throwing wheel or the mold-making/slip casting method."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDIzNDc="
+mimetype = "text/markdown"
+

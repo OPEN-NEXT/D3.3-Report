@@ -1,0 +1,7 @@
+name = "Make"
+repo = "https://wikifactory.com/@rjoshivisiting/make"
+version = "20210109140929"
+spdx-license = "N/A"
+licensor = "rjoshivisiting"
+documentation-language = "en"
+function = "This"

@@ -1,0 +1,18 @@
+name = "Pecha Kucha"
+repo = "https://wikifactory.com/@bcronnie/pecha-kucha"
+version = "20191123165754"
+spdx-license = "N/A"
+licensor = "Ben Ronnie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODIwMzU="
+function = "My Pecha Kucha on loose associations."
+[[files]]
+name = "/Loose Association done(BR).mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyODE5NDk="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODUyMTg="
+mimetype = "text/markdown"
+

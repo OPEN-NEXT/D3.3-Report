@@ -1,0 +1,13 @@
+name = "polargraph"
+repo = "https://wikifactory.com/@catarinagamboa/polargraph"
+version = "20201003164901"
+spdx-license = "N/A"
+licensor = "catarinagamboa"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTU5OTk="
+function = "Polar drawing machine.\nFabExperience 2020"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDYyMDg="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@javierih/test"
+version = "20191029190137"
+spdx-license = "N/A"
+licensor = "Javier Isabel Hernandez"
+documentation-language = "en"
+function = "Test for testing stuff"

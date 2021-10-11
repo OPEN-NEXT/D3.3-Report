@@ -1,0 +1,7 @@
+name = "Concrete Block Template"
+repo = "https://wikifactory.com/@tbsayco/concrete-block-template"
+version = "20210310055628"
+spdx-license = "N/A"
+licensor = "THEODY B SAYCO"
+documentation-language = "en"
+function = "A template to be used in laying out concrete blocks on surface"

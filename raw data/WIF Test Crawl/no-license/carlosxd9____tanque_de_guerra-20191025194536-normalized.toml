@@ -1,0 +1,8 @@
+name = "tanque de guerra"
+repo = "https://wikifactory.com/@carlosxd9/tanque-de-guerra"
+version = "20191025194536"
+spdx-license = "N/A"
+licensor = "carlos eduardo vasquez rangel"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZToyNzYyMjg="
+function = "el tanque lo que va a hacer es moverse y dispara proyectiles los materiales son: cartón;    \nmotor reductores y la node mcu v2.0"

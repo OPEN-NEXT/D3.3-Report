@@ -1,0 +1,12 @@
+name = "Example upload"
+repo = "https://wikifactory.com/@garowello/example-upload"
+version = "20210421100227"
+spdx-license = "N/A"
+licensor = "Gareth Owen Lloyd"
+documentation-language = "en"
+function = "Description"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODgzMjc="
+mimetype = "text/plain"
+

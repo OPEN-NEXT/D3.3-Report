@@ -1,0 +1,7 @@
+name = "Mantenimiento pc"
+repo = "https://wikifactory.com/@poindester/mantenimiento-pc"
+version = "20210314073421"
+spdx-license = "N/A"
+licensor = "oswaldo marquez"
+documentation-language = "es"
+function = "Mantenimiento y Reparación de todo tipo de Computadores, Respaldo de Información, Configuración y Puesta en marcha de equipos de computación"

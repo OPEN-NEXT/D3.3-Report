@@ -1,0 +1,7 @@
+name = "Novelo3d"
+repo = "https://wikifactory.com/@lucasalvesc/novelo3d"
+version = "20210322225420"
+spdx-license = "N/A"
+licensor = "Lucas Castro"
+documentation-language = "en"
+function = "CNC project"

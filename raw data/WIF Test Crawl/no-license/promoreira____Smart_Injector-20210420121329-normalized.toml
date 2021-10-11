@@ -1,0 +1,703 @@
+name = "Smart Injector"
+repo = "https://wikifactory.com/@promoreira/smart-injector"
+version = "20210420121329"
+spdx-license = "N/A"
+licensor = "Paulo Moreira"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODQ1NzY="
+function = "Injection molding machine for recycling plastic (called \"Smart Injector\"). The design is low-cost and uses easy accessible components.\nIMPORTANT! The machine is still work in progress and not completely perfect yet :)"
+[[files]]
+name = "/01_Guide.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3NDk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/02_BOM.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3NDI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/03_Smart_Injector.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3NDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "04_Blueprints_Circuit_diagram/00_Smart_Injector.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3NjA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "04_Blueprints_Circuit_diagram/01_frame.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3NTk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "04_Blueprints_Circuit_diagram/02_extruder.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3NTg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "04_Blueprints_Circuit_diagram/03_clamp_mechanism.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3NTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "04_Blueprints_Circuit_diagram/04_ventilation.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3NTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "04_Blueprints_Circuit_diagram/05_mounting_limitswitch.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3NTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "04_Blueprints_Circuit_diagram/06_user_panel.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3NTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "04_Blueprints_Circuit_diagram/Circuit_diagram.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3NTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/.vs/Automatik_quick_n_dirty/v15/.suo"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2Nzg="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/.vs/Automatik_quick_n_dirty/v15/Browse.VC.db"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2Nzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/.vs/Automatik_quick_n_dirty/v15/ipch/AutoPCH/5b891cc49cfd3dfb/.AUTOMATIK_QUICK_N_DIRTY.VSARDUINO.ipch"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NzQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/.vs/Automatik_quick_n_dirty/v15/ipch/AutoPCH/8aa88a124d6bacfb/.AUTOMATIK_QUICK_N_DIRTY.VSARDUINO.ipch"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NzM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/.vs/Automatik_quick_n_dirty/v15/ipch/AutoPCH/23aff349c7aa9670/A_CLOSE_MOULD.ipch"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NzY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/.vs/Automatik_quick_n_dirty/v15/ipch/AutoPCH/47288654bed7d43b/FORWARD.ipch"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NzU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/.vs/Automatik_quick_n_dirty/v15/ipch/AutoPCH/a0c809ce48783fbc/M_CLOSE_MOULD.ipch"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NzI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/.vs/Automatik_quick_n_dirty/v15/ipch/AutoPCH/bf7bea1d3e695f4b/.AUTOMATIK_QUICK_N_DIRTY.VSARDUINO.ipch"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/.vs/Automatik_quick_n_dirty/v15/ipch/AutoPCH/df0f7f6c4ec34c81/M_BACKWARD.ipch"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NzA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/.vs/Automatik_quick_n_dirty/v15/ipch/AutoPCH/f54551b3a1ae61ea/A_OPEN_MOULD.ipch"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2Njk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/.vs/Automatik_quick_n_dirty/v15/ipch/AutoPCH/f81303c507df047c/OPEN_MOULD.ipch"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2Njg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/__vm/.Automatik_quick_n_dirty.vsarduino.h"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MTY="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/__vm/Compile.vmps.xml"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MTU="
+mimetype = "text/xml"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/__vm/Configuration.Debug.vmps.xml"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MTQ="
+mimetype = "text/xml"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/__vm/Configuration.Release.vmps.xml"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MTM="
+mimetype = "text/xml"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/__vm/Upload.vmps.xml"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MTI="
+mimetype = "text/xml"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/A_backward.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/A_close_mould.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/A_forward.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/A_open_mould.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Automatik_quick_n_dirty.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2Njc="
+mimetype = "text/x-c"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Automatik_quick_n_dirty.sln"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Automatik_quick_n_dirty.vcxproj"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NjU="
+mimetype = "application/xml"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Automatik_quick_n_dirty.vcxproj.filters"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NjQ="
+mimetype = "application/xml"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Automatik_quick_n_dirty.vcxproj.user"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NjM="
+mimetype = "application/xml"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Automatik_quick_n_dirty.cpp.d"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NTg="
+mimetype = "text/x-dsrc"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Automatik_quick_n_dirty.cpp.o"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NTc="
+mimetype = "application/x-object"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Automatik_quick_n_dirty.eep"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Automatik_quick_n_dirty.elf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NTU="
+mimetype = "application/x-executable"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Automatik_quick_n_dirty.hex"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Automatik_quick_n_dirty.ino.eep"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Automatik_quick_n_dirty.ino.elf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NTI="
+mimetype = "application/x-executable"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Automatik_quick_n_dirty.ino.hex"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Automatik_quick_n_dirty.ino.with_bootloader.hex"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Automatik_quick_n_dirty.with_bootloader.hex"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/LiquidCrystal_I2C-1.1.2/LiquidCrystal_I2C.cpp.d"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NDg="
+mimetype = "text/x-dsrc"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/LiquidCrystal_I2C-1.1.2/LiquidCrystal_I2C.cpp.o"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NDc="
+mimetype = "application/x-object"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/VM_DBG/VM_DBG.cpp.d"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NDY="
+mimetype = "text/x-dsrc"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/VM_DBG/VM_DBG.cpp.o"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NDU="
+mimetype = "application/x-object"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/VM_DBG/VM_mem_check_sam.cpp.d"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NDQ="
+mimetype = "text/x-dsrc"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/VM_DBG/VM_mem_check_sam.cpp.o"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NDM="
+mimetype = "application/x-object"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Wire/utility/twi.c.d"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NDI="
+mimetype = "text/x-dsrc"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Wire/utility/twi.c.o"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NDE="
+mimetype = "application/x-object"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Wire/Wire.cpp.d"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2NDA="
+mimetype = "text/x-dsrc"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Debug/Wire/Wire.cpp.o"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2Mzk="
+mimetype = "application/x-object"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Automatik_quick_n_dirty.cpp.d"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2Mzg="
+mimetype = "text/x-dsrc"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Automatik_quick_n_dirty.cpp.o"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2Mzc="
+mimetype = "application/x-object"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Automatik_quick_n_dirty.eep"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Automatik_quick_n_dirty.elf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MzU="
+mimetype = "application/x-executable"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Automatik_quick_n_dirty.hex"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Automatik_quick_n_dirty.ino.eep"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Automatik_quick_n_dirty.ino.elf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MzI="
+mimetype = "application/x-executable"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Automatik_quick_n_dirty.ino.hex"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Automatik_quick_n_dirty.ino.with_bootloader.hex"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Automatik_quick_n_dirty.with_bootloader.hex"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2Mjk="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/board.buildinfo"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2Mjg="
+mimetype = "text/plain"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/LiquidCrystal_I2C-1.1.2/LiquidCrystal_I2C.cpp.d"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2Mjc="
+mimetype = "text/x-dsrc"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/LiquidCrystal_I2C-1.1.2/LiquidCrystal_I2C.cpp.o"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MjY="
+mimetype = "application/x-object"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/VM_DBG/VM_DBG.cpp.d"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MjU="
+mimetype = "text/x-dsrc"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/VM_DBG/VM_DBG.cpp.o"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MjQ="
+mimetype = "application/x-object"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/VM_DBG/VM_mem_check_sam.cpp.d"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MjM="
+mimetype = "text/x-dsrc"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/VM_DBG/VM_mem_check_sam.cpp.o"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MjI="
+mimetype = "application/x-object"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Wire/utility/twi.c.d"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MjE="
+mimetype = "text/x-dsrc"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Wire/utility/twi.c.o"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MjA="
+mimetype = "application/x-object"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Wire/Wire.cpp.d"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MTk="
+mimetype = "text/x-dsrc"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/Release/Wire/Wire.cpp.o"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MTg="
+mimetype = "application/x-object"
+
+[[files]]
+name = "05_Program/Automatik_quick_n_dirty/src/arduino folders read me.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2MTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/Automated plastic recycling.mov"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3Mzg="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/CAD_pictures/Assembly_pressurepart.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3Mzc="
+mimetype = "image/png"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/CAD_pictures/Sliced_Extruder_1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MzY="
+mimetype = "image/png"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/CAD_pictures/Sliced_Extruder_2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MzU="
+mimetype = "image/png"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/CAD_pictures/Smart_Injector v15_-45°angle.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/CAD_pictures/Smart_Injector v15_behind.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MzM="
+mimetype = "image/png"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/CAD_pictures/Smart_Injector v15_front.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MzI="
+mimetype = "image/png"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/CAD_pictures/Smart_Injector v15_left_top.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MzE="
+mimetype = "image/png"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/CAD_pictures/Smart_Injector v15_right.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MzA="
+mimetype = "image/png"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/CAD_pictures/Smart_Injector v15_top.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3Mjk="
+mimetype = "image/png"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/CAD_pictures/Smart_Injector_ V1_45°angle.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3Mjg="
+mimetype = "image/png"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/CAD_pictures/Smart_Injector_V1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3Mjc="
+mimetype = "image/png"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/fornt view.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/left side.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/00_Smart_Injector/right side.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/01_frame/frame in former setup with extrusion screw and NEMA34.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/01_frame/Manuel assembling the frame.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/02_extruder/13 mm shaft of extrusion screw.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/02_extruder/extruder without motor.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/02_extruder/extruder without mounting hall sensore.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/02_extruder/extruder.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/02_extruder/mounting hall sensor on extruder.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/02_extruder/mounting NEMA34.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/02_extruder/NEMA34 and Gearbox.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/02_extruder/nozzle in position.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/02_extruder/Nozzle unwelded.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/02_extruder/temperature sensors on the heating pipe.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/bearing block with the axial bearing installed.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/bearing blocks and thread blocks.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/clamp mechanism detail.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/clamp mechanism installed.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/clamp mechanism left side.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/clamp mechanism with mould.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/eject mechanism (2).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/Eject_mechanism.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/ejector pins.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/fixed platen with heating elements (those are inserted in the plate).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/NEMA17 from above.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/NEMA17 from behind.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/NEMA17 with belt pulleys.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/open mould with heating element.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/open mould.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/03_clamp_mechanism/springs of the eject mechanism.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/04_ventilation/connector ventilation.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/04_ventilation/ventilation extruder 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/04_ventilation/ventilation extruder.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/04_ventilation/ventilation mould (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/04_ventilation/ventilation mould.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/05_mounting limitswitch/both limitswitches in positon 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/05_mounting limitswitch/both limitswitches in positon.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/06_user_panel/mounting user panel.mov"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2ODg="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "06_Additional_pictures/06_user_panel/user panel in front of machine.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2ODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/06_user_panel/user panel on machine 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2ODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/06_user_panel/user panel on machine.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/07_electronics/cables going out from switch cabinet.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/07_electronics/full electronics of the Smart Injector.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/07_electronics/switch cabinet 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/07_electronics/switch cabinet 3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/07_electronics/switch cabinet.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2ODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "06_Additional_pictures/07_electronics/USB_Interface.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ2Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ3NTA="
+mimetype = "text/markdown"
+

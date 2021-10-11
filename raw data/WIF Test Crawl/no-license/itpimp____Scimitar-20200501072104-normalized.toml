@@ -1,0 +1,47 @@
+name = "Scimitar "
+repo = "https://wikifactory.com/@itpimp/scimitar"
+version = "20200501072104"
+spdx-license = "N/A"
+licensor = "Richard de Breyn"
+documentation-language = "en"
+function = "Scimitar EWS: An intrusion Early Warning Security system using off-the-shelf components, software and custom code.\n\nThe primary goals of the system:\n1. Build a base to snap any type of security sensor into.\n2. Use off-the-shelf components as far as possible.\n3. Make it expandable for other purposes."
+[[files]]
+name = "Arduino code/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjM1NDg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Arduino code/Security_Client.ino/Security_Client.ino.ino"
+permalink = "https://wikifactory.com/files/RmlsZTozMjM1NTc="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Arduino code/Security_Client.ino/utilityFunctions.h"
+permalink = "https://wikifactory.com/files/RmlsZTozMjM1NTY="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Arduino code/write_device_config/utilityFunctions.h"
+permalink = "https://wikifactory.com/files/RmlsZTozMjM1NDk="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Arduino code/write_device_config/write_device_config.ino"
+permalink = "https://wikifactory.com/files/RmlsZTozMjM1NTA="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Enclosures/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjM1NzM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NodeRed/NodeRed flows.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMjM1NjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjM1ODg="
+mimetype = "text/markdown"
+

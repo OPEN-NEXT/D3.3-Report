@@ -1,0 +1,7 @@
+name = "Robot arm"
+repo = "https://wikifactory.com/@nguyentatdongvn90/robot-arm"
+version = "20201227034128"
+spdx-license = "N/A"
+licensor = "nguyentatdongvn90"
+documentation-language = "en"
+function = "Be use 3D printer to make a robot arm. what will be installed in the kitchen, they can do kitchen work"

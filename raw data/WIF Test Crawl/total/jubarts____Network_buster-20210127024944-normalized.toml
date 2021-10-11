@@ -1,0 +1,7 @@
+name = "Network buster"
+repo = "https://wikifactory.com/@jubarts/network-buster"
+version = "20210127024944"
+spdx-license = "N/A"
+licensor = "Jubas"
+documentation-language = "en"
+function = "To make a network buster device which can be used at home"

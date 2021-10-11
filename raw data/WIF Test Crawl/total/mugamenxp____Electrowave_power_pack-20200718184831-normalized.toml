@@ -1,0 +1,7 @@
+name = "Electrowave power pack"
+repo = "https://wikifactory.com/@mugamenxp/electrowave-power-pack"
+version = "20200718184831"
+spdx-license = "N/A"
+licensor = "Brighton Paul Mugaduwi"
+documentation-language = "en"
+function = "Designing a power bank that convert electromagnetic waves into electricity"

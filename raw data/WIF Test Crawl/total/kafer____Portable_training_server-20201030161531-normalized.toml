@@ -1,0 +1,7 @@
+name = "Portable training server"
+repo = "https://wikifactory.com/@kafer/portable-training-server"
+version = "20201030161531"
+spdx-license = "N/A"
+licensor = "ELY Mustapha"
+documentation-language = "en"
+function = "TLS (Internetless Training Solution) is integrating the most recent elearning plateforms, running on USB or external hard disk and proposing all tools to teach and train like an online platform.  Interactive and dynamic courses, graded and leading to certificates stamped electronically."

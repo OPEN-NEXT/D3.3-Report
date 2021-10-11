@@ -1,0 +1,138 @@
+name = "The Poetry Machine"
+repo = "https://wikifactory.com/@shelga/the-poetry-machine"
+version = "20180808111340"
+spdx-license = "N/A"
+licensor = "Sigridur Helga Hauskdottir"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo3NTA1"
+function = "This was a final project for FabAcademy, a interactive poetry making machine or a short story teller. By <a href=\"http://fabacademy.org/archives/2015/eu/students/hauksdottir.sigridur_helga/W19_project_presentation.html\">Sigridur Helga Hauksdottir</a>."
+[[files]]
+name = "Design/Letters.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjMy"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Design/ThePoetryMachine_finalCuttingParts.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjMx"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Electronics/connecting_board.brd"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjI2"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/connecting_board.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjI3"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/connection-interior2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjI5"
+mimetype = "image/png"
+
+[[files]]
+name = "Electronics/connection-names2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjI0"
+mimetype = "image/png"
+
+[[files]]
+name = "Electronics/connection-traces2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjIz"
+mimetype = "image/png"
+
+[[files]]
+name = "Electronics/stMotorHallWBridge.brd"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjI1"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/stMotorHallWBridge.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjI4"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/Motion detection/index.html"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjA5"
+mimetype = "text/html"
+
+[[files]]
+name = "Programming/Motion detection/js/global.js"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjEw"
+mimetype = "application/javascript"
+
+[[files]]
+name = "Programming/Motion detection/js/jquery.js"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjEy"
+mimetype = "application/javascript"
+
+[[files]]
+name = "Programming/Motion detection/js/main.js"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjEx"
+mimetype = "application/javascript"
+
+[[files]]
+name = "Programming/Motion detection/js/MotionDetector/onMotionDetect.js"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjE4"
+mimetype = "application/javascript"
+
+[[files]]
+name = "Programming/Motion detection/js/MotionDetector/poems.js"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjE5"
+mimetype = "application/javascript"
+
+[[files]]
+name = "Programming/Motion detection/js/MotionDetector/poemsTestPage.js"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjIw"
+mimetype = "application/javascript"
+
+[[files]]
+name = "Programming/Motion detection/js/MotionDetector/websocket.js"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjE3"
+mimetype = "application/javascript"
+
+[[files]]
+name = "Programming/Motion detection/js/poem machine/onMotionDetect.js"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjE0"
+mimetype = "application/javascript"
+
+[[files]]
+name = "Programming/Motion detection/js/poem machine/poems.js"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjE1"
+mimetype = "application/javascript"
+
+[[files]]
+name = "Programming/Motion detection/js/poem machine/poemsTestPage.js"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjE2"
+mimetype = "application/javascript"
+
+[[files]]
+name = "Programming/Motion detection/js/poem machine/websocket.js"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjEz"
+mimetype = "application/javascript"
+
+[[files]]
+name = "Programming/Motion detection/Styles/main.css"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjIx"
+mimetype = "text/css"
+
+[[files]]
+name = "Programming/Motion detection/testSendLetter.html"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjA4"
+mimetype = "text/html"
+
+[[files]]
+name = "Programming/stepper3-3hbridge.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjA2"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/TheBridge.js"
+permalink = "https://wikifactory.com/files/RmlsZTo3NjA3"
+mimetype = "application/javascript"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo3OTc0"
+mimetype = "text/markdown"
+

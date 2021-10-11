@@ -1,0 +1,7 @@
+name = "NICETY MEDICAL MACHINE"
+repo = "https://wikifactory.com/@sebabi-henry/nicety-medical-machine"
+version = "20200625220258"
+spdx-license = "N/A"
+licensor = "SEBABI HENRY"
+documentation-language = "en"
+function = "It's about providing mobile treatment in distancing homes far away from hospital reach"

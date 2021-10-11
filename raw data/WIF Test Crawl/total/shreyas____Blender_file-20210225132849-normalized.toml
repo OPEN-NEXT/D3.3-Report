@@ -1,0 +1,12 @@
+name = "Blender file"
+repo = "https://wikifactory.com/@shreyas/blender-file"
+version = "20210225132849"
+spdx-license = "N/A"
+licensor = "Shreyas auti"
+documentation-language = "en"
+function = "Shop complex"
+[[files]]
+name = "/shop complex.obj"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTg2NDE="
+mimetype = "text/plain"
+

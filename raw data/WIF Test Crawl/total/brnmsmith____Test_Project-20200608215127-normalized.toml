@@ -1,0 +1,7 @@
+name = "Test Project"
+repo = "https://wikifactory.com/@brnmsmith/test-project"
+version = "20200608215127"
+spdx-license = "N/A"
+licensor = "Brian Smith"
+documentation-language = "en"
+function = "Testing the platform"

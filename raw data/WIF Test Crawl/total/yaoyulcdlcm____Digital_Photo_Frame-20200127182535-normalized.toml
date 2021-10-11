@@ -1,0 +1,108 @@
+name = "Digital Photo Frame "
+repo = "https://wikifactory.com/@yaoyulcdlcm/digital-photo-frame"
+version = "20200127182535"
+spdx-license = "N/A"
+licensor = "yaoyulcdlcm"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDE0MTU="
+function = "Digital photo frame are awesome thing to show photos of your family members, friends and your pets. I wanted to build a small, cheap and cute photo frame with the parts already in my hand. This frame use 1.8\" Small TFT panel and ESP8266 wireless development environment in a 3D printed case."
+[[files]]
+name = "/001.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/003.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0Mzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/006.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/007.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/008.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/009.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/010.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/012.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0Mjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/013.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0Mjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/014.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/015.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/016.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/017.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/018.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/019.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/020.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/021.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/022.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/023.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0MTY="
+mimetype = "text/markdown"
+

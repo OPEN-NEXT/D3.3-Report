@@ -1,0 +1,68 @@
+name = "Docubot-ShenzhenTeam"
+repo = "https://wikifactory.com/@阳晴sunny/docubot-shenzhenteam"
+version = "20190628125703"
+spdx-license = "N/A"
+licensor = "Sunny Yang"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTY0NjY="
+function = "Docubot Shenzhen Team"
+[[files]]
+name = "China_Docubot-Android_UI/China_Docubot-Android_UI-1.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3NDU="
+mimetype = "image/png"
+
+[[files]]
+name = "China_Docubot-Android_UI/China_Docubot-Android_UI-2.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3NDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "China_Docubot-Android_UI/China_Docubot-Android_UI-3.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3NDM="
+mimetype = "image/png"
+
+[[files]]
+name = "China_Docubot-Android_UI/China_Docubot-Android_UI-4.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3NDI="
+mimetype = "image/png"
+
+[[files]]
+name = "China_Docubot-Showcase/compoents.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4NDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "China_Docubot-Showcase/Showcaes-Step2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3NjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "China_Docubot-Showcase/Showcaes-Step3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3NjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "China_Docubot-Showcase/Showcase-1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Docubot-Shenzhen-Pitch.avi"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcyNzA="
+mimetype = "video/x-msvideo"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcyNzI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "User-Interface-Layout/User_Interface-Docubot2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "User-Interface-Layout/User_Interface-Docubot.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3MjY="
+mimetype = "image/jpeg"
+

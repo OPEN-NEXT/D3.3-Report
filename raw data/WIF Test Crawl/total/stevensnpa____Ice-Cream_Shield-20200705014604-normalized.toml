@@ -1,0 +1,13 @@
+name = "Ice-Cream Shield"
+repo = "https://wikifactory.com/@stevensnpa/ice-cream-shield"
+version = "20200705014604"
+spdx-license = "N/A"
+licensor = "Stevens Nelson Peña Alcántara"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDI1OTU="
+function = "This is a solution is shield for ice cream and any other food like it. It will protect your food from any droplets while you still have a nice conversation with someone else. It will also reduce the use of single use containers and you will the certainty that you are using a clean container."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2MDQ="
+mimetype = "text/markdown"
+

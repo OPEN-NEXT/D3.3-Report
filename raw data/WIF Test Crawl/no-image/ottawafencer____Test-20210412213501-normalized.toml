@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@ottawafencer/test"
+version = "20210412213501"
+spdx-license = "N/A"
+licensor = "Patrick Snider"
+documentation-language = "en"
+function = "Test"

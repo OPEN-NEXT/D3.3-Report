@@ -1,0 +1,13 @@
+name = "HBRD Draw #m4g #fabxlive"
+repo = "https://wikifactory.com/@fernandaolivaresgal/hbrd-draw-m4g-fabxlive"
+version = "20200731122452"
+spdx-license = "N/A"
+licensor = "Fernanda Olivares Galindo"
+documentation-language = "it"
+image = "https://wikifactory.com/files/RmlsZTo0MTczNjY="
+function = "3D scanner, digital fabrication"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0MTQ="
+mimetype = "text/markdown"
+

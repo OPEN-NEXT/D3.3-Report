@@ -1,0 +1,13 @@
+name = "Backeeper #m4g #fabxlive"
+repo = "https://wikifactory.com/@monx/backeeper"
+version = "20200731120512"
+spdx-license = "N/A"
+licensor = "Camila  Naranjo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MTc1MDg="
+function = "Posture correction wearable that helps you to mantain a good position while you are working in front a pc"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc1MTc="
+mimetype = "text/markdown"
+

@@ -1,0 +1,12 @@
+name = "DJ-Module"
+repo = "https://wikifactory.com/@mathias-m/dj-module"
+version = "20210314132835"
+spdx-license = "N/A"
+licensor = "Moritz Mertens"
+documentation-language = "en"
+function = "The DJ Module enables the XYZ CARGO TRIKE to carry a DJ who can operate the sound equipment during the ride. The DJ is sitting sideways to enable a face-to-face interaction between the DJ and other cyclists in a demonstration or bike tour."
+[[files]]
+name = "/XYZ_CARGO_ADD-ON_DJ_Module.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjYxMTk="
+mimetype = "text/plain"
+

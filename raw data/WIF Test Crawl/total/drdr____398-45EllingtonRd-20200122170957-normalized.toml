@@ -1,0 +1,12 @@
+name = "398-45EllingtonRd"
+repo = "https://wikifactory.com/@drdr/398-45ellingtonrd"
+version = "20200122170957"
+spdx-license = "N/A"
+licensor = "Ivan del Renzio"
+documentation-language = "en"
+function = "Extension to Konrad's house."
+[[files]]
+name = "3D Model/A-M-PrpsdOpt1.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMDAyNzU="
+mimetype = "application/octet-stream"
+

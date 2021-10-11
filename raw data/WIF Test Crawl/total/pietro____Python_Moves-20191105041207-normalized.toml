@@ -1,0 +1,28 @@
+name = "Python Moves"
+repo = "https://wikifactory.com/@pietro/python-moves"
+version = "20191105041207"
+spdx-license = "N/A"
+licensor = "Pietro Mincuzzi"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODE2NDU="
+function = "TROUBLEMAKER and Women in Python team organise the Python Workshop for the TechBBQ at TROUBLEMAKER Shenzhen on November 14th 2019."
+[[files]]
+name = "Presentation/Python Moves Workshop.odp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4MDc="
+mimetype = "application/vnd.oasis.opendocument.presentation"
+
+[[files]]
+name = "Presentation/Python Moves Workshop.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4MDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Presentation/Python Moves Workshop.ppt"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4MDk="
+mimetype = "application/vnd.ms-powerpoint"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4MTQ="
+mimetype = "text/markdown"
+

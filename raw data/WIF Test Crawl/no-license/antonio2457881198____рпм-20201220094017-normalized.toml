@@ -1,0 +1,12 @@
+name = "рпм"
+repo = "https://wikifactory.com/@antonio2457881198/рпм"
+version = "20201220094017"
+spdx-license = "N/A"
+licensor = "antonio2457881198"
+documentation-language = "en"
+function = "апр"
+[[files]]
+name = "/FMC поршневой насос.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQxMTc="
+mimetype = "text/plain"
+

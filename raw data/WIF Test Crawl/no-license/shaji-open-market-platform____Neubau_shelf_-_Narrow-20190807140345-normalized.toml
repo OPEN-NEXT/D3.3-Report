@@ -1,0 +1,93 @@
+name = "Neubau shelf - Narrow"
+repo = "https://wikifactory.com/@ronen/neubau-shelf-narrow"
+version = "20190807140345"
+spdx-license = "N/A"
+licensor = "Ronen Kadushin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMzQ0MDA="
+function = "The Neubau (New building in German) is an easy to assemble, simple plug-in system shelf. \n*2 versions in this project: 5 and 6 shelves. 5 shelves version is optimized for 1 board production."
+[[files]]
+name = "Assembly Instructions/Neubau Shelf Assembly Instructions 1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MjM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Assembly Instructions/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MjQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "CAD/Neubau shelf 120 100_ 6 shelves x30_ 18mm v1_1 231018.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "CAD/Neubau shelf- Narrow 95_ 5 shelves x30_ 18mm v1_1 231018.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "FIT Furniture logo/FIT Furniture logo ©All Rights Reserved-Ronen Kadushin 2019.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MjU="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Images/FIT_Neubau 95_ Birch _Isolated_3-4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau 95_ Birch _Isolated_Front.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau 95_ Birch _SET COLORISED2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau 95_ Birch _SET.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau 95_ OAK _Isolated_Front.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau 95_ WHITE _Isolated_Front.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau 95cm 5x30_ Birch_3-4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau 95cm 5x30_ Birch_Front_M.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau 95cm 5x30_ OAK_Front.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau 95cm 5x30_ SET_M.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Neubau 95cm 5x30_ White_Front.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQ0MjY="
+mimetype = "text/markdown"
+

@@ -1,0 +1,13 @@
+name = "Bio Plastics"
+repo = "https://wikifactory.com/@sdgsolutionspace/flexible-bio-plastic"
+version = "20200626091630"
+spdx-license = "N/A"
+licensor = "DURNEY Jean-Marie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTE1NTY="
+function = "crafting your own material..."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTE1NzM="
+mimetype = "text/markdown"
+

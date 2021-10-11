@@ -1,0 +1,18 @@
+name = "Wind Cube 2019"
+repo = "https://wikifactory.com/@innovationfablab/wind-cube-2019"
+version = "20200522042327"
+spdx-license = "N/A"
+licensor = "Innovation FabLab"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTE2OTg="
+function = "This is an experimental project in which we designed an augmentable wind turbine for urban spaces."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk3NDQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/WindCube2019_Guide.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE2ODY="
+mimetype = "application/pdf"
+

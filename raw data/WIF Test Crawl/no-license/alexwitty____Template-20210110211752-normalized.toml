@@ -1,0 +1,7 @@
+name = "Template"
+repo = "https://wikifactory.com/@alexwitty/template"
+version = "20210110211752"
+spdx-license = "N/A"
+licensor = "Alex Witty"
+documentation-language = "en"
+function = "Template"

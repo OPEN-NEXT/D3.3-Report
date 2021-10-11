@@ -1,0 +1,7 @@
+name = "Human Calculator"
+repo = "https://wikifactory.com/@moumoutzis/human-calculator"
+version = "20200214160436"
+spdx-license = "N/A"
+licensor = "Nektarios Moumoutzis"
+documentation-language = "en"
+function = "Learning \ufeffbinaryb arithmetic"

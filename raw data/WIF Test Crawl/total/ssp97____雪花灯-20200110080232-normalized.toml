@@ -1,0 +1,23 @@
+name = "雪花灯"
+repo = "https://wikifactory.com/@ssp97/雪花灯"
+version = "20200110080232"
+spdx-license = "N/A"
+licensor = "张元派"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyOTcyNTA="
+function = "mcu:stm8s003f3p6\nled: 0603 led x6\n       ws2812 x31"
+[[files]]
+name = "/Gerber_pcb_20200110160033.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyOTcyMzk="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTcyMzg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Schematic_雪花灯原理图_20200110160120.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyOTcyNDI="
+mimetype = "application/pdf"
+

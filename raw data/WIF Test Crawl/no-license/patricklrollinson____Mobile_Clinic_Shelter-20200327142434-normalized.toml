@@ -1,0 +1,7 @@
+name = "Mobile Clinic Shelter"
+repo = "https://wikifactory.com/@patricklrollinson/mobile-clinic-shelter"
+version = "20200327142434"
+spdx-license = "N/A"
+licensor = "Patrick Rollinson"
+documentation-language = "en"
+function = "This is a test project. Quick assembly vehicle based mobile clinic shelter. Shelter can be used for mobile clinics or mass vaccination mobile sites. Setup and dismantling takes about 5 minutes and only requires 2 people."

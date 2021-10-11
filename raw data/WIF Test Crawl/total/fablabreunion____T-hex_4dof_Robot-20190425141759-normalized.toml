@@ -1,0 +1,18 @@
+name = "T-hex 4dof Robot"
+repo = "https://wikifactory.com/@fablabreunion/t-hex-4dof-robot"
+version = "20190425141759"
+spdx-license = "N/A"
+licensor = "Arduino Concept"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDU5MTU="
+function = "T-hex 4dof Robot par Fablab Réunion"
+[[files]]
+name = "images/4dof.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1NDk="
+mimetype = "text/plain"
+

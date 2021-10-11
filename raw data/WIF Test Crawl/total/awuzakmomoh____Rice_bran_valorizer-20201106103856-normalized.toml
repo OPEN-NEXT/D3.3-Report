@@ -1,0 +1,7 @@
+name = "Rice bran valorizer"
+repo = "https://wikifactory.com/@awuzakmomoh/rice-bran-valorizer"
+version = "20201106103856"
+spdx-license = "N/A"
+licensor = "Momoh Abdul-razak"
+documentation-language = "en"
+function = "Seperation of rice bran from husk by  a screen. The rice husk that comes out of \"One pass rice milling machine\" are the raw material."

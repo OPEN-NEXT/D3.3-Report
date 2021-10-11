@@ -1,0 +1,28 @@
+name = "Vivero Modular"
+repo = "https://wikifactory.com/@joaquingg/vivero-modular"
+version = "20210125205110"
+spdx-license = "CC-BY-4.0"
+licensor = "Joaquin Gonzalez"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo1MjI0MTU="
+function = "<b>Vivero modular </b>\n<em><b>Replicable, de bajo costo y fácil construcción.</b></em>\n\n- Planimetrías y manuales de fabricación.\n- Fichas de manejo de plantas nativas del norte de Chile\n- Instructivo para plantar un árbol en suelo desertico"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTA2MzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Manual de Construcción Vivero /Manual de Construcción PDF/Manual_Construcción_Modulo_Vivero_Sinestesia.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjI2NTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Montaje de componentes Vivero/Motaje de componentes vivero.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjcwNDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjcwNjg="
+mimetype = "text/markdown"
+

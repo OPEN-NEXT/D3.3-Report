@@ -1,0 +1,23 @@
+name = "NatureNet "
+repo = "https://wikifactory.com/@arely/naturenet"
+version = "20190425141900"
+spdx-license = "N/A"
+licensor = "Arely Amaut gomez sanchez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTY2NDY="
+function = "A Folding Structure that will be moved using the data from nature."
+[[files]]
+name = "images/LAMINA11.png"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2NDY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/sintesis_copia.png"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2NDU="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2NDM="
+mimetype = "text/plain"
+

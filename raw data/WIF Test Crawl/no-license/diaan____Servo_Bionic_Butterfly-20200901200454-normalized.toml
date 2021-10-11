@@ -1,0 +1,78 @@
+name = "Servo Bionic Butterfly"
+repo = "https://wikifactory.com/@diaan/servo-bionic-butterfly"
+version = "20200901200454"
+spdx-license = "N/A"
+licensor = "Dia_an"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo5NDA0"
+function = "It's a bionic butterfly that can fly in a windless indoor environment and control it to turn right and left through a 2.4 G wireless remote control."
+[[files]]
+name = "Design/DS_Store"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDM5"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/laser_cut.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDI5"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/laser_cut.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDMw"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/left.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDM0"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/right.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDM4"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Ro.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDM3"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/servo_butterfly.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDMx"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/servo_horn.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDM1"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDM2"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Programming/Butterfly_serverV3-1.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDI0"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/ButterflyV2-5.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDI3"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/ButterflyV3-2.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDI1"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/DS_Store"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDI2"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDIx"
+mimetype = "text/markdown"
+

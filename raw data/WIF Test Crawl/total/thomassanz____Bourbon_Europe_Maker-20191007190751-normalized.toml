@@ -1,0 +1,32 @@
+name = "Bourbon Europe Maker"
+repo = "https://wikifactory.com/@thomassanz/bourbon-europe-maker"
+version = "20191007190751"
+spdx-license = "N/A"
+licensor = "Thomas Sanz"
+documentation-language = "en"
+function = "Documentation of the first distributed project- Vulca Bourbon, Europe Makers"
+[[files]]
+name = "Bourbon European Makers/Carmen-Fablab Catania-print.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzMxOTE="
+mimetype = ""
+
+[[files]]
+name = "Bourbon European Makers/Certificat de participation.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzMxODg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/licence"
+permalink = "https://wikifactory.com/files/RmlsZToyNzMxODc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/logos organsasitor and supporter.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyNzMxODY="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzMxODU="
+mimetype = "text/plain"
+

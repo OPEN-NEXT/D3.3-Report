@@ -1,0 +1,8 @@
+name = "open source 3d printer"
+repo = "https://wikifactory.com/@christopher-cramer/open-source-3d-printer"
+version = "20210329041911"
+spdx-license = "N/A"
+licensor = "Christopher Cramer "
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzM0Mjc="
+function = "I am designing and fabricating an open source 3d printer, using aluminum for the frame rather than wood or plastic. My welding skills and cnc plasma table give me all I need to design a machine closer to a commercial model; and instead of using an arduino, I'm using the skr mini e3 v2 motherboard."

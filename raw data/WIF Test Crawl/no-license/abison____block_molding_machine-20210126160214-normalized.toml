@@ -1,0 +1,7 @@
+name = "block molding machine"
+repo = "https://wikifactory.com/@abison/block-molding-machine"
+version = "20210126160214"
+spdx-license = "N/A"
+licensor = "Abraham Kayafa Nagi"
+documentation-language = "en"
+function = "a block molding machine that can be use to produce cement block easy and time manage"

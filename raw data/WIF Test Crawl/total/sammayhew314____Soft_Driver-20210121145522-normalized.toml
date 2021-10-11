@@ -1,0 +1,13 @@
+name = "Soft Driver"
+repo = "https://wikifactory.com/@sammayhew314/soft-driver"
+version = "20210121145522"
+spdx-license = "N/A"
+licensor = "Sam Mayhew"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjQ0MDM="
+function = "Harsh Driving is a bad, unhealthy habit people can do when driving. It is bad for both the driver and for air pollution. This project will focus on cutting down on this driving behaviour."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQ0MjI="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Sadiq"
+repo = "https://wikifactory.com/@alsdegbk/sadiq"
+version = "20201111202523"
+spdx-license = "N/A"
+licensor = "alsalidegbk"
+documentation-language = "en"
+function = "Hello"

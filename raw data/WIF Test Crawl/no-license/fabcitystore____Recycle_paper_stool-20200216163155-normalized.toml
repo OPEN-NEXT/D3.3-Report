@@ -1,0 +1,12 @@
+name = "Recycle paper stool "
+repo = "https://wikifactory.com/@bouillonsatelier/recycle-paper-stool"
+version = "20200216163155"
+spdx-license = "N/A"
+licensor = "Bouillons"
+documentation-language = "en"
+function = "There is paper everywhere around us. Shred it, add water, mix everything and you will get a new paper paste to create new objects. Here we are proposing a stool easy and quick to do."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDY2OTc="
+mimetype = "text/markdown"
+

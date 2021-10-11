@@ -1,0 +1,7 @@
+name = "Cnc"
+repo = "https://wikifactory.com/@alphatawfek/cnc"
+version = "20200518195647"
+spdx-license = "N/A"
+licensor = "alphatawfek"
+documentation-language = "en"
+function = "Make cnc"

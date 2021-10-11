@@ -1,0 +1,18 @@
+name = "Twist"
+repo = "https://wikifactory.com/@mbpadro/twist"
+version = "20190909140453"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Marc"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjUxMjI="
+function = "Twist:joinery product/technique to achieve three goals: \n\n1. Allow for low value materials to be lifted in the value chain without the use of complex equipment.\n2. Use the material for what it is good for, understanding its properties.\n3. Allow for different material parts to be connected in any angle."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc0MTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU2MzM="
+mimetype = "text/markdown"
+

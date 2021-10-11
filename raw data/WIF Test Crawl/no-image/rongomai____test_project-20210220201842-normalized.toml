@@ -1,0 +1,7 @@
+name = "test project"
+repo = "https://wikifactory.com/@rongomai/test-project"
+version = "20210220201842"
+spdx-license = "N/A"
+licensor = "rongomai"
+documentation-language = "en"
+function = "trialling the platform."

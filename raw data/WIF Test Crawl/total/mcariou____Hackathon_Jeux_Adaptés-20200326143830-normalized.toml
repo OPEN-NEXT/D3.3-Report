@@ -1,0 +1,22 @@
+name = "Hackathon Jeux Adaptés"
+repo = "https://wikifactory.com/@mcariou/hackathon-jeux-adaptés"
+version = "20200326143830"
+spdx-license = "N/A"
+licensor = "Mathieu Cariou"
+documentation-language = "fr"
+function = "L'intention du Handihackathon est de créer des adaptations de jeu de société avec les déficients visuels"
+[[files]]
+name = "photo/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjQzODA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "photo/test1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjQzNzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjQzNzY="
+mimetype = "text/markdown"
+

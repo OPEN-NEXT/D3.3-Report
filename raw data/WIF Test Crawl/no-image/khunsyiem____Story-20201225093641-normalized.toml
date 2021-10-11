@@ -1,0 +1,7 @@
+name = "Story"
+repo = "https://wikifactory.com/@khunsyiem/story"
+version = "20201225093641"
+spdx-license = "N/A"
+licensor = "Rivaldo kurbah"
+documentation-language = "en"
+function = "A story about a man"

@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@retomoto/test"
+version = "20210126174644"
+spdx-license = "N/A"
+licensor = "Кирилл Марков"
+documentation-language = "fr"
+function = "test test ttest"

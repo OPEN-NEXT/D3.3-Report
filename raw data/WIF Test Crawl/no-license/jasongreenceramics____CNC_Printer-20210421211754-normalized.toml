@@ -1,0 +1,7 @@
+name = "CNC Printer"
+repo = "https://wikifactory.com/@jasongreenceramics/cnc-printer"
+version = "20210421211754"
+spdx-license = "N/A"
+licensor = "Jason Green"
+documentation-language = "en"
+function = "Make a CLay printer for a CNC"

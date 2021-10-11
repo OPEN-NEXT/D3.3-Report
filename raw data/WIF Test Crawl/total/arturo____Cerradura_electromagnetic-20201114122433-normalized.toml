@@ -1,0 +1,18 @@
+name = "Cerradura electromagnetic"
+repo = "https://wikifactory.com/@arturo/cerradura-electromagnetic"
+version = "20201114122433"
+spdx-license = "CC0-1.0"
+licensor = "Arturo López Linares"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo0ODI5Mzk="
+function = "Es una cerradura pequeñita que tiene gran resistencia y queda muy discreta en las puertas, puede quedar embutida en los marcos y no se ve, se integra con dispositivos como lectoras biometricas, teclados sistemas inalambricos o cualquier dispositivo que pueda mandar un pulso de corriente."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODI5NDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODI5NDY="
+mimetype = "text/markdown"
+

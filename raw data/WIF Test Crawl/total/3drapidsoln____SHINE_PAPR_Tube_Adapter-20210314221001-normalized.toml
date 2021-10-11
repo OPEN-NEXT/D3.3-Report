@@ -1,0 +1,13 @@
+name = "SHINE PAPR Tube Adapter "
+repo = "https://wikifactory.com/@raingee/medical-device-adapters"
+version = "20210314221001"
+spdx-license = "N/A"
+licensor = "Rain Gamboa"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NjYzMTQ="
+function = "SHINE PAPR Tube Adapter for 3M.  This was CAD designed and 3D printed  in response to the need for a tube adapter to switch use of a hoodie to 3M respirator."
+[[files]]
+name = "/SHINE PAPR Tube Adapter for 3M Respirator 3D Printed by 3D Rapid Solutions (4).png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjYzMTE="
+mimetype = "image/png"
+

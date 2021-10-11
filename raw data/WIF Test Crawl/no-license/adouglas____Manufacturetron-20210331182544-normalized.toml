@@ -1,0 +1,12 @@
+name = "Manufacturetron"
+repo = "https://wikifactory.com/@adouglas/manufacturetron"
+version = "20210331182544"
+spdx-license = "N/A"
+licensor = "Anthony Douglas"
+documentation-language = "en"
+function = "Moving beyong the 3d printers of today, for mechanical parts, at a fraction of the capital cost, with high accuracy, higher speed and lower cost per part for larger parts."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzQyOTQ="
+mimetype = "text/markdown"
+

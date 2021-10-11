@@ -1,0 +1,7 @@
+name = "Class A Power Amplifier"
+repo = "https://wikifactory.com/@khan4102120/class-a-power-amplifier"
+version = "20200630035735"
+spdx-license = "N/A"
+licensor = "khan4102120"
+documentation-language = "en"
+function = "Simulation of Class A Power Amplifier circuit as this is my first assignment"

@@ -1,0 +1,23 @@
+name = "Project Hack Yourself"
+repo = "https://wikifactory.com/@innovationfablab/project-hack-yourself"
+version = "20200518084554"
+spdx-license = "N/A"
+licensor = "Innovation FabLab"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTE3NTc="
+function = "In this project, we fabricated a smart facial mask (bio-suit) that collects our facial bio-data to raise awareness amongst the public on the danger of possible bio-hacking."
+[[files]]
+name = "/Open source Guide - Hack Yourself (English).pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQxODY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQyOTA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/오픈소스 길라잡이 - Hack Yourself (한국어).pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQxODU="
+mimetype = "application/pdf"
+

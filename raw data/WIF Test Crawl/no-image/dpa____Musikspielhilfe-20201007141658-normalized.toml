@@ -1,0 +1,12 @@
+name = "Musikspielhilfe"
+repo = "https://wikifactory.com/@steffen/musikspielhilfe"
+version = "20201007141658"
+spdx-license = "N/A"
+licensor = "Steffen"
+documentation-language = "de"
+function = "Mit Hilfe von Lichtsignalen soll das Lernen und Spielen eines Instrumentes für Anfänger erleichtern werden. Zu spielende Noten sollen als beleuchtete Tasten oder Knöpfe am Instrument angezeigt werden. Die Lichtsignale folgen dabei dem Tempo des angehenden Musikers."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDgxMTU="
+mimetype = "text/markdown"
+

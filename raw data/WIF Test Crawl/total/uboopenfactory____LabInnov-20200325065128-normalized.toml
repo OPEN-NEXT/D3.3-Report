@@ -1,0 +1,13 @@
+name = "LabInnov"
+repo = "https://wikifactory.com/@uboopenfactory/labinnov"
+version = "20200325065128"
+spdx-license = "N/A"
+licensor = "uboopenfactory"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjMzNDc="
+function = "LabInnov is a collaborative project between CRO (Centre de Recherche Océanologique) d'Abidjan et l'UBO Open Factory. The objective is to creative an Innovation Lab in Abidjan for the CRO."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjMzNDM="
+mimetype = "text/markdown"
+

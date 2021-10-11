@@ -1,0 +1,13 @@
+name = "Positive Vibes apparels"
+repo = "https://wikifactory.com/@aumstore/positive-vibes-apparels"
+version = "20200520063207"
+spdx-license = "N/A"
+licensor = "Omtatsat Sebs (S Shakya)"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTY3Mzc="
+function = "Merch with high vibration energy images, inspirational words and natural materials to generate positive vibes in our lives."
+[[files]]
+name = "/Shakti the female energy.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTY3NDA="
+mimetype = "image/jpeg"
+

@@ -1,0 +1,22 @@
+name = "Energizing Speedbreaker"
+repo = "https://wikifactory.com/@ashishkumar2003/energizing-speedbreaker"
+version = "20210327162541"
+spdx-license = "N/A"
+licensor = "ashishkumarsamantaray2003"
+documentation-language = "en"
+function = "This is about the speed breaker which not only limits the speed of vehhicles but also converts the kinetic and sound energy of the vehivles into electrical energy"
+[[files]]
+name = "/IMG_20210325_130943__01[232].jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzIyMzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20210327_120709__01__01[233].jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI5MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20210327_120951__01[235].jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI5MzU="
+mimetype = "image/jpeg"
+

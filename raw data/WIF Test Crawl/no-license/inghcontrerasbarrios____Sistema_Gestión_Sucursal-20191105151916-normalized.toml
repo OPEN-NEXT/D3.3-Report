@@ -1,0 +1,7 @@
+name = "Sistema Gestión Sucursal"
+repo = "https://wikifactory.com/@inghcontrerasbarrios/sistema-gestión-sucursal"
+version = "20191105151916"
+spdx-license = "N/A"
+licensor = "Hector Contreras"
+documentation-language = "es"
+function = "Sistema Integrado de Gestión de Sucursales"

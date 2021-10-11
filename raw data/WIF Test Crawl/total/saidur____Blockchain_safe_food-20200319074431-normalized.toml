@@ -1,0 +1,7 @@
+name = "Blockchain safe food"
+repo = "https://wikifactory.com/@saidur/blockchain-safe-food"
+version = "20200319074431"
+spdx-license = "N/A"
+licensor = "sadiur rahman (bijon)"
+documentation-language = "en"
+function = "Blockchain based safe food delivery system."

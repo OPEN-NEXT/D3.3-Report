@@ -1,0 +1,7 @@
+name = "Prueba"
+repo = "https://wikifactory.com/@egokitek/prueba"
+version = "20210407142212"
+spdx-license = "N/A"
+licensor = "Victor Barahona"
+documentation-language = "en"
+function = "Prueba"

@@ -1,0 +1,32 @@
+name = "Crop Diversity"
+repo = "https://wikifactory.com/@gmailcom-8ec53/crop-diversity"
+version = "20191114141857"
+spdx-license = "N/A"
+licensor = "Guest Admin"
+documentation-language = "en"
+function = "This project aims at providing solutions for crop diversity globally."
+[[files]]
+name = "/crops in asia"
+permalink = "https://wikifactory.com/files/RmlsZToyODI2NTk="
+mimetype = "image/png"
+
+[[files]]
+name = "/crops in europe"
+permalink = "https://wikifactory.com/files/RmlsZToyODI2NzM="
+mimetype = "image/png"
+
+[[files]]
+name = "/crops in latam"
+permalink = "https://wikifactory.com/files/RmlsZToyODI2Nzc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/image.png"
+permalink = "https://wikifactory.com/files/RmlsZToyODI2NjM="
+mimetype = "image/png"
+
+[[files]]
+name = "/myproject.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToyODI2NDc="
+mimetype = "image/png"
+

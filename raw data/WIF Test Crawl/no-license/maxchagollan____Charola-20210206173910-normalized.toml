@@ -1,0 +1,7 @@
+name = "Charola"
+repo = "https://wikifactory.com/@maxchagollan/charola"
+version = "20210206173910"
+spdx-license = "N/A"
+licensor = "Maximiliano Chagollan"
+documentation-language = "es"
+function = "Charola para uso en lavadoras automaticas"

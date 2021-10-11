@@ -1,0 +1,18 @@
+name = "Otto_HappySong_DanceMoves"
+repo = "https://wikifactory.com/@v01tage/ottohappysongdancemoves"
+version = "20190629175707"
+spdx-license = "GPL-3.0"
+licensor = "adasarp48"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTY2NDE="
+function = "Hi this is the dance moves for Happy song from Pharrell Williams . I hope you like it."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY2NDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/sketch_jun28a.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY2NDQ="
+mimetype = "text/x-c"
+

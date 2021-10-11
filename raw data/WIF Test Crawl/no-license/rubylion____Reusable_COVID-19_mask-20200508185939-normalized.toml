@@ -1,0 +1,18 @@
+name = "Reusable COVID-19 mask"
+repo = "https://wikifactory.com/@rubylion/reusable-covid-19-mask"
+version = "20200508185939"
+spdx-license = "N/A"
+licensor = "rubylion"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDYzOTY="
+function = "... to be used by doctors and people in poor econimical environments"
+[[files]]
+name = "/Mask concept1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNDYzOTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY0MDg="
+mimetype = "text/markdown"
+

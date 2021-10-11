@@ -1,0 +1,7 @@
+name = "Polymec Robotics "
+repo = "https://wikifactory.com/@salos100/polymec-robotics"
+version = "20200916030747"
+spdx-license = "N/A"
+licensor = "Salomon bensour "
+documentation-language = "en"
+function = "Production and development of the robotics involved in production of composite materials"

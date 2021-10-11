@@ -1,0 +1,28 @@
+name = "LIDL Filament Dryer !"
+repo = "https://wikifactory.com/@3denvangelist/lidl-filament-dryer"
+version = "20201028210056"
+spdx-license = "N/A"
+licensor = "Ricardo José  Pereira"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTk3NDI="
+function = "Lidl Filament Dryer with IKEA box"
+[[files]]
+name = "/BOX_support_part1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk3ODQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/BOX_support_part2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk3ODU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk4MDM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Support_filament_tube.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk3NzY="
+mimetype = "application/sla"
+

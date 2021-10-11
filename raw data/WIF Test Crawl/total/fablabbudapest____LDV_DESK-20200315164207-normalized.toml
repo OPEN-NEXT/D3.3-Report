@@ -1,0 +1,13 @@
+name = "LDV DESK"
+repo = "https://wikifactory.com/@rekavikarius/ldv-desk"
+version = "20200315164207"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Réka Vikárius"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTY4NjY="
+function = "The structure of the LDV DESK table consists of complex but easy-to-fabricate elements. No tools or fasteners are required for assembly. The design can be used in many ways and can serve as a basis for multifunctional furniture."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMTY4NzA="
+mimetype = "text/plain"
+

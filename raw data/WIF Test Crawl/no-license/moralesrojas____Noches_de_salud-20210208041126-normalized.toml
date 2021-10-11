@@ -1,0 +1,7 @@
+name = "Noches de salud "
+repo = "https://wikifactory.com/@moralesrojas/noches-de-salud"
+version = "20210208041126"
+spdx-license = "N/A"
+licensor = "Jose Gregorio Morales Rojas "
+documentation-language = "es"
+function = "Mi proyecto se trata de un equipo que permite introducir medicamentos a niños menores y a personas discapacitadas es un equipo digital que se programa con la cantidad de medicamento con la hora y las veces que el paciente requiere la medicina incluso si son varias"

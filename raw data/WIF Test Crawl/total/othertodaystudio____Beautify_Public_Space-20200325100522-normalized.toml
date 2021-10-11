@@ -1,0 +1,13 @@
+name = "Beautify Public Space"
+repo = "https://wikifactory.com/@meganjay/beautiful-waste"
+version = "20200325100522"
+spdx-license = "N/A"
+licensor = "Megan Stratford"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTQ5OTE="
+function = "This is a project which aims to explore the idea of turning ugly public space into something beautiful which can add to the community instead of destroy its aesthetic."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjM0Nzg="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Quality finding"
+repo = "https://wikifactory.com/@mahi435/quality-finding"
+version = "20210427070530"
+spdx-license = "N/A"
+licensor = "Mahesh tangudu"
+documentation-language = "en"
+function = "Finding the fruit quality detection using python it shows the output with percentage"

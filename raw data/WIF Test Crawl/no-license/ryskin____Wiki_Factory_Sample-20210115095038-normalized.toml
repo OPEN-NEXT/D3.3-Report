@@ -1,0 +1,7 @@
+name = "Wiki Factory Sample"
+repo = "https://wikifactory.com/@ryskin/wiki-factory-sample"
+version = "20210115095038"
+spdx-license = "N/A"
+licensor = "Peter Chr. Ryskin"
+documentation-language = "en"
+function = "Exploring Wikifactory"

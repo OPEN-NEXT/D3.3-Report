@@ -1,0 +1,12 @@
+name = "Hotel Zhytomyr"
+repo = "https://wikifactory.com/@fort/hotel-zhytomyr"
+version = "20210317095657"
+spdx-license = "N/A"
+licensor = "DPA"
+documentation-language = "en"
+function = "Heating"
+[[files]]
+name = "/Сборка здание и трубы.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1Njk0ODY="
+mimetype = "text/plain"
+

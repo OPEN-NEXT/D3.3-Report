@@ -1,0 +1,7 @@
+name = "Manual Jack Press"
+repo = "https://wikifactory.com/@joseaustin2006/manual-jack-press"
+version = "20201222104726"
+spdx-license = "N/A"
+licensor = "Austin Jose"
+documentation-language = "en"
+function = "Manual Jack Press  would be used for pressing out bearings and bushings."

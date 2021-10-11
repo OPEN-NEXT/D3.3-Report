@@ -1,0 +1,7 @@
+name = "Tour test"
+repo = "https://wikifactory.com/@carolportugal/tour-test"
+version = "20190423091723"
+spdx-license = "N/A"
+licensor = "Carolina Alves Portugal"
+documentation-language = "en"
+function = "just trying"

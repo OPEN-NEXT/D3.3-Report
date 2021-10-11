@@ -1,0 +1,12 @@
+name = "Sim rig"
+repo = "https://wikifactory.com/@sultanzuul/sim-rig"
+version = "20190812131007"
+spdx-license = "N/A"
+licensor = "Jonas"
+documentation-language = "en"
+function = "My sim rig build"
+[[files]]
+name = "/629.STEP"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA4OTE="
+mimetype = "text/plain"
+

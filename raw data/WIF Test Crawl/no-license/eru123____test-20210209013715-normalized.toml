@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@eru123/test"
+version = "20210209013715"
+spdx-license = "N/A"
+licensor = "Jericho Aquino"
+documentation-language = "en"
+function = "test"

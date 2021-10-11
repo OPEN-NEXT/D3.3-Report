@@ -1,0 +1,133 @@
+name = "Smart Planter"
+repo = "https://wikifactory.com/@svetlanashishkovets/smart-planter"
+version = "20180831102307"
+spdx-license = "N/A"
+licensor = "Svetlana Shishkovets"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMDAzNg=="
+function = "Let it take care of your plant! Smart self-watering, self-illuminating planter which notifies you when to add water. By <a href=\"http://fabacademy.org/2018/labs/fablabaachen/students/svetlana-shishkovets/finalproject.html\">Svetlana Shishkovets</a><br />."
+[[files]]
+name = "Design/Body/bot.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE3Ng=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Body/inner_side_last.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE3Nw=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Body/inner_top_last.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE3NQ=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Body/side1.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE4MA=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Body/side2.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE3OQ=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Body/side3.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE3OA=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Body/side4.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE4MQ=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Body/top.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE4Mg=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Bottom/bottom_cut_v1.f3d"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE4NQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Bottom/bottom_cut_v1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE4Ng=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Cup/cup_v3.f3d"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE4NA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Cup/cup_v11.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE4Mw=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Platform/pot.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE5NA=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Platform/round.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE5Mw=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Platform/top.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE5MQ=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Platform/top_inner.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE5Mg=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Water container/glass_side1.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE4OA=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Water container/glass_side2.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE4Nw=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Design/Water container/glass_top.svg"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE4OQ=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Electronics/final_all_in_one.sch"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE0OA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/App/a15_ProcessingApp.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE1Mw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/App/LEDoffImage.png"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE1MQ=="
+mimetype = "image/png"
+
+[[files]]
+name = "Programming/App/LEDonImage.png"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE1Mg=="
+mimetype = "image/png"
+
+[[files]]
+name = "Programming/FINAL.ino"
+permalink = "https://wikifactory.com/files/RmlsZToxMDE1MA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMDEyNQ=="
+mimetype = "text/markdown"
+

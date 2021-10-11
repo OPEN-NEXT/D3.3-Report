@@ -1,0 +1,58 @@
+name = "Alpaca OttO"
+repo = "https://wikifactory.com/@jptincopa/alpaca-otto"
+version = "20200227103740"
+spdx-license = "N/A"
+licensor = "TynkoJp"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzgzNzY="
+function = "Hi I'm Alpaca-OttO, I'm the animal remix of Otto the robot, inspired by one of the most representative animals of Peru the alpaca."
+[[files]]
+name = "3D Print/Alp-Back.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgzMjc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Alp-Body.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgzMjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Alp-EarL.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgzMjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Alp-EarR.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgzMjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Alp-Foot.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgzMjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Alp-Head.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgzMjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Alp-Leg.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgzMjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Alp-Mouth.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgzMjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/alpacaotto.blend"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA1MjA="
+mimetype = "application/x-blender"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA1MzM="
+mimetype = "text/markdown"
+

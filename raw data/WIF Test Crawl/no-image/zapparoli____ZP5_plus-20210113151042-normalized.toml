@@ -1,0 +1,7 @@
+name = "ZP5 plus"
+repo = "https://wikifactory.com/@zapparoli/zp5-plus"
+version = "20210113151042"
+spdx-license = "N/A"
+licensor = "Diego Zaparolli"
+documentation-language = "en"
+function = "It is an activated sludge treatment plant with membrane technology to be used in small footprint situation. It is connected to internet to send data about components and water quality."

@@ -1,0 +1,22 @@
+name = "family"
+repo = "https://wikifactory.com/@jaguadoarias/family"
+version = "20200420131249"
+spdx-license = "N/A"
+licensor = "Javier Aguado Arias"
+documentation-language = "en"
+function = "asdasdasd"
+[[files]]
+name = "images/Manual_CNC_Router.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk4OTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wikifactory.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk5MDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk4OTE="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Dynamic"
+repo = "https://wikifactory.com/@oladunmoyeibukun/dynamic"
+version = "20200820153643"
+spdx-license = "N/A"
+licensor = "oladunmoyeibukun"
+documentation-language = "en"
+function = "Advancement"

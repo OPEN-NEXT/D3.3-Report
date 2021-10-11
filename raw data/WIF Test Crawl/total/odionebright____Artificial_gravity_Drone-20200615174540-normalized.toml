@@ -1,0 +1,7 @@
+name = "Artificial gravity Drone"
+repo = "https://wikifactory.com/@odionebright/artificial-gravity-drone"
+version = "20200615174540"
+spdx-license = "N/A"
+licensor = "Odione Bright"
+documentation-language = "en"
+function = "This project is about inventing a blade less drone by creating artificial weight variation of the drone from  postive to negative weight."

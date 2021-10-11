@@ -1,0 +1,98 @@
+name = "S.T.E.A.M.  Game"
+repo = "https://wikifactory.com/@ometri/steam-game"
+version = "20210112053349"
+spdx-license = "N/A"
+licensor = "David Roa"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTQ1MTI="
+function = "Access the 5 Platonic Solids.  The first principles of Nature as a toy tool that stimulates creativity and logic in children of all ages."
+[[files]]
+name = "Prototypes/Bleu Dodecahedron.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ3Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes/Bleu Dodecahedron.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ3NzY="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Prototypes/Dome F3 Sphere F2.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ3NzQ="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Prototypes/Double Dodecahedron inverse spin.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ3NzE="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Prototypes/Geodesic sphere F4.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ3NzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes/Icosahedron.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ3Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes/Icosahedron.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ3Njg="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Prototypes/Inverse Dodecahedron.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ3Njc="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Prototypes/Inverse Icosahedron.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ3NjY="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Prototypes/Octahedron.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ3NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes/Sphere F3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ3NjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes/Tetrahedron.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ3NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyMTA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Visuals/Dashboard Zoom.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ1MzY="
+mimetype = "image/png"
+
+[[files]]
+name = "Visuals/Dashboard.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ1MzU="
+mimetype = "image/png"
+
+[[files]]
+name = "Visuals/HI!.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ1MzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Visuals/Iustrated Manual.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ1MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Visuals/Join the parts.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ1MzI="
+mimetype = "image/jpeg"
+

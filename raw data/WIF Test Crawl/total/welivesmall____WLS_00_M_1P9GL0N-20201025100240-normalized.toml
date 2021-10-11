@@ -1,0 +1,38 @@
+name = "WLS_00_M_1P9GL0N"
+repo = "https://wikifactory.com/@welivesmall/wls00m1p9gl0n"
+version = "20201025100240"
+spdx-license = "N/A"
+licensor = "WeLiveSmall"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDg3MTU="
+function = "00 UTILITIES - Structure | Walls - Mountingrails: Fixation Bracket\n\n\"Bracket that is the interface between one c-rail and the corners of 4 wall-panels \""
+[[files]]
+name = "01 Models/WLS_00_M_1P9GL0N.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYxOTc="
+mimetype = "image/png"
+
+[[files]]
+name = "01 Models/WLS_00_M_1P9GL0N_CP03_DRAW.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYxOTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "01 Models/WLS_00_M_1P9GL0N_Lazer_sub.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYxOTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "02 Production/01_Lazer/WLS_00_M_1P9GL0N.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYyMDA="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "02 Production/01_Lazer/WLS_00_M_1P9GL0N.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYxOTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "02 Production/01_Lazer/WLS_00_M_1P9GL0N.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYxOTg="
+mimetype = "image/svg+xml"
+

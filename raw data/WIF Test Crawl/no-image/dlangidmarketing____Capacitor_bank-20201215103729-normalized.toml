@@ -1,0 +1,7 @@
+name = "Capacitor bank"
+repo = "https://wikifactory.com/@dlangidmarketing/capacitor-bank-f87ca"
+version = "20201215103729"
+spdx-license = "N/A"
+licensor = "dlangidmarketing"
+documentation-language = "en"
+function = "Merlin Gerlin capacitor bank"

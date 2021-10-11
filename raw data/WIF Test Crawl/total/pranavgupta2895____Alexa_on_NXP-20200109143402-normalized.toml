@@ -1,0 +1,7 @@
+name = "Alexa on NXP"
+repo = "https://wikifactory.com/@pranavgupta2895/alexa-on-nxp"
+version = "20200109143402"
+spdx-license = "N/A"
+licensor = "pranavgupta2895"
+documentation-language = "en"
+function = "The project is about using NXP Alexa enabled devices to build a smart speakspeaker\nsystem and led lighting."

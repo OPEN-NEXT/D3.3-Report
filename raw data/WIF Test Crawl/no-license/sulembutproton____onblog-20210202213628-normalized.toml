@@ -1,0 +1,7 @@
+name = "onblog"
+repo = "https://wikifactory.com/@sulembutproton/onblog"
+version = "20210202213628"
+spdx-license = "N/A"
+licensor = "Sulembut Proton"
+documentation-language = "en"
+function = "On Blog"

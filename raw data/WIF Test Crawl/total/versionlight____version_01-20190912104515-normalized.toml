@@ -1,0 +1,13 @@
+name = "version_01"
+repo = "https://wikifactory.com/@versionlight/version01"
+version = "20190912104515"
+spdx-license = "N/A"
+licensor = "version"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDE5OTM="
+function = "A light that can be made anywhere, by anyone."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU5MDY="
+mimetype = "text/markdown"
+

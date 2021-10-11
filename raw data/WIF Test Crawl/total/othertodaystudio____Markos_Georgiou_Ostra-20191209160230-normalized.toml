@@ -1,0 +1,13 @@
+name = "Markos Georgiou_Ostra"
+repo = "https://wikifactory.com/@markos/oyster"
+version = "20191209160230"
+spdx-license = "N/A"
+licensor = "Markos Georgiou"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODg2NzY="
+function = "Ostra offers a new point of view of how to think about waste and how to challenge the standards of the current system. It uses Oyster shell waste from restaurants to create meaningful and usable products by modifying its operating system."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk3ODc="
+mimetype = "text/markdown"
+

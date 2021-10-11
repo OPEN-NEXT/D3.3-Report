@@ -1,0 +1,7 @@
+name = "3d print"
+repo = "https://wikifactory.com/@ahmedalygamaleldeen/3d-print"
+version = "20200617142902"
+spdx-license = "N/A"
+licensor = "احمد الحسينى"
+documentation-language = "en"
+function = "Manifactuering"

@@ -1,0 +1,8 @@
+name = "경리단"
+repo = "https://wikifactory.com/@scaleyj/경리단"
+version = "20200528053412"
+spdx-license = "N/A"
+licensor = "Youngjin CHO"
+documentation-language = "en"
+function = "경리단길 프로젝"
+files = []

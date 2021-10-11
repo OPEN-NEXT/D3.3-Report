@@ -1,0 +1,23 @@
+name = "Trapezoid Table"
+repo = "https://wikifactory.com/@soprasotto/trapezoid-table"
+version = "20180622123418"
+spdx-license = "N/A"
+licensor = "SopraSotto"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NDk4"
+function = "<a href=\"https://alpha.wikifactory.com/@soprasotto\">kindergarten furniture kit</a> - The <b>trapezoid table</b> can be used on its own or as a modular part of a larger table. The shape of the table enables different compositions and purposes: playing in groups, eating in a circle, drawing alone,...<br />"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NDkx"
+mimetype = "text/markdown"
+
+[[files]]
+name = "/SopraSotto_Trapezoid Table.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMx"
+mimetype = "text/plain"
+
+[[files]]
+name = "/SopraSotto_Trapezoid Table_Assembly instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMz"
+mimetype = "application/pdf"
+

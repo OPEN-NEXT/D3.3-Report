@@ -1,0 +1,7 @@
+name = "Blocky Codes"
+repo = "https://wikifactory.com/@csblocky/blocky-codes"
+version = "20210405203746"
+spdx-license = "N/A"
+licensor = "Aris"
+documentation-language = "en"
+function = "Open Source 3D printing modular block"

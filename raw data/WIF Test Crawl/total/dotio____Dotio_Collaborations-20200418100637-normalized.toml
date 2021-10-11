@@ -1,0 +1,12 @@
+name = "Dotio: Collaborations"
+repo = "https://wikifactory.com/@dotio/dotio-collaborations"
+version = "20200418100637"
+spdx-license = "N/A"
+licensor = "Chris Walker"
+documentation-language = "en"
+function = "Wales-wide initiative to catalyse business and community networks, to encourage collaboration, make assets available - buildings, equipment, raw materials, know-how and show-how. Sustainability by design. Collaborative projects to create products, services and platforms to meet needs for thriving"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzg5MDk="
+mimetype = "text/markdown"
+

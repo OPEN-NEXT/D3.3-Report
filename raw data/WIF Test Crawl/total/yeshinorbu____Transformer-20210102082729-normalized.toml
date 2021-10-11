@@ -1,0 +1,7 @@
+name = "Transformer "
+repo = "https://wikifactory.com/@yeshinorbu/transformer"
+version = "20210102082729"
+spdx-license = "N/A"
+licensor = "Yeshi Norbu"
+documentation-language = "en"
+function = "A group of magnetic bolts of circular shape/ obliged that could be form into different forms and shapes based on repulsion and attraction.\n-It would work based on app. suppose if we want to make a chair. Then their input will be based on the length, height, width for different parts available."

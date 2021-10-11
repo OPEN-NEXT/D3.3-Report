@@ -1,0 +1,58 @@
+name = "2 IN 1 Phone Holder"
+repo = "https://wikifactory.com/@fionfoo/2-in-1-wallet"
+version = "20200705100858"
+spdx-license = "N/A"
+licensor = "Foo Feng Shen"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDEzNzM="
+function = "COVID-19 has affected many people all around the world. Based on one of <a href=\"https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\">WHO</a>'s advice for public (#SafeToPlay Tips) : \"<em>Look after yourself and stay healthy.</em>\" \nHence, we designed 2 IN 1 Phone Holder. It is <b>antiviral</b>, <b>portable</b> and <b>multifunctional</b> phone holder that can also <em>store cards</em>."
+[[files]]
+name = "/Cover.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDEzNzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/Design 1 Base.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDEyOTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Design 1 Explanation.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDEzNjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Design 1 Top.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDEyOTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Design 1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDEyOTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Design 2 Explanation 2.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDEzNjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Design 2 Explanation.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDEzNjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Design 2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDEyOTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Prototype 1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDEzNjg="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMyMjc="
+mimetype = "text/markdown"
+

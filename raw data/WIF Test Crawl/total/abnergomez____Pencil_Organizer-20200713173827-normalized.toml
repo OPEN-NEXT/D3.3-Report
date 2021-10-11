@@ -1,0 +1,23 @@
+name = "Pencil Organizer"
+repo = "https://wikifactory.com/@abnergomez/pencil-organizer"
+version = "20200713173827"
+spdx-license = "CC-BY-4.0"
+licensor = "Abner Gómez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MTAxNjY="
+function = "A modern 3D printed pencil organizer"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTAxNjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/Pencil Organizer.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTAxNzI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTAxOTI="
+mimetype = "text/markdown"
+

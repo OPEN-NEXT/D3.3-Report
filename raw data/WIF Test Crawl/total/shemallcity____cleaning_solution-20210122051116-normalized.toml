@@ -1,0 +1,7 @@
+name = "cleaning solution"
+repo = "https://wikifactory.com/@shemallcity/cleaning-solution"
+version = "20210122051116"
+spdx-license = "N/A"
+licensor = "Abdul Muneer"
+documentation-language = "en"
+function = "A platform to share new ideas related to the cleaning product and to integrate the best ideas with the manufacturing sector."

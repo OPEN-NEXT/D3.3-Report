@@ -1,0 +1,18 @@
+name = "Piggy 3d Test Print"
+repo = "https://wikifactory.com/@davidmingorance/piggy-3d-test-print"
+version = "20180604151741"
+spdx-license = "CC-BY-4.0"
+licensor = "David Mingorance"
+documentation-language = "da"
+image = "https://wikifactory.com/files/RmlsZTozMzM5"
+function = "Modelled on Autodesk 1,2,3 Sculpt"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMzM4"
+mimetype = "text/plain"
+
+[[files]]
+name = "/piggy-test-obj-file.zip"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQw"
+mimetype = "application/x-zip-compressed"
+

@@ -1,0 +1,18 @@
+name = "Diagnosys"
+repo = "https://wikifactory.com/@ptharso/diagnosys"
+version = "20190823151824"
+spdx-license = "N/A"
+licensor = "Paulo de Tharso S Castro"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDIxMTQ="
+function = "The  electronic and software facility today , the possibilities of  storing in the internet cloud seem useful to wear a bracelet to monitoring health. Using Chinese medicine and electrical engineering is an innovative solution to diagnose Chinese pulsology as an imbalance sensor of your health."
+[[files]]
+name = "/Apresentação Diagnostico Saude.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDIxMTA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Descrição do Projeto"
+permalink = "https://wikifactory.com/files/RmlsZToyNDIxMDg="
+mimetype = "text/markdown"
+

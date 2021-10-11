@@ -1,0 +1,8 @@
+name = "CAM Hand"
+repo = "https://wikifactory.com/@phoebeh/cam-hand"
+version = "20180610122916"
+spdx-license = "N/A"
+licensor = "Phoebe Hurst"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MTE0"
+function = "I am currently in the motion of developing a hand that moves using kinetic movement, my first thought is to use a CAM Mechanism.\n\nI am at the stage of prototyping and developing. I would hugely appreciate any suggestions for different paths I could go down, or which process would be best to use :)"

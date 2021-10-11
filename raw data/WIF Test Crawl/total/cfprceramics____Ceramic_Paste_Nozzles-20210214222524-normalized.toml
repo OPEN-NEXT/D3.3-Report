@@ -1,0 +1,38 @@
+name = "Ceramic Paste Nozzles"
+repo = "https://wikifactory.com/@autotavs/ceramic-paste-nozzles"
+version = "20210214222524"
+spdx-license = "N/A"
+licensor = "TavsJ"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MzMwNDQ="
+function = "A very simple project - to create some nozzle with bigger diameter for Wasp 3D ceramic printer"
+[[files]]
+name = "/2mm wasp nozzle .stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMwMDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/3mm wasp nozzle .stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMwMDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/4mm wasp nozzle .stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMwMDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/5mm wasp nozzle .stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMwMDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/6mm wasp nozzle .stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMwMDA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMwNDM="
+mimetype = "text/markdown"
+

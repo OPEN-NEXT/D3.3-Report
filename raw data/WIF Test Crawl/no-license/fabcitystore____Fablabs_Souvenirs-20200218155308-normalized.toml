@@ -1,0 +1,13 @@
+name = "Fablabs Souvenirs"
+repo = "https://wikifactory.com/@alonsoaudreylaure/postcards-20"
+version = "20200218155308"
+spdx-license = "N/A"
+licensor = "Aud ALONSO"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDcyNDc="
+function = "Replay the holiday postcard, and transmit the memory of a space"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDczMDM="
+mimetype = "text/markdown"
+

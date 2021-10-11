@@ -1,0 +1,38 @@
+name = "Vinyl cutter plotter"
+repo = "https://wikifactory.com/@remy/vinyl-cutter-plotter"
+version = "20201220085133"
+spdx-license = "CC-BY-4.0"
+licensor = "Remy Ducros"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MDI5MTc="
+function = "I've modified my vinyl cutter and now it's an awesome plotter as well"
+[[files]]
+name = "/4 coulor pen holder.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDI5MDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Felt pen holder.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDI5MDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Fusion 360 archive"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDI5MDQ="
+mimetype = "application/fusion"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDI5MTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/plotter v2.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDI5MjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQwODM="
+mimetype = "text/markdown"
+

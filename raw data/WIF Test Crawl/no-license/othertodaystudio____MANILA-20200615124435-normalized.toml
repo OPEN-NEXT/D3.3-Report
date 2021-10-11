@@ -1,0 +1,13 @@
+name = "MANILA"
+repo = "https://wikifactory.com/@gwilym/manila"
+version = "20200615124435"
+spdx-license = "N/A"
+licensor = "Gwilym James Therin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzk0OTE="
+function = "Manila is a weaved basket that looks at making it easier for people to weave their own basket while questionning the environmental effect of industrial manufacturing."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODIwMjM="
+mimetype = "text/markdown"
+

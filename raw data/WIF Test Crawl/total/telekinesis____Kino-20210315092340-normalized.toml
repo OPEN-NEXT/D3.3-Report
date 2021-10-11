@@ -1,0 +1,92 @@
+name = "Kino"
+repo = "https://wikifactory.com/@eneuman/kino"
+version = "20210315092340"
+spdx-license = "N/A"
+licensor = "Elias Neuman"
+documentation-language = "en"
+function = "A small, modular, composable robot to move stuff around places"
+[[files]]
+name = "/v0.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxNTI="
+mimetype = "application/x-extension-fcstd"
+
+[[files]]
+name = "/v0.FCStd1"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxNTE="
+mimetype = "application/zip"
+
+[[files]]
+name = "/v0_asm_wheel.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxNTA="
+mimetype = "application/x-extension-fcstd"
+
+[[files]]
+name = "/v0_asm_wheel.FCStd1"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxNDk="
+mimetype = "application/zip"
+
+[[files]]
+name = "/v0_bearing.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxNDg="
+mimetype = "application/x-extension-fcstd"
+
+[[files]]
+name = "/v0_bearing.FCStd1"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxNDc="
+mimetype = "application/zip"
+
+[[files]]
+name = "/v0_bearing_small.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxNDY="
+mimetype = "application/x-extension-fcstd"
+
+[[files]]
+name = "/v0_bearing_small.FCStd1"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxNDU="
+mimetype = "application/zip"
+
+[[files]]
+name = "/v0_hub.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxNDQ="
+mimetype = "application/x-extension-fcstd"
+
+[[files]]
+name = "/v0_hub.FCStd1"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxNDM="
+mimetype = "application/zip"
+
+[[files]]
+name = "/v0_motor.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxNDI="
+mimetype = "application/x-extension-fcstd"
+
+[[files]]
+name = "/v0_motor.FCStd1"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxNDE="
+mimetype = "application/zip"
+
+[[files]]
+name = "/v0_rubber.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxNDA="
+mimetype = "application/x-extension-fcstd"
+
+[[files]]
+name = "/v0_rubber.FCStd1"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxMzk="
+mimetype = "application/zip"
+
+[[files]]
+name = "/v0_support.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxMzg="
+mimetype = "application/x-extension-fcstd"
+
+[[files]]
+name = "/v0_support.FCStd1"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIxMzc="
+mimetype = "application/zip"
+
+[[files]]
+name = "/v0_venturi_holder.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjY0NTU="
+mimetype = "application/zip"
+

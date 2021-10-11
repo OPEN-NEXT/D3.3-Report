@@ -1,0 +1,13 @@
+name = "2WD Arduino"
+repo = "https://wikifactory.com/@robas/2wd-arduino"
+version = "20190320185351"
+spdx-license = "N/A"
+licensor = "Rob Robas"
+documentation-language = "no"
+image = "https://wikifactory.com/files/RmlsZToxNDYzNjQ="
+function = "Little drunk robot :)"
+[[files]]
+name = "drunk robot/VID 20190309 183206.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToxNDYzNjI="
+mimetype = "video/mp4"
+

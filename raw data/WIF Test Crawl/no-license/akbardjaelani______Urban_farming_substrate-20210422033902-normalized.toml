@@ -1,0 +1,7 @@
+name = "  Urban farming substrate"
+repo = "https://wikifactory.com/@akbardjaelani/urban-farming-substrate"
+version = "20210422033902"
+spdx-license = "N/A"
+licensor = "Akbar Djaelani Yahya"
+documentation-language = "en"
+function = "Create material for Urban farming"

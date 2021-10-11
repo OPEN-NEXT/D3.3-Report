@@ -1,0 +1,7 @@
+name = "Mechanical Automotion"
+repo = "https://wikifactory.com/@varadraj/mechanical-automotion"
+version = "20210131061250"
+spdx-license = "N/A"
+licensor = "Varadaraja Iyengar"
+documentation-language = "en"
+function = "Presently, vehicles run on chemical fuel and/or electrical  power.  Metallic properties   are not known."

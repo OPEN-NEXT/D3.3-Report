@@ -1,0 +1,8 @@
+name = "Tricolor Clay Printer"
+repo = "https://wikifactory.com/@petrus/tricolor-clay-printer"
+version = "20200124113049"
+spdx-license = "N/A"
+licensor = "Piotr Waśniowski"
+documentation-language = "ca"
+image = "https://wikifactory.com/files/RmlsZTozMDA5MjU="
+function = "Triple Clay Extruder for Gaia 3d printer"

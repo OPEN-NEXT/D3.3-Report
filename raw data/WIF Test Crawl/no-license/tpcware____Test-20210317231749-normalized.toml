@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@tpcware/test"
+version = "20210317231749"
+spdx-license = "N/A"
+licensor = "Nicolò Carandini"
+documentation-language = "en"
+function = "A wikifactory learning  project"

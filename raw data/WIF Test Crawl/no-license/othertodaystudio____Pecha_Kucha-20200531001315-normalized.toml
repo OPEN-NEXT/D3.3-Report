@@ -1,0 +1,13 @@
+name = "Pecha Kucha"
+repo = "https://wikifactory.com/@josephlyons/pecha-kucha-joe-lyons"
+version = "20200531001315"
+spdx-license = "N/A"
+licensor = "Joseph Lyons"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzYzMzE="
+function = "Pecha Kucha presentation that began with Laurie Anderson's ‘Handphone table’ (1978).<br />"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc2MDA="
+mimetype = "text/markdown"
+

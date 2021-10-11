@@ -1,0 +1,7 @@
+name = "Smarone"
+repo = "https://wikifactory.com/@balli/smarone"
+version = "20210127183618"
+spdx-license = "N/A"
+licensor = "Muhammad Bilal Yousaf "
+documentation-language = "en"
+function = "It is a smart drone that can follow, track, recognize, take videos and. Photoshoot and can talk like alexa."

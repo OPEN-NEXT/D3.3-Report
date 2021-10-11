@@ -1,0 +1,13 @@
+name = "Material Values"
+repo = "https://wikifactory.com/@ccairns/material-values"
+version = "20210121140959"
+spdx-license = "N/A"
+licensor = "Christy Cairns"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjQxODU="
+function = "Inspired by the RSA Student Design Awards brief No.7: \"For The Long Time\", this project explores how knowledge and understanding of material's origins, processes, histories and futures might allow consumers to re-evaluate the value of materials and the products that they end up in."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQzNDk="
+mimetype = "text/markdown"
+

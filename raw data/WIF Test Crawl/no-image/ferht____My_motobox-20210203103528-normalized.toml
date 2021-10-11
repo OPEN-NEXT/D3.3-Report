@@ -1,0 +1,7 @@
+name = "My motobox"
+repo = "https://wikifactory.com/@ferht/my-motobox"
+version = "20210203103528"
+spdx-license = "N/A"
+licensor = "Fernando Horna"
+documentation-language = "en"
+function = "Motobox is a simple case for motorbike. this folding case shrinks 10 times in size"

@@ -1,0 +1,7 @@
+name = "7 foot Electric Piano"
+repo = "https://wikifactory.com/@gregmyles/7-foot-electric-piano"
+version = "20210120213554"
+spdx-license = "N/A"
+licensor = "Greg Myles"
+documentation-language = "en"
+function = "This is a 7 foot grand piano, that has piezo pick ups under each note instead of a sound board."

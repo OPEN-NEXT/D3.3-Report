@@ -1,0 +1,7 @@
+name = "Online Hotel"
+repo = "https://wikifactory.com/@rehman75/online-hotel"
+version = "20200815062551"
+spdx-license = "N/A"
+licensor = "HRQ"
+documentation-language = "af"
+function = "Worldwide Online Hotel booking"

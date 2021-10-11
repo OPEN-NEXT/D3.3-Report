@@ -1,0 +1,7 @@
+name = "DriverFlow"
+repo = "https://wikifactory.com/@josephsimeu9/driverflow"
+version = "20201116122612"
+spdx-license = "N/A"
+licensor = "josephsimeu"
+documentation-language = "fr"
+function = "Plateforme pour la réservation des taxis."

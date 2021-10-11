@@ -1,0 +1,7 @@
+name = "3rd angle projections"
+repo = "https://wikifactory.com/@opeum/3rd-angle-projections"
+version = "20210118225344"
+spdx-license = "N/A"
+licensor = "Daniel Danso"
+documentation-language = "en"
+function = "It's about car body designs in side views and 3rd angles"

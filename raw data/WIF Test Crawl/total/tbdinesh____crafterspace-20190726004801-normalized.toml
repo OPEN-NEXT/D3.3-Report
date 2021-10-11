@@ -1,0 +1,23 @@
+name = "crafterspace"
+repo = "https://wikifactory.com/@tbdinesh/crafterspace"
+version = "20190726004801"
+spdx-license = "N/A"
+licensor = "T B Dinesh"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjc4MTU="
+function = "Makerspace for youth working with rural crafts coops. The CrafterSpace engages in research and technology development to make sustainable connections between local people, locally available materials and use of new \"maker\" tools - along with community archives, mesh-radio and digital storytelling."
+[[files]]
+name = "/craft-space-palm.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc4MDk="
+mimetype = "image/png"
+
+[[files]]
+name = "/crafts-products-gopi1.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc4MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc4MDY="
+mimetype = "text/markdown"
+

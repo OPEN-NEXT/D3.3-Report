@@ -1,0 +1,13 @@
+name = "Adjustable height desk"
+repo = "https://wikifactory.com/@zentala/adjustable-height-desk"
+version = "20200813121109"
+spdx-license = "N/A"
+licensor = "Paweł Żentała"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MjE3MDU="
+function = "I bought an adjustable-height desk with analog switch that allow to manually move desk up and down. I want to add height measurments with laser sensor, position memory and some other features that will make my desk smart and connected."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjE2OTE="
+mimetype = "text/markdown"
+

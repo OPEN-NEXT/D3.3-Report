@@ -1,0 +1,7 @@
+name = "Grow bag irrigator"
+repo = "https://wikifactory.com/@amosstark/grow-bag-irrigator"
+version = "20210416060802"
+spdx-license = "N/A"
+licensor = "Amos Stark"
+documentation-language = "en"
+function = "Irrigation device for grow bags"

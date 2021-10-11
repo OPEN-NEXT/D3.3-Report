@@ -1,0 +1,7 @@
+name = "Open utensil wash station"
+repo = "https://wikifactory.com/@dhdesign/open-utensil-wash-station"
+version = "20210409082211"
+spdx-license = "N/A"
+licensor = "DesHardt.Design"
+documentation-language = "en"
+function = "<em>Low tech</em> design of a <b>community wash station</b>, meant for times <b>post covid</b>"

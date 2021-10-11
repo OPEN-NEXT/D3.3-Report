@@ -1,0 +1,77 @@
+name = "automatic dispenser"
+repo = "https://wikifactory.com/@martinj/automatic-dispenser"
+version = "20201016184458"
+spdx-license = "N/A"
+licensor = "Martin"
+documentation-language = "en"
+function = "idea is to develop an automatic dispenser. the dispenser should have a batterypack, a pump and a proximity sensor. when the sensor detecs an object it turns the pump on which pressures air into the bottle what causes the liquid to flow out. community can print different adapters for various bottles."
+[[files]]
+name = "/20200525_171640.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkwMzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20200525_201912.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkwMzE="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Desinfektionsmittelspender_Final_Version.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODUwMjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Proj_C.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkwMTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Projekt1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkwMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Projekt Covid Materialliste.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkwMTM="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/Projekt Covid Materialliste.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkwMTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/projekt_covid001.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkwMDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Projekt_covid003.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkwMDU="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Projekt_Covid.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkwMDc="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Projekt_Covid_004.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkwMDg="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/projektCovid.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkwNTQ="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQyNDI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Suspenser_Fritzing.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozODQyNjI="
+mimetype = "application/pdf"
+

@@ -1,0 +1,8 @@
+name = "3D CNC"
+repo = "https://wikifactory.com/@litosapinoso/3d-cnc"
+version = "20201221032648"
+spdx-license = "N/A"
+licensor = "litosapinoso"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MDQ2MDU="
+function = "I create vectors of lake layers for cnc cutting. I can also create STL models for cnc carving of these. Included in the SVG files (layers) are the road lines and labels around the lakes for CNC laser engraving."

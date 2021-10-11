@@ -1,0 +1,28 @@
+name = "fēnfā"
+repo = "https://wikifactory.com/@danbalint/fēnfā"
+version = "20191209135555"
+spdx-license = "N/A"
+licensor = "Dan Balint"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODIzMTc="
+function = "fēnfā is a flatpack, post-able candle crafting kit. It represents an alternative to single use candles, and aims to stimulate the brain through craft."
+[[files]]
+name = "/Candle Pattern 2 DXF.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyODIyNDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Insturctions Page.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyODIyNDQ="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/My candle Supply Chain-01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODIyNDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk2NjI="
+mimetype = "text/markdown"
+

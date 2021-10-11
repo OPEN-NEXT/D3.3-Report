@@ -1,0 +1,7 @@
+name = "Air sanitizer Cl+4"
+repo = "https://wikifactory.com/@jlrincona/air-sanitizer-cl4"
+version = "20200517145318"
+spdx-license = "N/A"
+licensor = "Jose Luis Rincon Aguilar"
+documentation-language = "en"
+function = "A chemical reaction allows the removal of pollutants present in the air, it will serve to reactivate public and private mass transport."

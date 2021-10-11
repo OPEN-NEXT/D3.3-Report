@@ -1,0 +1,7 @@
+name = "Wireless charging"
+repo = "https://wikifactory.com/@steele/wireless-charging"
+version = "20200805071630"
+spdx-license = "N/A"
+licensor = "Steele Ray a"
+documentation-language = "en"
+function = "Transfer electricity to network powered appliances wireless from the network provider, no matter the distance."

@@ -1,0 +1,7 @@
+name = "deneme"
+repo = "https://wikifactory.com/@bahadiryilmazov/deneme"
+version = "20210306142135"
+spdx-license = "N/A"
+licensor = "bahadiryilmazov"
+documentation-language = "en"
+function = "deneme"

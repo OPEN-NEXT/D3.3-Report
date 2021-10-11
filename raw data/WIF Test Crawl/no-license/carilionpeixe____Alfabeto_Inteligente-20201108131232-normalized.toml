@@ -1,0 +1,12 @@
+name = "Alfabeto Inteligente"
+repo = "https://wikifactory.com/@carilionpeixe/alfabeto-inteligente"
+version = "20201108131232"
+spdx-license = "N/A"
+licensor = "Antonio CarlosRosa Santos"
+documentation-language = "pt"
+function = "Neste projeto deve conter 5 ooçoes no menu,aonde o usuario irá interagir. opçoes,1-letras do alfabetos,2-consoantes,3-vogais,4imagens de pessoas de uma familhia,5-imagens variadas de animais."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzA3MzM="
+mimetype = "text/markdown"
+

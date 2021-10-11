@@ -1,0 +1,13 @@
+name = "M4G Furniture B4B"
+repo = "https://wikifactory.com/@oscarvlqz/m4g-furniture-b4b"
+version = "20201015163426"
+spdx-license = "N/A"
+licensor = "Oscar Velazquez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTM3OTA="
+function = "template for documenting furniture proyects"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM4MDE="
+mimetype = "text/markdown"
+

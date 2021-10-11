@@ -1,0 +1,18 @@
+name = "krux"
+repo = "https://wikifactory.com/@d8r/krux"
+version = "20190719124953"
+spdx-license = "N/A"
+licensor = "jeroen dijkmeijer"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjcxODQ="
+function = "The design for the x-stool is scripted, and therefor customizable. Provided design has following characteristics:\n15 mm sheet thickness\n440mm height\n330mm top diameter\nmilling bit: 5 mm.\n\ufeff\nOn www.stretchsketch.com a more customizable design is available.\n\ufeff"
+[[files]]
+name = "/krux.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcxODY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcxODc="
+mimetype = "text/markdown"
+

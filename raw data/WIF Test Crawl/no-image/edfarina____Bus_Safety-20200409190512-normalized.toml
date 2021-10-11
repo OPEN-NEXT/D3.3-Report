@@ -1,0 +1,7 @@
+name = "Bus Safety"
+repo = "https://wikifactory.com/@edfarina/bus-safety"
+version = "20200409190512"
+spdx-license = "N/A"
+licensor = "ED Farina"
+documentation-language = "en"
+function = "Are we safe on a bus?\nEven if you're sitting, you're not very safe in a public transport vehicle like a bus.\nThose who walk upright are even more at risk."

@@ -1,0 +1,13 @@
+name = "BISCOTTE"
+repo = "https://wikifactory.com/@gwilym/biscotte"
+version = "20191209112501"
+spdx-license = "N/A"
+licensor = "Gwilym James Therin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODg5NDE="
+function = "Biscotte is a pot plant that uses broken terracotta pots or other broken products and brings them back to life. Reducing the need for new terracotta to be mined and manufactured from the other side of the world."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzMTQ="
+mimetype = "text/markdown"
+

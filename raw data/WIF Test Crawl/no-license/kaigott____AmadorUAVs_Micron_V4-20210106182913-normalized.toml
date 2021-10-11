@@ -1,0 +1,12 @@
+name = "AmadorUAVs Micron V4"
+repo = "https://wikifactory.com/@kaigott/amadoruavs-micron-v4"
+version = "20210106182913"
+spdx-license = "N/A"
+licensor = "Kai Gottschalk"
+documentation-language = "en"
+function = "3D printed drone frame prototype"
+[[files]]
+name = "/AmadorUAVs Micron V4.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQxNDE="
+mimetype = "text/plain"
+

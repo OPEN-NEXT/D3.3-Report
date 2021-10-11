@@ -1,0 +1,12 @@
+name = "Prueba"
+repo = "https://wikifactory.com/@alterlucas/prueba"
+version = "20210410222848"
+spdx-license = "N/A"
+licensor = "Lucas Podaschevsky"
+documentation-language = "ca"
+function = "voy a probar a ver qué onda"
+[[files]]
+name = "/PAPEL TPP2 - ej 2.1.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzg2OTc="
+mimetype = "application/octet-stream"
+

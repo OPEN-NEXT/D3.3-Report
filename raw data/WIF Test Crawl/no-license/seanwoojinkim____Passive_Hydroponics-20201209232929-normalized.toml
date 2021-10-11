@@ -1,0 +1,53 @@
+name = "Passive Hydroponics"
+repo = "https://wikifactory.com/@seanwoojinkim/passive-hydroponics"
+version = "20201209232929"
+spdx-license = "N/A"
+licensor = "seanwoojinkim"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0OTcyODM="
+function = "Uses a standard tin can in for passive, easily printable hydroponics."
+[[files]]
+name = "Gcode/Can Planter 1.1.2 - Prusaslicer.3mf"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTcyNTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Gcode/MK3_PLA Can Planter 1.1.2 - Prusa i3.gcode"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTcyNDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTcyODA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Renders/Can Planter 1.1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTcyNDc="
+mimetype = "image/png"
+
+[[files]]
+name = "Renders/Photo - Can Planter 1.1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTcyNDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "STEP/Can Planter 1.1.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTcyNDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "STL/Can Planter Lid 1.1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTcyNTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL/Net Cup 1.1 - No Mesh.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTcyNTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL/Net Cup 1.1 - With Mesh.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTcyNTI="
+mimetype = "application/sla"
+

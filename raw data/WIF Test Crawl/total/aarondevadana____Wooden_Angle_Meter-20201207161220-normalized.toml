@@ -1,0 +1,18 @@
+name = "Wooden Angle Meter"
+repo = "https://wikifactory.com/@aarondevadana/wooden-angle-meter"
+version = "20201207161220"
+spdx-license = "N/A"
+licensor = "AARON DANA"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0OTQ0MDQ="
+function = "Just a concept I had come up with years ago to be able to measure angles of a wall connection. We do typically have angel meter which run on a motor and batteries (which I came to know much later) but by then the drawings were just left as 3D projects in a software and long forgotten."
+[[files]]
+name = "/angle meter collada file.dae"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTQ0MDM="
+mimetype = "application/xml"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTQzMjk="
+mimetype = "text/markdown"
+

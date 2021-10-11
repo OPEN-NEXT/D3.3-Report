@@ -1,0 +1,63 @@
+name = "Tiroirs de rangement"
+repo = "https://wikifactory.com/@mcariou/tiroirs-de-rangement"
+version = "20210122140857"
+spdx-license = "N/A"
+licensor = "Mathieu Cariou"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0Mjg3MzQ="
+function = "Tiroirs modulables pour rangement de composants"
+[[files]]
+name = "Photos_V1/V1_1tiroir.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mjg3MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos_V1/V1_1tiroir_piece1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mjg3MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos_V1/V1_1tiroirs_piece2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mjg3MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos_V1/V1_2tiroirs.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mjg3MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos_V1/V1_2tiroirsB.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mjg3MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos_V1/V1_attach1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mjg3MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos_V1/V1_reperage des pieces.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzA0Njk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjUyODg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/V1_Boite_rangement_36mm_103x60_cm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mjg3NTE="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "V2_boites_rangement/V2_1 - Boite rangement 36mm 103x60 cm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjUyODM="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "V2_boites_rangement/V2_1 - Boite rangement 72mm 120x80cm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjUyODI="
+mimetype = "image/svg+xml"
+

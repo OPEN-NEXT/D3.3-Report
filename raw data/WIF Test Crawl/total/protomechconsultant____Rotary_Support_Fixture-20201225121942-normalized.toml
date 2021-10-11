@@ -1,0 +1,17 @@
+name = "Rotary Support Fixture"
+repo = "https://wikifactory.com/@protomechconsultant/rotary-support-fixture"
+version = "20201225121942"
+spdx-license = "N/A"
+licensor = "protomechconsultant"
+documentation-language = "en"
+function = "This was just to guide the longer pipe while Laser cutting the profile to overcome the issue of offcut &  Sagging of longer pipe.\n    Can be easily move the position according to pipe length and profile."
+[[files]]
+name = "/Rotary Fixture.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDg5MDI="
+mimetype = "image/png"
+
+[[files]]
+name = "/WhatsApp Video 2020-12-22 at 6.38.41 PM.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDg5MDg="
+mimetype = "video/mp4"
+

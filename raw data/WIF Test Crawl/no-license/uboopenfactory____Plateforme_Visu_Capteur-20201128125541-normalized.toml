@@ -1,0 +1,7 @@
+name = "Plateforme Visu Capteur"
+repo = "https://wikifactory.com/@mcariou/plateforme-visu-capteur"
+version = "20201128125541"
+spdx-license = "N/A"
+licensor = "Mathieu Cariou"
+documentation-language = "fr"
+function = "Plateforme ouverte de visualisation de données de capteurs"

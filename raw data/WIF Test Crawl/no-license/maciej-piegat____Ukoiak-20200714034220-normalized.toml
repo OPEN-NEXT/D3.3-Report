@@ -1,0 +1,12 @@
+name = "Ukoiak"
+repo = "https://wikifactory.com/@maciej-piegat/ukoiak"
+version = "20200714034220"
+spdx-license = "N/A"
+licensor = "Maciej Piegat"
+documentation-language = "en"
+function = "piece of crude wood for develop the manual and brain skills"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTAzNjM="
+mimetype = "text/markdown"
+

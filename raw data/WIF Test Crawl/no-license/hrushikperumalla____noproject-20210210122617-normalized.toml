@@ -1,0 +1,7 @@
+name = "noproject"
+repo = "https://wikifactory.com/@hrushikperumalla/noproject"
+version = "20210210122617"
+spdx-license = "N/A"
+licensor = "Hrushik Perumalla"
+documentation-language = "ro"
+function = "just a start"

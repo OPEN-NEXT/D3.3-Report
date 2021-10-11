@@ -1,0 +1,8 @@
+name = "Large Hydrogen PEM Drone"
+repo = "https://wikifactory.com/@sl754/large-hydrogen-pem-drone"
+version = "20210126220816"
+spdx-license = "N/A"
+licensor = "Stewart Laing"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjgzMTE="
+function = "I have a large quad (75cm carbon blades = 1.5m diameter), and spare 100cm carbon blades; would need to extend the arms!\n\nI want to replace the power source; pair of 22,000MAh S6 (heavy!), with a PEM Hydrogen fuel cell (mainly to extend flight times), and showcase some newer technology (i.e. BVLOS)."

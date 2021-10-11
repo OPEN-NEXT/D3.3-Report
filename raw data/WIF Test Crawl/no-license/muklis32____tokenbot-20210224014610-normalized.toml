@@ -1,0 +1,7 @@
+name = "tokenbot"
+repo = "https://wikifactory.com/@muklis32/tokenbot"
+version = "20210224014610"
+spdx-license = "N/A"
+licensor = "muklis32"
+documentation-language = "no"
+function = "input number for pln token meter"

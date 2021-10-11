@@ -1,0 +1,13 @@
+name = "Neoprene Mouse Case/ Pad"
+repo = "https://wikifactory.com/@kennychui/neoprene-mouse-case-pad"
+version = "20191208131403"
+spdx-license = "N/A"
+licensor = "Kenny Chui"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODA4Mzk="
+function = "I have created a product that enables the user to store their mouse. Using waste neoprene that has minimal components and parts, which provides a suitable surface for the mouse to be placed on and used as a Pad."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODg2Mzk="
+mimetype = "text/markdown"
+

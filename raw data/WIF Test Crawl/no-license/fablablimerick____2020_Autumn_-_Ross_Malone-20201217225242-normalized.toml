@@ -1,0 +1,18 @@
+name = "2020 Autumn - Ross Malone"
+repo = "https://wikifactory.com/@2020autumnrossmalone/2020-autumn-ross-malone"
+version = "20201217225242"
+spdx-license = "N/A"
+licensor = "Ross Malone"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MDIzMjQ="
+function = "Foot Handle"
+[[files]]
+name = "/Document2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDM3OTg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDI2NTA="
+mimetype = "text/markdown"
+

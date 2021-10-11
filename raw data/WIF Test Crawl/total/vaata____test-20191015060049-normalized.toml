@@ -1,0 +1,17 @@
+name = "test"
+repo = "https://wikifactory.com/@mohanrajr/test"
+version = "20191015060049"
+spdx-license = "N/A"
+licensor = "mohanrajr"
+documentation-language = "en"
+function = "test"
+[[files]]
+name = "RT03/m8x130_h_bolt_ft_8p8_is1364_ct.igs"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQwNjc="
+mimetype = "model/iges"
+
+[[files]]
+name = "RT03/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQwNjk="
+mimetype = "text/markdown"
+

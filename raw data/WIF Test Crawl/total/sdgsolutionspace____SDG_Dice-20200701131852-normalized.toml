@@ -1,0 +1,38 @@
+name = "SDG Dice"
+repo = "https://wikifactory.com/@sdgsolutionspace/sdg-dice"
+version = "20200701131852"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "DURNEY Jean-Marie"
+documentation-language = "ro"
+image = "https://wikifactory.com/files/RmlsZTozOTc4ODA="
+function = "SDG Dice 17SDG --> 20 sided dice. \nLaser cut Paper/Cardboard ICOSAHEDRON"
+[[files]]
+name = "Files/ICOSAHEDRON.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc5MzU="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Files/ICOSAHEDRON.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc5MzE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Files/ICOSAHEDRON_17SDG.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc5MzY="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Files/ICOSAHEDRON_17SDG.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc5Mzc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozOTY2MjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc5NDA="
+mimetype = "text/markdown"
+

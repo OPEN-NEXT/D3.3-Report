@@ -1,0 +1,12 @@
+name = "cyclic biosystems"
+repo = "https://wikifactory.com/@diego/cyclic-biosystems"
+version = "20190705052707"
+spdx-license = "N/A"
+licensor = "Diego Rasero"
+documentation-language = "en"
+function = "Try to expose the different combinations of biosystems to find perfect cyclical biological systems.\nConsidering as perfect a system that is self-sustaining (does not need resources contribution) and generates an outflow of resources."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUzOTk="
+mimetype = "text/markdown"
+

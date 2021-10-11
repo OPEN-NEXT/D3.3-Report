@@ -1,0 +1,7 @@
+name = "Filament winding"
+repo = "https://wikifactory.com/@bhargavik17/filament-winding"
+version = "20201220094749"
+spdx-license = "N/A"
+licensor = "Bhargavi Kasarla"
+documentation-language = "en"
+function = "It is a new advanced manufacturing technique, where an object is produced by filament winding layer by layer. Mostly hallow cylinders and shafts are manufactured through this technique."

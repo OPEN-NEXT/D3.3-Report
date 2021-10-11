@@ -1,0 +1,8 @@
+name = "InSolCooking "
+repo = "https://wikifactory.com/@faheemazizumrani/solcooking"
+version = "20200908174522"
+spdx-license = "N/A"
+licensor = "faheemazizumrani"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzIwMDk="
+function = "This project is aimed to design solar powered induction stove for utility cooking. The idea is to design a low cost robust cooking device readily install-able and can be used with common kitchen utensils. The product targets economically disadvantaged and middle income household."

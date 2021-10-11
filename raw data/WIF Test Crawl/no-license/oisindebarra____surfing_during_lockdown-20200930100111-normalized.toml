@@ -1,0 +1,13 @@
+name = "surfing during lockdown "
+repo = "https://wikifactory.com/@oisindebarra/surfing-during-lockdown"
+version = "20200930100111"
+spdx-license = "N/A"
+licensor = "oisin de barra"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NDM1NjA="
+function = "in lockdown some surfers isolated far from waves,i want to provide a temporary accomodation better than camping gear/3d printed/natirally made surfboads.the production of surfboards changed during the lockdown shaoers used irish naturtal sustainable materials to cut down on transport time and costs."
+[[files]]
+name = "/surfing during covid 1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDQxOTk="
+mimetype = "application/pdf"
+

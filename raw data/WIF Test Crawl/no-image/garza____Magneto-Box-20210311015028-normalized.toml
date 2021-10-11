@@ -1,0 +1,7 @@
+name = "Magneto-Box"
+repo = "https://wikifactory.com/@garza/magneto-box"
+version = "20210311015028"
+spdx-license = "N/A"
+licensor = "Pablo Ariel Garcia"
+documentation-language = "en"
+function = "little box crafted with laser cut on MDF. I aggregate magnets to lock the box. Made to save nibs"

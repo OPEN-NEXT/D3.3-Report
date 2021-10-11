@@ -1,0 +1,7 @@
+name = " Robotics attendance"
+repo = "https://wikifactory.com/@okesonezbokaf/robotics-attendance"
+version = "20201101205204"
+spdx-license = "N/A"
+licensor = "Okeoma EZERIE"
+documentation-language = "en"
+function = "This Robotics objects attends to need of the studentsin the class helping them understand the lessons in progress.\nIt can also serve as lesson aids."

@@ -1,0 +1,13 @@
+name = "Bake the masks"
+repo = "https://wikifactory.com/@uncle-pi/bake-the-masks"
+version = "20200322171706"
+spdx-license = "N/A"
+licensor = "Pietro Mincuzzi"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjA2Njc="
+function = "Masks protect individuals from spreading COVID-19 and their use has statistical relevance on the speed of contagion, but shortage of supply may cause unavailability for the large population.\nThis can be solved with a proper management that involves simple sanitation steps of used masks."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjA3OTg="
+mimetype = "text/markdown"
+

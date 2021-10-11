@@ -1,0 +1,28 @@
+name = "Playmat/Deckcase"
+repo = "https://wikifactory.com/@bcronnie/playmatdeckcase"
+version = "20191209132238"
+spdx-license = "N/A"
+licensor = "Ben Ronnie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODQyNjM="
+function = "A product designed to act as a playmat and deckcase for various card games such as: Magic The Gathering, Pokemon and Yugioh."
+[[files]]
+name = "/74915559_2475047936086201_2429194255206449152_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4NjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/75462298_411845382824914_6065161843985350656_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4NTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/display papers.indd"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4NjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk2MTM="
+mimetype = "text/markdown"
+

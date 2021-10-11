@@ -1,0 +1,7 @@
+name = "IdeaTree"
+repo = "https://wikifactory.com/@jaspertomas/ideatree"
+version = "20210104053754"
+spdx-license = "N/A"
+licensor = "jaspertomas"
+documentation-language = "en"
+function = "A place where ideas can be organized and allowed to evolve into evidence based bodies of knowledge through social networking, allowing intelligent decisions to be made for the good of humanity"

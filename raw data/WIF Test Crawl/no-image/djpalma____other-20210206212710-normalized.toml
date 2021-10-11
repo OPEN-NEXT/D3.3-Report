@@ -1,0 +1,7 @@
+name = "other"
+repo = "https://wikifactory.com/@djpalma/other"
+version = "20210206212710"
+spdx-license = "N/A"
+licensor = "Raziel Palmer"
+documentation-language = "en"
+function = "other"

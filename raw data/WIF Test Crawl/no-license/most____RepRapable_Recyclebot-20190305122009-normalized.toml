@@ -1,0 +1,1813 @@
+name = "RepRapable Recyclebot"
+repo = "https://wikifactory.com/@botler/reprapable-recyclebot"
+version = "20190305122009"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMzk5ODk="
+function = "Open source 3-D printable extruder for converting plastic to 3-D printing filament"
+[[files]]
+name = "/Final Electrical BOM.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAwNDE="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "/Final Mechanical BOM.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAwNDI="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "/Inventor Design Files.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAwNDQ="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/12v DC Motor Mount.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2OTk="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Base Bearing Mount.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2OTg="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Belt for Puller.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2OTc="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Belt for Spooler.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2OTY="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Cart.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2OTU="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Catch Bin.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2OTQ="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Control Panel Back.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2OTM="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Control Panel Bottom.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2OTI="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Control Panel Face.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2OTE="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Control Panel Front.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2OTA="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Control Panel Mounting Brackets.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2ODk="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Control Panel Sides.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2ODg="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Coupler V2.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2ODc="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/DC Small Belt Pulley.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2ODY="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Fan Mount.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2ODU="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Feet Bolt Mount for Board.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2ODQ="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Filament Roller Half 1.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2ODM="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Filament Roller Half 2.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2ODI="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Filament Sensor Cap.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2ODE="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Filament Sensor.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2ODA="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Front Bearing Tower.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2Nzk="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Guide Blocks.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2Nzg="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Guide Wood Mount.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2Nzc="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Hopper Cover Screw Cap.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NzY="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Hopper Empty Hole Cover.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NzU="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Hopper Insulation Flat.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NzQ="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Hopper Legs.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NzM="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Hopper Trough.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NzI="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Large Belt Pulley.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NzE="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/LCD Knob.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NzA="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Light Sensor Legs.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2Njk="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Light Sensor Single Leg.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2Njg="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Motor Shaft to Extrusion Screw Coupler.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2Njc="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Ninjaflex Feet for Board.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NjY="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Power Supply Cap.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NjU="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Power Supply Cover.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NjQ="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Rod End Brackets.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NjM="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Slider.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NjI="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Spooler Hubs.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NjE="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Switch Mount.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NjA="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Template for Motor Bracket.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NTk="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Top Bearing Mount V2.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NTg="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Trough Holders Bottom.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NTc="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Trough Holders Top.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NTY="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Winder Cross Beam.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NTU="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Winder DC Bearing Tower.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NTQ="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/3D-Printed-Part Design Files/Wire Loom Mounts.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NTM="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/0.25 X 12 Smooth Rod.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NTI="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/2l_cola_bottle.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NDY="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/2X8 Board Blank.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NDU="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/2X8 Board.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NDQ="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/3-4 in Floor Flange.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NDM="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/3-4 in ID Ball Bearing.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NDI="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/3-4 in Ship Auger Bit.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NDE="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/3-4 in X 10 in Pipe.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NDA="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/3-8 in Guide Rod.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2Mzk="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/3-8 in HEX NUT.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2Mzg="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/3-8 in ID Washer.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2Mzc="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/3-8 in NYLON-INSERT LOCKNUT.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MzY="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/3-8 X 1.75 in Threaded Rod.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MzU="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/3-8 X 3 in Threaded Rod.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MzQ="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/3-8 X 4.5 in Threaded Rod.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MzM="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/3-8 X 5.5 in Threaded Rod.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MzI="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/3-8 X 7 in Threaded Rod.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MzA="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/5mm_BALL BEARING 635z.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MjM="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/5mm_BALL BEARING 635z.STEP"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/6X1 Pan head wood Screws.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MjA="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/10K Slide Pot.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NTE="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/12v DC Motor Mount.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NTA="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/12v DC motor w gearbox 100rpm.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NDk="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/12X1X1 in 90 degree Angle Aluminum.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NDg="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/35A URETHANE DRIVE ROLLER.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2Mjk="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/50mmfan hub.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MjU="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/50mmfan.iam"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MjQ="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/2475K820_ABRASION-RST URETHANE DRIVE ROLLER.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2NDc="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/4830K211_STD-WALL TYPE 304-304L SS THRD PIPE NIPPLE.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2Mjc="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/9434K520_MUSIC WIRE PRECISION COMPRESSION SPRING.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MDk="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/9657K390_STEEL COMPRESSION SPRING.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MDY="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/46755K740_THICK-WALL 304-304L SS THREADED PIPE NIPPLE.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2Mjg="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/50785K164_MED-PRESSURE BRASS THREADED PIPE FITTING.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MjY="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/60355K703_BALL BEARING.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MjE="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/90591A250_ZINC PLATED STEEL HEX NUT.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MTk="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/90592A004_STEEL HEX NUT.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MTg="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/90592A090_STEEL HEX NUT.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MTc="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/91166A240_ZINC-PLATED STEEL FLAT WASHER.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MTY="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/91274A105_COATED ALLOY STEEL SOCKET HEAD CAP SCREW.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MTU="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/91274A122_COATED ALLOY STEEL SOCKET HEAD CAP SCREW.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MTQ="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/91280A249_MED-STRG ZINC-PLTD STL CAP SCREW - CLASS 8.8.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MTM="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/91287A060_18-8 STAINLESS STEEL HEX HEAD CAP SCREW.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MTI="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/91292A127_TYPE 18-8 SS SOCKET HEAD CAP SCREW.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MTE="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/94180A331_METRIC BRASS HEAT-SET INSERT FOR PLASTICS.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MTA="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/95263A402_CLASS 12.9 SOCKET HEAD CAP SCREW.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MDg="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/95615A140_ZINC-PLATED GRADE 5 STL NYLON-INSERT LOCKNUT.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MDc="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/98750A457_ASTM A193 GRADE B7 STEEL THREADED STUD.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MDU="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Alim_25A_Coperchio.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MDQ="
+mimetype = ""
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Alim_25A_Scatola.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MDM="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Aluminum Trough Assembly.iam"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MDI="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/ARDUINO_MEGA.iam"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MDE="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/ARDUINO_MEGA_BRD.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA2MDA="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Auger.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1OTk="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Back Support Top Right.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1OTg="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/BALL BEARING.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1OTc="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Barrel.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1OTY="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Base Bearing Mount.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1OTU="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Belt for Spooler.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1OTQ="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Bottle with Bottom Cut out.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1OTM="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/BUTTON2.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1OTI="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Cart.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1OTE="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Catch Bin.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1OTA="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/conn_9pin_MW.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1ODk="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Control Panel Back.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1ODg="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Control Panel Bottom.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1ODc="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Control Panel Face.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1ODY="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Control Panel Front.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1ODU="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Control Panel Mounting Brackets.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1ODQ="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Control Panel Sides.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1ODM="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Coupler V2.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1ODI="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/DC Small Belt Pulley.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1ODE="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/DC Speed Control Board with Knob.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1ODA="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/DESIGN2000.iam"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1Nzk="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Direct DC Motor Puller Assembly.iam"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1Nzg="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/DPST Slider Switch.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1Nzc="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Fan Mount.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NzY="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/fanhousing.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NzU="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Feet Bolt Mount for Board.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NzQ="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/female_header_a-bl254-dg-g08d.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NzM="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/female_header_a-bl254-eg-g08d.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NzI="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Fiberglass Insulation.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NzE="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Filament Roller Half 1.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NzA="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Filament Roller Half 2.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1Njk="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Filament Sensor Cap.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1Njg="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Filament Sensor.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1Njc="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Filament Tensioner.iam"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NjY="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Floor Flange Heat Break.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NjU="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Front Bearing Tower.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NjQ="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/FUE-DU-12V.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NjM="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Gearmotor Key.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NjI="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Guide 3-8 in Threaded Rod.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NjE="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Guide Blocks.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NjA="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Guide Wood Mount.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NTk="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Hopper Build.iam"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NTg="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Hopper Cover Screw Cap.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NTc="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Hopper Empty Hole Cover.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NTY="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Hopper Insulation Flat.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NTU="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Hopper Legs.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NTQ="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Hopper Trough.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NTM="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Large Belt Pulley.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NTI="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/LCD Knob.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NTE="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/LCD Screen.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NTA="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/LED 3mm Green_Standard.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NDk="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Light Sensor Assembly.iam"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NDg="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Inventor Part Files/All Assembly Part Files/Light Sensor Legs.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA1NDc="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMzk5OTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Project_Publication"
+permalink = "https://wikifactory.com/files/RmlsZToxMzk5OTA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3ODM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Software and Wiring Diagrams/RAMPS 1.4 Pinout.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAwNTI="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/.github/ISSUE_TEMPLATE.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NjM="
+mimetype = ""
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/.github/PULL_REQUEST_TEMPLATE.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NjI="
+mimetype = ""
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/AccelStepper.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NjE="
+mimetype = ""
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/AccelStepper.h"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NjA="
+mimetype = ""
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/AccelStepper_8h-source.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NTk="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/annotated.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NTg="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/classAccelStepper-members.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NTc="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/classAccelStepper.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NTY="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/doxygen.css"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NTU="
+mimetype = "text/css"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/doxygen.png"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/files.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NTM="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/functions.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NTI="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/functions_func.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NTE="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/index.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NTA="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/tab_b.gif"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NDk="
+mimetype = "image/gif"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/tab_l.gif"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NDg="
+mimetype = "image/gif"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/tab_r.gif"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NDc="
+mimetype = "image/gif"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/doc/tabs.css"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NDY="
+mimetype = "text/css"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/examples/AFMotor_ConstantSpeed/AFMotor_ConstantSpeed.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NDU="
+mimetype = ""
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/examples/AFMotor_MultiStepper/AFMotor_MultiStepper.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NDQ="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/examples/Blocking/Blocking.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NDM="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/examples/ConstantSpeed/ConstantSpeed.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NDI="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/examples/MultiStepper/MultiStepper.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NDE="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/examples/Overshoot/Overshoot.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3NDA="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/examples/Random/Random.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3Mzk="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/LICENSE"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3Mzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/Makefile"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3Mzc="
+mimetype = "text/x-makefile"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/MANIFEST"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MzY="
+mimetype = ""
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/project.cfg"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MzU="
+mimetype = ""
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/AccelStepper-master/README.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/.github/ISSUE_TEMPLATE.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/.github/PULL_REQUEST_TEMPLATE.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/AccelStepper.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MzE="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/AccelStepper.h"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MzA="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/AccelStepper_8h-source.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3Mjk="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/annotated.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3Mjg="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/classAccelStepper-members.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3Mjc="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/classAccelStepper.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MjY="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/doxygen.css"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MjU="
+mimetype = "text/css"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/doxygen.png"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/files.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MjM="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/functions.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MjI="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/functions_func.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MjE="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/index.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MjA="
+mimetype = "text/html"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/tab_b.gif"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MTk="
+mimetype = "image/gif"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/tab_l.gif"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MTg="
+mimetype = "image/gif"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/tab_r.gif"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MTc="
+mimetype = "image/gif"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/doc/tabs.css"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MTY="
+mimetype = "text/css"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/examples/AFMotor_ConstantSpeed/AFMotor_ConstantSpeed.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MTU="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/examples/AFMotor_MultiStepper/AFMotor_MultiStepper.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MTQ="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/examples/Blocking/Blocking.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MTM="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/examples/ConstantSpeed/ConstantSpeed.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MTI="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/examples/MultiStepper/MultiStepper.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MTE="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/examples/Overshoot/Overshoot.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MTA="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/examples/Random/Random.pde"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MDk="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/LICENSE"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/Main_Code_experimental.ino"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/Makefile"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MDY="
+mimetype = "text/x-makefile"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/MANIFEST"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/project.cfg"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/README.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot Arduino Files/Extruder_V2_REV2_RAMPS_Rev3/Main_Code_experimental/screen_update.ino"
+permalink = "https://wikifactory.com/files/RmlsZToxNDA3MDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot V5 Full.stp"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAwNTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot V5 Wiring Diagram.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAwNTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot V5 Wiring Diagram.png"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAwNjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Software and Wiring Diagrams/Recyclebot V5 Wiring Diagram.xml"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAwNjU="
+mimetype = "text/xml"
+
+[[files]]
+name = "STL Files/Board_Feet (Ninjaflex)_x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMzE="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Board_Feet Screw Mount_x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMzA="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Control Panel_Back_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMjk="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Control Panel_Bottom_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMjg="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Control Panel_Front_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMjc="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Control Panel_LCD Knob_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMjY="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Control Panel_Mounting Brackets_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMjU="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Control Panel_Side_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMjQ="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Control Panel_Top_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMjM="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Cooling_Aluminum Trough Fan Mount_x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMjI="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Cooling_Aluminum Trough Holders Bottom_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMjE="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Cooling_Aluminum Trough Holders Top_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMjA="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Diameter Sensor_Body_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMTk="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Diameter Sensor_Cap_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMTg="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Diameter Sensor_Legs_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMTc="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Diameter Sensor_Single Leg_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMTY="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Extrusion_Auger Coupler_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMTU="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Extrusion_Hopper Catch Bin_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMTQ="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Extrusion_Hopper Feet_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMTM="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Extrusion_Hopper Hole Cover_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMTI="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Extrusion_Hopper Insulation_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMTE="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Extrusion_Hopper Screw Cap_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMTA="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Extrusion_Hopper Trough_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Extrusion_Motor Template_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMDg="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Board_Feet (Ninjaflex)_x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxOTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Board_Feet Screw Mount_x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxOTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Control Panel_Back_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxODk="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Control Panel_Bottom_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxODg="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Control Panel_Front_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxODc="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Control Panel_LCD Knob_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxODY="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Control Panel_Mounting Brackets_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxODU="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Control Panel_Side_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxODQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Control Panel_Top_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxODM="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Cooling_Aluminum Trough Fan Mount_x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxODI="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Cooling_Aluminum Trough Holders Bottom_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxODE="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Cooling_Aluminum Trough Holders Top_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxODA="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Diameter Sensor_Body_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Diameter Sensor_Cap_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Diameter Sensor_Legs_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Diameter Sensor_Single Leg_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Extrusion_Auger Coupler_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Extrusion_Hopper Catch Bin_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Extrusion_Hopper Feet_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Extrusion_Hopper Hole Cover_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Extrusion_Hopper Insulation_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Extrusion_Hopper Screw Cap_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Extrusion_Hopper Trough_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Extrusion_Motor Template_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/MISC_M3 Thumb Screw Conversion_x12.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNjc="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Power Supply_Cover_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Power Supply_Mount_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Puller&Spooler_Belts_x1 (NinjaFlex).stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Puller&Spooler_Large Belt Pulley_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Puller&Spooler_Small Belt Pulley_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Puller_Base_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Puller_DC Motor Mount_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Puller_Top Bearing Holder_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Roller_Half 1_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Roller_Half 2_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Roller_Wood Mount_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Spooler_Back Bearing Tower_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Spooler_Cross Beam_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Spooler_Front Bearing Tower_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Spooler_Hub_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Board_Feet (Ninjaflex)_x4.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNTE="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Board_Feet Screw Mount_x4.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNTA="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Control Panel_Back_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNDk="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Control Panel_Bottom_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNDg="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Control Panel_Front_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNDc="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Control Panel_LCD Knob_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNDY="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Control Panel_Mounting Brackets_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNDU="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Control Panel_Side_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Control Panel_Top_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNDM="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Cooling_Aluminum Trough Fan Mount_x4.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNDI="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Cooling_Aluminum Trough Holders Bottom_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNDE="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Cooling_Aluminum Trough Holders Top_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxNDA="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Diameter Sensor_Body_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMzk="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Diameter Sensor_Cap_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMzg="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Diameter Sensor_Legs_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMzc="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Diameter Sensor_Single Leg_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMzY="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Extrusion_Auger Coupler_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMzU="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Extrusion_Catch Bin_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Extrusion_Hopper Feet_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMzM="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Extrusion_Hopper Hole Cover_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMzI="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Extrusion_Hopper Insulation_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMzE="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Extrusion_Hopper Screw Cap_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMzA="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Extrusion_Hopper Trough_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMjk="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Extrusion_Motor Template_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMjg="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/MISC_M3 Thumb Screw Conversion_x12.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMjc="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Power Supply_Cover_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMjY="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Power Supply_Mount_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMjU="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Puller&Spooler_Belts_x1 (NinjaFlex).PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Puller&Spooler_Large Belt Pulley_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMjM="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Puller&Spooler_Small Belt Pulley_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMjI="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Puller_Base_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMjE="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Puller_DC Motor Mount_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMjA="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Puller_Top Bearing Holder_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMTk="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Roller_Half 1_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMTg="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Roller_Half 2_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMTc="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Roller_Wood Mount_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMTY="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Spooler_Back Bearing Tower_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMTU="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Spooler_Cross Beam_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Spooler_Front Bearing Tower_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMTM="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Spooler_Hub_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMTI="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Traverse_Coupler Half_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMTE="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Traverse_Motor and Bearing Mount_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMTA="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Traverse_Slider Guide_x2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMDk="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Traverse_Slider_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMDg="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Traverse_Switch Housing_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMDc="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Traverse_Threaded Rod Cart_x1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMDY="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/STL Model SnapShots/Wiring_Loom Mounts_x14.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMDU="
+mimetype = "image/png"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Traverse_Coupler Half_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Traverse_Motor and Bearing Mount_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Traverse_Slider Guide_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Traverse_Slider_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Traverse_Switch Housing_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxMDA="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Traverse_Threaded Rod Cart_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAwOTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Final STL Files Recyclebot V5 2/Wiring_Loom Mounts_x14.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAwOTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/MISC_M3 Thumb Screw Conversion_x12.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMDc="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Power Supply_Cover_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMDY="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Power Supply_Mount_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMDU="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Puller&Spooler_Belts_x1 (NinjaFlex).stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMDE="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Puller&Spooler_Large Belt Pulley_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMDA="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Puller&Spooler_Small Belt Pulley_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxOTk="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Puller_Base_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Puller_DC Motor Mount_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMDM="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Puller_Top Bearing Holder_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMDI="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Roller_Half 1_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxOTg="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Roller_Half 2_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxOTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Roller_Wood Mount_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxOTY="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Spooler_Back Bearing Tower_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxOTU="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Spooler_Cross Beam_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxOTQ="
+mimetype = ""
+
+[[files]]
+name = "STL Files/Spooler_Front Bearing Tower_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxOTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Spooler_Hub_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAxOTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/STL Model Glossary.docx"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAwNTA="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/STL Model Pricing and Material.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAwNDg="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+

@@ -1,0 +1,33 @@
+name = "Drop Spike"
+repo = "https://wikifactory.com/@jonathankeep/jk-drop-spike"
+version = "20210324113131"
+spdx-license = "N/A"
+licensor = "Jonathan Keep"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0OTgxMDk="
+function = "A tool for measuring the consistency of clay."
+[[files]]
+name = "CFPR 3D printed clay measuring tool/CFPR clay hardness tester spike.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTA2MTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "CFPR 3D printed clay measuring tool/CFPR hardness tester sleeve dec 2020.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTA4MzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "CFPR 3D printed clay measuring tool/spike measuring scale.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTA2MTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/JK Drop Spike.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTgxMjA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzE5Mzc="
+mimetype = "text/markdown"
+

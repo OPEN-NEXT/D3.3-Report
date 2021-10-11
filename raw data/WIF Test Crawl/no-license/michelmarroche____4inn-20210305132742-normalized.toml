@@ -1,0 +1,7 @@
+name = "4inn"
+repo = "https://wikifactory.com/@michelmarroche/4inn"
+version = "20210305132742"
+spdx-license = "N/A"
+licensor = "Michel Marroche"
+documentation-language = "en"
+function = "CNC projects"

@@ -1,0 +1,7 @@
+name = "First Otto"
+repo = "https://wikifactory.com/@lmartin/first-otto"
+version = "20200819004746"
+spdx-license = "N/A"
+licensor = "Guilherme Leme Martin"
+documentation-language = "en"
+function = "Its my first Otto"

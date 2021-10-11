@@ -1,0 +1,13 @@
+name = "Team X"
+repo = "https://wikifactory.com/@diegoarias/team-x"
+version = "20190629155100"
+spdx-license = "N/A"
+licensor = "Diego Arias"
+documentation-language = "ro"
+image = "https://wikifactory.com/files/RmlsZToyMTY1NjM="
+function = "We are Team X!"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY1NjU="
+mimetype = "text/plain"
+

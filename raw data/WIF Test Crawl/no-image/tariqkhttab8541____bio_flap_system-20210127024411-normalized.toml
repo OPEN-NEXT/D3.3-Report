@@ -1,0 +1,7 @@
+name = "bio flap system"
+repo = "https://wikifactory.com/@tariqkhttab8541/bio-flap-system"
+version = "20210127024411"
+spdx-license = "N/A"
+licensor = "tariqkhttab8541"
+documentation-language = "en"
+function = "This is a complex project"

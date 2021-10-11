@@ -1,0 +1,17 @@
+name = "Bourbon Europe Makers"
+repo = "https://wikifactory.com/@bourboneuropemakers/bourbon-europe-makers"
+version = "20191008201502"
+spdx-license = "N/A"
+licensor = "Bourbon Europe Makers"
+documentation-language = "en"
+function = "Bourbon Europe Makers: First distributed project leaded by Vulca and financed by the Conseil Departemental of Allier"
+[[files]]
+name = "Scenography/Atalier (fablab de moulins)/Map of the district/District of Moulins.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyNzMzMTQ="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Scenography/Atalier (fablab de moulins)/Map of the district/District of Moulins.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzMzMTM="
+mimetype = "text/plain"
+

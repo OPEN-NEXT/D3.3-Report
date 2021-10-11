@@ -1,0 +1,18 @@
+name = "Urgot Spider Robot "
+repo = "https://wikifactory.com/@bakloutikhalil69/spider-robot"
+version = "20210126204711"
+spdx-license = "N/A"
+licensor = "bakloutikhalil"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0Njc3Mzc="
+function = "As his name defines it, my robot is a basic representation of \"spider\" movements but it will not perform exactly the same body movements since i  only use four legs instead of eight legs.\nThe Urgot Robot powered by 12 \"SG90\" servos controlled by an Arduino nano board and an Android application."
+[[files]]
+name = "/Annotation 2020-09-07 005149.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjgyNjA="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njc3NDY="
+mimetype = "text/markdown"
+

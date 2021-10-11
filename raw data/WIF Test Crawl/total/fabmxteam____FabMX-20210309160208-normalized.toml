@@ -1,0 +1,68 @@
+name = "FabMX"
+repo = "https://wikifactory.com/@andreas/fabmx"
+version = "20210309160208"
+spdx-license = "N/A"
+licensor = "Andreas Kahler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NjA0Nzk="
+function = "Building a 3d printer to produce metal objects"
+[[files]]
+name = "PelletExtruder/Version1.3/Pellet_Extruder_V1.3 v1.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNDUzMTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "PelletExtruder/Version1.4/Extruder_NEMA17_V1.4_2_8mm_1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozNDUyODg="
+mimetype = "image/png"
+
+[[files]]
+name = "PelletExtruder/Version1.4/Extruder_NEMA17_V1.4_2_8mm_2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozNDUyODM="
+mimetype = "image/png"
+
+[[files]]
+name = "PelletExtruder/Version1.4/Extruder_NEMA17_V1.4_8mm.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNDUzNTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "PelletExtruder/Version1.4/Extruder_NEMA23_V1.4_2_12mm.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNDUzNjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "PelletExtruder/Version1.4/Extruder_NEMA23_V1.4_2_12mm_1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozNDUyODk="
+mimetype = "image/png"
+
+[[files]]
+name = "PelletExtruder/Version1.4/Extruder_NEMA23_V1.4_2_12mm_2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozNDUyODU="
+mimetype = "image/png"
+
+[[files]]
+name = "PelletExtruder/Version1.9/Extruder_NEMA23_V1.9.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjA0ODA="
+mimetype = "text/plain"
+
+[[files]]
+name = "PelletExtruder/Version2.0/Extruder 2.0.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4NzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "PelletExtruder/Version2.0/Zeichnung Kühlblock.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4NzI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "PelletExtruder/Version2.0/Zeichnung Schnecke v0.56.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4NzE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "PelletExtruder/Version2.0/Zeichnung Schneckenzylinder.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4NzA="
+mimetype = "application/pdf"
+

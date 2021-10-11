@@ -1,0 +1,63 @@
+name = "FabCat House"
+repo = "https://wikifactory.com/@binary/fabcat-house"
+version = "20190618165248"
+spdx-license = "N/A"
+licensor = "Dalia Gregorova"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTM2ODc="
+function = "Download, faricate & construct a shelter for a stray cat, or a house for your furry friend. You only need couple of plywood boards to cut on laser with working area min. 800x500mm<br /> \n\n(for exterior use - varnish and few other things)"
+[[files]]
+name = "/01.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2OTg="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/02.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2OTc="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/03.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2OTY="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/04.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2OTU="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/05.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2OTQ="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/06.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2OTM="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/07.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2OTI="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/How-to.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2OTA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Leg protections.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2OTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/LICENSE.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2ODk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MDE="
+mimetype = "text/markdown"
+

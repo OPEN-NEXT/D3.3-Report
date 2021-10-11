@@ -1,0 +1,7 @@
+name = "Hydraulic baling machine"
+repo = "https://wikifactory.com/@machinesity/hydraulic-baling-machine"
+version = "20200824080047"
+spdx-license = "N/A"
+licensor = "Gab Riel"
+documentation-language = "en"
+function = "The hydraulic baling machine is mostly used in recycling industry to compact wastes that are to be recycled. Wastes like PET plastic, paper, nylon-6-6, etc. It's based on hydraulic power which works on Paschal's principle."

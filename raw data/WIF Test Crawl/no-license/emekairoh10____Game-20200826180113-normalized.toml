@@ -1,0 +1,7 @@
+name = "Game"
+repo = "https://wikifactory.com/@emekairoh10/game"
+version = "20200826180113"
+spdx-license = "N/A"
+licensor = "emeka iroh"
+documentation-language = "en"
+function = "A system in a trench that help process waste by separating  different waste materials effectively"

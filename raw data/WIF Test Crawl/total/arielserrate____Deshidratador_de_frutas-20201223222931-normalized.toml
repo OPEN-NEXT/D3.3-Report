@@ -1,0 +1,7 @@
+name = "Deshidratador de frutas"
+repo = "https://wikifactory.com/@arielserrate/deshidratador-de-frutas"
+version = "20201223222931"
+spdx-license = "N/A"
+licensor = "arielserrate"
+documentation-language = "ca"
+function = "Es para secar o deshidratar comida"

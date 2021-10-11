@@ -1,0 +1,7 @@
+name = "BuildFY"
+repo = "https://wikifactory.com/@cygeth/buildfy"
+version = "20200910152852"
+spdx-license = "N/A"
+licensor = "Cyril G Thottumkal"
+documentation-language = "en"
+function = "Digital platform for inclusion of every aspect of construction sector."

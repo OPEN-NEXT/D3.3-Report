@@ -1,0 +1,7 @@
+name = "construction"
+repo = "https://wikifactory.com/@wisamcivil/construction"
+version = "20201108204537"
+spdx-license = "N/A"
+licensor = "wisamcivil"
+documentation-language = "en"
+function = "building design"

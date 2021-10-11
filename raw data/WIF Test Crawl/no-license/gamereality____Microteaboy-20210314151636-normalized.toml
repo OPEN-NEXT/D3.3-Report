@@ -1,0 +1,7 @@
+name = "Microteaboy"
+repo = "https://wikifactory.com/@gamereality/microteaboy"
+version = "20210314151636"
+spdx-license = "N/A"
+licensor = "M.Sc. Magnus Ivarsson "
+documentation-language = "en"
+function = "A mechanism that separate tea from water when time is up inside the microwave oven."

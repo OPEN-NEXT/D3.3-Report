@@ -1,0 +1,7 @@
+name = "Tally boy"
+repo = "https://wikifactory.com/@bjarwan/tally-boy"
+version = "20191101225712"
+spdx-license = "N/A"
+licensor = "bilal"
+documentation-language = "en"
+function = "a hub to simplify bill management."

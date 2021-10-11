@@ -1,0 +1,7 @@
+name = "CNC machine"
+repo = "https://wikifactory.com/@khandelwalraj90/cnc-machine"
+version = "20210428130956"
+spdx-license = "N/A"
+licensor = "Raj Khandelwal "
+documentation-language = "en"
+function = "Development of a cnc machine"

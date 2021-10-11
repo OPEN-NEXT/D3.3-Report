@@ -1,0 +1,18 @@
+name = "Small Mobile Platform"
+repo = "https://wikifactory.com/@cubespawn/small-mobile-platform"
+version = "20201012092100"
+spdx-license = "BAD"
+licensor = "CubeSpawn"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzY4MjI="
+function = "A small (600mmx300mm) Automotive style platform for tele-presence, light maintenance and Control Software development"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMzY4MjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTE0NTk="
+mimetype = "text/markdown"
+

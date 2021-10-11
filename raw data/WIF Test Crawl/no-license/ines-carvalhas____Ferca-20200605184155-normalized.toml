@@ -1,0 +1,23 @@
+name = "Ferca"
+repo = "https://wikifactory.com/@ines-carvalhas/ferca"
+version = "20200605184155"
+spdx-license = "N/A"
+licensor = "Ines Alexandra Grilo Carvalhas"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTc3NjU="
+function = "As the water level rises, as the years go by, more floods will exist and our concept seeks to solve this future problem. As this difficulty is something gradual and not sudden, our idea is based on the creation and construction of temporary and safe dams. A kind of portable water barrier"
+[[files]]
+name = "/FERCA SIMULAÇÃO.avi.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc4MDY="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzQwMzA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Water barrier .step"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3ODc="
+mimetype = "text/plain"
+

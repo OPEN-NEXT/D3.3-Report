@@ -1,0 +1,7 @@
+name = "security box"
+repo = "https://wikifactory.com/@bs/security-box"
+version = "20210323131626"
+spdx-license = "N/A"
+licensor = "BARBAROS SENBAK"
+documentation-language = "en"
+function = "example_01"

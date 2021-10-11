@@ -1,0 +1,7 @@
+name = "An educational barometer"
+repo = "https://wikifactory.com/@abamulanzeki2/an-educational-barometer"
+version = "20201108095943"
+spdx-license = "N/A"
+licensor = "Bamulanzeki Alex"
+documentation-language = "en"
+function = "To use as learning tools for learners in the classroom as well as increasing their understanding on concepts of atmospheric pressure"

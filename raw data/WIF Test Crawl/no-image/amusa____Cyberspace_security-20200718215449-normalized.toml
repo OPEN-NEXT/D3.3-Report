@@ -1,0 +1,7 @@
+name = "Cyberspace security"
+repo = "https://wikifactory.com/@amusa/cyberspace-security"
+version = "20200718215449"
+spdx-license = "N/A"
+licensor = "Musa"
+documentation-language = "en"
+function = "Cyberspace security on websites and internet"

@@ -1,0 +1,12 @@
+name = "Anagyre"
+repo = "https://wikifactory.com/@slel/anagyre"
+version = "20190628102748"
+spdx-license = "N/A"
+licensor = "Samuel Lelièvre"
+documentation-language = "fr"
+function = "Il s'agit de modéliser et d'imprimer en 3d un anagyre, objet allongé avec une face plate et une face arrondie, qui peut tourner dans un sens mais \"refuse\" de tourner dans l'autre sens."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTYxNzI="
+mimetype = "text/markdown"
+

@@ -1,0 +1,12 @@
+name = "test project"
+repo = "https://wikifactory.com/@brianotweyo/test-project"
+version = "20201214084620"
+spdx-license = "N/A"
+licensor = "brianotweyo"
+documentation-language = "en"
+function = "Piston model"
+[[files]]
+name = "/Piston.prt"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTk5MDI="
+mimetype = "application/unigraphics"
+

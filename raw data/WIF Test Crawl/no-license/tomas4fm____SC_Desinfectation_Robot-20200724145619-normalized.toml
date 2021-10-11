@@ -1,0 +1,83 @@
+name = "SC Desinfectation Robot"
+repo = "https://wikifactory.com/@tomas4fm/sc-desinfectation-robot"
+version = "20200724145619"
+spdx-license = "N/A"
+licensor = "Tomàs Farnés Montpeyó"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDE4NzI="
+function = "This Desinfectation Robot for Sport Centers is a LOW COST robot design in order to help players from arround the world to play their sports SAFELY (basket, handball, volley, etc.) within the new normality. It can clean the court in a few minutes and you can limitate the zone to be cleaned."
+[[files]]
+name = "BILL OF MATERIALS/Robot_Bill Of Materials (not finished).pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozODc5NTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "BILL OF MATERIALS/Robot_Bill Of Materials.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDE5NTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "CAD/Desinfectation Robot.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDE4Nzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "CODE/Arduino-SC-Desinfectation-Robot.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozOTk3NDE="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Electronics/Electronic scheme.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozOTk4MjQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Parts in STL/Battery support.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMwMTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Parts in STL/Frontal Security Frame.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMwMTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Parts in STL/Handle V2.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMwMDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "Parts in STL/Limit front frame.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMwMDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "Parts in STL/Sensor protector.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMwMDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "Parts in STL/Sheet interior 2.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI5OTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Parts in STL/Sheet rear.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI5OTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "Parts in STL/Superior Cover.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI5OTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "Parts in STL/Union part.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI5OTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMwOTA="
+mimetype = "text/markdown"
+

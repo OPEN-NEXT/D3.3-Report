@@ -1,0 +1,7 @@
+name = "Farming "
+repo = "https://wikifactory.com/@omaransaar/farming"
+version = "20200527062306"
+spdx-license = "N/A"
+licensor = "Omar Farrah"
+documentation-language = "en"
+function = "Growing cashew tree and also growing short tem crops like tomato onion etc"

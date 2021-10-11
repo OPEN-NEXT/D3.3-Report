@@ -1,0 +1,48 @@
+name = "Wheelchair Under Storage"
+repo = "https://wikifactory.com/@mayaroman/wheelchair-under-storage"
+version = "20200506185941"
+spdx-license = "BAD"
+licensor = "Maya Roman"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDY4MDY="
+function = "Storage unit is attached to the underside so items are easy accessible"
+[[files]]
+name = "CAD Data/DS008_CAD.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY3ODk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Drawing Pack/DS008_Eng_Dwg_Folded.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY3OTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/DS008_Eng_Dwg_Folded.slddrw"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY3OTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Drawing Pack/DS008_Eng_Dwg_Net.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY3OTk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/DS008_Eng_Dwg_Net.slddrw"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY4MDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/DS008_Manual.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY4MDM="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY4MDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY4MjE="
+mimetype = "text/markdown"
+

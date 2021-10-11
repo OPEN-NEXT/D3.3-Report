@@ -1,0 +1,7 @@
+name = "@ aigridrone"
+repo = "https://wikifactory.com/@gogiayashpal/aigridrone"
+version = "20200726024317"
+spdx-license = "N/A"
+licensor = "Yashpal Gogia"
+documentation-language = "en"
+function = "Drone can be used in Agriculture"

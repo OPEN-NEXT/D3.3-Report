@@ -1,0 +1,7 @@
+name = "HAB “Cubesat”"
+repo = "https://wikifactory.com/@finngostar/hab-cubesat"
+version = "20210316114143"
+spdx-license = "N/A"
+licensor = "Finn Drubbel"
+documentation-language = "en"
+function = "Let’s launch a cubesat like device with a weather balloon"

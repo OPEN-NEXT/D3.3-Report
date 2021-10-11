@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@rathnaviraj/test"
+version = "20210109063522"
+spdx-license = "N/A"
+licensor = "Supun Viraj Rathnayaka"
+documentation-language = "en"
+function = "Test Project"

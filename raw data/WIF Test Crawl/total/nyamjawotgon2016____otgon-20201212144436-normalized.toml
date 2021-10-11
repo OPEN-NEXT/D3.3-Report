@@ -1,0 +1,12 @@
+name = "otgon"
+repo = "https://wikifactory.com/@nyamjawotgon2016/otgon"
+version = "20201212144436"
+spdx-license = "N/A"
+licensor = "nyamjawotgon2016"
+documentation-language = "en"
+function = "otgon01"
+[[files]]
+name = "/index.js"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTg3Njc="
+mimetype = "text/javascript"
+

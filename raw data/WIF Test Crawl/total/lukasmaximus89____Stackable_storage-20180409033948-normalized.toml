@@ -1,0 +1,13 @@
+name = "Stackable storage"
+repo = "https://wikifactory.com/@lukasmaximus89/stackable-storage"
+version = "20180409033948"
+spdx-license = "CC0-1.0"
+licensor = "Luke Henderson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMzM1"
+function = "This is a laser cuttable stackable storage"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMzE4"
+mimetype = "text/plain"
+

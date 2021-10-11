@@ -1,0 +1,7 @@
+name = "Cnc"
+repo = "https://wikifactory.com/@linkinmaster64/cnc"
+version = "20201027174509"
+spdx-license = "N/A"
+licensor = "linkinmaster64"
+documentation-language = "en"
+function = "Build cnc mill"

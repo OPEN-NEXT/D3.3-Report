@@ -1,0 +1,7 @@
+name = "Construction design"
+repo = "https://wikifactory.com/@benkraledilyes/construction-design"
+version = "20200904175326"
+spdx-license = "N/A"
+licensor = "benkraledilyes"
+documentation-language = "en"
+function = "Design and controle structure"

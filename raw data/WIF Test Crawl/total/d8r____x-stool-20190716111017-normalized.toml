@@ -1,0 +1,28 @@
+name = "x-stool"
+repo = "https://wikifactory.com/@d8r/x-stool"
+version = "20190716111017"
+spdx-license = "MIT"
+licensor = "jeroen dijkmeijer"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjcxNzk="
+function = "The x-stool"
+[[files]]
+name = "/krux_small.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY3ODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcxODA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY3ODQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/xstool (1).dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY3ODU="
+mimetype = "text/plain"
+

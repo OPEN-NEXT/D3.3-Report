@@ -1,0 +1,32 @@
+name = "AnOtherShoe/lasercut shoe"
+repo = "https://wikifactory.com/@eumo/anothershoe"
+version = "20180613125321"
+spdx-license = "N/A"
+licensor = "Eugenia Morpurgo"
+documentation-language = "en"
+function = "A new model for shoe production. A laser-cutter is used to create all the components. The assembly process  is reversible and hand made, eliminating the need for stitching or gluing. This means that the user is able to not only assemble his pair of shoes, but also to repair it when necessary."
+[[files]]
+name = "/AssemblyGuideWeb.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzE2"
+mimetype = "application/pdf"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk2"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzI2"
+mimetype = "text/markdown"
+
+[[files]]
+name = "/SizingGuideA3.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzEw"
+mimetype = "application/pdf"
+
+[[files]]
+name = "/SizingGuideA4.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzA5"
+mimetype = "application/pdf"
+

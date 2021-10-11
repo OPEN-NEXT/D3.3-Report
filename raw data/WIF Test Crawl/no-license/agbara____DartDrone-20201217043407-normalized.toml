@@ -1,0 +1,7 @@
+name = "DartDrone"
+repo = "https://wikifactory.com/@agbara/dartdrone"
+version = "20201217043407"
+spdx-license = "N/A"
+licensor = "Agbara Nwoke"
+documentation-language = "en"
+function = "Looking to build low cost dartdrones for wildlife.\nCan be any shape or form as long as it can do the job."

@@ -1,0 +1,68 @@
+name = "lIllI Humanoid"
+repo = "https://wikifactory.com/@personalrobotics/lilli-humanoid"
+version = "20210110100909"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Personal Robotics"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODA5OTg="
+function = "lIllI is an open source, fully movable and freely programmable robot framework. \nShe is 75 cm tall and has 25 degrees of freedom."
+[[files]]
+name = "Lasercut/grippers.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyODA5NzA="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "Lasercut/head_torso-A.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyODA5Njk="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "Lasercut/head_torso-B.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyODA5Njc="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "Lasercut/Limbs_A1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyODA5NjY="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "Lasercut/Limbs_A2.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyODA5NjU="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "Lasercut/Limbs_B1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyODA5NjQ="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "Lasercut/Limbs_B2.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyODA5NjM="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "Lasercut/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODA5ODI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODA5NjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Printable_manual/Assembly_manual_print.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyODA5NzU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Printable_manual/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODA5Nzg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODEwMDg="
+mimetype = "text/markdown"
+

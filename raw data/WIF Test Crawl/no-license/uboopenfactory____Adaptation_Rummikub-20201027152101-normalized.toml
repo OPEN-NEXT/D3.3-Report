@@ -1,0 +1,173 @@
+name = "Adaptation Rummikub"
+repo = "https://wikifactory.com/@mcariou/adaptation-rummikub"
+version = "20201027152101"
+spdx-license = "N/A"
+licensor = "Mathieu Cariou"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTc4MTA="
+function = "Rummikub adapté"
+[[files]]
+name = "fichier3Dtuilles/9B v3.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3NDE="
+mimetype = "application/fusion"
+
+[[files]]
+name = "fichier3Dtuilles/9B v3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3NDA="
+mimetype = "application/sla"
+
+[[files]]
+name = "fichier3Dtuilles/11V v3.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3Mzk="
+mimetype = "application/fusion"
+
+[[files]]
+name = "fichier3Dtuilles/11V v3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3Mzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "fichier3Dtuilles/12R v3.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3Mzc="
+mimetype = "application/fusion"
+
+[[files]]
+name = "fichier3Dtuilles/12R v3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3MzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "fichier3Dtuilles/BrailleBasev6.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3MzU="
+mimetype = "application/fusion"
+
+[[files]]
+name = "fichier3Dtuilles/BrailleBasev6.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3MzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "fichier3Dtuilles/Fichiers3Dtuiles.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3NzE="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/IMG_20201027_144450.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc2MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201027_150320(1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc2Njg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/photo imprimante 3D.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc0Mzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/photo plateau 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTY3MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Photo plateau 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc1Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/photo rummikub.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTY3MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photo/chevalet 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc0MjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photo/CHEVALET 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc0MjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photo/chevalet 3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc0MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photo/chevalet 3D.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc0MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photo/Feuille braille.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc0MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photo/IMPRIMENTE 3D.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc0MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photo/pions.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc0Mjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photo/RUMMIKUB.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTY3MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "photo/Step1_editSketch2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3Nzk="
+mimetype = "image/png"
+
+[[files]]
+name = "photo/Step2_editText.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3Nzg="
+mimetype = "image/png"
+
+[[files]]
+name = "photo/Step3_finishSketch2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3Nzc="
+mimetype = "image/png"
+
+[[files]]
+name = "photo/Step4_editSketch6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3NzY="
+mimetype = "image/png"
+
+[[files]]
+name = "photo/Step5_removeDots.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3NzU="
+mimetype = "image/png"
+
+[[files]]
+name = "photo/Step6_finishSketch6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3NzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "photo/Step7_admireResult.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3NzM="
+mimetype = "image/png"
+
+[[files]]
+name = "/Plateau2D.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3ODQ="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc4MTc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/TUILES.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc2ODU="
+mimetype = "image/jpeg"
+

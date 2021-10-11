@@ -1,0 +1,12 @@
+name = "Paul"
+repo = "https://wikifactory.com/@josling/paul"
+version = "20200228223043"
+spdx-license = "N/A"
+licensor = "Jos Riedel"
+documentation-language = "en"
+function = "Drawing of Paul"
+[[files]]
+name = "/Paul.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE1MjU="
+mimetype = "application/octet-stream"
+

@@ -1,0 +1,7 @@
+name = "Dispensador"
+repo = "https://wikifactory.com/@nononunes/dispensador"
+version = "20201009111205"
+spdx-license = "N/A"
+licensor = "Leonor Nunes"
+documentation-language = "pt"
+function = "dispensador - projeto"

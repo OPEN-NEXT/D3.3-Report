@@ -1,0 +1,28 @@
+name = "Bico Chair"
+repo = "https://wikifactory.com/@studiodlux/bico-chair"
+version = "20200831145451"
+spdx-license = "N/A"
+licensor = "STUDIO DLUX"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MjY0MzA="
+function = "Bico is a 18mm plywood chair made via digital fabrication. Bico Chair is an open design for non commercial uses."
+[[files]]
+name = "/AA_CADEIRA BICO_R03.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjY0Mzc="
+mimetype = "application/dwg"
+
+[[files]]
+name = "/AA_CADEIRA BICO_R03.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjY0MzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/CADEIRA BICO R03_montagem-Model.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjY0Mzg="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mjg0NjU="
+mimetype = "text/markdown"
+

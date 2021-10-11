@@ -1,0 +1,7 @@
+name = "Leo"
+repo = "https://wikifactory.com/@manoharchand1982/leo"
+version = "20200910151930"
+spdx-license = "N/A"
+licensor = "manoharchand1982"
+documentation-language = "en"
+function = "Make a useful product for energy reservation. Like batteries"

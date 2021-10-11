@@ -1,0 +1,13 @@
+name = "*Chapter Spotlight*"
+repo = "https://wikifactory.com/@rubin/chapter-spotlight"
+version = "20190718214353"
+spdx-license = "N/A"
+licensor = "B Rubin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjcxMDg="
+function = "Learn about the e-NABLE chapters around the world that are making things happen!\nThis regular installment will cover 6 topics:\n<ol><li>Site & Community<br />\n</li><li>Tech & Specs<br />\n</li><li>Team & Specialities<br />\n</li><li>Design & Process<br />\n</li><li>Projects & Collaborations<br />\n</li><li>Research<br />\n</li></ol>"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcxMjE="
+mimetype = "text/markdown"
+

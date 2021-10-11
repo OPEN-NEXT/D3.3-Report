@@ -1,0 +1,7 @@
+name = "Project one"
+repo = "https://wikifactory.com/@wantanewlife/project-one"
+version = "20200517161810"
+spdx-license = "N/A"
+licensor = "SIHAM"
+documentation-language = "fr"
+function = "An essai project"

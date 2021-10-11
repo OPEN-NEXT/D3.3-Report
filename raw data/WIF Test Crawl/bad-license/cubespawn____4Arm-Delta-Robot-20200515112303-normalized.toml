@@ -1,0 +1,18 @@
+name = "4Arm-Delta-Robot"
+repo = "https://wikifactory.com/@cubespawn/4arm-delta-robot"
+version = "20200515112303"
+spdx-license = "BAD"
+licensor = "CubeSpawn"
+documentation-language = "ca"
+image = "https://wikifactory.com/files/RmlsZTozMzQwMjM="
+function = "A Parallel Robot Modual"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQwMjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE4NTc="
+mimetype = "text/markdown"
+

@@ -1,0 +1,58 @@
+name = "CtC-coverall"
+repo = "https://wikifactory.com/@driesverbruggen/ctc-coverall"
+version = "20200420092051"
+spdx-license = "N/A"
+licensor = "Dries Verbruggen"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjU4NjI="
+function = "Pattern for a coverall which can be used for the production of reusable cotton coveralls or disposable non-woven & plastic versions. \nThis pattern was developed by 'Creatives tegen Corona' for use in Corona Denktank national fight against COVID-19"
+[[files]]
+name = "/CTC_CC BY-NC-SA_ENG.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjQ0MzE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/CTC_CC BY-NC-SA_NL.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjQ0MzI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Digital Pattern for Industrial Use/CTC-Coverall_v1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjI4Nzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Digital Pattern for Industrial Use/CTC-Coverall_v1.rul"
+permalink = "https://wikifactory.com/files/RmlsZTozMjI4Nzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Digital Pattern for Industrial Use/Previous versions/Corona-Onesie_RC1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjI4ODY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Digital Pattern for Industrial Use/Previous versions/Corona-Onesie_RC1.rul"
+permalink = "https://wikifactory.com/files/RmlsZTozMjI4ODU="
+mimetype = "text/plain"
+
+[[files]]
+name = "ENGLISH Pattern & Manual/Coming soon.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk1NjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "NEDERLANDS Patroon & Handleiding/Patronen/CTC-Coverall patroon_841mm formaat_DRAFT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk2NDQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NEDERLANDS Patroon & Handleiding/Patronen/CTC-Coverall patroon_A4 formaat_DRAFT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk1NjU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjgzMzE="
+mimetype = "text/markdown"
+

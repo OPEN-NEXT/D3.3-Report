@@ -1,0 +1,12 @@
+name = "AARush"
+repo = "https://wikifactory.com/@aarushshravagi20/aa"
+version = "20201211094814"
+spdx-license = "N/A"
+licensor = "aarushshravagi20"
+documentation-language = "en"
+function = "WWW.AARUSH.COM"
+[[files]]
+name = "/unnamed.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTgwNjE="
+mimetype = "image/jpeg"
+

@@ -1,0 +1,13 @@
+name = "We Love you Mama"
+repo = "https://wikifactory.com/@bandhi/we-love-you-mama"
+version = "20180629134347"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Gonzalo Badiola Ramos"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1NzA4"
+function = "Table leg plus lamp"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzA3"
+mimetype = "text/plain"
+

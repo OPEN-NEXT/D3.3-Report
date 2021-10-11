@@ -1,0 +1,7 @@
+name = "Generative Sculpture"
+repo = "https://wikifactory.com/@ronnieyap1001/generative-sculpture"
+version = "20201216055737"
+spdx-license = "N/A"
+licensor = "ronnieyap1001"
+documentation-language = "en"
+function = "Building Art with generative design and data as backbone"

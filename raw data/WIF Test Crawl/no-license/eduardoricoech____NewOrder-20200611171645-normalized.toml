@@ -1,0 +1,7 @@
+name = "NewOrder"
+repo = "https://wikifactory.com/@eduardoricoech/neworder"
+version = "20200611171645"
+spdx-license = "N/A"
+licensor = "Eduardo Rico "
+documentation-language = "en"
+function = "Objects for new habbits\nThree key words:\nSustainability\nDigital fabrication\nSafe design"

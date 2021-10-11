@@ -1,0 +1,12 @@
+name = "Demo Drone Project"
+repo = "https://wikifactory.com/@jinger26/drone-show"
+version = "20201214131532"
+spdx-license = "N/A"
+licensor = "Jinger Zeng"
+documentation-language = "af"
+function = "I want to make a drone swarm"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDAwNzY="
+mimetype = "text/markdown"
+

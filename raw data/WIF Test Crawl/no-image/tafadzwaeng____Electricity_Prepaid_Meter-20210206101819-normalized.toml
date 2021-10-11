@@ -1,0 +1,7 @@
+name = "Electricity Prepaid Meter"
+repo = "https://wikifactory.com/@tafadzwaeng/electricity-prepaid-meter"
+version = "20210206101819"
+spdx-license = "N/A"
+licensor = "Tafadzwa Masocha"
+documentation-language = "en"
+function = "Smart electricity prepaid meter for implementing smart load management"

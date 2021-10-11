@@ -1,0 +1,13 @@
+name = "Divergent Research"
+repo = "https://wikifactory.com/@ccairns/divergent-research"
+version = "20201028153107"
+spdx-license = "N/A"
+licensor = "Christy Cairns"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTkxNzE="
+function = "Christy Cairns_Loose Association & Supply Chain\nTo explore divergent research I have produced a Loose Association Pecha Kucha presentation and an illustration of a product supply chain."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk0NzQ="
+mimetype = "text/markdown"
+

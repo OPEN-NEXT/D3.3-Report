@@ -1,0 +1,53 @@
+name = "Fashion"
+repo = "https://wikifactory.com/@grimneko/fashion"
+version = "20200617090317"
+spdx-license = "N/A"
+licensor = "Philipp Beckers"
+documentation-language = "de"
+image = "https://wikifactory.com/files/RmlsZTozODIyNDM="
+function = "Smart-Knopf \"GetMe\"\nEntwicklung eines kleinen Projekts für den Bereich Fashion im Rahmen der \"Digital Prototyping Academy\""
+[[files]]
+name = "/Bounding Box Muster.gh"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc4MTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD-Files/Knopf-Generator Test1.gh"
+permalink = "https://wikifactory.com/files/RmlsZTozNzEyNjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/GetMe-Boden.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODMwNzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/GetMe-Top.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODMwNzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/IMG_0848.MP4"
+permalink = "https://wikifactory.com/files/RmlsZTozNzEyNDU="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODMxMTI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Smart Knopf - GetMe.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozODMwODA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Smart Knopf - GetMe.gh"
+permalink = "https://wikifactory.com/files/RmlsZTozODMwODE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Smart Knopf.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc4MTI="
+mimetype = "application/3dm"
+

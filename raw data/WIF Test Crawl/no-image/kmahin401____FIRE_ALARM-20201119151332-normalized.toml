@@ -1,0 +1,7 @@
+name = "FIRE ALARM"
+repo = "https://wikifactory.com/@kmahin401/fire-alarm"
+version = "20201119151332"
+spdx-license = "N/A"
+licensor = "kmahin401"
+documentation-language = "en"
+function = "Down fire alarm"

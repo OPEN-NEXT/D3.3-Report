@@ -1,0 +1,7 @@
+name = "Power generator "
+repo = "https://wikifactory.com/@kobusm/power-generator"
+version = "20200920055230"
+spdx-license = "N/A"
+licensor = "Kobus Malan "
+documentation-language = "en"
+function = "Electromagnetic induction power generator"

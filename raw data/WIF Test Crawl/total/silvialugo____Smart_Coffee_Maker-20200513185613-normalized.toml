@@ -1,0 +1,13 @@
+name = "Smart Coffee Maker"
+repo = "https://wikifactory.com/@silvialugo/smart-coffee-maker"
+version = "20200513185613"
+spdx-license = "N/A"
+licensor = "Silvia Beatriz Lugo Lugo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDg2OTQ="
+function = "It’s a smart expresso machine that synchronizes with your morning alarm on the phone through an application that starts making the coffee when you turn off the alarm."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTIxNTg="
+mimetype = "text/markdown"
+

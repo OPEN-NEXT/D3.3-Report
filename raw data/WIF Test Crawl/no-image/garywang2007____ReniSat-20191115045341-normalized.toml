@@ -1,0 +1,7 @@
+name = "ReniSat"
+repo = "https://wikifactory.com/@garywang2007/renisat"
+version = "20191115045341"
+spdx-license = "N/A"
+licensor = "Gary Wang"
+documentation-language = "en"
+function = "Graphene Heating Application for Floor Heating and Heating Blanket.\nKey Feature: No Electromagnetic Radiation, 100% safe operation in water\n                    Runs 35V DC safe voltage"

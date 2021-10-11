@@ -1,0 +1,28 @@
+name = "Decorative Trucks"
+repo = "https://wikifactory.com/@bcronnie/decorative-trucks"
+version = "20191017142555"
+spdx-license = "N/A"
+licensor = "Ben Ronnie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzQ4NzU="
+function = "Trucks from skateboards re purposed for decoration. Made from different materials from original design."
+[[files]]
+name = "/assembled truck BLUE.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4Nzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/assembled truck CLEAR.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4Nzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/assembled truck ORANGE.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4ODA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/assembled truck v1.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4ODE="
+mimetype = "application/octet-stream"
+

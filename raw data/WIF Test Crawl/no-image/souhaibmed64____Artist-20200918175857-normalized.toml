@@ -1,0 +1,7 @@
+name = "Artist"
+repo = "https://wikifactory.com/@souhaibmed64/artist"
+version = "20200918175857"
+spdx-license = "N/A"
+licensor = "Souhaib Med"
+documentation-language = "en"
+function = "Logistic transport"

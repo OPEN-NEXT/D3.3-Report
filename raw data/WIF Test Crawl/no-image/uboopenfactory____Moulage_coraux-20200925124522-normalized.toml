@@ -1,0 +1,17 @@
+name = "Moulage coraux"
+repo = "https://wikifactory.com/@mcariou/moulage-coraux"
+version = "20200925124522"
+spdx-license = "N/A"
+licensor = "Mathieu Cariou"
+documentation-language = "fr"
+function = "Toutes étapes permettant de fabriquer un moule en silicone et de tirer les coraux en plâtre.\nAuteur : Alizée Gerard - 2020"
+[[files]]
+name = "Photos/120199858_363067851553249_1421455207454175671_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDA2MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDA2MjE="
+mimetype = "text/markdown"
+

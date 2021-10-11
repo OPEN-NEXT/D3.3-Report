@@ -1,0 +1,7 @@
+name = "Defective dates sorting"
+repo = "https://wikifactory.com/@balouch-yousif/defective-dates-sorting"
+version = "20200405212917"
+spdx-license = "N/A"
+licensor = "Yousif"
+documentation-language = "en"
+function = "To design a machine which sort out defective dates palm-tree"

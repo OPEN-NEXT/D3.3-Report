@@ -1,0 +1,7 @@
+name = "Intertech"
+repo = "https://wikifactory.com/@abdulqudusabdul/intertech"
+version = "20201101151207"
+spdx-license = "N/A"
+licensor = "abdulqudusabdul"
+documentation-language = "en"
+function = "Creating of new and future technical machine and tools."

@@ -1,0 +1,7 @@
+name = "Centrifugal maintenance "
+repo = "https://wikifactory.com/@orango/centrifugal-maintenance"
+version = "20210127081344"
+spdx-license = "N/A"
+licensor = "Orango masta"
+documentation-language = "en"
+function = "Teaching other how to maintain the centrifugal filter of a cat engine"

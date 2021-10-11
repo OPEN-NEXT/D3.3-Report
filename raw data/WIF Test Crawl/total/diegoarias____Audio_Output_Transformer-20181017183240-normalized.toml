@@ -1,0 +1,18 @@
+name = "Audio Output Transformer"
+repo = "https://wikifactory.com/@diegoarias/audio-output-transformer"
+version = "20181017183240"
+spdx-license = "CC-BY-4.0"
+licensor = "Diego Arias"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMzYxNg=="
+function = "Project executed for the Circuit Breakers Fall18 Session at NYUAD. Custom-made circuit that, taking a microphone, turns it into a speaker."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMzYwOA=="
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMzYxMw=="
+mimetype = "text/markdown"
+

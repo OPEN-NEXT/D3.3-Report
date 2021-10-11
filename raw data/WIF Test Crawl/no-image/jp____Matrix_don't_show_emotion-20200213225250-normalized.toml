@@ -1,0 +1,7 @@
+name = "Matrix don't show emotion"
+repo = "https://wikifactory.com/@jp/matrix-dont-show-emotion"
+version = "20200213225250"
+spdx-license = "N/A"
+licensor = "JPL"
+documentation-language = "en"
+function = "I built the humanoid. All work fine, (servos, sound, Bluetooth, Ultrasonic sensor and touch) but the matrix don't show the emotion. It's just vertical lines go from right to left. Do you know why?\nI use OttoHumanoid v9.ino"

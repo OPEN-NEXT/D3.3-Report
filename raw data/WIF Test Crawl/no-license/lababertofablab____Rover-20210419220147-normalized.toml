@@ -1,0 +1,13 @@
+name = "Rover"
+repo = "https://wikifactory.com/@lababertofablab/rover"
+version = "20210419220147"
+spdx-license = "N/A"
+licensor = "LAB ABERTO FAB LAB"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTo0OTkzNjI="
+function = "Projeto de realização de um ROVER controlado por telemóvel via BT."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTU2MTM="
+mimetype = "text/markdown"
+

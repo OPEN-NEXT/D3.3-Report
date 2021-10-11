@@ -1,0 +1,7 @@
+name = "Public Data Network"
+repo = "https://wikifactory.com/@napoleon/public-data-network"
+version = "20200821193857"
+spdx-license = "N/A"
+licensor = "Edukpo Napoleon"
+documentation-language = "en"
+function = "The project is an innovative network design mainly for high speed internet."

@@ -1,0 +1,7 @@
+name = "Marble slab multiblade "
+repo = "https://wikifactory.com/@mohamedhamer/marble-slab-multiblade"
+version = "20201226150954"
+spdx-license = "N/A"
+licensor = "mohamedhamer"
+documentation-language = "no"
+function = "Cutting marble slabs"

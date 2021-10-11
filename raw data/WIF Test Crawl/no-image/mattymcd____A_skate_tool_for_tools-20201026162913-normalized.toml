@@ -1,0 +1,7 @@
+name = "A skate tool for tools"
+repo = "https://wikifactory.com/@mattymcd/a-skate-tool-for-tools"
+version = "20201026162913"
+spdx-license = "N/A"
+licensor = "Matty mcd"
+documentation-language = "en"
+function = "A skate tool with more components."

@@ -1,0 +1,7 @@
+name = "Test_dron"
+repo = "https://wikifactory.com/@vijay2045raj/testdron"
+version = "20200913143738"
+spdx-license = "N/A"
+licensor = "vijay2045raj"
+documentation-language = "en"
+function = "Try to make a drone"

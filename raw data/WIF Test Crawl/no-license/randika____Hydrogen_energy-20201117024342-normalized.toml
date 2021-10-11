@@ -1,0 +1,7 @@
+name = "Hydrogen energy "
+repo = "https://wikifactory.com/@randika/hydrogen-energy"
+version = "20201117024342"
+spdx-license = "N/A"
+licensor = "Randika "
+documentation-language = "en"
+function = "Hydrogen molecules from water as an energy carrier"

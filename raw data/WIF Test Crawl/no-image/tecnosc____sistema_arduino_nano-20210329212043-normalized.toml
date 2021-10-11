@@ -1,0 +1,22 @@
+name = "sistema arduino nano"
+repo = "https://wikifactory.com/@tecnosc/sistema-arduino-nano"
+version = "20210329212043"
+spdx-license = "N/A"
+licensor = "Jonny Mancilla Cuenca"
+documentation-language = "es"
+function = "sistema embebido para sustituir placas de heladeras, lavadoras, etc."
+[[files]]
+name = "/mnt nano.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzM3NTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/pcb nano.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzM3NTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/plancha.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzM3NTc="
+mimetype = "image/jpeg"
+

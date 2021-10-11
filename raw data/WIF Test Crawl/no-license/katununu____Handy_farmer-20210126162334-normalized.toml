@@ -1,0 +1,7 @@
+name = "Handy farmer"
+repo = "https://wikifactory.com/@katununu/handy-farmer"
+version = "20210126162334"
+spdx-license = "N/A"
+licensor = "azad mahmoud mtunzi"
+documentation-language = "en"
+function = "a handy  tool or device that can weed in a mixed farm of beans, cassava, vegetables, etc in most of sub sahara context."

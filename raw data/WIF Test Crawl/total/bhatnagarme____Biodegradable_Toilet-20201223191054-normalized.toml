@@ -1,0 +1,7 @@
+name = "Biodegradable Toilet"
+repo = "https://wikifactory.com/@bhatnagarme/biodegradable-toilet"
+version = "20201223191054"
+spdx-license = "N/A"
+licensor = "bhatnagarme"
+documentation-language = "en"
+function = "Biodegradable Toilet"

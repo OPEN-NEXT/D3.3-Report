@@ -1,0 +1,7 @@
+name = "Robot fablab"
+repo = "https://wikifactory.com/@marianazuluagav/robot-fablab"
+version = "20210415220354"
+spdx-license = "N/A"
+licensor = "Mariana Zuluaga "
+documentation-language = "en"
+function = "We are a fabrication Lab. And we like yo expriment withs diferents materials. One of Those Is use the residue of the cnc and laser. Yo make otheer objets"

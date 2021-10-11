@@ -1,0 +1,7 @@
+name = "Dressing Table "
+repo = "https://wikifactory.com/@ahsan/dressing-table"
+version = "20200926155139"
+spdx-license = "N/A"
+licensor = "Ahsan Habib"
+documentation-language = "en"
+function = "It’s a fashionable dressing table."

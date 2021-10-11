@@ -1,0 +1,63 @@
+name = "CP003 - Play Pen"
+repo = "https://wikifactory.com/@mayaroman/cp003-play-pen"
+version = "20200413015831"
+spdx-license = "BAD"
+licensor = "Maya Roman"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzQ4MDM="
+function = "Provides a safe area for a child to play"
+[[files]]
+name = "CAD Data/CP003_CAD_Assy.sldasm"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ4MTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/CP003_CAD_Elbow.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ4MTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/CP003_CAD_Sheet.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ4Mzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/CP003_CAD_Tee.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ4Mzg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/CP003_CAD_Tube_L.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ4MTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/CP003_CAD_Tube_S.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ4MzY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/CP003_Manual.pptx"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ4NjI="
+mimetype = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+
+[[files]]
+name = "Drawing Pack/CP003_Eng_Dwg.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ4MDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/CP003_Eng_Dwg.slddrw"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ4MDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ4MDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ4Njg="
+mimetype = "text/markdown"
+

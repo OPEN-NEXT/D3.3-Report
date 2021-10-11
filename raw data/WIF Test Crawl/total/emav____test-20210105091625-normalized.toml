@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@emav/test"
+version = "20210105091625"
+spdx-license = "N/A"
+licensor = "emaV"
+documentation-language = "en"
+function = "test"

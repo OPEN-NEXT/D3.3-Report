@@ -1,0 +1,7 @@
+name = "beresourceful"
+repo = "https://wikifactory.com/@jepras/beresourceful"
+version = "20190908175057"
+spdx-license = "N/A"
+licensor = "Jeppe Rasmussen"
+documentation-language = "en"
+function = "hey!"

@@ -1,0 +1,7 @@
+name = "Shield"
+repo = "https://wikifactory.com/@maisbila/shield"
+version = "20200524022809"
+spdx-license = "N/A"
+licensor = "maisbila"
+documentation-language = "en"
+function = "Reproductive health and STI prevention."

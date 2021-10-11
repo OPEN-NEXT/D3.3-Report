@@ -1,0 +1,7 @@
+name = "3D Printing"
+repo = "https://wikifactory.com/@brianellis1995/3d-printing"
+version = "20210322152628"
+spdx-license = "N/A"
+licensor = "brianellis1995"
+documentation-language = "en"
+function = "A journey in the world of 3D printing"

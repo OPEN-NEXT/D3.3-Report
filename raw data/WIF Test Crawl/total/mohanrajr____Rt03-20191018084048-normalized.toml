@@ -1,0 +1,27 @@
+name = "Rt03"
+repo = "https://wikifactory.com/@mohanrajr/rt03"
+version = "20191018084048"
+spdx-license = "BSD-2-Clause"
+licensor = "mohanrajr"
+documentation-language = "en"
+function = "RT03"
+[[files]]
+name = "/0deg_trip_assy-n_asm.stp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUxNzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyMTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/link_tube_assy_08_asm.stp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyMTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/m8x130_h_bolt_ft_8p8_is1364_ct.igs"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQwNTk="
+mimetype = "model/iges"
+

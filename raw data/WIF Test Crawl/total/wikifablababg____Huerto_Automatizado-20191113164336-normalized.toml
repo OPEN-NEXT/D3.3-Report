@@ -1,0 +1,33 @@
+name = "Huerto Automatizado "
+repo = "https://wikifactory.com/@wikifablababg/huerto-automatizado"
+version = "20191113164336"
+spdx-license = "N/A"
+licensor = "FABLAB ABG"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZToyODA2ODg="
+function = "En el siguiente proyecto, comenzaremos a desarrollar un huerto automatizado, en el cual tendremos control de la humedad de la tierra, humedad ambiente y temperatura ambiente."
+[[files]]
+name = "/Libreria Módulo reloj RTClib.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyODA2OTc="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/Libreria sensor DHTC.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyODA3MDA="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODA2OTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Programación MiniHuerto.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyODA3MzA="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODA3NDU="
+mimetype = "text/markdown"
+

@@ -1,0 +1,13 @@
+name = "hoodie with face shield"
+repo = "https://wikifactory.com/@ecscontrastds/hoodie-with-face-shield"
+version = "20200404085825"
+spdx-license = "N/A"
+licensor = "eric c. sanchez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjg4ODg="
+function = "already in production in some factories in the philiippines but can be improved for the 'new normal' lifestyle in the coming months"
+[[files]]
+name = "/hoodiewithshield-01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjg4ODU="
+mimetype = "image/jpeg"
+

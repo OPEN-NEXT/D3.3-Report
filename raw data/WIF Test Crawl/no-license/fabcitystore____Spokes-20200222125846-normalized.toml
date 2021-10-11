@@ -1,0 +1,48 @@
+name = "Spokes"
+repo = "https://wikifactory.com/@magnusnorup/spokes"
+version = "20200222125846"
+spdx-license = "N/A"
+licensor = "Magnus Norup"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDczOTU="
+function = "This lamp that fuses circular design, modular design and digital fabrication."
+[[files]]
+name = "/fablab vol 3 15.02.2020.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDY2NjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Fitting, lasercut and spokes.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDY2OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/fitting-measurements.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMDY2ODU="
+mimetype = "image/png"
+
+[[files]]
+name = "/fitting.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMDY2Nzc="
+mimetype = "image/png"
+
+[[files]]
+name = "/Lamp with light.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDY2OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Lamp without light.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDY2OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Lasercut Spokes Fab Lab City Store.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMDY2NzM="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDczOTI="
+mimetype = "text/markdown"
+

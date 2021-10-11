@@ -1,0 +1,7 @@
+name = "Prueba"
+repo = "https://wikifactory.com/@egiperez/prueba"
+version = "20210416225311"
+spdx-license = "N/A"
+licensor = "egiperez"
+documentation-language = "ca"
+function = "Es una prueba"

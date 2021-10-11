@@ -1,0 +1,23 @@
+name = "Floor Bed"
+repo = "https://wikifactory.com/@soprasotto/floor-bed"
+version = "20180626085157"
+spdx-license = "N/A"
+licensor = "SopraSotto"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NDk3"
+function = "<a href=\"https://alpha.wikifactory.com/@soprasotto\"><b>kindergarten furniture kit</b></a> <b>-</b> The stackable <b>floor bed</b> comes in two sizes both of which are standard kid mattress dimensions (600/1200 mm and 700/1400 mm). Use the circular cut-outs to build a game with!"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NDk0"
+mimetype = "text/markdown"
+
+[[files]]
+name = "/SopraSotto_Floor Bed.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NDMy"
+mimetype = "text/plain"
+
+[[files]]
+name = "/SopraSotto_Floor Bed_Assembly instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NDMw"
+mimetype = "application/pdf"
+

@@ -1,0 +1,17 @@
+name = "Electric Stirling Engine"
+repo = "https://wikifactory.com/@rodboy/electric-stirling-engine"
+version = "20210227110740"
+spdx-license = "N/A"
+licensor = "Rodolfo Ejercito"
+documentation-language = "en"
+function = "Advance the Century-Old Stirliling  Engine with todays technology.  Electric Stirling Engine is smokeless, flameless. A Zero Emission External Combustion Engine for multiple application"
+[[files]]
+name = "/Electric Stirling Engine.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTc5MDc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/ELECTRIC STIRLING ENGINE.MP4"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTc5MTA="
+mimetype = "video/mp4"
+

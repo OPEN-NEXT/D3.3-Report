@@ -1,0 +1,48 @@
+name = "erca"
+repo = "https://wikifactory.com/@alexyurich/erca-54cf9"
+version = "20200304113215"
+spdx-license = "BSD-2-Clause"
+licensor = "Алексей Кретов"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzU3OTE="
+function = "mega otto"
+[[files]]
+name = "erca live/2019-10-22_124423.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3ODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "erca live/2019-10-22_124506.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3ODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "erca live/2019-10-22_124536.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3ODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "erca live/2019-10-22_124745.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "erca live/2019-10-22_124807.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "erca live/2019-10-22_124832.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "erca live/2019-10-22_124921.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3OTI="
+mimetype = "text/plain"
+

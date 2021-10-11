@@ -1,0 +1,7 @@
+name = "ESP8266 based relay"
+repo = "https://wikifactory.com/@jyotiraditya/esp8266-based-relay"
+version = "20210421094009"
+spdx-license = "N/A"
+licensor = "Jyotiraditya Ingawale"
+documentation-language = "en"
+function = "In this project, I am working on controlling a relay via ESP8266 using custom app built in MIT app inventor. Goal of this project is to be able to control the relay from any smartphone connected to any network and to get the feedback of the status of the relay connected to ESP8266 whether on or off."

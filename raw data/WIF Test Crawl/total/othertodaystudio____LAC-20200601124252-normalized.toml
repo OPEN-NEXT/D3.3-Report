@@ -1,0 +1,43 @@
+name = "LAC"
+repo = "https://wikifactory.com/@lukekelly/lac"
+version = "20200601124252"
+spdx-license = "N/A"
+licensor = "Luke Kelly"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNjc2NzU="
+function = "How might we reduce single use items and maintain hygiene in a cafe environment?<br />Luke Kelly - Other Today Studio\n<a href=\"https://wikifactory.com/+othertodaystudio/lk-final-project\">\ufeffPortfolio link\ufeff<br /></a><a href=\"https://lakelly.design.blog/project-tag/other-today/\">\ufeff\ufeffBehind the Scenes\ufeff</a>"
+[[files]]
+name = "CAD/gastro_plate.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTozNjc2NDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/milk_body.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTozNjc2NDk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/milk_face.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTozNjc2NDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/MILK_final_ass.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTozNjc2NTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/pipe_end_cap.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNjc2NTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/rotary_knob.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNjc2NTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA4NzU="
+mimetype = "text/markdown"
+

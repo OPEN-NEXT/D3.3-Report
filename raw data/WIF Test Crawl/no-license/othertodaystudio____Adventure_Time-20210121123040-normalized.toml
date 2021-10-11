@@ -1,0 +1,13 @@
+name = "Adventure Time"
+repo = "https://wikifactory.com/@jamiedartnell/adventure-time"
+version = "20210121123040"
+spdx-license = "N/A"
+licensor = "Jamie Dartnell"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTg0ODI="
+function = "Jamie Dartnell\n\ufeff\nThis project aims to reduce the number of usable cars that are scrapped due to write offs or depreciation.\n\ufeff\nDesigner: @jamiedartnell\n\ufeff\nDesigned on the Distributed Design Studio with @othertoday on Product Design with Professional Experience BSc(Hons) at Brighton University"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQyMjI="
+mimetype = "text/markdown"
+

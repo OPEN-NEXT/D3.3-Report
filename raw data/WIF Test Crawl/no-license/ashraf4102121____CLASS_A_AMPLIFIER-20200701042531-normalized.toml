@@ -1,0 +1,12 @@
+name = "CLASS A AMPLIFIER"
+repo = "https://wikifactory.com/@ashraf4102121/class-a-amplifier"
+version = "20200701042531"
+spdx-license = "N/A"
+licensor = "ashraf4102121"
+documentation-language = "en"
+function = "designing of power amplifier"
+[[files]]
+name = "/AIC_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTozOTQyNTk="
+mimetype = "image/png"
+

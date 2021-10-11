@@ -1,0 +1,7 @@
+name = "Flybot"
+repo = "https://wikifactory.com/@faizshanto005/flybot"
+version = "20200626143744"
+spdx-license = "N/A"
+licensor = "faizshanto005"
+documentation-language = "en"
+function = "AI drones"

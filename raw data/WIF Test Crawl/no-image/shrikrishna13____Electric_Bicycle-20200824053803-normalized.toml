@@ -1,0 +1,7 @@
+name = "Electric Bicycle"
+repo = "https://wikifactory.com/@shrikrishna13/electric-bicycle"
+version = "20200824053803"
+spdx-license = "N/A"
+licensor = "shrikrishna13"
+documentation-language = "en"
+function = "Electric Bicycle"

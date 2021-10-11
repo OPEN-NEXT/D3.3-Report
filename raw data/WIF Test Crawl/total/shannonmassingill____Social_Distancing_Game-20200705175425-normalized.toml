@@ -1,0 +1,43 @@
+name = "Social Distancing Game"
+repo = "https://wikifactory.com/@shannonmassingill/social-distancing-game"
+version = "20200705175425"
+spdx-license = "N/A"
+licensor = "shannonmassingill"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTAzMjc="
+function = "Why not turn social distancing into a fun game that is #safetoplay. With this game, you can encourage participants to maintain social distancing guidelines in a fun way."
+[[files]]
+name = "3D Print/3D-Print-Slider.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQwNDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Numbers in luban.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQwNDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/Numbers.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA5NDU="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Old Design/Annotation_2020-06-24_220926.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQwNDY="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQwNzc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Social-Dictancing-Game-v4.gif"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA4OTM="
+mimetype = "image/gif"
+
+[[files]]
+name = "/Social_Dictancing_Game.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA4NTQ="
+mimetype = "image/png"
+

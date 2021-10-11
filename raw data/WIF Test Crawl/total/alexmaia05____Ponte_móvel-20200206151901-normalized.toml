@@ -1,0 +1,7 @@
+name = "Ponte móvel"
+repo = "https://wikifactory.com/@alexmaia05/ponte-móvel"
+version = "20200206151901"
+spdx-license = "N/A"
+licensor = "Alexandre Miguel Dias Maia"
+documentation-language = "pt"
+function = "Uma ponte completamente automática controlada através de 3 sensores que controlaram desde semáforos, cancelas e à ponte."

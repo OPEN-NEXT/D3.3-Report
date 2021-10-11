@@ -1,0 +1,7 @@
+name = "Interactive step"
+repo = "https://wikifactory.com/@oyesola/interactive-step"
+version = "20200517075403"
+spdx-license = "N/A"
+licensor = "Ogunyemi Yusuf Oyesola"
+documentation-language = "en"
+function = "A step that transit you to building floors by response"

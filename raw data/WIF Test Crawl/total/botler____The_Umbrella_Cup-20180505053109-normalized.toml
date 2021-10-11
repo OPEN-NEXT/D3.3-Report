@@ -1,0 +1,8 @@
+name = "The Umbrella Cup"
+repo = "https://wikifactory.com/@botler/the-umbrella-cup"
+version = "20180505053109"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNjEz"
+function = "It’s an umbrella with a cup holder. It has a wooden handle and a plastic cup"

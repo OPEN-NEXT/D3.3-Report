@@ -1,0 +1,7 @@
+name = "Stargazing"
+repo = "https://wikifactory.com/@madhvi/stargazing"
+version = "20201010065518"
+spdx-license = "N/A"
+licensor = "Madhvi Malviya"
+documentation-language = "en"
+function = "The observation of new activities /phenomenon in the sky."

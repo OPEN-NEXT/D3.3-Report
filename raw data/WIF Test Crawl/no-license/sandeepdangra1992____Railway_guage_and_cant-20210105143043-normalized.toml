@@ -1,0 +1,7 @@
+name = "Railway guage and cant"
+repo = "https://wikifactory.com/@sandeepdangra1992/railway-guage-and-cant"
+version = "20210105143043"
+spdx-license = "N/A"
+licensor = "sandeep dangra"
+documentation-language = "en"
+function = "This product is intended to be used in railways gauage and superelevation measurement with measurement of different parameters"

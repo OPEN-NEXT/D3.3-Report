@@ -1,0 +1,7 @@
+name = "New Spanky"
+repo = "https://wikifactory.com/@rsaditya/new-spanky"
+version = "20210311103024"
+spdx-license = "N/A"
+licensor = "rsaditya"
+documentation-language = "en"
+function = "Spanking new creation here."

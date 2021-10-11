@@ -1,0 +1,8 @@
+name = "Curing booth (Resin UV)"
+repo = "https://wikifactory.com/@achinchilla54/curing-booth-resin-uv"
+version = "20200911160728"
+spdx-license = "N/A"
+licensor = "Makeamaker"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzIwMDY="
+function = "I have manufactured this little UV curing booth.\n\nAfter buying my latest 3D printer, I saw the need to cure the parts printed on it.\n\nI leave some photos of the render and some instructions for the assembly."

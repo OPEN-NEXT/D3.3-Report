@@ -1,0 +1,7 @@
+name = "ROBOT"
+repo = "https://wikifactory.com/@khanjunaid/robot"
+version = "20210124115615"
+spdx-license = "N/A"
+licensor = "Khanjunaid"
+documentation-language = "en"
+function = "Robot"

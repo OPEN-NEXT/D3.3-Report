@@ -1,0 +1,198 @@
+name = "Madrid Docubot Team"
+repo = "https://wikifactory.com/@carolportugal/madrid-docubot-team"
+version = "20190628180151"
+spdx-license = "N/A"
+licensor = "Carolina Alves Portugal"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTgwMTE="
+function = "A software + hardware solution to make it as easy as possible to stop procrastinating when in need to document your projects even in the harshest environments, without the need to destroy your smartphone or laptop in the process, if you don't want to."
+[[files]]
+name = "Design Workflow/Photos/BLINK/BLINK.gif"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5MzY="
+mimetype = "image/gif"
+
+[[files]]
+name = "Design Workflow/Photos/BLINK/video_recortadpo.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5Mzc="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Design Workflow/Photos/Final conclusions.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY2NTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Design Workflow/Photos/FLAG/BANDERITA.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4ODQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/GIF_DOCUBOT_MADRID.gif"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4NjE="
+mimetype = "image/gif"
+
+[[files]]
+name = "Design Workflow/Photos/Insights.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY2NTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Design Workflow/Photos/Interaction design.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY2NTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Design Workflow/Photos/Interface design.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Design Workflow/Photos/Interface sketches.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Design Workflow/Photos/Problem identification.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY2NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Design Workflow/Photos/Programming01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Design Workflow/Photos/Programming02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Design Workflow/Photos/Remote control Interface.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_01.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4NTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_03.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4NTM="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_04.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4Nzc="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_05.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4NTI="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_06.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4NjU="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_07.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4Njc="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_08.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4Nzk="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_09.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4Nzg="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_11.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4NTE="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_DEAD.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4NTU="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_EYES2.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5MDA="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_EYES3.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4OTk="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_EYES4.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5MDE="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_FOTO.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4OTM="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/SCREENS/SCREEN_VIDEO.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4OTI="
+mimetype = "image/png"
+
+[[files]]
+name = "Design Workflow/Photos/Workflow.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY3ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Design Workflow/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc5MjE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Hardware/Docubot v4.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY2MjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Hardware/Microbit emitter-receiver case.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgwOTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Hardware/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgxMzQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyMDg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Software/DocubotText01.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgxNDI="
+mimetype = "application/zip"
+
+[[files]]
+name = "Software/IntroDocuBot.mov"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgxNTA="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "Software/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyMDE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Video/Docubot Pitch.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcyNTc="
+mimetype = "video/mp4"
+

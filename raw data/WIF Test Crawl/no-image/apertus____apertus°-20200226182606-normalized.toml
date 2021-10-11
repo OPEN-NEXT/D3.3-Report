@@ -1,0 +1,17 @@
+name = "apertus°"
+repo = "https://wikifactory.com/@apertus/apertus"
+version = "20200226182606"
+spdx-license = "N/A"
+licensor = "Sebastian Pichelhofer"
+documentation-language = "en"
+function = "Open Technology for Professional Film Production."
+[[files]]
+name = "/AXIOM Remote Enclosure Top.step"
+permalink = "https://wikifactory.com/files/RmlsZTozMTAzNDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Top Handle V1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTAzMzc="
+mimetype = "application/sla"
+

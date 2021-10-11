@@ -1,0 +1,118 @@
+name = "Interactive Map Models"
+repo = "https://wikifactory.com/@yquere/interactive-map-models"
+version = "20200305002331"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTI0MzU="
+function = "Exploring different technologies to build interactive map models"
+[[files]]
+name = "3D_files/Virtuel_model.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI3NDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Illustrations/camaret-sur-quoi-1950.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations/camaret-sur-quoi-courbes-niveau-litto3d.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2Nzg="
+mimetype = "image/png"
+
+[[files]]
+name = "Illustrations/camaret-sur-quoi.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2NzY="
+mimetype = "image/png"
+
+[[files]]
+name = "Illustrations/cartes.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI3MDg="
+mimetype = "image/png"
+
+[[files]]
+name = "Illustrations/export_camaret_video_4.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMTMwNzc="
+mimetype = "image/png"
+
+[[files]]
+name = "Illustrations/img_20190709_174006.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations/img_20190710_091015.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations/img_20190710_115519.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations/img_20190710_115526.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations/img_20200227_104833.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations/img_20200227_104916.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations/img_20200227_110021.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2ODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations/img_20200227_162346.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations/img_20200228_100211.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations/img_20200228_1447552.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations/virtuel_model.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI2ODA="
+mimetype = "image/png"
+
+[[files]]
+name = "Illustrations_CNC/ParcoursCNC.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI3NTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations_CNC/Prepa_Model3DCNC.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI3NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations_CNC/VisuCNC.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI3NTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Illustrations_model_CNC/CNC_model.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI3NjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTMwODA="
+mimetype = "text/markdown"
+

@@ -1,0 +1,13 @@
+name = "catamarã"
+repo = "https://wikifactory.com/@lababertofablab/catamarã"
+version = "20200728120351"
+spdx-license = "N/A"
+licensor = "LAB ABERTO FAB LAB"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTo0OTkzNjQ="
+function = "Catamarã controlado por BT"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTY0MDY="
+mimetype = "text/markdown"
+

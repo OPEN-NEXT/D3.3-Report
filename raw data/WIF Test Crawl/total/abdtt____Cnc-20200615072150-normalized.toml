@@ -1,0 +1,7 @@
+name = "Cnc"
+repo = "https://wikifactory.com/@abdtt/cnc"
+version = "20200615072150"
+spdx-license = "N/A"
+licensor = "Abdalmalik "
+documentation-language = "fr"
+function = "CNC Router design"

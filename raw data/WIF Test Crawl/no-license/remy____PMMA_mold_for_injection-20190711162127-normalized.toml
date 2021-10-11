@@ -1,0 +1,18 @@
+name = "PMMA mold for injection"
+repo = "https://wikifactory.com/@remy/pmma-mold-for-injection"
+version = "20190711162127"
+spdx-license = "N/A"
+licensor = "Remy Ducros"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjYwMTY="
+function = "I made PMMA mold to inject plastic using Precious plastic machine"
+[[files]]
+name = "/LinekaMold.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYyODk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYyNjU="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Waffle's Machine"
+repo = "https://wikifactory.com/@neophyte2020/waffles-machine"
+version = "20201002053709"
+spdx-license = "N/A"
+licensor = "Alipikre Rajazaman Basher"
+documentation-language = "en"
+function = "Integrated solar-powered, rail-mounted, electro-mechanical tiller, planter, weeder, sprinkler, harvester, winnow/reaper for lowland agriculture and power generation"

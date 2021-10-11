@@ -1,0 +1,18 @@
+name = "Supply Chain - Levis "
+repo = "https://wikifactory.com/@benpalmer/supply-chain-levis"
+version = "20191209084020"
+spdx-license = "CC-BY-4.0"
+licensor = "Ben Palmer"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODAxMTY="
+function = "This project involved creating a supply chain for a pair of Levis, in order to better understand the bigger picture of the design process."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODkxNDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODAxMTg="
+mimetype = "text/markdown"
+

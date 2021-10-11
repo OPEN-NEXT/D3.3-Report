@@ -1,0 +1,98 @@
+name = "Simple CNC FoamCutter"
+repo = "https://wikifactory.com/@itay/cheap-cnc-foam-cutter"
+version = "20200128083056"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Itay Laniado"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzU0ODg="
+function = "Hot wire cnc, uses standard 20cm aluminium U rails."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "processPhotos/IMG_1778-1.mov"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1MDk="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "processPhotos/IMG_1779.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processPhotos/IMG_1784.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processPhotos/IMG_1785.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processPhotos/IMG_1789.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processPhotos/IMG_1790.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processPhotos/IMG_1793.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processPhotos/IMG_1794.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processPhotos/IMG_1795.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processPhotos/IMG_1819.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processPhotos/IMG_2080.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processPhotos/IMG_2081.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processPhotos/IMG_2082.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processPhotos/IMG_2083.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processPhotos/IMG_2084.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4MzA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Urail-CNC-Foamcutter_Revision-v9.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU4MDk="
+mimetype = "text/plain"
+

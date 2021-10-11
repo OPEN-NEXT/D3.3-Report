@@ -1,0 +1,13 @@
+name = "The Moiré Effect"
+repo = "https://wikifactory.com/@lawrenceparent97/the-moiré-effect"
+version = "20191209140542"
+spdx-license = "N/A"
+licensor = "Lawrence Parent"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODgxNTM="
+function = "The modification of a clock to create relaxing and satisfying visual Moiré effects."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk2MzU="
+mimetype = "text/markdown"
+

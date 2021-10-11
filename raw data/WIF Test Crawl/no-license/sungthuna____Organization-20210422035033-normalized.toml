@@ -1,0 +1,7 @@
+name = "Organization"
+repo = "https://wikifactory.com/@sungthuna/organization"
+version = "20210422035033"
+spdx-license = "N/A"
+licensor = "Sung Thuna"
+documentation-language = "en"
+function = "Non-Government Organization"

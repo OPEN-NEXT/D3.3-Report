@@ -1,0 +1,33 @@
+name = "School Bags"
+repo = "https://wikifactory.com/@ekt17/school-bags"
+version = "20200610203800"
+spdx-license = "N/A"
+licensor = "Ellen Troyanosky"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzgwNTg="
+function = "No Sew T-Shirt Tote Bag"
+[[files]]
+name = "/GN016.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzgwNTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/GN016_Image.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzgwNTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/GN016_Image_Use.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzgwNTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/GN016_Manual.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozNzgwNTI="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzgwNjM="
+mimetype = "text/markdown"
+

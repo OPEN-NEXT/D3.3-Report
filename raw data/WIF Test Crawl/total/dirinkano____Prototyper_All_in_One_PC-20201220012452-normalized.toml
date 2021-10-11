@@ -1,0 +1,37 @@
+name = "Prototyper All in One PC"
+repo = "https://wikifactory.com/@dirinkano/prototyper-all-in-one-pc"
+version = "20201220012452"
+spdx-license = "N/A"
+licensor = "Edwin Calero"
+documentation-language = "es"
+function = "Una laptop enfocada al desarrollo 3d movil.\nPc all in one desarrolada para facilitar su movilidad y rendimiento en cualquier lugar y momento."
+[[files]]
+name = "/floor-2623897_1920.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDM4Mjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/indoors-3101776_1920.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDM4Mjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/kumpan-electric-fJebhGIP0P4-unsplash.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDM4MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/printer-4348147_1920.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDM4MzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/sigmund-4UGmm3WRUoQ-unsplash.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDM4MjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/work-3480187_1920.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDM4Mjc="
+mimetype = "image/jpeg"
+

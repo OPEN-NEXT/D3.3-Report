@@ -1,0 +1,7 @@
+name = "Incubator"
+repo = "https://wikifactory.com/@mouthpiece01/incubator"
+version = "20200925200219"
+spdx-license = "N/A"
+licensor = "Moses"
+documentation-language = "en"
+function = "hatching egg of diffrent animal breed"

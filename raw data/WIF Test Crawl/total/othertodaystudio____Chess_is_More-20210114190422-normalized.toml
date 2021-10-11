@@ -1,0 +1,18 @@
+name = "Chess is More"
+repo = "https://wikifactory.com/@ewanbrammall/chess-is-more"
+version = "20210114190422"
+spdx-license = "CC-BY-4.0"
+licensor = "Ewan Brammall"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODMzNjk="
+function = "A minimal waste flatpack chess board for purchase and distributed design."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg5MjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTEyNDU="
+mimetype = "text/markdown"
+

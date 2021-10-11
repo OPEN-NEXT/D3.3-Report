@@ -1,0 +1,8 @@
+name = "360 Periferical Vision"
+repo = "https://wikifactory.com/@diego/360-periferical-vision"
+version = "20190705064427"
+spdx-license = "N/A"
+licensor = "Diego Rasero"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjM3MTU="
+function = "Use an optical device like a 360 camera and connect the input to a  portion of surface of skin."

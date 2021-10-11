@@ -1,0 +1,12 @@
+name = "Smart Dispenser "
+repo = "https://wikifactory.com/@hardwarecity/smart-dispenser"
+version = "20200704151511"
+spdx-license = "N/A"
+licensor = "Hardware City"
+documentation-language = "en"
+function = "This will be the smarter alcohol dispenser in the world! \nWe are preparing a Hardware Hackathon, since hardware means hands-on we are working hard in safety measurements. One of them is this IoT contactless alcohol dispenser that will be connected to internet."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODg0NTg="
+mimetype = "text/markdown"
+

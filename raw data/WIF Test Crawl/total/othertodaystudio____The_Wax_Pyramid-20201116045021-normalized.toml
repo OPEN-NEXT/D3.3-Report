@@ -1,0 +1,13 @@
+name = "The Wax Pyramid"
+repo = "https://wikifactory.com/@fergushughes/the-wax-pyramid"
+version = "20201116045021"
+spdx-license = "N/A"
+licensor = "Fergus Hughes"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0ODQwNjc="
+function = "A small build yourself mood lamp that delivers as a flat-pack product. It is made from re-used candles glass & wax to create a unique light effect that is completely recycled."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQ4MjM="
+mimetype = "text/markdown"
+

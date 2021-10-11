@@ -1,0 +1,7 @@
+name = "Electric Dinghy"
+repo = "https://wikifactory.com/@michelicart/electric-dinghy"
+version = "20210109121544"
+spdx-license = "N/A"
+licensor = "michelcicart"
+documentation-language = "en"
+function = "I'm designing this small boat to a autonomous electric way of tranportation"

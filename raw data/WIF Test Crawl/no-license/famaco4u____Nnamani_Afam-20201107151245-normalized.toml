@@ -1,0 +1,7 @@
+name = "Nnamani Afam"
+repo = "https://wikifactory.com/@famaco4u/nnamani-afam"
+version = "20201107151245"
+spdx-license = "N/A"
+licensor = "Nnamani Afamefuna"
+documentation-language = "en"
+function = "Using arduino uno to control humidity, temperature and air velocity of a solar dryer, Nigeria weather a case study."

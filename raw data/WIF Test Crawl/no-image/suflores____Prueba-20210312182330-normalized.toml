@@ -1,0 +1,7 @@
+name = "Prueba"
+repo = "https://wikifactory.com/@suflores/prueba"
+version = "20210312182330"
+spdx-license = "N/A"
+licensor = "Sebastián Uriel Flores"
+documentation-language = "es"
+function = "Proyecto de prueba"

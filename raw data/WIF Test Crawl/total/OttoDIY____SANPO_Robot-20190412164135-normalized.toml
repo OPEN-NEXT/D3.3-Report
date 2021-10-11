@@ -1,0 +1,8 @@
+name = "SANPO Robot"
+repo = "https://wikifactory.com/@pclin/sanpo-robot"
+version = "20190412164135"
+spdx-license = "N/A"
+licensor = "Po-Chiang Lin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTUzNTc="
+function = "SANPO (散步) Robot is a 6DoF biped robot with two arms."

@@ -1,0 +1,7 @@
+name = "first"
+repo = "https://wikifactory.com/@huncker/first"
+version = "20201215105825"
+spdx-license = "N/A"
+licensor = "huncker"
+documentation-language = "en"
+function = "new project"

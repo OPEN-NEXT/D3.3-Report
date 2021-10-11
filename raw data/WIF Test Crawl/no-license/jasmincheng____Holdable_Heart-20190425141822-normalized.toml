@@ -1,0 +1,33 @@
+name = "Holdable Heart"
+repo = "https://wikifactory.com/@jasmincheng/holdable-heart"
+version = "20190425141822"
+spdx-license = "N/A"
+licensor = "Jasmin Cheng"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTY1OTA="
+function = "The Holdable Heart Project brings biofeedback into meditation."
+[[files]]
+name = "images/FinalProject_ProductShot_Daylight.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/FinalProject_ProductShot_Deconstruct.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1ODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/FinalProject_ProductShotGlowing.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/presentation.png"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1ODc="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1ODU="
+mimetype = "text/plain"
+

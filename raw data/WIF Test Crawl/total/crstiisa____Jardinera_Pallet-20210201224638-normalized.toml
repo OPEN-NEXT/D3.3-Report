@@ -1,0 +1,28 @@
+name = "Jardinera Pallet"
+repo = "https://wikifactory.com/@crstiisa/arch"
+version = "20210201224638"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "cristina soto a"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo1MzMzNTk="
+function = "Manual Constructivo en Pallet es un proyecto que toma la oportunidad de reutilización de pallets, dentro de la comunidad de Diego de Almagro, para diseñar el paso a paso de 5 mobiliarios con el fin de que sus habitantes puedan autoconstruirlos."
+[[files]]
+name = "/Jardinera Pallet.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM0Njg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/jardinera.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM0NTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMzMzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM0NTI="
+mimetype = "text/markdown"
+

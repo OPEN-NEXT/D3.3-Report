@@ -1,0 +1,7 @@
+name = "delph"
+repo = "https://wikifactory.com/@delphinebonneau1/delph"
+version = "20210403095818"
+spdx-license = "N/A"
+licensor = "delphinebonneau1"
+documentation-language = "it"
+function = "otto le robot"

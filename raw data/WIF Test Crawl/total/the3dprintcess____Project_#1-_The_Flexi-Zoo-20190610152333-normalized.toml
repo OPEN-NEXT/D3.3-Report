@@ -1,0 +1,7 @@
+name = "Project #1- The Flexi-Zoo"
+repo = "https://wikifactory.com/@the3dprintcess/project-1-the-flexi-zoo"
+version = "20190610152333"
+spdx-license = "N/A"
+licensor = "the3dPrintcess"
+documentation-language = "en"
+function = "This is our first project!\n\nIn this project, We'll be learning to set up and calibrate our 3D Printers, and making some cool toys in the process!"

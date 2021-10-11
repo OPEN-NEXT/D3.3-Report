@@ -1,0 +1,48 @@
+name = "Flanged Pipe Catalog"
+repo = "https://wikifactory.com/@hjliii/flanged-pipe-catalog"
+version = "20210210112850"
+spdx-license = "N/A"
+licensor = "Henry Lamousin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MzQ5OTI="
+function = "A collection of standard flanged pipe components."
+[[files]]
+name = "/BendFlangePipe.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ5Mzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/CrossFlangePipe.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ5NTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "LibraryFolder/Flange_Pipe_Fittings.AD_LIB"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzkzODE="
+mimetype = "application/zip"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzUwMDY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/ReducerFlangePipe.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ5NjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/StraightFlangePipe.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4MzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/TeeFlangePipe.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ5NTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/WyeFlangePipe.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ5NjI="
+mimetype = "application/sla"
+

@@ -1,0 +1,12 @@
+name = "PhotovoltaiqueUBO"
+repo = "https://wikifactory.com/@yquere/photovoltaiqueubo"
+version = "20210420153907"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+function = "Les toitures et parkings de l'UBO supports de l'électricité solaire? \n-Quels choix et contraintes techniques ?\n-Quels viabilité et montage financiers ?\nLes compétences et le dynamisme des étudiants et personnels pourraient transformer ce projet en une réalisation forte pour l'image de l’université."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5MjI="
+mimetype = "text/markdown"
+

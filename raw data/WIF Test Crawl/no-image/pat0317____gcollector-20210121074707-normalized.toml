@@ -1,0 +1,7 @@
+name = "gcollector"
+repo = "https://wikifactory.com/@pat0317/gcollector"
+version = "20210121074707"
+spdx-license = "N/A"
+licensor = "Patrick Edward C. de Vergara"
+documentation-language = "en"
+function = "collect garbage in streams with the use of passive energy"

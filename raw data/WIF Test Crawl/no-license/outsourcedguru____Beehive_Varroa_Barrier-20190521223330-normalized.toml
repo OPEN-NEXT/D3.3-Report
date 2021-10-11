@@ -1,0 +1,38 @@
+name = "Beehive Varroa Barrier"
+repo = "https://wikifactory.com/@outsourcedguru/beehive-varroa-barrier"
+version = "20190521223330"
+spdx-license = "N/A"
+licensor = "Outsourced Guru"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDk5Njg="
+function = "A system for preventing the Varroa Mite from entering a beehive. It is printed on readily-available 3D printers using common PLA plastic."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk5ODc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk5Nzg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/VBT-BarrierShim.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk5ODM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/VBT-Bottom.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk5ODI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/VBT-Lid.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk5ODE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/VBT-Top.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk5ODA="
+mimetype = "application/sla"
+

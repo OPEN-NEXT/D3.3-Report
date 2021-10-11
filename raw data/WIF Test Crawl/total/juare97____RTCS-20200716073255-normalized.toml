@@ -1,0 +1,7 @@
+name = "RTCS"
+repo = "https://wikifactory.com/@juare97/rtcs"
+version = "20200716073255"
+spdx-license = "N/A"
+licensor = "JUNI ARDI IRAWAN"
+documentation-language = "en"
+function = "Real Time Compressor Surveillance"

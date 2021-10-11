@@ -1,0 +1,7 @@
+name = "Hand lamp"
+repo = "https://wikifactory.com/@bujardalipi2015/hand-lamp"
+version = "20200421123656"
+spdx-license = "N/A"
+licensor = "Bujar Dalipi"
+documentation-language = "en"
+function = "This project is generator of electricity from body temperature and light 0.2W from body heat for around 5 Hours."

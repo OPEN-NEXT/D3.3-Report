@@ -1,0 +1,13 @@
+name = "Gaiga "
+repo = "https://wikifactory.com/@edenbunce2/gaiga"
+version = "20191122172017"
+spdx-license = "N/A"
+licensor = "Eden Bunce"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODM1ODA="
+function = "A lamp which aims to visualise the creation of something desirable and beautiful from ubiquitous waste."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODQ5NDk="
+mimetype = "text/markdown"
+

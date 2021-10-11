@@ -1,0 +1,12 @@
+name = "Cruz de assimetria dental"
+repo = "https://wikifactory.com/@cfjunior75/cruz-de-assimetria-dental"
+version = "20210429135221"
+spdx-license = "N/A"
+licensor = "Claudio Furlan Junior"
+documentation-language = "pt"
+function = "A Cruz de Assimetria Dentária (DAC) é uma ferramenta que não depende de avaliação visual e permite ao ortodontista medir a assimetria com simplicidade e precisão."
+[[files]]
+name = "/Cruz de assimetria dental.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTI2NjE="
+mimetype = "application/sla"
+

@@ -1,0 +1,7 @@
+name = "coffee machine"
+repo = "https://wikifactory.com/@a72design/coffee-machine"
+version = "20210205230314"
+spdx-license = "N/A"
+licensor = "alex maietto"
+documentation-language = "en"
+function = "espresso coffee machine"

@@ -1,0 +1,38 @@
+name = "Smart Bin"
+repo = "https://wikifactory.com/@dhruvpatel/smart-bin"
+version = "20190718100756"
+spdx-license = "CC-BY-4.0"
+licensor = "Dhruv Prakashbhai Patel"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjcwMTQ="
+function = "Project was to make smart bin system for both Home use and Commercial usage . Smart bin is Dustbin with Automated system creeated with embedded programming and Digital manufacturing."
+[[files]]
+name = "/finalcode.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcwMTg="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcwMjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/mech1.rar"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcwMTU="
+mimetype = "application/rar"
+
+[[files]]
+name = "/mech2.rar"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcwMTY="
+mimetype = "application/rar"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcwMzE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/v3.rar"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcwMTc="
+mimetype = "application/rar"
+

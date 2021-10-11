@@ -1,0 +1,48 @@
+name = "3D-printed guitar saddle"
+repo = "https://wikifactory.com/@outsourcedguru/3d-printed-guitar-saddle"
+version = "20200302184008"
+spdx-license = "N/A"
+licensor = "Outsourced Guru"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTIwMTQ="
+function = "Currently, replacing a guitar bridge (saddle) is difficult. I'd guess that a lot of guitar players would just send their guitar off to a luthier for this. This project is an attempt so that we might 3D print the correct saddle."
+[[files]]
+name = "/GuitarSaddle1.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwNDM="
+mimetype = "image/png"
+
+[[files]]
+name = "/GuitarSaddle2.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwNDY="
+mimetype = "image/png"
+
+[[files]]
+name = "/IMG_0148.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwNDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_0149.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwNDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_0150.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwNTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwNjQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/SaddleV1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwNDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/SaddleV2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIwNDk="
+mimetype = "application/sla"
+

@@ -1,0 +1,33 @@
+name = "Trash Bins "
+repo = "https://wikifactory.com/@ekt17/trash-bins"
+version = "20200514184834"
+spdx-license = "BAD"
+licensor = "Ellen Troyanosky"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTE0MDA="
+function = "PET bottles cut and paint to make bins"
+[[files]]
+name = "/GN006_Image_Use2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTEzOTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/GN006_Image_Use (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTEzOTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/GN006_Image_Use.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTEzOTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE0MDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE0MDQ="
+mimetype = "text/markdown"
+

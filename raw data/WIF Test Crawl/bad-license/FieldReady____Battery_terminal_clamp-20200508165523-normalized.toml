@@ -1,0 +1,48 @@
+name = "Battery terminal clamp"
+repo = "https://wikifactory.com/@mayaroman/battery-terminal-clamp"
+version = "20200508165523"
+spdx-license = "BAD"
+licensor = "Maya Roman"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDc2MjQ="
+function = "Plastic clamps to safely clamp wires to car battery terminals"
+[[files]]
+name = "CAD Data/EE004_Neg_CAD.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc2MDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/EE004_Neg_CAD.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc1OTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "CAD Data/EE004_Pos_CAD.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc2MDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/EE004_Pos_CAD.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc1OTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Drawing Pack/EE004_Eng_Dwg.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc2MDU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/EE004_Eng_Dwg.slddrw"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc2MTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc2MjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc2MzM="
+mimetype = "text/markdown"
+

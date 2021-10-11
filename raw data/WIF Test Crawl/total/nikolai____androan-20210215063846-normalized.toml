@@ -1,0 +1,7 @@
+name = "androan"
+repo = "https://wikifactory.com/@nikolai/androan"
+version = "20210215063846"
+spdx-license = "N/A"
+licensor = "andriana"
+documentation-language = "en"
+function = "androan"

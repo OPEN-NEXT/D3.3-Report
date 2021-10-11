@@ -1,0 +1,7 @@
+name = "cnc router "
+repo = "https://wikifactory.com/@gnaser71/cnc-router"
+version = "20201223062703"
+spdx-license = "N/A"
+licensor = "جمال البغدادي"
+documentation-language = "en"
+function = "how to make cnc machine diy"

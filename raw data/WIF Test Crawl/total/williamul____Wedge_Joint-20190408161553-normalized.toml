@@ -1,0 +1,38 @@
+name = "Wedge Joint"
+repo = "https://wikifactory.com/@williamul/wood-joint"
+version = "20190408161553"
+spdx-license = "N/A"
+licensor = "William Eckerstein"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTQ2NjQ="
+function = "Outcome from a 2 week workshop at the Fab Lab in Limerick. The topic was to create a wood joint from timber parts that would be the research foundation for an installation that was going to be built further on."
+[[files]]
+name = "DXF File - Step by step/STEP 1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkxODI="
+mimetype = "text/plain"
+
+[[files]]
+name = "DXF File - Step by step/STEP 2A.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkxODE="
+mimetype = "text/plain"
+
+[[files]]
+name = "DXF File - Step by step/STEP 2B.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkxODA="
+mimetype = "text/plain"
+
+[[files]]
+name = "DXF File - Step by step/STEP 2C.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkxNzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "DXF File - Step by step/STEP 3.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkxNzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkxNTA="
+mimetype = "text/markdown"
+

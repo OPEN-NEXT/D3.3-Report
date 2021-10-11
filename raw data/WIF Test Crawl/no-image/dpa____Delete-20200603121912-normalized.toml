@@ -1,0 +1,12 @@
+name = "Delete"
+repo = "https://wikifactory.com/@steffen/ki-geschichtenerzähler"
+version = "20200603121912"
+spdx-license = "N/A"
+licensor = "Steffen"
+documentation-language = "en"
+function = "delete"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIyMDg="
+mimetype = "text/markdown"
+

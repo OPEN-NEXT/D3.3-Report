@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@thiago3dart/test"
+version = "20210404222224"
+spdx-license = "N/A"
+licensor = "Thiago de Souza Pinto"
+documentation-language = "en"
+function = "Testing"

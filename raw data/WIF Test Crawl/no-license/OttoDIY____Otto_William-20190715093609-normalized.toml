@@ -1,0 +1,8 @@
+name = "Otto_William"
+repo = "https://wikifactory.com/@marcdesbonnet/ottowilliam"
+version = "20190715093609"
+spdx-license = "N/A"
+licensor = "MarcDuGard"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjY2NjU="
+function = "It is a small robot that can distribute appetizer in somes small wagon. it contains line sensor and  system to stop and avoid glasses. see video."

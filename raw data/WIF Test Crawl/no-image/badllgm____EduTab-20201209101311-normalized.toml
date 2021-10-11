@@ -1,0 +1,12 @@
+name = "EduTab"
+repo = "https://wikifactory.com/@badllgm/edutab"
+version = "20201209101311"
+spdx-license = "N/A"
+licensor = "Bouayom Anderson Djimadoum"
+documentation-language = "en"
+function = "Creating a mini tab with reduced functions with cheap price for students with less means in Africa. This project needs 3D designers , engineers in electronics, embedded systems, software engineering, all resource people are welcome. Join us to participate in the revolution of education in Africa."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTU1NDg="
+mimetype = "text/markdown"
+

@@ -1,0 +1,13 @@
+name = "SOFT SOUND SPQR"
+repo = "https://wikifactory.com/@ejtech/soft-sound-spqr"
+version = "20180926114026"
+spdx-license = "N/A"
+licensor = "EJTECH"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjg1Mg=="
+function = "Textile speakers"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMjg5NQ=="
+mimetype = "text/markdown"
+

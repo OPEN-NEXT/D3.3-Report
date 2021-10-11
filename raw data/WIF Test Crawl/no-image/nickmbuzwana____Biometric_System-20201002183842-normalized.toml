@@ -1,0 +1,7 @@
+name = "Biometric System"
+repo = "https://wikifactory.com/@nickmbuzwana/biometric-system"
+version = "20201002183842"
+spdx-license = "N/A"
+licensor = "nick mbuzwana"
+documentation-language = "en"
+function = "This is a Biometric System that can be used for payments"

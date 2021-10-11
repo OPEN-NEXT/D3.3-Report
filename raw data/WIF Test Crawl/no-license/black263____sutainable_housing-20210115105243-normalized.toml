@@ -1,0 +1,12 @@
+name = "sutainable housing "
+repo = "https://wikifactory.com/@black263/sutainable-housing"
+version = "20210115105243"
+spdx-license = "N/A"
+licensor = "tanatswa mhike "
+documentation-language = "en"
+function = "developing a 3d housing model fo 3rd  wolrd countries"
+[[files]]
+name = "/3d house model.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTkyMjA="
+mimetype = "application/pdf"
+

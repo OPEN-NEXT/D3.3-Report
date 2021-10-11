@@ -1,0 +1,28 @@
+name = "Fibro.City"
+repo = "https://wikifactory.com/@aarcano/fibrocity"
+version = "20190425141802"
+spdx-license = "N/A"
+licensor = "Esteban Castro"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTY1NTk="
+function = "Fibro.City is a project based on fibrous formations on the architectural scale with the use of carbon fibres."
+[[files]]
+name = "images/10688379_1641099759449677_3929501661706001778_o.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1NTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/real_model_6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Screen_Shot_2015-02-02_at_10.04.47_PM.png"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1NTk="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1NTU="
+mimetype = "text/plain"
+

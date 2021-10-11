@@ -1,0 +1,7 @@
+name = "Explore"
+repo = "https://wikifactory.com/@samdeesh/explore"
+version = "20210224110528"
+spdx-license = "N/A"
+licensor = "Samdeesh Menia"
+documentation-language = "en"
+function = "Just exploring"

@@ -1,0 +1,7 @@
+name = "Test 1"
+repo = "https://wikifactory.com/@asmattic/test-1"
+version = "20210417025611"
+spdx-license = "N/A"
+licensor = "Matt Oldfield"
+documentation-language = "en"
+function = "Trying something out"

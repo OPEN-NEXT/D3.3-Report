@@ -1,0 +1,8 @@
+name = "Magic brush"
+repo = "https://wikifactory.com/@ken/magic-brush"
+version = "20180408232933"
+spdx-license = "N/A"
+licensor = "ken-thunderlaser"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjk5"
+function = "draw everthing you like on a paper and then use thunderlaser to cut it out"

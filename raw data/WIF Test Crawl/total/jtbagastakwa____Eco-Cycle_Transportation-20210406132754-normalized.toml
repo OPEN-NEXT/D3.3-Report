@@ -1,0 +1,13 @@
+name = "Eco-Cycle Transportation"
+repo = "https://wikifactory.com/@jtbagastakwa/e-cycle"
+version = "20210406132754"
+spdx-license = "N/A"
+licensor = "Jati Tepatasa Bagastakwa"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzYwNzg="
+function = "Eco-Cycle is an environmentally friendly (eco-friendly) land transportation that runs only by cycling/pedaling. Eco-Cycle is designed using a bicycle-like driving concept."
+[[files]]
+name = "/Eco-Cycle Transportation v.1 Presentation - JTB.skp"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU3MjM="
+mimetype = "application/x-koan"
+

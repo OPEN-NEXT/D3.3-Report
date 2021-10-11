@@ -1,0 +1,13 @@
+name = "Slow Music Player"
+repo = "https://wikifactory.com/@andrewsleigh/slow-music-player"
+version = "20190504150815"
+spdx-license = "MIT"
+licensor = "Andrew Sleigh"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDczMTg="
+function = "A device to play music from physical media. Housed in an industrial-style folded aluminium case.\n\nThis was my final project for Fab Academy 2018."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMDczMTY="
+mimetype = "text/plain"
+

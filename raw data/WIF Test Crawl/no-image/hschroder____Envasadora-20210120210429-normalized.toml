@@ -1,0 +1,7 @@
+name = "Envasadora"
+repo = "https://wikifactory.com/@hschroder/envasadora"
+version = "20210120210429"
+spdx-license = "N/A"
+licensor = "Hans Schroder"
+documentation-language = "ca"
+function = "Envasadora de bolsas manual"

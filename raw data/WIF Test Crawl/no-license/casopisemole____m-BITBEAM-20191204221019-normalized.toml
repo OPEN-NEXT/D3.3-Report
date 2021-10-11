@@ -1,0 +1,8 @@
+name = "m-BITBEAM"
+repo = "https://wikifactory.com/@casopisemole/m-bitbeam"
+version = "20191204221019"
+spdx-license = "N/A"
+licensor = "e-Mole"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODc4Njc="
+function = "\ufeffm-BITBEAM is a 3D printed robotic construction set for kids based on the Bitbeam concept including some additional parts like wheels, boxes, etc."

@@ -1,0 +1,7 @@
+name = "Ebikes"
+repo = "https://wikifactory.com/@gopisudi7899/ebikes"
+version = "20201206034530"
+spdx-license = "N/A"
+licensor = "gopisudi7899"
+documentation-language = "fr"
+function = "Future transporation is etransport"

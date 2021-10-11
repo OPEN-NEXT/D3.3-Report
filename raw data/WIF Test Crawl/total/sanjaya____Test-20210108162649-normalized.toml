@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@sanjaya/test"
+version = "20210108162649"
+spdx-license = "N/A"
+licensor = "Sanjaya"
+documentation-language = "en"
+function = "test"

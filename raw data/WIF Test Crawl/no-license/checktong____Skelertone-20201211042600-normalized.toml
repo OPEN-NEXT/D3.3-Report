@@ -1,0 +1,8 @@
+name = "Skelertone"
+repo = "https://wikifactory.com/@checktong/skelertone"
+version = "20201211042600"
+spdx-license = "N/A"
+licensor = "Check Tong"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1Mzc2NTk="
+function = "Building a prototype exoskeleton model for daily use by Seniors"

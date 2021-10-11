@@ -1,0 +1,7 @@
+name = "Maquina de cajas"
+repo = "https://wikifactory.com/@qazwjuan/maquina-de-cajas"
+version = "20210211003357"
+spdx-license = "N/A"
+licensor = "Juan Munguia"
+documentation-language = "es"
+function = "Maquina para la fabricación de cajas corrugadas personalizadas."

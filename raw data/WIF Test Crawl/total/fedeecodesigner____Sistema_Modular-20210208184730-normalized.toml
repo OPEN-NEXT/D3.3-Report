@@ -1,0 +1,13 @@
+name = "Sistema Modular"
+repo = "https://wikifactory.com/@fedeecodesigner/plataforma"
+version = "20210208184730"
+spdx-license = "N/A"
+licensor = "Fede Ecodesigner"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1Mzg2NjA="
+function = "This is a construction system that allows you to dispose inside a huge amount of waste. The first form is a table and the modules can be used to build walls, make other furniture, etc."
+[[files]]
+name = "/Mesa Modulitos.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc5NTA="
+mimetype = "application/octet-stream"
+

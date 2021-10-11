@@ -1,0 +1,38 @@
+name = "Fab Ghetto Blaster"
+repo = "https://wikifactory.com/@eduardochamorro-b4c5e/fab-ghetto-blaster"
+version = "20190425141854"
+spdx-license = "N/A"
+licensor = "Eduardo Chamorro"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTY2Mzk="
+function = "\u200b Educational kit for kids:\u200b \u200b \u200b A really fully fabricable portable modular speaker, on the size of your hand! \u200b \u200b It’s really powerful, built on high efficient Bluetooth Connection,portable and of course completely customizable!"
+[[files]]
+name = "images/IMG_0039.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/IMG_9286.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2Mzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/IMG_9311.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2Mzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/IMG_9339.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/IMG_9346.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MzM="
+mimetype = "text/plain"
+

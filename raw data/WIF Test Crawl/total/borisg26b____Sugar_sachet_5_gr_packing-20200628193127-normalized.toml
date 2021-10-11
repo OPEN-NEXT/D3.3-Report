@@ -1,0 +1,7 @@
+name = "Sugar sachet 5 gr packing"
+repo = "https://wikifactory.com/@borisg26b/sugar-sachet-5-gr-packing"
+version = "20200628193127"
+spdx-license = "N/A"
+licensor = "borisg26b"
+documentation-language = "en"
+function = "Sugar pack machine"

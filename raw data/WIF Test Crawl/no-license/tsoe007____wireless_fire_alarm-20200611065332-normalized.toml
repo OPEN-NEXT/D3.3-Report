@@ -1,0 +1,7 @@
+name = "wireless fire alarm"
+repo = "https://wikifactory.com/@tsoe007/wireless-fire-alarm"
+version = "20200611065332"
+spdx-license = "N/A"
+licensor = "tsoe007"
+documentation-language = "en"
+function = "making fire hazard alarm using ESP32S."

@@ -1,0 +1,7 @@
+name = "Bottle Cutting Machine"
+repo = "https://wikifactory.com/@vsld97/bottle-cutting-machine"
+version = "20210328133356"
+spdx-license = "N/A"
+licensor = "Virendra Sharad Lad"
+documentation-language = "en"
+function = "Design automatic pet bottle neck cutting & trimming machine. Simple to operate, compact & low cost"

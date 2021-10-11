@@ -1,0 +1,133 @@
+name = "SyriGO - Syringe Pump"
+repo = "https://wikifactory.com/@botler/hardware-syringe-pump"
+version = "20190131134825"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMzkwMA=="
+function = "An open hardware solution to build a cost effective syringe pump for lab usage by Marco Rdkc. \nLooking to build and remix this prototype."
+[[files]]
+name = "3d files/Bearingblock.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkyMw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d files/BOM_SyriCtrl_v1.2.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkyMA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "3d files/BOM_SyriGO_mechanical_v1.0.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkxOQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "3d files/Plunger.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkyNQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d files/Radukic_SyriCtrl_v1.2.brd"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkyMg=="
+mimetype = "application/xml"
+
+[[files]]
+name = "3d files/Radukic_SyriCtrl_v1.2.sch"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkyNg=="
+mimetype = "application/xml"
+
+[[files]]
+name = "3d files/Shaftmount.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkyOA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d files/SyriCtrl_1_1_Test.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkyMQ=="
+mimetype = "text/x-c"
+
+[[files]]
+name = "3d files/SyriCtrl_Board_v1.2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkxOA=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "3d files/Syringefixture.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkyNA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "images/55b2ef6672f6f5e5cffd12f05488065f_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkzOQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/283b643688f9e6ad8962ccfa7c936f9f_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkzMg=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/417a0271857e6155f82ca06c1d655a91_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMzk0NA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/795ef13ab2e80edee3865b222da65c30_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkzNQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/961938d5e3424104d80d367e96424300_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMzk0Ng=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/981377966c71e5cd055d3de01122e8b4_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMzk0MQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Assembled_Syringe-mount.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkzOA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/c2df30c70a40bb43f4257ee3153ff398_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzk0Mg=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/dcd062eb6a0e2734bd2df720643945e2_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkzMw=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/dd07862d502a4a13f750db8285101edd_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzk0MA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/ef59880667e9fab3cf669d45552c563f_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzk0NQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/fc16b06cf019a0cf2b6fe66a2d679025_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMzk0OA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/LED_strip.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkzNA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/LICENSE.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMzkwMw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNTQ1MQ=="
+mimetype = "text/markdown"
+

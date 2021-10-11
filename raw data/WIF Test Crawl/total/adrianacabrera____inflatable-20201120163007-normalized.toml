@@ -1,0 +1,12 @@
+name = "inflatable "
+repo = "https://wikifactory.com/@adrianacabrera/inflatable"
+version = "20201120163007"
+spdx-license = "N/A"
+licensor = "Adriana Cabrera"
+documentation-language = "es"
+function = "en el campo de sof robotics e inflables hare una mano"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODc2NDg="
+mimetype = "text/markdown"
+

@@ -1,0 +1,8 @@
+name = "UFurniture"
+repo = "https://wikifactory.com/@jcchavez/ufurniture"
+version = "20210221070026"
+spdx-license = "N/A"
+licensor = "Juan Carlos Chavez Colmenares"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NTY0MTg="
+function = "Furniture made in CNN, 100% prefit assembly."

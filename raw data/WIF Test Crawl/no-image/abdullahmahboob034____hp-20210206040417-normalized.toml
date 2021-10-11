@@ -1,0 +1,7 @@
+name = "hp"
+repo = "https://wikifactory.com/@abdullahmahboob034/hp"
+version = "20210206040417"
+spdx-license = "N/A"
+licensor = "abdullahmahboob034"
+documentation-language = "en"
+function = "hi"

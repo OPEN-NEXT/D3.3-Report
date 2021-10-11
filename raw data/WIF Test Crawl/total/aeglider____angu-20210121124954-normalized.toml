@@ -1,0 +1,7 @@
+name = "angu"
+repo = "https://wikifactory.com/@aeglider/angu"
+version = "20210121124954"
+spdx-license = "N/A"
+licensor = "aeglider"
+documentation-language = "cy"
+function = "gyrocopter channel wig"

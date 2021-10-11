@@ -1,0 +1,13 @@
+name = "Open Maker Space"
+repo = "https://wikifactory.com/@ewanbrammall/open-maker-space"
+version = "20200325023456"
+spdx-license = "N/A"
+licensor = "Ewan Brammall"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjMyODM="
+function = "How might we create a maker space at home"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjMyODQ="
+mimetype = "text/markdown"
+

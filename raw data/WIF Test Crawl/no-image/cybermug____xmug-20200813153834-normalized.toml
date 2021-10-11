@@ -1,0 +1,7 @@
+name = "xmug"
+repo = "https://wikifactory.com/@cybermug/xmug"
+version = "20200813153834"
+spdx-license = "N/A"
+licensor = "nathnael kumsa degefa"
+documentation-language = "en"
+function = "a software used to measure soil fertility"

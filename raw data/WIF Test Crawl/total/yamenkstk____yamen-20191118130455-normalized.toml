@@ -1,0 +1,7 @@
+name = "yamen"
+repo = "https://wikifactory.com/@yamenkstk/yamen"
+version = "20191118130455"
+spdx-license = "N/A"
+licensor = "yamenkstk"
+documentation-language = "en"
+function = "yamen kst"

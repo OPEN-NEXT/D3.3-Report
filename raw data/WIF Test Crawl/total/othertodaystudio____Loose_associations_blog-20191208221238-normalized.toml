@@ -1,0 +1,18 @@
+name = "Loose associations blog"
+repo = "https://wikifactory.com/@meganjay/loose-associations-blog"
+version = "20191208221238"
+spdx-license = "N/A"
+licensor = "Megan Stratford"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODA3NTM="
+function = "This blog tells a story via loose associations, I explore a variety of my interests while following a clear theme of women."
+[[files]]
+name = "/Pecha Kucha blog.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyODA3NTA="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODg5NTI="
+mimetype = "text/markdown"
+

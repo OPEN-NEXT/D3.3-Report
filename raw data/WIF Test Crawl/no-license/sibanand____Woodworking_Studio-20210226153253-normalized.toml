@@ -1,0 +1,7 @@
+name = "Woodworking Studio"
+repo = "https://wikifactory.com/@sibanand/woodworking-studio"
+version = "20210226153253"
+spdx-license = "N/A"
+licensor = "Sibanand Bhol"
+documentation-language = "en"
+function = "Fully equipped woodworking studio"

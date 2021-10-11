@@ -1,0 +1,48 @@
+name = "Openvac"
+repo = "https://wikifactory.com/@clorr/openvac"
+version = "20200218093319"
+spdx-license = "N/A"
+licensor = "clorr"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDE5Nzg="
+function = "Openvac is an experiment over using laminar flows in vacuum cleaner. This has potentially the advantage of requiring less energy. The goal is also to design an open source, 3D printable vacuum cleaner."
+[[files]]
+name = "/base.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE5OTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/cercle2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE5OTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/cercle3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE5OTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/dents.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE5OTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/filtre.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE5ODc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/GLOBAL.fcstd"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE5ODM="
+mimetype = "application/zip"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE5NzU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/sortie.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE5ODY="
+mimetype = "application/sla"
+

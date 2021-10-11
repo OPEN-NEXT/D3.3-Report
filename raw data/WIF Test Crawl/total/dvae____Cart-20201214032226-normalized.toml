@@ -1,0 +1,7 @@
+name = "Cart"
+repo = "https://wikifactory.com/@dvae/cart"
+version = "20201214032226"
+spdx-license = "N/A"
+licensor = "Velile Zikalala"
+documentation-language = "en"
+function = "Go cart"

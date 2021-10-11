@@ -1,0 +1,13 @@
+name = "Open Future Factory"
+repo = "https://wikifactory.com/@margheritasoldati/open-future-factory"
+version = "20210412081856"
+spdx-license = "N/A"
+licensor = "Margherita Soldati"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzkwMjU="
+function = "Collaboratively design and develop a product made of wood factory waste by establishing an open learning community that stimulate research and circular innovation through shared values and concerns.\n\nFollow us also on our wikifactory page:\nhttps://wikifactory.com/+fictionfactory"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzkwMjI="
+mimetype = "text/markdown"
+

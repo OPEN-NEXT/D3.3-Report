@@ -1,0 +1,18 @@
+name = "EASYRIDER II"
+repo = "https://wikifactory.com/@rekavikarius/easyrider-ii"
+version = "20200623091906"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Réka Vikárius"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTY4NzY="
+function = "EASYRIDER II is a development tool designed for multiply disabled children. The aim of the tool is to work the muscles while providing an experience of play and joy for the kids. However the tool is not only a toy: whit its help children are able to transponrt themselves without any additional help."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMTY4Nzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODg3ODI="
+mimetype = "text/markdown"
+

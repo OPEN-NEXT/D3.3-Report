@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@aahoo/test"
+version = "20210112075601"
+spdx-license = "N/A"
+licensor = "Anna Huovinen"
+documentation-language = "en"
+function = "testing"

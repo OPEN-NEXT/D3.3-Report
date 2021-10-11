@@ -1,0 +1,7 @@
+name = "Mastering 3D Printing"
+repo = "https://wikifactory.com/@michielbekkering/mastering-3d-printing"
+version = "20210203102725"
+spdx-license = "N/A"
+licensor = "Michiel Bekkering"
+documentation-language = "fr"
+function = "Saxion course M3DP."

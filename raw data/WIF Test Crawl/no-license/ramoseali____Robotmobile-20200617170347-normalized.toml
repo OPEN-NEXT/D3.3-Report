@@ -1,0 +1,7 @@
+name = "Robotmobile"
+repo = "https://wikifactory.com/@ramoseali/robotmobile"
+version = "20200617170347"
+spdx-license = "N/A"
+licensor = "Ali Guediri"
+documentation-language = "fr"
+function = "Automobile 4 roues command par hc05 bleutooth"

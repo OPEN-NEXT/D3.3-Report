@@ -1,0 +1,7 @@
+name = "Turntable"
+repo = "https://wikifactory.com/@julienlebas/turntable"
+version = "20210421204649"
+spdx-license = "N/A"
+licensor = "Julien Le Bas"
+documentation-language = "en"
+function = "Building a simple yet high quality turntable."

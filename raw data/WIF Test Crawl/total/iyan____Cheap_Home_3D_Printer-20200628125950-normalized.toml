@@ -1,0 +1,18 @@
+name = "Cheap Home 3D Printer"
+repo = "https://wikifactory.com/@iyan/cheap-3d-printer-house"
+version = "20200628125950"
+spdx-license = "CC-BY-4.0"
+licensor = "Muhammad sudiyanto"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTM2MTQ="
+function = "My hope is to make 3D printer machines for homes at very cheap prices. so everyone in my country can have a house."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM2MTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM2MjU="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "wrist computer"
+repo = "https://wikifactory.com/@tiago123456/wrist-computer"
+version = "20200206102710"
+spdx-license = "N/A"
+licensor = "tiago paulo"
+documentation-language = "pt"
+function = "micro computador de pulso"

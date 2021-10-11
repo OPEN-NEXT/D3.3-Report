@@ -1,0 +1,28 @@
+name = "Otto Nodemcu+MQTT Broker"
+repo = "https://wikifactory.com/@fgzone/otto-nodemcumqtt-broker"
+version = "20200630095140"
+spdx-license = "N/A"
+licensor = "fgzone"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTozNTUwMTQ="
+function = "La idea es usar solo la parte estructural impresa y mecanica del otto.\nPara lo demás se utiliza una placa nodemcu (actualmente wemos d1) como broker, es decir no necesita internet ya que no utiliza ninguna de las plataformas web \"comunes\" como broker"
+[[files]]
+name = "Codigo/brokerservo16.ino"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQ5OTA="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Codigo/Ottobrokeresp8266.rar"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk3OTc="
+mimetype = "application/rar"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTUwMjE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Topics MQTT/enviar.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNTUwMDg="
+mimetype = "text/plain"
+

@@ -1,0 +1,7 @@
+name = "My first CNC router"
+repo = "https://wikifactory.com/@ivanestanislaopetroff/my-first-cnc-router"
+version = "20201006153633"
+spdx-license = "N/A"
+licensor = "Iván Petroff"
+documentation-language = "en"
+function = "I would like to build my first CNC Router to learn how to create unique or self-designed pieces. I have few resources and I get them little by little. I am learning to carry out this project. I hope to go far."

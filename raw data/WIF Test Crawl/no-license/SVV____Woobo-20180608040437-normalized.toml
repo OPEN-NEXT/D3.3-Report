@@ -1,0 +1,13 @@
+name = "Woobo"
+repo = "https://wikifactory.com/@botler/woobo"
+version = "20180608040437"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTgx"
+function = "Woobo is a knowledgeable friend who can answer questions about the things your child is curious about."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg5"
+mimetype = "text/markdown"
+

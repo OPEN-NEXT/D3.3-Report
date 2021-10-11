@@ -1,0 +1,7 @@
+name = "Interac communicator"
+repo = "https://wikifactory.com/@gunadnya/interac-communicator"
+version = "20201216145920"
+spdx-license = "N/A"
+licensor = "gunadnya kharche"
+documentation-language = "en"
+function = "Establish data communication between aircraft minimum range 30-40km."

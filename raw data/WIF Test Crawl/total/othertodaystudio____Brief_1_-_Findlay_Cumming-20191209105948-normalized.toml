@@ -1,0 +1,13 @@
+name = "Brief 1 - Findlay Cumming"
+repo = "https://wikifactory.com/@cummingfin/bee-research"
+version = "20191209105948"
+spdx-license = "N/A"
+licensor = "cummingfin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODk0NDc="
+function = "I have been researching bee's and beehives. I am interested in the ways that bees organise themselves in order to produce honey."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODkyNTU="
+mimetype = "text/markdown"
+

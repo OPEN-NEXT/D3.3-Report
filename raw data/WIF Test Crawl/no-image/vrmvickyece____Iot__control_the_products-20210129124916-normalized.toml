@@ -1,0 +1,7 @@
+name = "Iot  control the products"
+repo = "https://wikifactory.com/@vrmvickyece/iot-control-the-products"
+version = "20210129124916"
+spdx-license = "N/A"
+licensor = "vrmvickyece"
+documentation-language = "en"
+function = "My project is iot device and more Arduino device used to home and industrial"

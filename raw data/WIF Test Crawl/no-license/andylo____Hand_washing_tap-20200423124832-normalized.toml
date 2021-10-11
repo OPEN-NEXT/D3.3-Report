@@ -1,0 +1,12 @@
+name = "Hand washing tap "
+repo = "https://wikifactory.com/@andylo/hand-washing-tap"
+version = "20200423124832"
+spdx-license = "N/A"
+licensor = "Andrews lomo"
+documentation-language = "en"
+function = "It's a leg effort hand washing tap, purposely to avoid holding the tap when trying open it"
+[[files]]
+name = "/15876458991206596257505129586904.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDExNzU="
+mimetype = "image/jpeg"
+

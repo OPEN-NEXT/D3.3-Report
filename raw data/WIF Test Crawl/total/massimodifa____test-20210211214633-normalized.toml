@@ -1,0 +1,12 @@
+name = "test"
+repo = "https://wikifactory.com/@massimodifa/test"
+version = "20210211214633"
+spdx-license = "N/A"
+licensor = "Massimo Difa"
+documentation-language = "en"
+function = "Test description"
+[[files]]
+name = "/Test.skp"
+permalink = "https://wikifactory.com/files/RmlsZTo1NDAwMDI="
+mimetype = "application/x-koan"
+

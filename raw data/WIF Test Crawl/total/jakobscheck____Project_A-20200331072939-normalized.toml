@@ -1,0 +1,7 @@
+name = "Project A"
+repo = "https://wikifactory.com/@jakobscheck/project-a"
+version = "20200331072939"
+spdx-license = "N/A"
+licensor = "Jakob Scheck"
+documentation-language = "en"
+function = "Hardware, Software, Mechanics"

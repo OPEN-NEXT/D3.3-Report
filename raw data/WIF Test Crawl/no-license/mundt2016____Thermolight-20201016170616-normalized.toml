@@ -1,0 +1,18 @@
+name = "Thermolight"
+repo = "https://wikifactory.com/@mundt2016/thermolight"
+version = "20201016170616"
+spdx-license = "N/A"
+licensor = "Alex Mundt"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTA1NzE="
+function = "Light-permeable thermal insulation material and energy-saving climate shell."
+[[files]]
+name = "/Light permeable thermal insulation material_001.pptx"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTA1NTY="
+mimetype = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQyMTk="
+mimetype = "text/markdown"
+

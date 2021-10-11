@@ -1,0 +1,143 @@
+name = "UPS Fablab"
+repo = "https://wikifactory.com/@zilingli121/ups-fablab"
+version = "20200301182404"
+spdx-license = "N/A"
+licensor = "zilingli121"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODYxNjU="
+function = "https://drive.google.com/file/d/1bko5sHbx7ufmiGUK7c2xxGzw84Fj0FHk/view?usp=sharing\nNote: Please go to this link to get the complete documentation of the whole design process.\nA place for me to document my thoughts and ideas"
+[[files]]
+name = "/2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyOTk0NzU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/3.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyOTk0NzQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/241be9ae47fa1f63889160930a5768e.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODYxNzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/4498805b24cb128dae1267f79feb4fb.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODYxNzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Fablab_Ziling.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMDg2NzY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "First Object Design/IMG_5145.HEIC"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3MDg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "First Object Design/IMG_5146.HEIC"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3MDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "First Object Design/IMG_5147.HEIC"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3MDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "First Object Design/IMG_5151.HEIC"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3MDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "First Object Design/IMG_5153.HEIC"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3MDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "First Object Design/IMG_5155.HEIC"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3MDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "First Object Design/IMG_5156.HEIC"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3MDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "First Object Design/IMG_5158.HEIC"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3MDE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "First Object Design/IMG_5159.HEIC"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3MDA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "First Object Design/IMG_5160.HEIC"
+permalink = "https://wikifactory.com/files/RmlsZToyODY2OTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "First Object Design/IMG_5161.HEIC"
+permalink = "https://wikifactory.com/files/RmlsZToyODY2OTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "First Object Design/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3MjA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Fusion 360 files/4round.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE3MTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fusion 360 files/Chinese Knot.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE3MDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fusion 360 files/final neck.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE3MTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fusion 360 files/flower pattern.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE3MTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fusion 360 files/neckconnector.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE3MTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fusion 360 files/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE3MjQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDg2Nzg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Ziling LI documentation1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyOTk0Njc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Ziling LI documentation2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyOTk0Njg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Ziling LI documentation3.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyOTk0NTk="
+mimetype = "application/pdf"
+

@@ -1,0 +1,12 @@
+name = "Software"
+repo = "https://wikifactory.com/@softwarecivil/software"
+version = "20201209174258"
+spdx-license = "N/A"
+licensor = "Tyrese Williams"
+documentation-language = "en"
+function = "Application"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTcwNjI="
+mimetype = "text/markdown"
+

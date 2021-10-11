@@ -1,0 +1,53 @@
+name = "le pigeon voyageur"
+repo = "https://wikifactory.com/@maudtournery/le-pigeon-voyageur"
+version = "20201210113907"
+spdx-license = "N/A"
+licensor = "maudtournery"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0OTc1MTU="
+function = "Un projet pour créer et enrichir des liens intergénérationnels entre des personnes âgées (4ème âge) isolées et des enfants de 6-8 ans"
+[[files]]
+name = "/les pigeons voyageurs.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTQxMDA="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/pigeon voyageur étiquette.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTc1MzI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/pigeon voyageur étiquette.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTc1MzE="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/pigeon voyageur.eps"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTc1MzA="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/pigeon voyageur.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTc1Mjk="
+mimetype = "image/png"
+
+[[files]]
+name = "/pigeon voyageur.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTc1Mjg="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/production enfants test.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTQwOTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/production personne âgée test.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTQwOTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTc1MjU="
+mimetype = "text/markdown"
+

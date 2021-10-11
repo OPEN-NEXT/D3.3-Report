@@ -1,0 +1,7 @@
+name = "Mechanic"
+repo = "https://wikifactory.com/@mensahbenjamin004/mechanic"
+version = "20200630083325"
+spdx-license = "N/A"
+licensor = "Benjamin Mensah"
+documentation-language = "en"
+function = "Installing trucking devices"

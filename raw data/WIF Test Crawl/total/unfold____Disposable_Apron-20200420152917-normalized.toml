@@ -1,0 +1,43 @@
+name = "Disposable Apron"
+repo = "https://wikifactory.com/@driesverbruggen/disposable-apron"
+version = "20200420152917"
+spdx-license = "N/A"
+licensor = "Dries Verbruggen"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTc5NTc="
+function = "A pattern for a disposable apron developed at the request of a general practitioner for use in the fight against Covid-19."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc5OTY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Template/DisposableApron_v1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc5ODQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Template/DisposableApron_v1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc5NzE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Template/DisposableApron_v1.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc5ODM="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Template/DisposableApronQuarter_v1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc5ODc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Template/DisposableApronQuarter_v1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc5ODU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Template/DisposableApronQuarter_v1.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc5ODY="
+mimetype = "image/svg+xml"
+

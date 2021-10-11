@@ -1,0 +1,7 @@
+name = "Right Renewable"
+repo = "https://wikifactory.com/@rightrenewable/right-renewable"
+version = "20200521122317"
+spdx-license = "N/A"
+licensor = "Mogal Amjad Baig"
+documentation-language = "en"
+function = "Small wind turbines"

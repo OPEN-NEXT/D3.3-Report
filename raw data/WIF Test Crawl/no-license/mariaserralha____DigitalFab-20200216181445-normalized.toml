@@ -1,0 +1,13 @@
+name = "DigitalFab "
+repo = "https://wikifactory.com/@mariaserralha/digitalfab"
+version = "20200216181445"
+spdx-license = "N/A"
+licensor = "mariaserralha"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDUxNzM="
+function = "This entire project is addressed to FatLab DigitScope course.<br />"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDY3MzY="
+mimetype = "text/markdown"
+

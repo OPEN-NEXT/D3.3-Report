@@ -1,0 +1,17 @@
+name = "Graphics designing"
+repo = "https://wikifactory.com/@asifkhan5990015ak/graphics-designing"
+version = "20210109032133"
+spdx-license = "N/A"
+licensor = "asifkhan5990015ak"
+documentation-language = "en"
+function = "iphic"
+[[files]]
+name = "/03-.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTU0OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_1608385479381.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTU1MDA="
+mimetype = "image/jpeg"
+

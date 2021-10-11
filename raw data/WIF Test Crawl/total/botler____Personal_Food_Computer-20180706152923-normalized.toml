@@ -1,0 +1,23 @@
+name = "Personal Food Computer"
+repo = "https://wikifactory.com/@botler/personal-food-computer"
+version = "20180706152923"
+spdx-license = "GPL-3.0"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1OTI3"
+function = "The first open source Personal Food Computer by <b>MIT's</b> <b>Open Agriculture</b> <b>Initiative</b>. This tabletop-sized unit is being built all over the world by makers, hobbyists and schools that are interested in learning and teaching about food production."
+[[files]]
+name = "Bill of Materials/BOM-MASTER.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZTo2MDE4"
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk5"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo2MDk4"
+mimetype = "text/markdown"
+

@@ -1,0 +1,13 @@
+name = "3D Scanner FCT"
+repo = "https://wikifactory.com/@steam228/3d-scanner"
+version = "20190521214326"
+spdx-license = "N/A"
+licensor = "André Rocha"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTcxNDA="
+function = "Machine Design / Fab Academy 2019 at Fab Lab FCT\nPhotogrametry Device for small objects.\nIncludes:\n2 axis plate Stand;\nSoftware;\nControlling board;"
+[[files]]
+name = "/FCT_MachineDesign2019.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcxMzY="
+mimetype = "text/plain"
+

@@ -1,0 +1,7 @@
+name = "FDM Thingies"
+repo = "https://wikifactory.com/@redspectre/fdm-thingies"
+version = "20210105151509"
+spdx-license = "N/A"
+licensor = "Naveen"
+documentation-language = "en"
+function = "at attempt to redesign conventional parts for additive manufacturing"

@@ -1,0 +1,7 @@
+name = "Solar Energy"
+repo = "https://wikifactory.com/@pranshu/solar-energy"
+version = "20210222114844"
+spdx-license = "N/A"
+licensor = "pranshu bundela"
+documentation-language = "en"
+function = "Making Solar panel models making them for fessible for Indian Markets"

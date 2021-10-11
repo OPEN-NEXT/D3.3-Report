@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@pulsed/test"
+version = "20210329111917"
+spdx-license = "N/A"
+licensor = "Fontys Pulsed"
+documentation-language = "en"
+function = "This is a test"

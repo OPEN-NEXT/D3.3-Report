@@ -1,0 +1,13 @@
+name = "Autumn 2020"
+repo = "https://wikifactory.com/@shanaghryanomeara/autumn-2020"
+version = "20210204163717"
+spdx-license = "N/A"
+licensor = "shanaghryanomeara"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NjIzNDM="
+function = "3D printing of hemp for personal protective equipment and construction."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzYyODU="
+mimetype = "text/markdown"
+

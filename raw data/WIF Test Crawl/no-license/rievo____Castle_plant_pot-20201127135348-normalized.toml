@@ -1,0 +1,22 @@
+name = "Castle plant pot"
+repo = "https://wikifactory.com/@rievo/castle-plant-pot"
+version = "20201127135348"
+spdx-license = "N/A"
+licensor = "Diego Vaquero "
+documentation-language = "en"
+function = "A pot inspired by the castle of Puebla de Sanabria"
+[[files]]
+name = "STL files/castillo-fuera.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTA2MDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/castillo-macho.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTA2MDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/castillo-tejadomacho.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTA2MDI="
+mimetype = "application/sla"
+

@@ -1,0 +1,7 @@
+name = "math"
+repo = "https://wikifactory.com/@venven/math"
+version = "20210327155841"
+spdx-license = "N/A"
+licensor = "venven faustino"
+documentation-language = "en"
+function = "fre"

@@ -1,0 +1,18 @@
+name = "Soloshop"
+repo = "https://wikifactory.com/@j4coligado/soloshop"
+version = "20210204052126"
+spdx-license = "N/A"
+licensor = "Joel Coligado"
+documentation-language = "it"
+image = "https://wikifactory.com/files/RmlsZTo1MzYwNTg="
+function = "Biometric fingerprint super vendo convenience store"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzYwNTA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Soloshop.docx"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzU5ODc="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+

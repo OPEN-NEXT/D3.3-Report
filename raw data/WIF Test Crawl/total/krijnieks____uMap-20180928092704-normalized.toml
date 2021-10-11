@@ -1,0 +1,13 @@
+name = "uMap"
+repo = "https://wikifactory.com/@krijnieks/umap"
+version = "20180928092704"
+spdx-license = "CC-BY-4.0"
+licensor = "Krisjanis Rijnieks"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjk1NA=="
+function = "Fab Academy final project, a miniature media player with projection mapping capabilities. It is based on the Raspberry Pi Zero W minicomputer, has a custom shield that works as an interface for simple projection mapping adjustments. A web interface is available to create complex compositions."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMjk1MQ=="
+mimetype = "{text/plain,NULL}"
+

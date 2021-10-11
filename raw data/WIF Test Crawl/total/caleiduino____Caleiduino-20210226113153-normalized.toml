@@ -1,0 +1,263 @@
+name = "Caleiduino"
+repo = "https://wikifactory.com/@caleiduino/caleiduino"
+version = "20210226113153"
+spdx-license = "N/A"
+licensor = "José Manuel González Martínez"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTozOTI1ODQ="
+function = "CALEIDUINO es un caleidoscopio digital sonoro interactivo basado en Arduino. CALEIDUINO es un juguete, un objeto artístico y una herramienta para aprender electrónica y programación de una forma lúdica y creativa.\nWEB: www.caleiduino.com"
+[[files]]
+name = "Caleiduino 1.0/Manual/Manual_A_1.0.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM0MjY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Caleiduino 1.0/Manual/Manual_B_1.0.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM0MjU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Caleiduino 1.0/Manual/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA1OTc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Caleiduino 1.0/PCB/Archivos_PCB/Caleiduino_1.0.GBL"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM1MDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 1.0/PCB/Archivos_PCB/Caleiduino_1.0.GBO"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM1MjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 1.0/PCB/Archivos_PCB/Caleiduino_1.0.GBS"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM1MjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 1.0/PCB/Archivos_PCB/Caleiduino_1.0.GKO"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM1MDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 1.0/PCB/Archivos_PCB/Caleiduino_1.0.GTO"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM1MDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 1.0/PCB/Archivos_PCB/Caleiduino_1.0.GTS"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM0OTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 1.0/PCB/Archivos_PCB/Caleiduino_1.0.TXT"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM0OTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 1.0/PCB/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM1NTA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Caleiduino 1.0/Piezas_Láser/CALEIDUINO_1.0_Piezas.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM0MDg="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Caleiduino 1.0/Piezas_Láser/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM0MTY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Caleiduino 1.0/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDc1OTU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Caleiduino 2.0/Manual/Manual_2.0.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM0MzI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Caleiduino 2.0/Manual/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA1OTk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Caleiduino 2.0/PCB/Archivos_PCB/Caleiduino_v2.GBL"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM1ODg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 2.0/PCB/Archivos_PCB/Caleiduino_v2.GBO"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM1OTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 2.0/PCB/Archivos_PCB/Caleiduino_v2.GBS"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM1ODY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 2.0/PCB/Archivos_PCB/Caleiduino_v2.GKO"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM1OTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 2.0/PCB/Archivos_PCB/Caleiduino_v2.GTL"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM2MDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 2.0/PCB/Archivos_PCB/Caleiduino_v2.GTO"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM1OTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 2.0/PCB/Archivos_PCB/Caleiduino_v2.GTS"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM1ODI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 2.0/PCB/Archivos_PCB/Caleiduino_v2.TXT"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM1OTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Caleiduino 2.0/PCB/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM2MDc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Caleiduino 2.0/Piezas_Láser/CALEIDUINO_2.0_Piezas.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozOTMzOTc="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Caleiduino 2.0/Piezas_Láser/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM0MjI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Caleiduino 2.0/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDc2MDA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Fotos y vídeos/Fotos/IMG_0022.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozOTMzNzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Fotos y vídeos/Fotos/IMG_3528.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozOTMzNzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Fotos y vídeos/Fotos/IMG_20161229_235227.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTMzNzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Fotos y vídeos/Fotos/IMG_20170319_112204.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTMzNzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Fotos y vídeos/Fotos/IMG_20170402_112005.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTMzNzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Fotos y vídeos/Fotos/IMG_20170509_171108.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTMzNzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Fotos y vídeos/Fotos/IMG_20170604_001542.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTMzNzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Fotos y vídeos/Vídeos/18484800_202561430253827_4205679083444502528_n.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozOTMzODA="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozOTI1ODU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDc2MjM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Software/Caleiduino_basico/CALEIDUINO_1.ino"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM2NTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/Caleiduino_Lisboa_workshop/CALEIDUINO_Lisboa.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTk0MTE="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software/Caleiduino_Lisboa_workshop/colores.h"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTk0MTA="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Software/Caleiduino_Lisboa_workshop/notas.h"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTk0MDk="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Software/Caleiduino_MIDI/Programa_MIDI/caleiduino_MIDI.ino"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM3MTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/Caleiduino_MIDI/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM3Mjg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Software/Caleiduino_Visualizador/Programa_Arduino/Caleiduino_arduino.ino"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM2Njg="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software/Caleiduino_Visualizador/Programa_Processing/Caleiduino_processing.pde"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM2NzI="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software/Caleiduino_Visualizador/Programa_Processing/composition.pde"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM2NzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/Caleiduino_Visualizador/Programa_Processing/serialEvent.pde"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM2NzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/Caleiduino_Visualizador/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTM3MTI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Software/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDc2MDQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Unidad didáctica/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDc2MDg="
+mimetype = "text/markdown"
+

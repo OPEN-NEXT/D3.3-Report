@@ -1,0 +1,7 @@
+name = "Ash"
+repo = "https://wikifactory.com/@ashimhealthcare/ash"
+version = "20201031032316"
+spdx-license = "N/A"
+licensor = "Ashim Kumar"
+documentation-language = "en"
+function = "Connected Devices and continuous monitoring"

@@ -1,0 +1,7 @@
+name = "deskIT"
+repo = "https://wikifactory.com/@fabrix8/deskit"
+version = "20200623040642"
+spdx-license = "N/A"
+licensor = "Fabrizio Escudero"
+documentation-language = "es"
+function = "Consiste en un objeto cuya finalidad es la de sostener un conjunto de piezas que el usuario considere necesarias para llevar adelante proyecto vinculado a lo plastico o la planificacion de tareas."

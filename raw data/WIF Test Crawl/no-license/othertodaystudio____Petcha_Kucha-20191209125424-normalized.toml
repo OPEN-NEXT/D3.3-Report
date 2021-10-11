@@ -1,0 +1,13 @@
+name = "Petcha Kucha"
+repo = "https://wikifactory.com/@danbalint/petcha-kucha"
+version = "20191209125424"
+spdx-license = "N/A"
+licensor = "Dan Balint"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODAyNTk="
+function = "Exploring consumerism through human psychology"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk1MDE="
+mimetype = "text/markdown"
+

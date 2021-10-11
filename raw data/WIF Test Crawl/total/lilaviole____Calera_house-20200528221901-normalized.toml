@@ -1,0 +1,17 @@
+name = "Calera house"
+repo = "https://wikifactory.com/@lilaviole/calera-house"
+version = "20200528221901"
+spdx-license = "N/A"
+licensor = "Violeta"
+documentation-language = "en"
+function = "I'm adding 2 rooms to my countryside house"
+[[files]]
+name = "/calera2.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ5Nzg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/calera2.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ5Nzc="
+mimetype = "image/vnd.dwg"
+

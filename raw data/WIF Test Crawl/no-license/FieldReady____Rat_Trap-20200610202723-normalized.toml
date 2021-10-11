@@ -1,0 +1,28 @@
+name = "Rat Trap"
+repo = "https://wikifactory.com/@ekt17/rat-trap"
+version = "20200610202723"
+spdx-license = "N/A"
+licensor = "Ellen Troyanosky"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzgwMzc="
+function = "A mouse trap by using a PET bottle and few household stationery"
+[[files]]
+name = "/GN015_Image1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzgwMzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/GN015_Image_Use.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzgwMzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/GN015_Manual.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozNzgwMzI="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzgwNDE="
+mimetype = "text/markdown"
+

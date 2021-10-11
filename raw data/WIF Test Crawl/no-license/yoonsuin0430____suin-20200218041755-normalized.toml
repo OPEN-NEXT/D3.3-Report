@@ -1,0 +1,7 @@
+name = "suin"
+repo = "https://wikifactory.com/@yoonsuin0430/suin"
+version = "20200218041755"
+spdx-license = "N/A"
+licensor = "yoonsuin0430"
+documentation-language = "en"
+function = "arduino&3Dprinting"

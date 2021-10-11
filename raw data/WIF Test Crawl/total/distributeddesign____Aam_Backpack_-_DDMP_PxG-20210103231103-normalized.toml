@@ -1,0 +1,13 @@
+name = "Aam Backpack - DDMP PxG"
+repo = "https://wikifactory.com/@flowalistik/ddmp-table-backpack"
+version = "20210103231103"
+spdx-license = "N/A"
+licensor = "Agustín \"Flowalistik\" Arroyo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTYyNzE="
+function = "Learn how to make your own backpack-table using only Precious Plastic machines and methods."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTI2NDc="
+mimetype = "text/markdown"
+

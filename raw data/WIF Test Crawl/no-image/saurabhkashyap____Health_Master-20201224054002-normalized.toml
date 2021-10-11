@@ -1,0 +1,7 @@
+name = "Health Master"
+repo = "https://wikifactory.com/@saurabhkashyap/health-master"
+version = "20201224054002"
+spdx-license = "N/A"
+licensor = "Saurabh Kashyap"
+documentation-language = "en"
+function = "Detects whether the the water is drinkable or not"

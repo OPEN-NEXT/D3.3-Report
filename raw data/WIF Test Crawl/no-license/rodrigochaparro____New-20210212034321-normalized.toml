@@ -1,0 +1,7 @@
+name = "New"
+repo = "https://wikifactory.com/@rodrigochaparro/new"
+version = "20210212034321"
+spdx-license = "N/A"
+licensor = "Rodrigo Chaparro"
+documentation-language = "en"
+function = "test\nNew"

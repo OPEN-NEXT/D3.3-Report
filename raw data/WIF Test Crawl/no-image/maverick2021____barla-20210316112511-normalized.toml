@@ -1,0 +1,7 @@
+name = "barla"
+repo = "https://wikifactory.com/@maverick2021/barla"
+version = "20210316112511"
+spdx-license = "N/A"
+licensor = "manolito valiente"
+documentation-language = "en"
+function = "test proj"

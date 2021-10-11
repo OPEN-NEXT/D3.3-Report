@@ -1,0 +1,7 @@
+name = "Save The Earth"
+repo = "https://wikifactory.com/@oladotun/save-the-earth"
+version = "20200716181635"
+spdx-license = "N/A"
+licensor = "Oladotun Dagunduro"
+documentation-language = "en"
+function = "A Fluid Simulation Animation experience created as a campaign against water pollution"

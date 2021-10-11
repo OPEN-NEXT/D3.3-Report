@@ -1,0 +1,12 @@
+name = "Eletrofloculação "
+repo = "https://wikifactory.com/@robertomal20/eletrofloculação"
+version = "20210103134857"
+spdx-license = "N/A"
+licensor = "ROBERTO MALISKA"
+documentation-language = "pt"
+function = "Squis\nEqu\nEquipamento de eletrofloculação para tratamento de água e efluente"
+[[files]]
+name = "Eletrofloculação/IMG-20200728-WA0003.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTI0ODg="
+mimetype = "image/jpeg"
+

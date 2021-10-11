@@ -1,0 +1,13 @@
+name = "Cours general Imp3D"
+repo = "https://wikifactory.com/@v1v13n1/cours-impression-3d"
+version = "20200409103105"
+spdx-license = "N/A"
+licensor = "vivien roussel"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTozMzMxODI="
+function = "les bases pour commencer et vraiment comprendre"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzI5MTA="
+mimetype = "text/markdown"
+

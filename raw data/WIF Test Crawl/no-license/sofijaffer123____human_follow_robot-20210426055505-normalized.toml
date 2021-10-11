@@ -1,0 +1,7 @@
+name = "human follow robot"
+repo = "https://wikifactory.com/@sofijaffer123/human-follow-robot"
+version = "20210426055505"
+spdx-license = "N/A"
+licensor = "sofijaffer123"
+documentation-language = "en"
+function = "It used 2 IR sensors and an ultrasonic sensor. IR sensors used to follow the human or object and ultrasonic sensor is used to move back the robot."

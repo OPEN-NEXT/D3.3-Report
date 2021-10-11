@@ -1,0 +1,7 @@
+name = "Complete recording studio"
+repo = "https://wikifactory.com/@kalimike/complete-recording-studio"
+version = "20210314161957"
+spdx-license = "N/A"
+licensor = "Mike"
+documentation-language = "en"
+function = "All raspberry doftware and hardware. 1.the recording and mixing software for audio and video.\n<ol><li>The interfaces to connect all recording hardware including instrum ents .</li><li>Compatible with ALL connectors,codecs, and industry standards.</li></ol>In one word. Complete,versatile,professional."

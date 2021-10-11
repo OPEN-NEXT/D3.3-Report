@@ -1,0 +1,7 @@
+name = "Organic mall"
+repo = "https://wikifactory.com/@elwataniya1/organic-mall"
+version = "20200319173812"
+spdx-license = "N/A"
+licensor = "elwataniya1"
+documentation-language = "ro"
+function = "organic\ufeff agriculture and product"

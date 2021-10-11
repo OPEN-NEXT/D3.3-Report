@@ -1,0 +1,28 @@
+name = "Rochester e-NABLE Lab"
+repo = "https://wikifactory.com/@jonschull/rochester-e-nable-lab"
+version = "20190423184416"
+spdx-license = "N/A"
+licensor = "Jon Schull"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTYxMjQ="
+function = "Our projects and other stuff"
+[[files]]
+name = "Filament Fault Detector/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTYyMDM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "magnetic drinky pinky/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg2NzQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTYyNzE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Snap finger joints/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTYxNDM="
+mimetype = "text/markdown"
+

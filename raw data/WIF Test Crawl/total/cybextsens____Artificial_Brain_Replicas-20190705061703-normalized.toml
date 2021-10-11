@@ -1,0 +1,13 @@
+name = "Artificial Brain Replicas"
+repo = "https://wikifactory.com/@diego/artificial-brain-replicas"
+version = "20190705061703"
+spdx-license = "N/A"
+licensor = "Diego Rasero"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjM2OTY="
+function = "Export your brain to software to be able to run multiple threads of focused thinking and be able to solve the different parts of a big problem at the same time."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjM2OTA="
+mimetype = "text/markdown"
+

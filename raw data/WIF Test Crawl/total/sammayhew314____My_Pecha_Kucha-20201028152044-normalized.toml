@@ -1,0 +1,13 @@
+name = "My Pecha Kucha"
+repo = "https://wikifactory.com/@sammayhew314/my-pecha-kucha"
+version = "20201028152044"
+spdx-license = "N/A"
+licensor = "Sam Mayhew"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NjM4MDQ="
+function = "A Pecha Kucha focused on cars and its history."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkzNDg="
+mimetype = "text/markdown"
+

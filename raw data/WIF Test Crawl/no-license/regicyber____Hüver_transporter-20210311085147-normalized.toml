@@ -1,0 +1,7 @@
+name = "Hüver transporter"
+repo = "https://wikifactory.com/@regicyber/hüver-transporter"
+version = "20210311085147"
+spdx-license = "N/A"
+licensor = "Peter O. Eno"
+documentation-language = "en"
+function = "Open source air transportation system in Nigeria"

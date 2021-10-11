@@ -1,0 +1,12 @@
+name = "personal-trainer"
+repo = "https://wikifactory.com/@noutsourou/personal-trainer"
+version = "20201209231709"
+spdx-license = "N/A"
+licensor = "noutsourou"
+documentation-language = "en"
+function = "A vibration based biofeedback using motion tracking"
+[[files]]
+name = "/untitled.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTcyMzQ="
+mimetype = "model/x.stl-binary"
+

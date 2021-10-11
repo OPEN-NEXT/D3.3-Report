@@ -1,0 +1,33 @@
+name = "Motor total// hidráulico"
+repo = "https://wikifactory.com/@jandromartillo/motor-total-hidráulico"
+version = "20201224165708"
+spdx-license = "CC0-1.0"
+licensor = "Alejandro Martínez Castillo"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo1MDY2MDM="
+function = "Un motor a combustión revolucionario por un muy innovativo componente \"rectificador hidráulico\" que convierte un flujo hidráulico alternante en un flujo \"continuo\" con válvulas automáticas. Este flujo es transferido directamente a turbina(s) hidráulica(s)  para producir potencia rotacional en eje."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTg5Mjg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Motor Totalmente Hidraulico v4.2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDc1NTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Prototipo Facil.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDY2NDE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDc1NTE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Turbina hidraulica axial.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDIzMTU="
+mimetype = "application/pdf"
+

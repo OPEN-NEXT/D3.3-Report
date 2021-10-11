@@ -1,0 +1,17 @@
+name = "Skybee"
+repo = "https://wikifactory.com/@gignalillo/skybee"
+version = "20200213190903"
+spdx-license = "N/A"
+licensor = "Gabriel Lillo"
+documentation-language = "en"
+function = "Arduino Manuals"
+[[files]]
+name = "Librerias/MaxMatrix.zip"
+permalink = "https://wikifactory.com/files/RmlsZTozMDYxMzU="
+mimetype = "application/zip"
+
+[[files]]
+name = "Librerias/pitches.zip"
+permalink = "https://wikifactory.com/files/RmlsZTozMDYxNjI="
+mimetype = "application/zip"
+

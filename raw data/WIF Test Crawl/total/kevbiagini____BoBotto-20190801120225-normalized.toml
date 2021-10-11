@@ -1,0 +1,38 @@
+name = "BoBotto"
+repo = "https://wikifactory.com/@kevbiagini/bobotto"
+version = "20190801120225"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "kevbiagini"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjgzNjM="
+function = "Hes back and better than ever. i took the otto humanoid idea and tweaked it to look closer to the 2nd gen BoB design. A few improvement were added and some still being worked on. including removable front plates for the head and body that will allow the user change out \"eyes\" and \"mouths\""
+[[files]]
+name = "/bobottoarm.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/bobottobody.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/bobottoFootL.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/bobottoHead.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/bobottoleg.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNjQ="
+mimetype = "text/plain"
+

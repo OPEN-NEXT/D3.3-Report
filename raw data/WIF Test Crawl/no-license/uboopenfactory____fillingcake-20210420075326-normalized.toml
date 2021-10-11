@@ -1,0 +1,13 @@
+name = "fillingcake"
+repo = "https://wikifactory.com/@ndubo/fillingcake"
+version = "20210420075326"
+spdx-license = "N/A"
+licensor = "Nicolas Decourcelle"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODQ0NzE="
+function = "ESIAB's students are created 3D modelling moulds with serveral parts in order to combin differents doughs (shape, color and texture) in a cake. Project under CC-BY-NC-ND 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ0NzY="
+mimetype = "text/markdown"
+

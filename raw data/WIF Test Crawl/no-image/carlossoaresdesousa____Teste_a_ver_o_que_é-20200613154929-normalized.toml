@@ -1,0 +1,7 @@
+name = "Teste a ver o que é"
+repo = "https://wikifactory.com/@carlossoaresdesousa/teste-a-ver-o-que-é"
+version = "20200613154929"
+spdx-license = "N/A"
+licensor = "carlossoaresdesousa"
+documentation-language = "en"
+function = "Pois...."

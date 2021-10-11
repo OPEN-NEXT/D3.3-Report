@@ -1,0 +1,7 @@
+name = "Schoolmate"
+repo = "https://wikifactory.com/@sadiqmasi/schoolmate"
+version = "20201029202724"
+spdx-license = "N/A"
+licensor = "Sadiq Muhammad "
+documentation-language = "en"
+function = "Simple communication with friends and family"

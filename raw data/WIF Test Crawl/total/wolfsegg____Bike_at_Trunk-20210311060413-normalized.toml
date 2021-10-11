@@ -1,0 +1,23 @@
+name = "Bike at Trunk"
+repo = "https://wikifactory.com/@wolfsegg/bike-at-trunk"
+version = "20210311060413"
+spdx-license = "N/A"
+licensor = "Michael A"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NjQ3Mjk="
+function = "Design a fixation to fix bike vertically in the trunck of a car. (Sion)"
+[[files]]
+name = "/20210305_171733.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjQ3MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20210305_171745.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjQ3MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20210305_171911.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjQ3MTg="
+mimetype = "image/jpeg"
+

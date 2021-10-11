@@ -1,0 +1,7 @@
+name = "Bibi"
+repo = "https://wikifactory.com/@tsaguesilva/bibi"
+version = "20201101204621"
+spdx-license = "N/A"
+licensor = "tsaguesilva"
+documentation-language = "en"
+function = "Buying and selling articles."

@@ -1,0 +1,7 @@
+name = "hover bike"
+repo = "https://wikifactory.com/@pradeepdwivedy/hover-bike"
+version = "20210103085843"
+spdx-license = "N/A"
+licensor = "pradeep dwiveedy"
+documentation-language = "en"
+function = "A bike which runs on clean energy and on a jet kind engine by hovering on surface"

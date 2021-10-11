@@ -1,0 +1,13 @@
+name = "Plastic Kitchen"
+repo = "https://wikifactory.com/@garowello/plastic-kitchen"
+version = "20201110163822"
+spdx-license = "N/A"
+licensor = "Gareth Owen Lloyd"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NzIyMzQ="
+function = "A simple method for making things with recycled plastic using only items from the supermarket. This guide includes how to make a sheet and how to make a basic hook. \n<a href=\"https://twitter.com/plastic_kitchen\">https://twitter.com/plastic_kitchen</a>"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzIyMzU="
+mimetype = "text/markdown"
+

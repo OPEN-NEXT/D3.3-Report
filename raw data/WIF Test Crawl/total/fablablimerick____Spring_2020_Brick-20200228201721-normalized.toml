@@ -1,0 +1,123 @@
+name = "Spring 2020: Brick"
+repo = "https://wikifactory.com/@javierburongarcia/spring-2020-brick"
+version = "20200228201721"
+spdx-license = "N/A"
+licensor = "Javier Buron"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNjE1NTg="
+function = "space for SAUL Spring 2020 Elective - Open sourcin' +CityxChange. Brick Project"
+[[files]]
+name = "3D Printing Model/SCK_Stand_3Dmodel.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwNTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "ArchiCAD 3D File/ArchiCAD Model File.pln"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwMzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Images and Videos/3D Print Test 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and Videos/3D Print Test 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5NjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and Videos/3D Print Test 3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and Videos/3D Print Test 4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and Videos/Bricks after Bending.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5NzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and Videos/City Map.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and Videos/Georgian Corner 1.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5Mzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and Videos/Georgian Corner 2.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and Videos/Georgian Corner 3.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5NDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and Videos/Heating Acrylic.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5NzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and Videos/Machine Used.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and Videos/Perspective view of proposed.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and Videos/Superimposed onto existing fabric.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5NDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images and Videos/Video - Laser Cutting Acrylic.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEzNTI="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Images and Videos/Video- Bending Acrylic.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA5NzU="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Laser Cutting Vector Files/Clear Acrylic Base Laser Cut File.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwMzI="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Laser Cutting Vector Files/Orange Acrylic Laser Cut File.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwMzE="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Laser Cutting Vector Files/Purple Acrylic Laser Cut File.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwMzM="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Laser Cutting Vector Files/Red Acrylic Laser Cut File.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE0NjY="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE1MTI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Sticker Vector Files/Stickers for Vinyl Cutting.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEzNDU="
+mimetype = "image/vnd.dwg"
+

@@ -1,0 +1,23 @@
+name = "The Fab Lab Life Cycle"
+repo = "https://wikifactory.com/@pvdhyden-3829b/the-fab-lab-life-cycle"
+version = "20190820111334"
+spdx-license = "N/A"
+licensor = "Pieter van der Hijden"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDE2MDk="
+function = "The Fab Lab Life Cycle is a workshop format to discuss setting-up and running a fab lab AND it is a report with the outcomes of a such workshop sessions."
+[[files]]
+name = "/FINAL Report of the Fab Lab Life Cycle Workshops.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDE1Nzg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDE1ODI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDE1ODU="
+mimetype = "text/markdown"
+

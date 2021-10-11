@@ -1,0 +1,7 @@
+name = "Treble"
+repo = "https://wikifactory.com/@rsramakash/treble"
+version = "20210415081536"
+spdx-license = "N/A"
+licensor = "Ram Akash"
+documentation-language = "en"
+function = "Just a table."

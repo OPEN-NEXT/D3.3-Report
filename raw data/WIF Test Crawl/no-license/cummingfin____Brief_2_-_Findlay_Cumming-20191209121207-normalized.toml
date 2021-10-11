@@ -1,0 +1,13 @@
+name = "Brief 2 - Findlay Cumming"
+repo = "https://wikifactory.com/@cummingfin/one-sheet-beehive"
+version = "20191209121207"
+spdx-license = "N/A"
+licensor = "cummingfin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODk0NDU="
+function = "The project brief was to design a product from one sheet that was post-able and had as little waste as possible I wanted to use hexagons and began by looking at how I could fold these hexagons in different ways to create  portable ash tray which I then adapted into a beehive made from canvas."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk0NDA="
+mimetype = "text/markdown"
+

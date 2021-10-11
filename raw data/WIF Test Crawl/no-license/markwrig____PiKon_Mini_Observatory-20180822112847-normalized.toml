@@ -1,0 +1,8 @@
+name = "PiKon Mini Observatory "
+repo = "https://wikifactory.com/@markwrig/pikon-mini-observatory"
+version = "20180822112847"
+spdx-license = "N/A"
+licensor = "Mark Wrigley"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMDMxMw=="
+function = "WeMakeWorks, a Sheffield (England) based maker space is working with Elektric-Tube to build a portable, digitally manufactured observatory to house a PiKon telescope. For further information email: projects@wemakeworks.com"

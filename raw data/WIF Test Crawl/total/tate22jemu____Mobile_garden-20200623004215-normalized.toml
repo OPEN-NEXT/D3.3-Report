@@ -1,0 +1,7 @@
+name = "Mobile garden "
+repo = "https://wikifactory.com/@tate22jemu/mobile-garden"
+version = "20200623004215"
+spdx-license = "N/A"
+licensor = "tate22jemu"
+documentation-language = "en"
+function = "Self sustaining mobile garden"

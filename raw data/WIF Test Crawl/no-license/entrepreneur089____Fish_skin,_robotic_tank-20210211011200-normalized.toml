@@ -1,0 +1,7 @@
+name = "Fish skin, robotic tank "
+repo = "https://wikifactory.com/@entrepreneur089/fish-skin-robotic-tank"
+version = "20210211011200"
+spdx-license = "N/A"
+licensor = "Harsh"
+documentation-language = "en"
+function = "1. Creating artificial skin that mimics characteristics, density & other properties of a fish \n\n2. A small tank that runs on tanks tracks with offroad capabilities but instead of climbing on tough terrains, it simply jumps over it by mechanism under its belly & maintains its speed & position."

@@ -1,0 +1,7 @@
+name = "test projcet "
+repo = "https://wikifactory.com/@josephaklatt/test-projcet"
+version = "20210204181942"
+spdx-license = "N/A"
+licensor = "josephaklatt"
+documentation-language = "en"
+function = "test project"

@@ -1,0 +1,63 @@
+name = "Mid Autumn Lantern"
+repo = "https://wikifactory.com/@hosythanh14/mid-autumn-lantern"
+version = "20200303045920"
+spdx-license = "GPL-3.0"
+licensor = "hosythanh14"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTA3NDk="
+function = "For this project I would like to make an outfit for a lantern which is used for a traditional festival in my country (Vietnam).\nThe image beside is a blueprint that I will base my lantern on. There will be also patterns on it instead of mere color like this."
+[[files]]
+name = "/50%.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyOTA4NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/80% of first model.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyOTA4Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/best model so far.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyOTA4NjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/First big model.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyOTA4Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/First model aligned.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyOTA4Njg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/improved connections.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyOTA4NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyOTA4NzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "new design idea/20200117_020810.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTg5MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "new design idea/lantern custom module v2.png"
+permalink = "https://wikifactory.com/files/RmlsZToyOTkwOTk="
+mimetype = "image/png"
+
+[[files]]
+name = "new design idea/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDAxMDQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTIyNTc="
+mimetype = "text/markdown"
+

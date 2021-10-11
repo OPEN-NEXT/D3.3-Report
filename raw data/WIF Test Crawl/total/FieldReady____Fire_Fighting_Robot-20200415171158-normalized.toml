@@ -1,0 +1,33 @@
+name = "Fire Fighting Robot"
+repo = "https://wikifactory.com/@patrickflaherty/fire-fighting-robot"
+version = "20200415171158"
+spdx-license = "CC-BY-4.0"
+licensor = "Patrick Flaherty"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzYwNzk="
+function = "Used in rescue operations to extinguish fire."
+[[files]]
+name = "Drawing Pack/DR005_Image1.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzYwNzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Drawing Pack/DR005_Image2.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzYwNzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Drawing Pack/DR005_Image3.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzYwNzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMzYwODA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcwNTc="
+mimetype = "text/plain"
+

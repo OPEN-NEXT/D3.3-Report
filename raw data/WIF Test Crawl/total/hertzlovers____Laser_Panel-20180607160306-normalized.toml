@@ -1,0 +1,23 @@
+name = "Laser Panel"
+repo = "https://wikifactory.com/@retosmontesquieu/laser-panel"
+version = "20180607160306"
+spdx-license = "CC-BY-4.0"
+licensor = "Alejandro Fabregas Brieva"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozODk2"
+function = "The Laser Absorbent Panel is a digital manufacturing solution to reduce the <a href=\"https://en.wikipedia.org/wiki/Reverberation\">reverberation</a> of a room."
+[[files]]
+name = "/laser-panel.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozODk4"
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTQ2"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTMw"
+mimetype = "text/markdown"
+

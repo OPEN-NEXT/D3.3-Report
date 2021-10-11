@@ -1,0 +1,13 @@
+name = "Outlive the consumer"
+repo = "https://wikifactory.com/@kylewitheydesign/outlive-the-consumer"
+version = "20210204144819"
+spdx-license = "N/A"
+licensor = "Kyle Dean Withey"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjM0MTY="
+function = "In this, i focus on design with the intent to outlive the consumer.\n\nDesigner: @kylewitheydesign\nDesigned on the Distributed Design Studio with @othertoday on Product Design with Professional Experience BSc(Hons) at Brighton University"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzYyMjg="
+mimetype = "text/markdown"
+

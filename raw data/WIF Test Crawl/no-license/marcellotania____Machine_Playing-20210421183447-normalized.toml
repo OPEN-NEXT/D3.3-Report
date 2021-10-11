@@ -1,0 +1,38 @@
+name = "Machine Playing"
+repo = "https://wikifactory.com/@marcellotania/machine-playing"
+version = "20210421183447"
+spdx-license = "N/A"
+licensor = "Marcello Tania"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODk1MzM="
+function = "How to make a machine that learn how to play a flappy bird?"
+[[files]]
+name = "Harware/STL/hammer.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk0ODg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Harware/STL/house.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk0ODk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/LICENSE"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk0OTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk1MTg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Software/Microcontroller/FlappyBird.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk0OTA="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Software/Python/AI_FlappyBirdUpadate.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk0OTE="
+mimetype = "text/x-python"
+

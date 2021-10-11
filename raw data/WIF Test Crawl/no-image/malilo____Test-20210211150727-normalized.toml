@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@malilo/test"
+version = "20210211150727"
+spdx-license = "N/A"
+licensor = "Mauricio Torres"
+documentation-language = "en"
+function = "I am new here and am experimenting."

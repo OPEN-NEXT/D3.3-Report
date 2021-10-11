@@ -1,0 +1,7 @@
+name = "Glem"
+repo = "https://wikifactory.com/@glem141/glem-54a44"
+version = "20210429130115"
+spdx-license = "N/A"
+licensor = "Glem"
+documentation-language = "en"
+function = "To weld a material"

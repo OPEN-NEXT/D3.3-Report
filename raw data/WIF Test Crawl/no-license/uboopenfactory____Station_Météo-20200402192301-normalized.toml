@@ -1,0 +1,38 @@
+name = "Station Météo"
+repo = "https://wikifactory.com/@yquere/station-météo"
+version = "20200402192301"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTozMTUxMjM="
+function = "Conception d'une station météo dans le cadre d'un projet de l'OpenFactory de l'UBO de Brest."
+[[files]]
+name = "/ADEL LA LAMPE.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI0NTA="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Liste UBOUOF.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZTozMjgxNTk="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "/pieuvre_de_la_station_meteo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTUxMTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README 03-03-20.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI0ODY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjgwODY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/WIN_20200303_19_09_21_Pro.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI0Njg="
+mimetype = "image/jpeg"
+

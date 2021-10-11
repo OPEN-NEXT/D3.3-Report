@@ -1,0 +1,7 @@
+name = "Free hunger"
+repo = "https://wikifactory.com/@kiru005/free-hunger"
+version = "20200630172451"
+spdx-license = "N/A"
+licensor = "Tharmalingam Kirubendran"
+documentation-language = "en"
+function = "To provide food and clothing to charity,  that we throw away"

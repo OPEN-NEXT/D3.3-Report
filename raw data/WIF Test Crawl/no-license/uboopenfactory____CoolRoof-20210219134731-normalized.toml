@@ -1,0 +1,92 @@
+name = "CoolRoof"
+repo = "https://wikifactory.com/@laurent-marchal/coolroof"
+version = "20210219134731"
+spdx-license = "N/A"
+licensor = "MARCHAL Laurent"
+documentation-language = "fr"
+function = "Déploiement d'un réseau de 40 capteurs de température en 2 sous réseaux Xbee avec émission Lora des informations recueillies."
+[[files]]
+name = "dessins/architecture d'un reseau.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUxNDA="
+mimetype = "image/png"
+
+[[files]]
+name = "dessins/Architecture_terminal.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUxNDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Module alimentation/Assemblage module alimentation.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU2ODQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Module alimentation/CoolRoof - Terminal - Module alimentation - Implantation.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU2ODg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Module alimentation/CoolRoof - Terminal - Module Xbee - Schema electrique.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU2ODk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Module alimentation/CoolRoof Terminal Module alimentation.brd"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU2ODU="
+mimetype = "application/xml"
+
+[[files]]
+name = "Module alimentation/CoolRoof Terminal Module alimentation.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU2ODc="
+mimetype = "application/xml"
+
+[[files]]
+name = "Module Xbee/Assemblage module Xbee.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU2NDI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Module Xbee/Module Xbee - boitier.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUxNjM="
+mimetype = "application/zip"
+
+[[files]]
+name = "Module Xbee/Module Xbee - boitier.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUxNjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Module Xbee/Module Xbee - couvercle.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUxNjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "Module Xbee/Module Xbee - Implantation.brd"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUxNTc="
+mimetype = "application/xml"
+
+[[files]]
+name = "Module Xbee/Module Xbee - Implantation.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUxNjA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Module Xbee/Module Xbee - Schema electrique.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUxNTk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Module Xbee/module xbee architecture.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU2NjM="
+mimetype = "image/png"
+
+[[files]]
+name = "Module Xbee/module xbee- Schema electrique.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUxNTg="
+mimetype = "application/xml"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU3MDA="
+mimetype = "text/markdown"
+

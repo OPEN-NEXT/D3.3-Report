@@ -1,0 +1,12 @@
+name = "FT"
+repo = "https://wikifactory.com/@laddaextra/ft"
+version = "20210210033610"
+spdx-license = "N/A"
+licensor = "laddaextra"
+documentation-language = "en"
+function = "bfb"
+[[files]]
+name = "/Part6.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzkyNDc="
+mimetype = "application/octet-stream"
+

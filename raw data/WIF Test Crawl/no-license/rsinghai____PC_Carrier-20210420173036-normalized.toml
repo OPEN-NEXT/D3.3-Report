@@ -1,0 +1,7 @@
+name = "PC Carrier"
+repo = "https://wikifactory.com/@rsinghai/pc-carrier"
+version = "20210420173036"
+spdx-license = "N/A"
+licensor = "Dr Rakesh Singhai"
+documentation-language = "en"
+function = "W\ufeffant to take PC on two wheeler for teaching purpose."

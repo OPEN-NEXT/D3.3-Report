@@ -1,0 +1,7 @@
+name = "house maker"
+repo = "https://wikifactory.com/@opotaru/house-maker"
+version = "20210118142521"
+spdx-license = "N/A"
+licensor = "opotaru"
+documentation-language = "en"
+function = "making affordable house"

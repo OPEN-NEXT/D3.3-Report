@@ -1,0 +1,18 @@
+name = "DC board"
+repo = "https://wikifactory.com/@thodoris/dc-board"
+version = "20201014151508"
+spdx-license = "N/A"
+licensor = "Theodoros Panagopoulos"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTMzOTk="
+function = "Uninterrupted DC distribution on a surface."
+[[files]]
+name = "/3 motor.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTMzOTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTMzOTY="
+mimetype = "text/markdown"
+

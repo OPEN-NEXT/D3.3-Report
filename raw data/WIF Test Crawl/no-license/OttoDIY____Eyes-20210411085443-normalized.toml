@@ -1,0 +1,48 @@
+name = "Eyes"
+repo = "https://wikifactory.com/@cparrapa/eyes"
+version = "20210411085443"
+spdx-license = "N/A"
+licensor = "Camilo Parra Palacio"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTc5MjU="
+function = "For Otto lovers, this cute member of the Otto family the most emotional robot ever. Easy to assemble <a href=\"https://store.ottodiy.com/product/eyes/\">with our Builder Kit or 3D print then build with our Maker Kit</a>\n<a href=\"https://ottodiy.ecwid.com/Otto-DIY-Maker-Kit-Eyes-p154363156\"></a>"
+[[files]]
+name = "3DPrint/OttoDIY_body_V10.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTUxMTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/OttoDIY_foot_V11A.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTUxMDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/OttoDIY_leg_V10.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTUxMDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/OttoDIYEYES_head_V05.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY4NTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY4NTg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "CAD/LEDeyesPCB.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzE0Nzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Instruction Manual/OttoDIYE_Manual_V9.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyOTQ5OTI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzg3ODA="
+mimetype = "text/markdown"
+

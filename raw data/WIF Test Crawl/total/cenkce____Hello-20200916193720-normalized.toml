@@ -1,0 +1,7 @@
+name = "Hello"
+repo = "https://wikifactory.com/@cenkce/hello"
+version = "20200916193720"
+spdx-license = "N/A"
+licensor = "Cenk Cetinkaya"
+documentation-language = "en"
+function = "Hello"

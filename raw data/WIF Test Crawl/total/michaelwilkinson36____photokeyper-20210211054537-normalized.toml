@@ -1,0 +1,7 @@
+name = "photokeyper"
+repo = "https://wikifactory.com/@michaelwilkinson36/photokeyper"
+version = "20210211054537"
+spdx-license = "N/A"
+licensor = "Michael Wilkinson"
+documentation-language = "af"
+function = "A new book binder"

@@ -1,0 +1,143 @@
+name = "Minimalist maker: SUN LED"
+repo = "https://wikifactory.com/@pietro/minimalist-maker-sun-led"
+version = "20191118043047"
+spdx-license = "N/A"
+licensor = "Pietro Mincuzzi"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODE3NzA="
+function = "Build mostly pointless circuits on a 5 x 6 breadboard.\nFirst project is a pointless sun powered led lamp that only could turn on when is dark."
+[[files]]
+name = "Materials/60113303.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/67793495.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/297393210.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/308172339.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/436222595.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/447045583.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/772215907.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/949357927.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4ODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/1072903391.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4ODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/1346847505.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4ODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/1622617134.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/1671044251.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/1706492560.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/1830785826.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/1946412406.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/1952089113.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4ODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/1968632629.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/1979484612.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4Nzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/2026290507.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/Instruction sheet.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyODE5MzI="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "Materials/Instruction sheet.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyODE5MzE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Materials/webwxgetvideo (1).mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4NzM="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Materials/webwxgetvideo.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyODE4NzU="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Presentation/DIY Gadget Workshop.odp"
+permalink = "https://wikifactory.com/files/RmlsZToyODM4OTg="
+mimetype = "application/vnd.oasis.opendocument.presentation"
+
+[[files]]
+name = "Presentation/DIY Gadget Workshop.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyODM4OTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Presentation/DIY Gadget Workshop.ppt"
+permalink = "https://wikifactory.com/files/RmlsZToyODM4OTY="
+mimetype = "application/vnd.ms-powerpoint"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODM4OTA="
+mimetype = "text/markdown"
+

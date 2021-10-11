@@ -1,0 +1,7 @@
+name = "Robot arm"
+repo = "https://wikifactory.com/@bilelgharbi9/robot-arm"
+version = "20200624014553"
+spdx-license = "N/A"
+licensor = "bilelgharbi9"
+documentation-language = "en"
+function = "My project is an arm which is composed of servomotors, reducers and bodies it can be used in many applications especially industrial fields"

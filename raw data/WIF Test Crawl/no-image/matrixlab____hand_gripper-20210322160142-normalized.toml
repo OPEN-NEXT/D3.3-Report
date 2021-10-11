@@ -1,0 +1,12 @@
+name = "hand gripper "
+repo = "https://wikifactory.com/@adrianamatrix/hand-gripper"
+version = "20210322160142"
+spdx-license = "N/A"
+licensor = "Adriana Cabrera"
+documentation-language = "en"
+function = "-"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzEzMDk="
+mimetype = "text/markdown"
+

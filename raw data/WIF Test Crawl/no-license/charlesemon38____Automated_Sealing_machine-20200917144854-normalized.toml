@@ -1,0 +1,7 @@
+name = "Automated Sealing machine"
+repo = "https://wikifactory.com/@charlesemon38/automated-sealing-machine"
+version = "20200917144854"
+spdx-license = "N/A"
+licensor = "charlesemon38"
+documentation-language = "en"
+function = "The automated sealing machine will be working on the principle of 24v DC power in which the signal of the sensor is power the relays which are connected in series to the motor driving the machine"

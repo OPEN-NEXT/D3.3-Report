@@ -1,0 +1,7 @@
+name = "Crossfruits"
+repo = "https://wikifactory.com/@crossindia/crossfruits"
+version = "20200803194404"
+spdx-license = "N/A"
+licensor = "Jitendra Singh"
+documentation-language = "nl"
+function = "Making fruits vending machine"

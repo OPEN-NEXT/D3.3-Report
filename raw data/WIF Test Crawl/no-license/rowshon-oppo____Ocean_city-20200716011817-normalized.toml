@@ -1,0 +1,7 @@
+name = "Ocean city "
+repo = "https://wikifactory.com/@rowshon-oppo/ocean-city"
+version = "20200716011817"
+spdx-license = "N/A"
+licensor = "Muhammad Rowshon Uddin "
+documentation-language = "en"
+function = "Floating hotels, motels, fuel sales centers as well as hospital services.  Whose main function is to provide a floating city service for merchant ships at sea."

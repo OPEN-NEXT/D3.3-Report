@@ -1,0 +1,7 @@
+name = "Machine "
+repo = "https://wikifactory.com/@karimysf/machine"
+version = "20200716043105"
+spdx-license = "N/A"
+licensor = "Karim Youssouf "
+documentation-language = "en"
+function = "A learning machine"

@@ -1,0 +1,13 @@
+name = "DIY MICRO BIOGAS SYSTEMS"
+repo = "https://wikifactory.com/@till-w/diy-micro-biogas-systems"
+version = "20200305210325"
+spdx-license = "N/A"
+licensor = "Till Wolfer / XYZ CARGO & N55"
+documentation-language = "de"
+image = "https://wikifactory.com/files/RmlsZTozMTM1MTI="
+function = "Wir entwickeln DIY-Biogas-Anlagen im Kleinstformat. Mit ihnen kann man selbst aus Bioabfällen sein eigenes Biogas für den Gaskocher und Dünger für den Garten erzeugen. Sie verwerten Bioabfälle lokal - direkt dort wo sie entstehen. Sie sind einfach durch Dich selbst zu bauen und zu betreiben."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTM1MzE="
+mimetype = "text/markdown"
+

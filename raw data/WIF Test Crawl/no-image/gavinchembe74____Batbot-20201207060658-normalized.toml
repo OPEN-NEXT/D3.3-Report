@@ -1,0 +1,7 @@
+name = "Batbot"
+repo = "https://wikifactory.com/@gavinchembe74/batbot"
+version = "20201207060658"
+spdx-license = "N/A"
+licensor = "gavinchembe74"
+documentation-language = "en"
+function = "I want to use this as a bat that can fly for 1 hour"

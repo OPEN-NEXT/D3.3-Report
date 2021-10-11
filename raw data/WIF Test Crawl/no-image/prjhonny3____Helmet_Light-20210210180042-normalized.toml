@@ -1,0 +1,7 @@
+name = "Helmet Light"
+repo = "https://wikifactory.com/@prjhonny3/helmet-light"
+version = "20210210180042"
+spdx-license = "N/A"
+licensor = "Jhonny P"
+documentation-language = "en"
+function = "I am looking to design helmet light which can be controllable from motorcycle's brake, signal. \nThis light will be wearable on helmet so it increase visibility of rider and avoid potential collision in dark light, rain, fog and other weather conditions.  There is no such product in Indian market."

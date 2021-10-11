@@ -1,0 +1,7 @@
+name = "Samp"
+repo = "https://wikifactory.com/@pcrajabe/samp"
+version = "20201121053454"
+spdx-license = "N/A"
+licensor = "pcrajabe"
+documentation-language = "en"
+function = "Sample"

@@ -1,0 +1,27 @@
+name = "Marwan Arbilei"
+repo = "https://wikifactory.com/@engmna/marwan-arbilei"
+version = "20200627214641"
+spdx-license = "N/A"
+licensor = "Marwan Arbilei"
+documentation-language = "en"
+function = "Informatics Office Manager, Internet of Things and CNC"
+[[files]]
+name = "/info logo7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTI4Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/poster1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTI4Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/poster2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTI4NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/poster3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTI4Nzg="
+mimetype = "image/jpeg"
+

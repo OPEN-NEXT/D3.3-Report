@@ -1,0 +1,7 @@
+name = "franchise"
+repo = "https://wikifactory.com/@shreeyan144/franchise"
+version = "20210116165202"
+spdx-license = "N/A"
+licensor = "Shreeyan Naubhag"
+documentation-language = "en"
+function = "A franchise with a brilliant serving"

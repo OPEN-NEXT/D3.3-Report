@@ -1,0 +1,7 @@
+name = "It's meant to be"
+repo = "https://wikifactory.com/@wawesh/its-meant-to-be"
+version = "20200314083050"
+spdx-license = "N/A"
+licensor = "Wawesh Mjanja"
+documentation-language = "en"
+function = "it's \ufeffmeant to be"

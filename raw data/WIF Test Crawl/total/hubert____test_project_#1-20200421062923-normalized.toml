@@ -1,0 +1,13 @@
+name = "test project #1"
+repo = "https://wikifactory.com/@hubert/test-project-1"
+version = "20200421062923"
+spdx-license = "N/A"
+licensor = "Hubert Gertis"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDAyMjg="
+function = "just a quick round of testing."
+[[files]]
+name = "/Solvay_conference_1927.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDAyMjU="
+mimetype = "image/jpeg"
+

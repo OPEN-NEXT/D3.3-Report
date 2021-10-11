@@ -1,0 +1,48 @@
+name = "Giant Combat Robot MARDUK"
+repo = "https://wikifactory.com/@gmmechworks/giant-combat-robot-marduk"
+version = "20181215011059"
+spdx-license = "N/A"
+licensor = "Joshua Nye"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDUzNTE="
+function = "Like battlebots, but you control the bot from the inside"
+[[files]]
+name = "/boardingv2.gif"
+permalink = "https://wikifactory.com/files/RmlsZToxNzM3Mw=="
+mimetype = "image/gif"
+
+[[files]]
+name = "/IMG_20180924_174442.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzM3NQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20180924_174655.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzM3Ng=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20180929_184617.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzM3Nw=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20180930_102607.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzM3OA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20180930_102617.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzM3OQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20180930_103304.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzM4MA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/mobiletop.png"
+permalink = "https://wikifactory.com/files/RmlsZToxNzM3NA=="
+mimetype = "image/png"
+

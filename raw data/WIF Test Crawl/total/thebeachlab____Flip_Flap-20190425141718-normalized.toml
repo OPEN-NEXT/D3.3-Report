@@ -1,0 +1,13 @@
+name = "Flip Flap "
+repo = "https://wikifactory.com/@francisco/flip-flap"
+version = "20190425141718"
+spdx-license = "N/A"
+licensor = "Francisco Sanchez Arroyo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDU5MzE="
+function = "Flip Flap is an open source mechanical Split Flap display like those in train station and airports."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0NzY="
+mimetype = "text/plain"
+

@@ -1,0 +1,7 @@
+name = "Banco CoWork Baldaya"
+repo = "https://wikifactory.com/@andrepalmeiro/banco-cowork-baldaya"
+version = "20200614210734"
+spdx-license = "N/A"
+licensor = "andrepalmeiro"
+documentation-language = "pt"
+function = "Banco destinado a espaços de brainstorming e reuniões informais. Inclui uma estante para colocar pequenos apontamentos. Arrumável."

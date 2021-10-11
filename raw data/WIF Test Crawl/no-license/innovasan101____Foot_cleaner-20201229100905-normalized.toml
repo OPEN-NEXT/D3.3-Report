@@ -1,0 +1,13 @@
+name = "Foot cleaner "
+repo = "https://wikifactory.com/@innovasan101/foot-cleaner"
+version = "20201229100905"
+spdx-license = "N/A"
+licensor = "innovasan101"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTA4MDE="
+function = "This is a foot cleaner when you going to take a bath you need to clean your food crack, but in your bathroom there is no place for that in this product you can clean your food, as well it's your foot stand also."
+[[files]]
+name = "/foot clener.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTA3OTg="
+mimetype = "image/png"
+

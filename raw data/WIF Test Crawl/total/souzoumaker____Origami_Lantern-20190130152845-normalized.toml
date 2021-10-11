@@ -1,0 +1,38 @@
+name = "Origami Lantern"
+repo = "https://wikifactory.com/@souzoumaker/origami-lantern"
+version = "20190130152845"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Eammon Littler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMzM5Mw=="
+function = "A novel approach of 3D printing on paper for an elegant, origami lantern.\nDesigned by <a href=\"https://souzoumaker.com/\">Souzou maker.</a>"
+[[files]]
+name = "3D printing files/Arm.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM2Nw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printing files/Base.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM2NQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printing files/Cap.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM2OA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printing files/Origami_Cylinder.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM2NA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM1NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM3Mg=="
+mimetype = "text/markdown"
+

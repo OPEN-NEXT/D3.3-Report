@@ -1,0 +1,22 @@
+name = "Energy Tank"
+repo = "https://wikifactory.com/@gabrielplassat/energy-tank"
+version = "20210225081158"
+spdx-license = "N/A"
+licensor = "Gabriel PLASSAT"
+documentation-language = "en"
+function = "XYZ Cargo Add-Ons Energy Tank size L modul with\n* battery swapping for e-scooter \n* battery chargers + lockers for e-bike & smartphone\n* 8 batteries charged every night\n* 2 solars panels \n\nWhen the cargo is stopped, it will be possible to pedal & feed a steering wheel of inertia that will provide energy"
+[[files]]
+name = "/energy_tank1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTg0MzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/energy_tank2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTg0MzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTg0MTk="
+mimetype = "text/markdown"
+

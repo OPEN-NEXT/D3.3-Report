@@ -1,0 +1,13 @@
+name = "Clean Maker Space"
+repo = "https://wikifactory.com/@vivalab/clean-maker-space"
+version = "20200401093351"
+spdx-license = "N/A"
+licensor = "VIVA Lab"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjQyNjI="
+function = "Set of good practices to minimize the risk of contamination when manufacturing medical equipment in a makerspace."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjczOTA="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@tynasmejkalova/test"
+version = "20200326080134"
+spdx-license = "N/A"
+licensor = "Martina Smejkalova"
+documentation-language = "en"
+function = "Test"

@@ -1,0 +1,7 @@
+name = "E vehicle"
+repo = "https://wikifactory.com/@noorfls/e-vehicle"
+version = "20210215092733"
+spdx-license = "N/A"
+licensor = "noor mohamed"
+documentation-language = "en"
+function = "Creating E vehicle Design and Development"

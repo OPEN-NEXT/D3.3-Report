@@ -1,0 +1,63 @@
+name = "Magic Mushrooms"
+repo = "https://wikifactory.com/@botler/magic-mushrooms"
+version = "20180828214225"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo5NDgy"
+function = "This is a cool DIY lamp project. The Magic Mushrooms, is intended to be a piece of natural looking art, which can be placed anywhere as a decoration.\nBy <a href=\"https://sites.google.com/view/universalmaker3d/home\">Tobias N.</a>"
+[[files]]
+name = "3D files/Basis.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDg0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/Boden.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDg1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/choice.scad"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDg2"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D files/Pilz_1_1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDg3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/Pilz_2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDg4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/Pilz_3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDg5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/Pilz_4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDkx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/Pilz_5.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDkw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/Pilz_gro.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDky"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/Pilz_klein.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDkz"
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMTc0MQ=="
+mimetype = "text/markdown"
+

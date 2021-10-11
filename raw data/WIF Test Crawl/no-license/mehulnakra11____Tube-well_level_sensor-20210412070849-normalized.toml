@@ -1,0 +1,7 @@
+name = "Tube-well level sensor"
+repo = "https://wikifactory.com/@mehulnakra11/tube-well-level-sensor"
+version = "20210412070849"
+spdx-license = "N/A"
+licensor = "mehulnakra11"
+documentation-language = "en"
+function = "Real-time level data of groundwater can be of tremendous use to analyze drawdown trends and pull out great inferences."

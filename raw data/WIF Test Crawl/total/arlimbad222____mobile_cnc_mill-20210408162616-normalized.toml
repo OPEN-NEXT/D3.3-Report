@@ -1,0 +1,22 @@
+name = "mobile cnc mill"
+repo = "https://wikifactory.com/@arlimbad222/mobile-cnc-mill"
+version = "20210408162616"
+spdx-license = "N/A"
+licensor = "arlimbad222"
+documentation-language = "en"
+function = "Here I made one small 4axis CNC mill and its world's first CNC mill that can operate by one simple android app and it has some cool features like automatic stock finder or we can say probing."
+[[files]]
+name = "/02.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc4MDY="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/04.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc4MDc="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/All Demo Professional.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc4MDU="
+mimetype = "video/mp4"
+

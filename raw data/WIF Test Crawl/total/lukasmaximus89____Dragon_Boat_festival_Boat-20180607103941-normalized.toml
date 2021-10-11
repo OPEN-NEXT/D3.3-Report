@@ -1,0 +1,18 @@
+name = "Dragon Boat festival Boat"
+repo = "https://wikifactory.com/@lukasmaximus89/dragon-boat-festival-boat"
+version = "20180607103941"
+spdx-license = "CC-BY-4.0"
+licensor = "Luke Henderson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTY5"
+function = "A lasercut dragonboat which I designed for a dragonboat festival activity"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozOTcx"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzQz"
+mimetype = "text/markdown"
+

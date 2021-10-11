@@ -1,0 +1,13 @@
+name = "GeoModular Cover"
+repo = "https://wikifactory.com/@michaelm/modular-accessories"
+version = "20200226123034"
+spdx-license = "N/A"
+licensor = "Michael Michailidis"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTAwOTE="
+function = "This project is part of the Digital Fabrication class at the Paris-Sud University. A parametric, flat, modular, foldable and press-fit cover will be developed during this class. The main shapes that will assemble this cover are geometrical objects."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTAyMzk="
+mimetype = "text/markdown"
+

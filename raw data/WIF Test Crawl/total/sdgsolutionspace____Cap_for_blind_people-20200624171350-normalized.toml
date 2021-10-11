@@ -1,0 +1,18 @@
+name = "Cap for blind people"
+repo = "https://wikifactory.com/@sdgsolutionspace/cap-for-blind-people"
+version = "20200624171350"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "DURNEY Jean-Marie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTAxMzM="
+function = "I want to equip a cap for blind people with a proximity detector and a buzzer. Because their cane and arms do not tell them about objects at the level of their face"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozOTAxMDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTAxMzc="
+mimetype = "text/markdown"
+

@@ -1,0 +1,8 @@
+name = "Tipaza Housing Project"
+repo = "https://wikifactory.com/@adolfo/tipaza-housing-project"
+version = "20180320141405"
+spdx-license = "N/A"
+licensor = "Adolfo Nadal Serrano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMDg0"
+function = "Dwelling units in the Argelian coast. The facade is treated as an interface that deals with both exterior and interior conditions and constitutes an element of landscaping that follows strong  requirements and helps withstand unforeseeable conditions suchs as strong winds and earthquakes."

@@ -1,0 +1,7 @@
+name = "wood working"
+repo = "https://wikifactory.com/@madhawatdhananjaya/wood-working"
+version = "20210121060424"
+spdx-license = "N/A"
+licensor = "madhawatdhananjaya"
+documentation-language = "en"
+function = "bed side cupboard"

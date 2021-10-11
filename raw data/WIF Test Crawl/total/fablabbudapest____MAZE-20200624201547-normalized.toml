@@ -1,0 +1,18 @@
+name = "MAZE"
+repo = "https://wikifactory.com/@rekavikarius/maze"
+version = "20200624201547"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Réka Vikárius"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTY4OTY="
+function = "MAZE is a toy, which can be used by disabled and healthy children from a very early age (4-10 years old). By providing the same playing experience the toy attempts to break down the barriers built by society towards peaople living with disabilities."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMTY4OTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ4MDA="
+mimetype = "text/markdown"
+

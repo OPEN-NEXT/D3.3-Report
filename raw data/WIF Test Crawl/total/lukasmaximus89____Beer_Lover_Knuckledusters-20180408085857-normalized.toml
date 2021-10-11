@@ -1,0 +1,13 @@
+name = "Beer Lover Knuckledusters"
+repo = "https://wikifactory.com/@lukasmaximus89/beer-lover-knuckledusters"
+version = "20180408085857"
+spdx-license = "CC0-1.0"
+licensor = "Luke Henderson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMzE2"
+function = "Heres something I knocked up in sketchup while attending and supporting a laser cutting workshop of a friend. The Chinese characters are (wo)我 (ai)爱 (pi)啤 (jiu)酒 which means I love beer in Chinese."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMjYy"
+mimetype = "text/plain"
+

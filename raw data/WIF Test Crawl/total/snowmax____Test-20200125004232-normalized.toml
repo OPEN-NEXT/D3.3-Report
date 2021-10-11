@@ -1,0 +1,17 @@
+name = "Test"
+repo = "https://wikifactory.com/@snowmax/test"
+version = "20200125004232"
+spdx-license = "N/A"
+licensor = "Max T."
+documentation-language = "fr"
+function = "\ufefftest project"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDEwMTg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Screenshot_2020-01-22_23-32-25.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMDEwMjM="
+mimetype = "image/png"
+

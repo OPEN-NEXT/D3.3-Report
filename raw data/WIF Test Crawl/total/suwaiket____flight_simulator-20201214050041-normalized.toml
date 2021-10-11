@@ -1,0 +1,7 @@
+name = "flight simulator"
+repo = "https://wikifactory.com/@suwaiket/flight-simulator"
+version = "20201214050041"
+spdx-license = "N/A"
+licensor = "Abdulaziz Suwaiket"
+documentation-language = "en"
+function = "Arduino flight simulator devices.\nTrying to use Arduino in flight simulators and make plug and play devices for simers. Any assistance will be great. Currently I an just crawling in this new indevur"

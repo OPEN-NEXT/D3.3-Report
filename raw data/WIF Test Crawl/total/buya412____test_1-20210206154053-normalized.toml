@@ -1,0 +1,7 @@
+name = "test 1"
+repo = "https://wikifactory.com/@buya412/test-1"
+version = "20210206154053"
+spdx-license = "N/A"
+licensor = "Buia Eduard"
+documentation-language = "en"
+function = "test 1"

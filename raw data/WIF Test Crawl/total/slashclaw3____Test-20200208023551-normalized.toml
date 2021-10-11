@@ -1,0 +1,12 @@
+name = "Test"
+repo = "https://wikifactory.com/@slashclaw3/test"
+version = "20200208023551"
+spdx-license = "N/A"
+licensor = "Slash Claw"
+documentation-language = "en"
+function = "This is a test"
+[[files]]
+name = "/Stuff.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMDQzNzc="
+mimetype = "application/octet-stream"
+

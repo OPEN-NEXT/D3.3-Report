@@ -1,0 +1,28 @@
+name = "Sanitation Station"
+repo = "https://wikifactory.com/@jkllewellyndesigns/sanitation-station"
+version = "20200611174310"
+spdx-license = "N/A"
+licensor = "jkllewellyndesigns"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzg3NDQ="
+function = "Making cleanliness easy and fun for kids and game parts.\n#COVID19 #Sanitizing #Gameparts"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzg3OTI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/SnapMaker 3-in-1.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzg4MTI="
+mimetype = "image/png"
+
+[[files]]
+name = "/SnapMaker contest (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzg3NDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/SnapMaker contest (2).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzg4MTE="
+mimetype = "image/jpeg"
+

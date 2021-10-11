@@ -1,0 +1,7 @@
+name = "3D printer"
+repo = "https://wikifactory.com/@panigrahiananda3/3d-printer"
+version = "20200514145046"
+spdx-license = "N/A"
+licensor = "Ananda Panigrahi"
+documentation-language = "en"
+function = "A basic 3D printer to start with"

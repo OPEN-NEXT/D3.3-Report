@@ -1,0 +1,7 @@
+name = "Book advertising"
+repo = "https://wikifactory.com/@indherlalasaif46/book-advertising"
+version = "20200918213606"
+spdx-license = "N/A"
+licensor = "indherlalasaif46"
+documentation-language = "no"
+function = "Book advertising and some more"

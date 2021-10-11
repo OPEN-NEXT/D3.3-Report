@@ -1,0 +1,12 @@
+name = "water savings"
+repo = "https://wikifactory.com/@shaz/water-savings"
+version = "20210115103850"
+spdx-license = "N/A"
+licensor = "Sharon "
+documentation-language = "en"
+function = "Water savings for areas experiencing drought.  I made this video specifically bearing in mind that many areas in the world experience drought and also that the ordinary people of those regions don't necessarily speak English as a first or second language."
+[[files]]
+name = "/2020 Water savings final.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTkxOTk="
+mimetype = "video/mp4"
+

@@ -1,0 +1,7 @@
+name = "casa"
+repo = "https://wikifactory.com/@rogeriodiasvieira/casa"
+version = "20210105131953"
+spdx-license = "N/A"
+licensor = "rogerio dias vieira"
+documentation-language = "es"
+function = "casa de campo"

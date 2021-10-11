@@ -1,0 +1,103 @@
+name = "Visière d'AgriLab"
+repo = "https://wikifactory.com/@lhanneus-5744e/visière-dagrilab"
+version = "20200526100733"
+spdx-license = "N/A"
+licensor = "Hanneuse Luc"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTYwNjA="
+function = "Protective Visor speed optimised version for lasercutter. Cheap and designed for FabLab massification."
+[[files]]
+name = "/57array 1000x850.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozNTU5MDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/57array 1000x850.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTU5Nzk="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/assembled.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTYwNjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/cut.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTYwNjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/full.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTYwNzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/headband.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNTU5ODg="
+mimetype = "image/png"
+
+[[files]]
+name = "/insert.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTYwNzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/inserted.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTYwNzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/licence.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjMxNjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/locking.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTYwNjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/raphael01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTYwNzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/raphael02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTYwNjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjMxNjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/repeatable.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozNTU5ODI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/repeatable.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTU5MDE="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/single4.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTozNTU4OTg="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/single band.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozNTU5Nzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/single band.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTU4OTk="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/transparent.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTU4OTI="
+mimetype = "image/jpeg"
+

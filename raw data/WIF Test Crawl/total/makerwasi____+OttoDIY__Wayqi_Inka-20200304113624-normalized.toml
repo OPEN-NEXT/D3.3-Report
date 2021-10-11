@@ -1,0 +1,7 @@
+name = "+OttoDIY / Wayqi Inka"
+repo = "https://wikifactory.com/@makerwasi/ottodiy-wayqi-inka"
+version = "20200304113624"
+spdx-license = "N/A"
+licensor = "Ruben Santander"
+documentation-language = "es"
+function = "Wayqi Inka es un modelo inspirado en la cultura Inka del Perú y basado en el robot OttoDIY, este robot está hecho de cartón y con una cortadora láser, la cara del robot representa al emperador Inka con sus accesorios como las plumas, el sol de oro y las orejeras de oro."

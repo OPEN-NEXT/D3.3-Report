@@ -1,0 +1,7 @@
+name = "rising air generator"
+repo = "https://wikifactory.com/@ruben-salvati/rising-air-generator"
+version = "20210303114322"
+spdx-license = "N/A"
+licensor = "Ruben Salvati"
+documentation-language = "es"
+function = "El proyecto pretende generar aire ascendente que pueda ser utilizado para el vuelo con planeadores, al más bajo costo posible"

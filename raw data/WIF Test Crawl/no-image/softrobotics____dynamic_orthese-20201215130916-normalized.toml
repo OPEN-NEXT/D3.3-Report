@@ -1,0 +1,12 @@
+name = "dynamic orthese "
+repo = "https://wikifactory.com/@adrianamatrix/dynamic-orthese"
+version = "20201215130916"
+spdx-license = "N/A"
+licensor = "Adriana Cabrera"
+documentation-language = "en"
+function = "es geht um eine dynamic orthese"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDA3OTc="
+mimetype = "text/markdown"
+

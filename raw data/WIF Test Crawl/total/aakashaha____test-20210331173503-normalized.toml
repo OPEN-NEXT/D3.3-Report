@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@aakashaha/test"
+version = "20210331173503"
+spdx-license = "N/A"
+licensor = "Aakash"
+documentation-language = "en"
+function = "test"

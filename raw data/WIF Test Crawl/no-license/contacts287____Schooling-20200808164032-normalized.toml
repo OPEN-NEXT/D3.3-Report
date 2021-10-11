@@ -1,0 +1,7 @@
+name = "Schooling"
+repo = "https://wikifactory.com/@contacts287/schooling"
+version = "20200808164032"
+spdx-license = "N/A"
+licensor = "contacts287"
+documentation-language = "en"
+function = "Online school"

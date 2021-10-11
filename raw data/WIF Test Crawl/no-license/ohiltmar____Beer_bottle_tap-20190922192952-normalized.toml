@@ -1,0 +1,7 @@
+name = "Beer bottle tap"
+repo = "https://wikifactory.com/@ohiltmar/beer-bottle-tap"
+version = "20190922192952"
+spdx-license = "N/A"
+licensor = "Oluf Brix Hiltmar"
+documentation-language = "en"
+function = "tod"

@@ -1,0 +1,48 @@
+name = "BPanel - Digital Fab"
+repo = "https://wikifactory.com/@leirelitwin/still-unknown"
+version = "20200301222925"
+spdx-license = "N/A"
+licensor = "Leire Litwin"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTozMDE1MTU="
+function = "Student at FabLab Digiscope in Université Paris Sud.\nhttp://leirelitwin.com/bpanel"
+[[files]]
+name = "Bee Panel/BeePanel_EndPiece.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0ODY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Bee Panel/BeePanel_Piece.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0ODc="
+mimetype = "text/plain"
+
+[[files]]
+name = "First Triangular Design/First_Design.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0OTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "First Triangular Design/First_Design_2_iteration.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0OTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE3NzQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Star Design/Star_Design_Parametric.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0OTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Star Design/Star_Design_Union1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0OTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Star Design/Star_Design_Union_Circles.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE0OTE="
+mimetype = "text/plain"
+

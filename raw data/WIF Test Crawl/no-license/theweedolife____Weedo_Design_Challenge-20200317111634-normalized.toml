@@ -1,0 +1,13 @@
+name = "Weedo Design Challenge"
+repo = "https://wikifactory.com/@bandhi/weedo-design-challenge"
+version = "20200317111634"
+spdx-license = "N/A"
+licensor = "Gonzalo Badiola Ramos"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTozMTc3ODE="
+function = "Esta tu oportunidad de combinar tu capacidad creativa con tus habilidades de impresión 3D. En Weedo estamos formando un equipo de Makers y el primer paso es este concurso de diseño para generar un producto real que será producido por la comunidad y vendido en nuestra plataforma."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc3OTM="
+mimetype = "text/markdown"
+

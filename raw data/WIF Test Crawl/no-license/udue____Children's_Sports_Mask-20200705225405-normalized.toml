@@ -1,0 +1,18 @@
+name = "Children's Sports Mask"
+repo = "https://wikifactory.com/@udue/sports-mask"
+version = "20200705225405"
+spdx-license = "N/A"
+licensor = "Phil Block"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDI0NTE="
+function = "A flexible, durable sports face mask for sports-involved children.  The mask is designed to be great fitting, comfortable, and attractive, which assists children in the effort to keep them from touching their faces.  #safetoplay"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ0OTU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/SportMaskBeta.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0Mzk="
+mimetype = "application/pdf"
+

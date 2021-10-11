@@ -1,0 +1,8 @@
+name = "POTATOES ON MARS"
+repo = "https://wikifactory.com/@jcchavez/potatoes-on-mars"
+version = "20210207192814"
+spdx-license = "N/A"
+licensor = "Juan Carlos Chavez Colmenares"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1Mzc0MTk="
+function = "Martian climate simulator for potato planting in extreme climates NASA-CIP-UTEC"

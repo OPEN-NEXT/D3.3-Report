@@ -1,0 +1,7 @@
+name = "drone"
+repo = "https://wikifactory.com/@deveshpatel1905/drone"
+version = "20201214070325"
+spdx-license = "N/A"
+licensor = "Devesh Kumar Patel"
+documentation-language = "en"
+function = "drone"

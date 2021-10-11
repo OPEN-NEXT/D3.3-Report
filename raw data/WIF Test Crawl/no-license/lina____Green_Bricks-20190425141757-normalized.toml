@@ -1,0 +1,18 @@
+name = "Green Bricks"
+repo = "https://wikifactory.com/@lina/green-bricks"
+version = "20190425141757"
+spdx-license = "N/A"
+licensor = "Lina Monaco"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDU5MjU="
+function = "Green Brick is the first brick of ProdActive Landscape's project. Is a modular electronic system of environment analysis that can grow and change along the life of a urban vegetable garden or a vertical agricultural system setting."
+[[files]]
+name = "images/fab_awards.png"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1NDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1NDM="
+mimetype = "text/plain"
+

@@ -1,0 +1,8 @@
+name = "Retrato robot"
+repo = "https://wikifactory.com/@roque/retrato-robot"
+version = "20180523162022"
+spdx-license = "N/A"
+licensor = "Roque Peña Pidal"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZToyNjM0"
+function = "Locuras inteligentes con Huawei"

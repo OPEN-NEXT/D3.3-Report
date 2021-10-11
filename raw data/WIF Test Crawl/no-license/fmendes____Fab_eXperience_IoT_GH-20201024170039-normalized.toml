@@ -1,0 +1,23 @@
+name = "Fab eXperience IoT GH"
+repo = "https://wikifactory.com/@fmendes/fab-experience-iot-gh"
+version = "20201024170039"
+spdx-license = "N/A"
+licensor = "Francisco Mendes"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NDY0OTg="
+function = "Fab eXperience is a learning experience where a group a people is going to learn how to learn together.\nEach of the participants will develop is own version of a IoT greenhouse."
+[[files]]
+name = "/Cat_player.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDY2NTE="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/ESP8266_ADC_test.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYwNjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTYwNjM="
+mimetype = "text/markdown"
+

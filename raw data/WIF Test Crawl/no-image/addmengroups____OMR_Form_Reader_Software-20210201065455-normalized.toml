@@ -1,0 +1,7 @@
+name = "OMR Form Reader Software"
+repo = "https://wikifactory.com/@addmengroups/omr-form-reader-software"
+version = "20210201065455"
+spdx-license = "N/A"
+licensor = "addmengroups"
+documentation-language = "en"
+function = "OMR reader is mostly recycled for to collect the data from OMR answer sheet. The Free omr reader is having ability to read the omr bubble and blocks or also read pre- printed numbers and barcodes. For more details visit here https://www.addmengroup.com/OMR-Reader/omr-form-reader.htm"

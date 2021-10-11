@@ -1,0 +1,7 @@
+name = "Swift Text"
+repo = "https://wikifactory.com/@lordprecious/swift-text"
+version = "20200625105158"
+spdx-license = "N/A"
+licensor = "chisompreciousonyeani"
+documentation-language = "en"
+function = "It aides the blind to quickly type words on any platform"

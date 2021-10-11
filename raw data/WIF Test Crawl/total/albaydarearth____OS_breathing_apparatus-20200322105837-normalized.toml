@@ -1,0 +1,8 @@
+name = "OS breathing apparatus"
+repo = "https://wikifactory.com/@albaydarearth/os-breathing-apparatus"
+version = "20200322105837"
+spdx-license = "N/A"
+licensor = "Wael Alsaad"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjAzNjY="
+function = "collab project to produce breathing apparatus locally"

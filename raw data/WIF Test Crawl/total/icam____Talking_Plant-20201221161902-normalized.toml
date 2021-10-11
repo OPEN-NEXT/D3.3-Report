@@ -1,0 +1,33 @@
+name = "Talking Plant"
+repo = "https://wikifactory.com/@remy/talking-plant"
+version = "20201221161902"
+spdx-license = "CC-BY-4.0"
+licensor = "Remy Ducros"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MDQ5OTk="
+function = "How to use a plant as a way to activate an animation using scratch."
+[[files]]
+name = "/flower.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQ5OTg="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/icam_synth.sb2"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQ5OTc="
+mimetype = "application/zip"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDUwMDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQ5OTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/video.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQ5OTU="
+mimetype = "video/mp4"
+

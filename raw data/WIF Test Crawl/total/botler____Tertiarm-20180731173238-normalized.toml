@@ -1,0 +1,128 @@
+name = "Tertiarm"
+repo = "https://wikifactory.com/@botler/tertiarm"
+version = "20180731173238"
+spdx-license = "CC-BY-4.0"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2OTc4"
+function = "This is a low cost 3d printed robot arm by Karagad, which is based on Ikea Tertial lamp, your new helper hand. You can use different number of springs to achieve different lifting power. If Tony Stark has Jarvis, you have Tertiarm!"
+[[files]]
+name = "3D Design Files/Axes 3, 4, 5 3D/elbow1.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MTE3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axes 3, 4, 5 3D/elbow2.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDY0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axes 3, 4, 5 3D/ServoTip.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MTE4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axes 3, 4, 5 3D/Tip.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MTE5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axes 3, 4, 5 3D/Wrist.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDY1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axis 1 3D/BearingBottom.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MTA4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axis 1 3D/BearingHolder.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MTA5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axis 1 3D/BearingTop.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDU4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axis 1 3D/MainPart.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDU3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axis 2 3D/ServoTip.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MTE1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axis 2 3D/Shoulder1.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MTEy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axis 2 3D/shoulder2.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDYw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axis 2 3D/shoulder3.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDYx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axis 2 3D/SpringMount.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDYy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Axis 2 3D/Tip.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MTEz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Magnet, Arduino Cabin, Springs 3D/ArduinoCabin1.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDY3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Magnet, Arduino Cabin, Springs 3D/ArduinoCabin2.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDY4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Magnet, Arduino Cabin, Springs 3D/ArduinoCabinPlate.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDY5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/Magnet, Arduino Cabin, Springs 3D/Magnet.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDcw"
+mimetype = "application/sla"
+
+[[files]]
+name = "Arduino Test Code/Arduino Test Code.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDcy"
+mimetype = "text/x-c"
+
+[[files]]
+name = "Bill of Materials/BomNew.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDc0"
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "License/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo3MDk3"
+mimetype = "text/plain"
+
+[[files]]
+name = "Photos/Create_a_Folder.png"
+permalink = "https://wikifactory.com/files/RmlsZTo3NDUw"
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzM0"
+mimetype = "text/markdown"
+

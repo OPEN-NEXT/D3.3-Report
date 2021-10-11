@@ -1,0 +1,28 @@
+name = "The Docubot Challenge"
+repo = "https://wikifactory.com/@rebel/the-docubot-challenge"
+version = "20190521232619"
+spdx-license = "N/A"
+licensor = "Christina Rebel"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTM1Nzc="
+function = "A Distributed Hardware Hackathon dedicated to the challenge of building a a documentation assistant that on command takes photos/videos and even converts speech to text. <b>First Edition: </b>Chicago x Madrid x Shenzhen. Thanks to PumpingStationOne, Makerspace Madrid & TroubleMaker Shenzhen."
+[[files]]
+name = "/Docubot-Challenge_Schedule.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM1NzQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Docubot_Poster.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM1NzU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU1NDA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Wikifactory_Distributed-Hardware-Hackathon_Docubot.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM1NzM="
+mimetype = "application/pdf"
+

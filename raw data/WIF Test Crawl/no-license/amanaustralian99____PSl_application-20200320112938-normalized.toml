@@ -1,0 +1,7 @@
+name = "PSl application"
+repo = "https://wikifactory.com/@amanaustralian99/psl-application"
+version = "20200320112938"
+spdx-license = "N/A"
+licensor = "amanaustralian99"
+documentation-language = "en"
+function = "Briefly describe what your project is about, what technologies it is based on etc..\nThis application on psl and technology that are in used are Android studio and Java or kotlin language\ufeff"

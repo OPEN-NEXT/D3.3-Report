@@ -1,0 +1,23 @@
+name = "Badge para eventos"
+repo = "https://wikifactory.com/@fabiosouza/badge-para-eventos"
+version = "20200129182205"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Fabio Souza"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTozMDIwNjI="
+function = "Faça o seu próprio badge para eventos usando MDF e cortadora Laser"
+[[files]]
+name = "/franzininho.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIwNzU="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIwNjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIxODE="
+mimetype = "text/markdown"
+

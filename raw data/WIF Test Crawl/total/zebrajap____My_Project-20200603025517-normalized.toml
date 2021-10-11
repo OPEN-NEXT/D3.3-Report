@@ -1,0 +1,7 @@
+name = "My Project"
+repo = "https://wikifactory.com/@zebrajap/my-project"
+version = "20200603025517"
+spdx-license = "N/A"
+licensor = "Sameera"
+documentation-language = "en"
+function = "Something new"

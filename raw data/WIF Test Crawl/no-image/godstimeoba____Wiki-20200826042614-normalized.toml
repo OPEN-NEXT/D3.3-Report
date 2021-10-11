@@ -1,0 +1,7 @@
+name = "Wiki"
+repo = "https://wikifactory.com/@godstimeoba/wiki"
+version = "20200826042614"
+spdx-license = "N/A"
+licensor = "godstimeoba"
+documentation-language = "en"
+function = "My project is based of engineering works like software engineering industrial design maker"

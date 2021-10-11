@@ -1,0 +1,28 @@
+name = "Techniques for Flora"
+repo = "https://wikifactory.com/@botler/techniques-for-flora"
+version = "20180716110533"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2Mzg1"
+function = "FLORA is <a href=\"https://learn.adafruit.com/getting-started-with-flora\">Adafruit's</a> wearable electronics platform. This project tutorial covers how to install snaps, use conductive thread and use capacitive touch with conductive fabric!"
+[[files]]
+name = "Adding snaps to flora/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDEz"
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDE5"
+mimetype = "text/markdown"
+
+[[files]]
+name = "Software/blink.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDIy"
+mimetype = "text/plain"
+
+[[files]]
+name = "Using Conductive Thread/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDM5"
+mimetype = "text/markdown"
+

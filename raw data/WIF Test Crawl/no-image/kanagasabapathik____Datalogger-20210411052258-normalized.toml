@@ -1,0 +1,7 @@
+name = "Datalogger"
+repo = "https://wikifactory.com/@kanagasabapathik/datalogger"
+version = "20210411052258"
+spdx-license = "N/A"
+licensor = "kanagasabapathik"
+documentation-language = "it"
+function = "12 channel datalogger"

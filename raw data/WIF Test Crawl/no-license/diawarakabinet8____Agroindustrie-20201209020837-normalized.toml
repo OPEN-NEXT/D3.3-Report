@@ -1,0 +1,7 @@
+name = "Agroindustrie"
+repo = "https://wikifactory.com/@diawarakabinet8/agroindustrie"
+version = "20201209020837"
+spdx-license = "N/A"
+licensor = "diawarakabinet8"
+documentation-language = "en"
+function = "Food"

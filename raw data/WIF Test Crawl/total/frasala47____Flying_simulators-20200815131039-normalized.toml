@@ -1,0 +1,7 @@
+name = "Flying simulators"
+repo = "https://wikifactory.com/@frasala47/flying-simulators"
+version = "20200815131039"
+spdx-license = "N/A"
+licensor = "Francisco Salazar"
+documentation-language = "en"
+function = "Flying and car simulators to train pilots"

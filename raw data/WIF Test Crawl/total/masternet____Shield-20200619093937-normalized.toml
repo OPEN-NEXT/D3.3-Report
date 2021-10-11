@@ -1,0 +1,7 @@
+name = "Shield"
+repo = "https://wikifactory.com/@masternet/shield"
+version = "20200619093937"
+spdx-license = "N/A"
+licensor = "masternetcomputer"
+documentation-language = "en"
+function = "For protection"

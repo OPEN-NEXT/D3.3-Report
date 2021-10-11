@@ -1,0 +1,38 @@
+name = "#LS7"
+repo = "https://wikifactory.com/@tauan/ls7"
+version = "20190622113924"
+spdx-license = "N/A"
+licensor = "Tauan Bernardo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTU0MDE="
+function = "Architecture is poetry.\nPeople can´t read."
+[[files]]
+name = "/Architects - Booth.pptx"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzMTY="
+mimetype = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+
+[[files]]
+name = "/Assembly Instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNzc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/MPU_6050.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzMTQ="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/pegas v5.f3d"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzMTM="
+mimetype = "application/fusion"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU0MDU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/World_map.rar"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzMTI="
+mimetype = "application/rar"
+

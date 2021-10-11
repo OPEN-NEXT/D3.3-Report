@@ -1,0 +1,12 @@
+name = "Open Material "
+repo = "https://wikifactory.com/@seanwooj/open-material"
+version = "20190402191438"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Sean Kim"
+documentation-language = "en"
+function = "An open source repository of physical materials"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxOTM4MTc="
+mimetype = "text/plain"
+

@@ -1,0 +1,38 @@
+name = "RPI Router"
+repo = "https://wikifactory.com/@atia/rpi-router"
+version = "20191219225340"
+spdx-license = "N/A"
+licensor = "Isaac Atia-Abugbilla"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyOTExODQ="
+function = "The project was created using a raspberry pi 3 model B+ and an old USB modem stick and it is about how one can run a raspberry pi as an access point with internet connectivity"
+[[files]]
+name = "/hostapd.conf"
+permalink = "https://wikifactory.com/files/RmlsZToyOTExODU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/install.sh"
+permalink = "https://wikifactory.com/files/RmlsZToyOTExODY="
+mimetype = "application/x-shellscript"
+
+[[files]]
+name = "/LICENSE"
+permalink = "https://wikifactory.com/files/RmlsZToyOTExODc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTExODg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/sample.service"
+permalink = "https://wikifactory.com/files/RmlsZToyOTExODk="
+mimetype = "text/x-dbus-service"
+
+[[files]]
+name = "/uninstall.sh"
+permalink = "https://wikifactory.com/files/RmlsZToyOTExOTA="
+mimetype = "application/x-shellscript"
+

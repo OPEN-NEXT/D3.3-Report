@@ -1,0 +1,12 @@
+name = "SMM Project"
+repo = "https://wikifactory.com/@amcyfive/smm-project"
+version = "20201223110214"
+spdx-license = "N/A"
+licensor = "AMCYFIveDigitalMarketingAgency"
+documentation-language = "en"
+function = "This project was delivered by my team of AMCYFive digital marketing agency with great effort and dedication.\nFacebook page was: https://www.facebook.com/FullShopeHere\nThis was the client's startup for selling ladies clothes with limited budget. We gave him the sales on best ROI."
+[[files]]
+name = "/fs.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDYwOTA="
+mimetype = "image/jpeg"
+

@@ -1,0 +1,12 @@
+name = "TIME.ONLINE"
+repo = "https://wikifactory.com/@amanuel-nega/timeonline"
+version = "20201011221718"
+spdx-license = "N/A"
+licensor = "Amanuel Nega"
+documentation-language = "en"
+function = "I inteded to design by my self some clear website as plat from that can be accessed by any interseted user so i need some clue and hit about what am going to work so as much as possiple try to help me by your proffesion thank you!"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTExMTY="
+mimetype = "text/markdown"
+

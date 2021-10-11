@@ -1,0 +1,12 @@
+name = "A   DC Linear motor "
+repo = "https://wikifactory.com/@davischesoli/a-dc-linear-motor"
+version = "20200730092052"
+spdx-license = "N/A"
+licensor = "Davis Chesoli"
+documentation-language = "en"
+function = "This was meant to be used as an actuator in a variety  of engineering applications  for example in reciprocating systems. The high energy Neodymium -iron -boron has been used as a permanent magnet material to generate  the field flux."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTcxNDc="
+mimetype = "text/markdown"
+

@@ -1,0 +1,13 @@
+name = "The Final Frontier "
+repo = "https://wikifactory.com/@ajod/brief-03"
+version = "20210204151434"
+spdx-license = "N/A"
+licensor = "Alex"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MzU4MTA="
+function = "I believe it is a necessity to become a multi-planet species over the next few decades. With all the crisis we face in the 21st century it is important to ensure the continuation of our species, just in case. However, the current 'spaceships' we have just wont cut it..."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzYyNDA="
+mimetype = "text/markdown"
+

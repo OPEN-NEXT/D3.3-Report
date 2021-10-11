@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@crato/test"
+version = "20190911151526"
+spdx-license = "N/A"
+licensor = "Yavuz Yilmaz"
+documentation-language = "en"
+function = "a brief description of the project"

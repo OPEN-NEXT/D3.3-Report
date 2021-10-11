@@ -1,0 +1,7 @@
+name = "Drone"
+repo = "https://wikifactory.com/@rvjdeshpande/drone"
+version = "20210303043617"
+spdx-license = "N/A"
+licensor = "rvjdeshpande"
+documentation-language = "en"
+function = "Drone design"

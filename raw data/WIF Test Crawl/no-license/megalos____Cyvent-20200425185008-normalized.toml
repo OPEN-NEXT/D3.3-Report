@@ -1,0 +1,7 @@
+name = "Cyvent"
+repo = "https://wikifactory.com/@megalos/cyvent"
+version = "20200425185008"
+spdx-license = "N/A"
+licensor = "Andreas"
+documentation-language = "en"
+function = "Our team is developing an Emergency Ventilator (E-Vent) Project, using a BVM (bag valve mask) or otherwise known as AMBU bag, that provides all basic functions necessary by a ventilator,such as tidal volume , I/E ratio, max pressure set for safety ,PEEP control ."

@@ -1,0 +1,7 @@
+name = "E-Vehicle"
+repo = "https://wikifactory.com/@niteshk/e-vehicle"
+version = "20210119031409"
+spdx-license = "N/A"
+licensor = "Nitesh Kuhikar"
+documentation-language = "en"
+function = "Developing hibridge system for electric vehicle and developing LiFePO4 batteries."

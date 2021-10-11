@@ -1,0 +1,58 @@
+name = "Door edge protectors"
+repo = "https://wikifactory.com/@stefar70/door-edge-protectors"
+version = "20210425130245"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Stephen Farrugia"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1OTEwNzU="
+function = "Illuminated door edge protectors that pop out when a car door is opened to warn pedestrians and other road users."
+[[files]]
+name = "/804839600.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI5MDM="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/Car Door Lights 2.mov"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzM1NjY="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "/Drawing.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzM1NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Exploded view.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc2NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzM1NDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Practical Demonstration.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzM3NDA="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEwNzg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Sion door_LI.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzM1Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Skoda door edge protector mechanism.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzk2NTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Skoda door edge protector.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzk2NTU="
+mimetype = "image/jpeg"
+

@@ -1,0 +1,13 @@
+name = "TURNSEED"
+repo = "https://wikifactory.com/@yolotzincastellanos/turnseed"
+version = "20201029183054"
+spdx-license = "N/A"
+licensor = "yolotzincastellanos"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo0NTgwMDA="
+function = "Investigación para englobar los procesos inmediatos a la molienda de la semilla de alfalfa, mismos que se realizan de forma manual para llegar a la obtención de una semilla limpia, esto mismo para ahorrar el trabajo físico de todas las personas que se necesitan para lograr el producto de interés."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjE3OTg="
+mimetype = "text/markdown"
+

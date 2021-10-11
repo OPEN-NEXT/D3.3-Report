@@ -1,0 +1,7 @@
+name = "Robotic IM nail fixation"
+repo = "https://wikifactory.com/@orthopaedicsurgery/robotic-im-nail-fixation"
+version = "20201225085828"
+spdx-license = "N/A"
+licensor = "DR. RAHUL THOKALOATH "
+documentation-language = "en"
+function = "Faster, safer, accurate, cheap reduction and fixation of fracture"

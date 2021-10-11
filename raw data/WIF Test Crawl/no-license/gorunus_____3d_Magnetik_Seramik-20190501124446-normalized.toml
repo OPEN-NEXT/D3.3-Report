@@ -1,0 +1,8 @@
+name = " 3d Magnetik Seramik "
+repo = "https://wikifactory.com/@gorunus/3d-magnetik-seramik"
+version = "20190501124446"
+spdx-license = "N/A"
+licensor = "Alptekin Görünüş"
+documentation-language = "tr"
+image = "https://wikifactory.com/files/RmlsZToyMDcwNjc="
+function = "Anisotropik stronsiyum ferrit pres yöntemlerine 3d printer ile baskı çalışmaları"

@@ -1,0 +1,12 @@
+name = "Smart Orthodontic Bracket"
+repo = "https://wikifactory.com/@vinodpattabiraman/smart-orthodontic-bracket"
+version = "20201223123755"
+spdx-license = "N/A"
+licensor = "Vinod Pattabiraman"
+documentation-language = "en"
+function = "The project is intended to develop an Orthodontic bracket or embed in to an Orthodontic bracket, a microchip that can function as a sensor for force."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDYxNjM="
+mimetype = "text/markdown"
+

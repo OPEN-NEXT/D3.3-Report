@@ -1,0 +1,248 @@
+name = "Smill"
+repo = "https://wikifactory.com/@eb/smill"
+version = "20201030052009"
+spdx-license = "N/A"
+licensor = "Enrico Bassi"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo4MjQz"
+function = "The goal of this project is to make a machine smaller than the material that it cuts. This means that to save space inside a fablab the CNC could be stored in a corner, behind the plywood panels, and put to work only when needed."
+[[files]]
+name = "Design/Anti-backlash Z/backslash.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDgx"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Electronic Box/electronic_box.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDgw"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Frame/frame_cut.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDg2"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Spindel Support (3D+laser)/mill_plate.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDg1"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Spindel Support (3D+laser)/mill_support_v1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDg0"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Y belt tensioner/belt_tensioner.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDgz"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Y belt tensioner/pulley_608zz.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDgy"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Electronics/V_pololu_giusti.brd"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDg4"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/V_pololu_giusti.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDg5"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/config.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDc2"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/coolant_control.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDQx"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/coolant_control.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDQy"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/cpu_map.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDc3"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/defaults.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDc4"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/eeprom.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDQz"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/eeprom.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDQ4"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/gcode.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDQ1"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/gcode.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDQ0"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/grbl.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDQ3"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/grblUpload.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDc1"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/limits.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDQ5"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/limits.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDUy"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/main.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDUx"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/motion_control.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDUw"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/motion_control.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDUz"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/nuts_bolts.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDU0"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/nuts_bolts.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDU1"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/planner.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDU5"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/planner.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDU3"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/print.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDU2"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/print.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDU4"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/probe.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDYw"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/probe.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDYx"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/protocol.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDYy"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/protocol.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDY0"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/report.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDYz"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/report.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDY1"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/serial.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDY2"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/serial.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDY3"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/settings.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDY4"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/settings.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDY5"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/spindle_control.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDcw"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/spindle_control.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDcx"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/stepper.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDcy"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/stepper.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDcz"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Programming/system.c"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDc0"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "Programming/system.h"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDQ2"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo4NTk1"
+mimetype = "text/markdown"
+

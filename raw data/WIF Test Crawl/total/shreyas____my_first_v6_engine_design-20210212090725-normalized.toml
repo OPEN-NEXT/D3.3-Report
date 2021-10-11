@@ -1,0 +1,208 @@
+name = "my first v6 engine design"
+repo = "https://wikifactory.com/@shreyas/stool-design"
+version = "20210212090725"
+spdx-license = "N/A"
+licensor = "Shreyas auti"
+documentation-language = "af"
+image = "https://wikifactory.com/files/RmlsZTo1Mzc5ODc="
+function = "A  very famous v6 engine design in solidworks"
+[[files]]
+name = "v6 en/camshaft bushing.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxODE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/camshaft retainer.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxODA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/camshaft.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/crank shaft - Copy.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNzg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/crank shaft bushing - Copy.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/crank shaft bushing.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNzY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/crank shaft.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNzU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/cylinder head.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNzQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/en rocker arm parts/rock arm roll.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNzM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/en rocker arm parts/rocker arm pin1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/en rocker arm parts/rocker arm pin 2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNzI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/en rocker arm parts/rocket arm.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNzA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/engine block - Copy.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNjk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/engine block.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNjg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/engine valve-Thermal 1.CWR"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNjc="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "v6 en/engine valve-Thermal 1.HTQ"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNjY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/engine valve-Thermal 1.LOG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "v6 en/engine valve.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNjQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/exaust manifold2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNjI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/exaust manifold.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNjM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/filter.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/ftont cover.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/intake manifold 2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/intake manifold.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/oil pan.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/PerformanceLog.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "v6 en/piston assem parts/piston head.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/piston assem parts/piston pin.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/piston assem parts/piston rod cap.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/piston assem parts/piston rod.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/piston rod assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/rocker arm assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/rocker arm spring.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNDk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/turbo charger.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNDg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/v6 engine assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/v6 engine assembly_Perf_Eval_SW_Report.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "v6 en/valve cover.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/wheel1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "v6 en/wheel 2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgxNDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/v6 engine assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1NDAxNTk="
+mimetype = "application/octet-stream"
+

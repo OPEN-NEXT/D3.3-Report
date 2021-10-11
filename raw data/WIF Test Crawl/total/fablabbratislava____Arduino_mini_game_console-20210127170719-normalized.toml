@@ -1,0 +1,63 @@
+name = "Arduino mini game console"
+repo = "https://wikifactory.com/@petospusta/arduino-mini-game-console"
+version = "20210127170719"
+spdx-license = "N/A"
+licensor = "petospusta"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjkyMTM="
+function = "Miniature game console for playing retro games based on arduino micro."
+[[files]]
+name = "3d_box_model/BoxDesign.glb"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjkyMTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3d_box_model/BoxDesign.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjkyMTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d_box_model/BoxDesign.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjkyMTc="
+mimetype = "application/zip"
+
+[[files]]
+name = "3d_box_model/BoxDesign/obj.mtl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjkyMjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "3d_box_model/BoxDesign/tinker.obj"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjkyMjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/manual.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjkyMjQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Pcb_Design.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjkyMjM="
+mimetype = "image/png"
+
+[[files]]
+name = "/Pcb_Scheme.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjkyMjI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Source_Files/1-PCB_SMIVT Arduino mini game console.json"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjkyMTY="
+mimetype = "application/json"
+
+[[files]]
+name = "Source_Files/1-Schematic_SMVIT Arduino mini game console.json"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjkyMTU="
+mimetype = "application/json"
+
+[[files]]
+name = "Source_Files/README.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjkyMTQ="
+mimetype = "text/plain"
+

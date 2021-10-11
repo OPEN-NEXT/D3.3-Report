@@ -1,0 +1,7 @@
+name = "simple iot switch"
+repo = "https://wikifactory.com/@mohitupsre/simple-iot-switch"
+version = "20210130174300"
+spdx-license = "N/A"
+licensor = "mohitupsre"
+documentation-language = "en"
+function = "iot switch to operate a single device"

@@ -1,0 +1,103 @@
+name = "IdO - Ressources"
+repo = "https://wikifactory.com/@mcariou/ido-ressources"
+version = "20210210155737"
+spdx-license = "N/A"
+licensor = "Mathieu Cariou"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1MTk0MDQ="
+function = "Fiches ressources pour les capteurs et actionnneurs pour l'Internet des Objets (IdO)"
+[[files]]
+name = "Carte FONA miniGSM/01_on_off.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzk0MjU="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Carte FONA miniGSM/02_connection_au_reseau.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzk0NzQ="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Carte FONA miniGSM/03_verification_connection_au_reseau.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzk0NzU="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Carte FONA miniGSM/04_envoi_sms.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzk0ODQ="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Carte FONA miniGSM/Carte FONA 2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzkzMDU="
+mimetype = "image/png"
+
+[[files]]
+name = "Carte FONA miniGSM/Carte FONA.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzkyOTg="
+mimetype = "image/png"
+
+[[files]]
+name = "Carte FONA miniGSM/FONA_arduino_cablage.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzk0NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Carte FONA miniGSM/gsmts_0705v050300p.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzkzNDc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Carte FONA miniGSM/gsmts_0707v050000p.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzkzNDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Carte FONA miniGSM/user_guide.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzkyOTk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "DHT22/DHT22-lib.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTkzMDU="
+mimetype = "image/png"
+
+[[files]]
+name = "DHT22/DHT22_bb.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTkzMjI="
+mimetype = "image/png"
+
+[[files]]
+name = "DHT22/DHT22_exemple.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQxMzA="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzk0ODg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Servomoteur/Gros_Servo.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjA5MzA="
+mimetype = "image/png"
+
+[[files]]
+name = "Servomoteur/Item-Servomoteur_Arduino-lib-servo.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTkzNzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Servomoteur/Sero_Exemple_mini.ino.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjMyOTc="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Servomoteur/servo_cablage_petit.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTkzODg="
+mimetype = "image/png"
+
+[[files]]
+name = "Servomoteur/Servomoteur_petitmoteurs.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjA5MTI="
+mimetype = "image/png"
+

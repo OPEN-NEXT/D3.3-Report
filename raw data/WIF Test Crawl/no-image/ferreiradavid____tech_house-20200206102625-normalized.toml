@@ -1,0 +1,7 @@
+name = "tech house"
+repo = "https://wikifactory.com/@ferreiradavid/tech-house"
+version = "20200206102625"
+spdx-license = "N/A"
+licensor = "David Gomes Ferreira"
+documentation-language = "en"
+function = "i am traying to do a smartest house that i could do like i need to have the most part of the sensorr and interruptors connected by wi-fi or bluetooth."

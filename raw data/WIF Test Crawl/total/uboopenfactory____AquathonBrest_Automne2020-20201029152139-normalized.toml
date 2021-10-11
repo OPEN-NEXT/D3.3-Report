@@ -1,0 +1,38 @@
+name = "AquathonBrest_Automne2020"
+repo = "https://wikifactory.com/@yquere/aquathonbrestautomne2020"
+version = "20201029152139"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0NDcyNTg="
+function = "Aquathon ouvert pour contribuer à l'Objectif du Développement Durable 14. \nNous souhaitons participer à l'accélération du développement de projets ouverts autour de l'océanographie. Nous traiterons en particulier de l'instrumentation océanographique open-source et des services de médiation."
+[[files]]
+name = "/Affiche_Aquathon_V3.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjA1OTI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Aquathon_mentors_2020_A4_s-01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjA1OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Coppock et al., 2017.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjA1OTg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Photos/photos_aquathon2020.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjA2ODk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Presentation_Aquathon_2020.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjA2MTI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjA2OTM="
+mimetype = "text/markdown"
+

@@ -1,0 +1,73 @@
+name = "Prusa MK3S MGN"
+repo = "https://wikifactory.com/@kaugdal/prusa-mk3s-mgn"
+version = "20210416125818"
+spdx-license = "N/A"
+licensor = "Kenneth Augdal"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODM0MjM="
+function = "Linear railed version og Prusa Mk3s that I started converting with linear rails and Bondtech extruder"
+[[files]]
+name = "/BondTech BMG + E3D V6 40mm Fan mount v6.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI0NDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/cable-holder v1.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI0NDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Cooling_Duct_Back (1).step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI0NDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Cooling_Duct_Front.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI0NDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Deflectorshield.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI0NDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/MotorMountLeftZ.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI0NDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/MotorMountRightZ (1).step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI0Mzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Prusa i3 MK3S MGN.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI1MTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/x-carriage_MGN.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI0Mzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/XGantryLeft.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI0Mzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/XGantryRight.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI0MzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Z Stop_Right.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI0MzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/ZStop_Left.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI0MzQ="
+mimetype = "text/plain"
+

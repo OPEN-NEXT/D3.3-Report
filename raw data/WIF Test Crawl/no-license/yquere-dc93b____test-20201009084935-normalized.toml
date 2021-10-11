@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@yquere-dc93b/test"
+version = "20201009084935"
+spdx-license = "N/A"
+licensor = "yquere"
+documentation-language = "en"
+function = "test"

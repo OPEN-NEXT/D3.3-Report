@@ -1,0 +1,7 @@
+name = "QuisTruck"
+repo = "https://wikifactory.com/@tariqhassanimanagem/quistruck"
+version = "20200701003141"
+spdx-license = "N/A"
+licensor = "Tariq Hassani"
+documentation-language = "en"
+function = "Trucking Taxi"

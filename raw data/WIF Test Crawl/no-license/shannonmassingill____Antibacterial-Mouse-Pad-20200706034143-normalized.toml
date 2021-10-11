@@ -1,0 +1,43 @@
+name = "Antibacterial-Mouse-Pad"
+repo = "https://wikifactory.com/@shannonmassingill/antibacterial-mouse-pad"
+version = "20200706034143"
+spdx-license = "N/A"
+licensor = "shannonmassingill"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozODYzMTQ="
+function = "Introducing a naturally anti antibacterial mouse pad. We play and work on our computers all day log how would you like to have the peace of mind of knowing that germs die in minutes on a surface you touch all day long.  It can no be #safetoplay on your computer!"
+[[files]]
+name = "/Copper mouse pad with wood.3mf"
+permalink = "https://wikifactory.com/files/RmlsZTozODY0NjU="
+mimetype = "application/zip"
+
+[[files]]
+name = "/Mouse Pad Base.3mf"
+permalink = "https://wikifactory.com/files/RmlsZTozODY0MzI="
+mimetype = "application/zip"
+
+[[files]]
+name = "/Mouse Pad Base.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODY0NzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Mouse Pad Side with lines.png"
+permalink = "https://wikifactory.com/files/RmlsZTozODY2Mjk="
+mimetype = "image/png"
+
+[[files]]
+name = "/Mouse Pad Sides.3mf"
+permalink = "https://wikifactory.com/files/RmlsZTozODY0NjY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Mouse Pad Sides.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODY0NjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ4MjE="
+mimetype = "text/markdown"
+

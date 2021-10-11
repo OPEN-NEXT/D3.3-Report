@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@grahambrdmyr/test"
+version = "20210105203414"
+spdx-license = "N/A"
+licensor = "grahambrdmyr"
+documentation-language = "en"
+function = "test"

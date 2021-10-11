@@ -1,0 +1,13 @@
+name = "Shaji Project Template"
+repo = "https://wikifactory.com/@diegoarias/shaji-project-template"
+version = "20190620110108"
+spdx-license = "N/A"
+licensor = "Diego Arias"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTQzNjM="
+function = "Use the <b>Shaji</b> <b>Project Template</b> to start a new +shaji-open-market-platform project that follows the necessary requirements. This project includes the information that should be added to the <b>Readme</b>, the relevant types of <b>Files</b>, as well as what <b>Issues</b> have to be opened to help kickstart the process.\n\ufeff"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQzOTU="
+mimetype = "text/markdown"
+

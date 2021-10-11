@@ -1,0 +1,7 @@
+name = "How to erase on omr sheet"
+repo = "https://wikifactory.com/@addmengroups/how-to-erase-on-omr-sheet"
+version = "20210125084912"
+spdx-license = "N/A"
+licensor = "addmengroups"
+documentation-language = "en"
+function = "Most exam bodies limit the use of whitener in OMR sheet, and it is generally careful an critical carry out, as whiteners not only cause damage to the scanner lens, but are also occasionally picked up as markings when read by the OMR software."

@@ -1,0 +1,8 @@
+name = "FORMULA SAE - USB "
+repo = "https://wikifactory.com/@jcchavez/formula-sae-usb"
+version = "20210221065714"
+spdx-license = "N/A"
+licensor = "Juan Carlos Chavez Colmenares"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NTY0MTQ="
+function = "Car Design"

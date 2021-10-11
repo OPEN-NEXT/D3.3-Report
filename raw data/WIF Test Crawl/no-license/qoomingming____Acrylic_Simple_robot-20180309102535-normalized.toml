@@ -1,0 +1,8 @@
+name = "Acrylic Simple robot"
+repo = "https://wikifactory.com/@qoomingming/acrylic-simple-robot"
+version = "20180309102535"
+spdx-license = "N/A"
+licensor = "Cheng Ka Ming"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMDAy"
+function = "Simple robot that moves in a crawling fashion, quite like a robot puppy. It uses the standard Tamiya motor."

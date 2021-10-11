@@ -1,0 +1,7 @@
+name = "Incubator"
+repo = "https://wikifactory.com/@chastysbouos/incubator"
+version = "20201031032748"
+spdx-license = "N/A"
+licensor = "Chastelin Bouos"
+documentation-language = "en"
+function = "automated control system of a neonatal environment"

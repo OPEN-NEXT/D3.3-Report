@@ -1,0 +1,13 @@
+name = "Portfolio"
+repo = "https://wikifactory.com/@abuazharahmed/portfolio"
+version = "20200902144208"
+spdx-license = "N/A"
+licensor = "Azhar Ahmed"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MjkxMDI="
+function = "Short portfolio demonstrating the projects I have been involved with and created."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjkwOTc="
+mimetype = "text/markdown"
+

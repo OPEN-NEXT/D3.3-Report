@@ -1,0 +1,7 @@
+name = "Wispr"
+repo = "https://wikifactory.com/@petervdalton/wispr"
+version = "20210305143737"
+spdx-license = "N/A"
+licensor = "Peter Dalton"
+documentation-language = "en"
+function = "I'm not quite sure what it is yet"

@@ -1,0 +1,12 @@
+name = "Power Amplifier"
+repo = "https://wikifactory.com/@fawadshaikh/power-amplifier"
+version = "20200629194423"
+spdx-license = "N/A"
+licensor = "Muhammad"
+documentation-language = "en"
+function = "leave"
+[[files]]
+name = "/IMG_0081.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozOTUwNDA="
+mimetype = "image/jpeg"
+

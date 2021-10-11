@@ -1,0 +1,23 @@
+name = "pli.p.l.a."
+repo = "https://wikifactory.com/@crappyplasticanais/plipla"
+version = "20190711090700"
+spdx-license = "N/A"
+licensor = "Crappy Plastic Anaïs "
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjU2MjY="
+function = "recycled PLA sheets"
+[[files]]
+name = "/DSCF7950.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU2MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTO/DSCF7950.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU2MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU5MTM="
+mimetype = "text/markdown"
+

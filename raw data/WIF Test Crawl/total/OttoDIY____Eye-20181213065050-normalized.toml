@@ -1,0 +1,78 @@
+name = "Eye"
+repo = "https://wikifactory.com/@cparrapa/eye"
+version = "20181213065050"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Camilo Parra Palacio"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDQwOTk="
+function = "Every budding Mad Scientist needs an eye.\nWant to laser your name into the moon? Eye robot will help. Looking for a volunteer to test your new shrink ray? Need a distraction while you escape?\nOthers may call you crazy, but Eye will always believe in you.\nCreated By Skimbal"
+[[files]]
+name = "3D Printed Files/Bow.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE3OQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/Eye_Iris.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE4MA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/Eye_Pupil.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE4MQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/Eye_White.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE4NQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/Feet.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE4Mw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/Knees.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE4NA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/Minion_Fixed.zip"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE5NA=="
+mimetype = "application/zip"
+
+[[files]]
+name = "3D Printed Files/Minion_Leg_update_V20.123dx"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE5Mw=="
+mimetype = "application/zip"
+
+[[files]]
+name = "3D Printed Files/Mowhawk.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE4Mg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/Shell_Base.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE4Ng=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/Shell_Top.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE4Nw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE3NQ=="
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE5MQ=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Software/Minion_walk_v0_2.ino"
+permalink = "https://wikifactory.com/files/RmlsZToxNzE4OQ=="
+mimetype = "text/x-c"
+

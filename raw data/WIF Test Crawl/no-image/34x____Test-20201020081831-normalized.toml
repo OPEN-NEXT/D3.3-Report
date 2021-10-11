@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@34x/test"
+version = "20201020081831"
+spdx-license = "N/A"
+licensor = "Maks"
+documentation-language = "en"
+function = "test project"

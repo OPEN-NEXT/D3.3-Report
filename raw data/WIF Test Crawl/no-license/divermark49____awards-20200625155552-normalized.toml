@@ -1,0 +1,7 @@
+name = "awards"
+repo = "https://wikifactory.com/@divermark49/awards"
+version = "20200625155552"
+spdx-license = "N/A"
+licensor = "divermark49"
+documentation-language = "en"
+function = "awards for officers"

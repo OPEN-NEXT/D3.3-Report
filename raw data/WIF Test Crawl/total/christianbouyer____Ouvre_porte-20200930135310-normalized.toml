@@ -1,0 +1,18 @@
+name = "Ouvre porte"
+repo = "https://wikifactory.com/@christianbouyer/ouvre-porte"
+version = "20200930135310"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "christianbouyer"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0NDQzMjQ="
+function = "Ouvre porte pour limiter les contacts (Covid 19) Découpe laser"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDQzMjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/ouvre-porte.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDQzMjc="
+mimetype = "image/svg+xml"
+

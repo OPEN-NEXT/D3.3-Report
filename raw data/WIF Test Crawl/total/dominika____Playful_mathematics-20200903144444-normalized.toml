@@ -1,0 +1,8 @@
+name = "Playful mathematics"
+repo = "https://wikifactory.com/@dominika/playful-mathematics"
+version = "20200903144444"
+spdx-license = "N/A"
+licensor = "Dominika Tóthová"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0Mjk2MDk="
+function = "Project made in FabLab Bratislava by group of young kids during DesignThinking course!\nThe game is designed for children under 7 years old. It is a creative game to\nlearn the basics of mathematics. It is made of plywood with laser cutter. The\ngame includes a base board + plates with numbers."

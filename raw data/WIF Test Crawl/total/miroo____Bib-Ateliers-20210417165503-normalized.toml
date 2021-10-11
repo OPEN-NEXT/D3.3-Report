@@ -1,0 +1,7 @@
+name = "Bib-Ateliers"
+repo = "https://wikifactory.com/@miroo/bib-ateliers"
+version = "20210417165503"
+spdx-license = "N/A"
+licensor = "Emir Chouchane"
+documentation-language = "fr"
+function = "Atelier de fabrication numérique - Bibliothèques de l'Université de Montréal"

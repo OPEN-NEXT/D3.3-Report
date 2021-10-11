@@ -1,0 +1,13 @@
+name = "Building Project Template"
+repo = "https://wikifactory.com/@rafaelkaufmann/building-project-template"
+version = "20201018222059"
+spdx-license = "N/A"
+licensor = "Rafael Kaufmann"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0ODU4NzU="
+function = "Summarized project goals, features, location, and current status. <em>Example:</em>\n\n<b>Goals:</b> Provide food and rainwater reclamation for a 120 sq. m. building in a temperate zone.\n\n<b>Features:</b>  Capacity for 40 large pots, alerting system and automated irrigation.\n\n<b>Location:</b> Greenpoint, NYC, USA\n\n<b>Status: </b>Active/supported"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ0OTY="
+mimetype = "text/markdown"
+

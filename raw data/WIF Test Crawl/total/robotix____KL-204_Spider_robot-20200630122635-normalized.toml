@@ -1,0 +1,103 @@
+name = "KL-204 Spider robot"
+repo = "https://wikifactory.com/@robotix/kl-204-walking-robot"
+version = "20200630122635"
+spdx-license = "CC0-1.0"
+licensor = "roberto hamm"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MTI2OTI="
+function = "This robot based on the Klann linkage technique.\nThis is a mechanism designed to simulate the gait of a legged animal and replace the wheel. The mechanism consists of a \"leg\" that comes into contact with the ground, a crank, two rocker arms, and two connecting rods, all connected together."
+[[files]]
+name = "/KL-204-ardubox.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2NzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-axe-drive.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2NzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-axe-main.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2NzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-axe-mtr.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2NzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-chassis.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2Njc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-clip-washer-bg.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2NjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-clip-washer.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2NjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-inks_1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2NTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-inks_2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2NDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-legs.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2Mzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-link-1_2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2Mzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-link-2_1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2MzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-link-3_1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2Mjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-link-3_2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2MjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-wall.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2MjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-wall_L.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2MjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/KL-204-wall_R.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODI2MTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozOTYzMTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODQyMjk="
+mimetype = "text/markdown"
+

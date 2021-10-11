@@ -1,0 +1,8 @@
+name = "3d clay"
+repo = "https://wikifactory.com/@bajenoceramic/3d-clay-vase"
+version = "20190221094418"
+spdx-license = "N/A"
+licensor = "KARAMUSHKIN DANIL"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNjI1Mg=="
+function = "Vases from the MoveRotate series. Created using 3D ceramic printing and algorithmic programming. The \"MoveRotate\" series interprets the search for forms in modern design."

@@ -1,0 +1,12 @@
+name = "Sparrow"
+repo = "https://wikifactory.com/@arunkumar413/sparrow"
+version = "20200623164919"
+spdx-license = "N/A"
+licensor = "Arun Kumar"
+documentation-language = "en"
+function = "IoT platform based on Texas Instruments SimpleLink wireless MCUs – Product for robotic, battery powered IoT applications\n\n\nhttps://www.ti.com/lit/ds/symlink/cc2650moda.pdf\n\nhttps://www.ti.com/lit/ds/symlink/cc3220s.pdf?ts=1592740996349&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FCC3220S"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODkwNDQ="
+mimetype = "text/markdown"
+

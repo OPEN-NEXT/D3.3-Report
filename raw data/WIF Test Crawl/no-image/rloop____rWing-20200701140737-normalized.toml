@@ -1,0 +1,32 @@
+name = "rWing"
+repo = "https://wikifactory.com/@ilyasvali/rflightorg"
+version = "20200701140737"
+spdx-license = "N/A"
+licensor = "ilyasvali"
+documentation-language = "en"
+function = "A personal flying device designed to provide a safe and thrilling experience \n\nThe project has gone through various iterations and will be participating in the GoFly competition in 2021. Specs include: autonomous vertical take-off, landing, and transitions to and from horizontal flight."
+[[files]]
+name = "/2018-04-15 RF design for aero analisys.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc4ODQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/File from iOS.MOV"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc4Njk="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc5ODU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/rflight1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc4Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/rflight2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc4Njg="
+mimetype = "image/jpeg"
+

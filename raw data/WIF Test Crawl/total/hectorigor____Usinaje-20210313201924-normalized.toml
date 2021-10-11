@@ -1,0 +1,7 @@
+name = "Usinaje"
+repo = "https://wikifactory.com/@hectorigor/usinaje"
+version = "20210313201924"
+spdx-license = "N/A"
+licensor = "Héctor Munoz"
+documentation-language = "en"
+function = "Objetct"

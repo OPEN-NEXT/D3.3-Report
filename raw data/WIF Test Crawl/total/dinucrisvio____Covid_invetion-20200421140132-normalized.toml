@@ -1,0 +1,12 @@
+name = "Covid invetion"
+repo = "https://wikifactory.com/@dinucrisvio/covid-invetion"
+version = "20200421140132"
+spdx-license = "N/A"
+licensor = "Dinu Cris"
+documentation-language = "en"
+function = "Who invests in the cheapest mechanical fan?  https://www.youtube.com/watch?v=oti4Nnyh1no&list=PLYNKa06WSGcPsqPHCg6fsRDNaDAAuPQS6"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDAzOTg="
+mimetype = "text/markdown"
+

@@ -1,0 +1,48 @@
+name = "Lazer Chazer"
+repo = "https://wikifactory.com/@martaverde/lazer-chazer"
+version = "20200225150311"
+spdx-license = "N/A"
+licensor = "Marta Verde"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzY1MDc="
+function = "Work in progress residency at Medialab-Prado \n\nhttps://www.medialab-prado.es/convocatorias/fabricacion-digital-y-formas-de-vida"
+[[files]]
+name = "3dprint/Base - Protoboard elegoo.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk3Mjc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3dprint/Base - Servo.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk3MjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3dprint/Case - Cover.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk3NTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3dprint/Case.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk3NTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3dprint/Servo 2 - Case.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk3MjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3dprint/Servo 2 - Laser.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk3MjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Info/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk4MDQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Info/Schematic.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk4MDk="
+mimetype = "image/png"
+

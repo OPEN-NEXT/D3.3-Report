@@ -1,0 +1,7 @@
+name = "Automated Mouse Labs "
+repo = "https://wikifactory.com/@talksick/automated-mouse-labs"
+version = "20210421193923"
+spdx-license = "N/A"
+licensor = "Adarsh Raj"
+documentation-language = "en"
+function = "A self monitoring (real time with notifications) mouse lab/box for biotechnology research purposes. Able to self clean, feed the mouse at set times, and also control internal environment (temperature, humidity etc.)"

@@ -1,0 +1,7 @@
+name = "Wuxia"
+repo = "https://wikifactory.com/@hyugga/wuxia"
+version = "20210403034259"
+spdx-license = "N/A"
+licensor = "Hyugga Fogg"
+documentation-language = "en"
+function = "Port of Slash'em game from C to Kotlin, with lectures regarding design decisions. Meant as a tutorial."

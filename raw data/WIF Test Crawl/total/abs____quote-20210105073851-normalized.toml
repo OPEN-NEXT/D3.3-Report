@@ -1,0 +1,7 @@
+name = "quote"
+repo = "https://wikifactory.com/@abs/quote"
+version = "20210105073851"
+spdx-license = "N/A"
+licensor = "Abhishek"
+documentation-language = "en"
+function = "iot based"

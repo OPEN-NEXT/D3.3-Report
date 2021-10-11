@@ -1,0 +1,13 @@
+name = "Q1 mini Quadruped Robot"
+repo = "https://wikifactory.com/@jason-workshop/q1-mini"
+version = "20200207045542"
+spdx-license = "N/A"
+licensor = "Q1 Robot"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMzEwMg=="
+function = "Q1 mini is an open source quadruped robot for everyone!\nYou can print out the required parts by 3D printer.\n\nDesigned by <a href=\"http://q1.jasonworkshop.com\">Q1 Robot @ Jason Workshop</a>"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDQwNTA="
+mimetype = "text/markdown"
+

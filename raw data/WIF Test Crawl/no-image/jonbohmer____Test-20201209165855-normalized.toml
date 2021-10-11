@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@jonbohmer/test"
+version = "20201209165855"
+spdx-license = "N/A"
+licensor = "Jon Bøhmer"
+documentation-language = "en"
+function = "Testing the features of WikiFactory"

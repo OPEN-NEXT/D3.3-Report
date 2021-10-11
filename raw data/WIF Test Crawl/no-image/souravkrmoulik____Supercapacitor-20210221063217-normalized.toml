@@ -1,0 +1,7 @@
+name = "Supercapacitor "
+repo = "https://wikifactory.com/@souravkrmoulik/supercapacitor"
+version = "20210221063217"
+spdx-license = "N/A"
+licensor = "souravkrmoulik"
+documentation-language = "en"
+function = "Making supercapacitor in mass."

@@ -1,0 +1,7 @@
+name = "Metin "
+repo = "https://wikifactory.com/@kurumangebze/metin"
+version = "20200330092834"
+spdx-license = "N/A"
+licensor = "kurumangebze"
+documentation-language = "en"
+function = "multizon"

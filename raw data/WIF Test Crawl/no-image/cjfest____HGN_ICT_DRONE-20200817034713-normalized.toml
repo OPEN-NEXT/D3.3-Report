@@ -1,0 +1,7 @@
+name = "HGN ICT DRONE"
+repo = "https://wikifactory.com/@cjfest/hgn-ict-drone"
+version = "20200817034713"
+spdx-license = "N/A"
+licensor = "cjfest"
+documentation-language = "en"
+function = "Hunters Group of Nigeria Security Drone Project."

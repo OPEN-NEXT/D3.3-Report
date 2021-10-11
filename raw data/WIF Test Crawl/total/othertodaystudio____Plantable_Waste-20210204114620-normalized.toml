@@ -1,0 +1,43 @@
+name = "Plantable Waste"
+repo = "https://wikifactory.com/@ajod/plantable-rocket"
+version = "20210204114620"
+spdx-license = "N/A"
+licensor = "Alex"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0ODQ1Mjc="
+function = "This material is a simple plantable cardboard and is designed to help reduce the waste we produce in our homes. \nIn this project I'll be exploring how to manufacture a plantable cardboard material and I'll be looking at potential uses of it and a product I could make."
+[[files]]
+name = "/Cad file.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODIxMDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Hero Image.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODIxMDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Ideation.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODIxMDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Instructions.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODIxMDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Prototyping.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODIxMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzYxODE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Supply_Chain.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODIxMDM="
+mimetype = "image/jpeg"
+

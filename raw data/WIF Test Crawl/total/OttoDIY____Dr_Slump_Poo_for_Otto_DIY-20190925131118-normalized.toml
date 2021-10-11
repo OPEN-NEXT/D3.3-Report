@@ -1,0 +1,23 @@
+name = "Dr Slump Poo for Otto DIY"
+repo = "https://wikifactory.com/@mrgilaitken/dr-slump-poo-for-otto-diy"
+version = "20190925131118"
+spdx-license = "CC-BY-4.0"
+licensor = "mrgilaitken"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDgzNTg="
+function = "Ever since I saw an oto he reminded me of a drslump character, where he arale her as the main character towards the grace of the episode by putting her on a stick and running with her\nAs in some episode this poop walks and talks to the arale, which is a robotAn idea came to me and nowI show it to her"
+[[files]]
+name = "/caca arale for otto.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDgzNTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDgzNjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDgzNjY="
+mimetype = "text/markdown"
+

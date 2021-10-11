@@ -1,0 +1,23 @@
+name = "EcoSink"
+repo = "https://wikifactory.com/@fablabnewton/ecosink"
+version = "20210408195256"
+spdx-license = "N/A"
+licensor = "Fab Lab Newton"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzU3NzI="
+function = "In 2020, the EcoSink project participated in Forest CNC. Designed by Fab Lab Newton, the EkoSink is a mobile sink and was designed to be low cost and easy to transport. fablab@newtonpaiva.br"
+[[files]]
+name = "/Documentação EcoSink.docx.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU3ODE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/EcoSink.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU3NzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU3NzQ="
+mimetype = "text/markdown"
+

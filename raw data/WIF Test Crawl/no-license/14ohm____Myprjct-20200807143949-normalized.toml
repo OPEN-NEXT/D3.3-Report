@@ -1,0 +1,12 @@
+name = "Myprjct"
+repo = "https://wikifactory.com/@14ohm/myprjct"
+version = "20200807143949"
+spdx-license = "N/A"
+licensor = "Panagiotis Grimanelis"
+documentation-language = "en"
+function = "Mine"
+[[files]]
+name = "/M100_Airframe__CAD.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTk3ODk="
+mimetype = "text/plain"
+

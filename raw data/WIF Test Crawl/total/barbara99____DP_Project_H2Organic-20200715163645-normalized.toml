@@ -1,0 +1,178 @@
+name = "DP_Project H2Organic"
+repo = "https://wikifactory.com/@barbara99/dpproject-h2organic"
+version = "20200715163645"
+spdx-license = "N/A"
+licensor = "barbara"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzIyODA="
+function = "The following project allows that with H2Organic anyone can be able to plant their own eco-friendly garden inside their house."
+[[files]]
+name = "Brand H2Organic/Mockup1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIzMTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Brand H2Organic/Mockup2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIzMTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Brand H2Organic/Mockup3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIzMjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Brand H2Organic/MockupEspaço1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIzMjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Brand H2Organic/MockupEspaço2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIzMjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Brand H2Organic/MockupEspaço3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIzMjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/H2Organic1 v7.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ0Nzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/H2Organic2 v7.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ3Nzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/H2Organic3.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIzNDU="
+mimetype = "video/avi"
+
+[[files]]
+name = "Images/AboutAquaponics.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ3OTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Images/AquaponicsSystem.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ3OTI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Images/Bill Of Materials.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUwNTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Images/GrowAquaponics.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ3OTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Images/Presentation.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQzOTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/Reference Aquapioneers.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIyNjI="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Reference Groho.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIyNzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Process/DP_EsboçoFinal.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzQ0NjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Process/DP_Esboços1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIyODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Process/DP_Esboços2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIyODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Process/DP_Esboços3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIyODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Process/DP_Esboços4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIyODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Process/DP_Esboços5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIyODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Process/DP_Esboços6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIzMzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Process/DP_Esboçosciclo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIzMzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTExODQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Technical Draws/Aquarium drawer.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ1OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Technical Draws/Aquarium.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ1OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Technical Draws/Compartiment bottom.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ1OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Technical Draws/Compartiment top.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ1OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Technical Draws/Drawers.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ1OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Technical Draws/H2Organic.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ1ODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Technical Draws/Smart Glass.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ1OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Technical Draws/Structure.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ1ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Versão Portuguesa/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTExNzM="
+mimetype = "text/markdown"
+

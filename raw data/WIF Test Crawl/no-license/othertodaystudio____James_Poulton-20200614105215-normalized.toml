@@ -1,0 +1,18 @@
+name = "James Poulton"
+repo = "https://wikifactory.com/@jpoulton/james-poulton"
+version = "20200614105215"
+spdx-license = "N/A"
+licensor = "James Poulton"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzkwOTE="
+function = "Product Design Final Project"
+[[files]]
+name = "/Bottle Cap 5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc5MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODA4MzI="
+mimetype = "text/markdown"
+

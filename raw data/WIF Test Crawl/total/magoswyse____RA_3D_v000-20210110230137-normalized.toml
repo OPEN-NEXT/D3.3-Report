@@ -1,0 +1,7 @@
+name = "RA_3D_v000"
+repo = "https://wikifactory.com/@magoswyse/ra3dv000"
+version = "20210110230137"
+spdx-license = "N/A"
+licensor = "sinankupeli"
+documentation-language = "en"
+function = "Want to build an affordable robotic arm 3d printer."

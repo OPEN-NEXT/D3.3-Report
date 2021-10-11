@@ -1,0 +1,7 @@
+name = "Dwomo"
+repo = "https://wikifactory.com/@emanuelras/dwomo"
+version = "20210304143045"
+spdx-license = "N/A"
+licensor = "emanuelras"
+documentation-language = "en"
+function = "....."

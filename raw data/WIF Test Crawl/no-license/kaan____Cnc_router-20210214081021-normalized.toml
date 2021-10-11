@@ -1,0 +1,7 @@
+name = "Cnc router "
+repo = "https://wikifactory.com/@kaan/cnc-router"
+version = "20210214081021"
+spdx-license = "N/A"
+licensor = "Kaan Kutsaldogu "
+documentation-language = "en"
+function = "Wood carving 3d cnc router"

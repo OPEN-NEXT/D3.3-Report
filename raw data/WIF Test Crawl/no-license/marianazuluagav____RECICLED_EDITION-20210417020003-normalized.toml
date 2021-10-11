@@ -1,0 +1,33 @@
+name = "RECICLED EDITION"
+repo = "https://wikifactory.com/@marianazuluagav/recicled-edition-59f70"
+version = "20210417020003"
+spdx-license = "N/A"
+licensor = "Mariana Zuluaga "
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODI2NTA="
+function = "Recicled edition, the oportunity to use pur garbage and create!"
+[[files]]
+name = "CAD Files/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI2NjM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Firmware + Software/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI2NjQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI2NjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Photos + Videos/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI2NjI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI2NjU="
+mimetype = "text/markdown"
+

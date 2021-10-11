@@ -1,0 +1,7 @@
+name = "Public Rapid Transport"
+repo = "https://wikifactory.com/@urgentley/public-rapid-transport"
+version = "20210327101523"
+spdx-license = "N/A"
+licensor = "urgentley"
+documentation-language = "en"
+function = "An independent, single passenger system. That travels from one point to another, possibly having deviations and stations in between. Can be powered by human, electrical or kinetic energy."

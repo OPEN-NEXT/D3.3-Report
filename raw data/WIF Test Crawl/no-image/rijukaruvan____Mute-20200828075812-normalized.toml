@@ -1,0 +1,7 @@
+name = "Mute"
+repo = "https://wikifactory.com/@rijukaruvan/mute"
+version = "20200828075812"
+spdx-license = "N/A"
+licensor = "rijukaruvan"
+documentation-language = "en"
+function = "This is intended for talking privately in public"

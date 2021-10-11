@@ -1,0 +1,18 @@
+name = "Act. Carbon Water Filter "
+repo = "https://wikifactory.com/@georgthegerman/act-carbon-water-filter"
+version = "20200612085733"
+spdx-license = "N/A"
+licensor = "Georg Hoehne"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzkwNDU="
+function = "This water filter is made of a plastic bottle, very fine sand, gravel and activated carbon. It filters organic and large scale contaminants out of the water. Active carbon may be made with household materials bringing the price of this water filter very close to 0."
+[[files]]
+name = "/DIY water filter video.url"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkwNDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/readme.doc"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkwNzg="
+mimetype = "application/msword"
+

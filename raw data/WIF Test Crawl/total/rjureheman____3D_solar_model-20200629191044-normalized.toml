@@ -1,0 +1,7 @@
+name = "3D solar model"
+repo = "https://wikifactory.com/@rjureheman/3d-solar-model"
+version = "20200629191044"
+spdx-license = "N/A"
+licensor = "Nurul amin"
+documentation-language = "en"
+function = "A 3D solar model which will run through Magnetic field"

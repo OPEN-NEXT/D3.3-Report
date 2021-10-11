@@ -1,0 +1,12 @@
+name = "Sealer"
+repo = "https://wikifactory.com/@zulfikar/sealer"
+version = "20210116142052"
+spdx-license = "N/A"
+licensor = "Zulfikar Hussain"
+documentation-language = "en"
+function = "Sealer Machine"
+[[files]]
+name = "/PAPER_WRAPPER.scad"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk5NDY="
+mimetype = "text/plain"
+

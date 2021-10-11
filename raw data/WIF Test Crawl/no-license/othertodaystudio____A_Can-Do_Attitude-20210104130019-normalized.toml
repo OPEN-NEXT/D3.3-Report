@@ -1,0 +1,13 @@
+name = "A Can-Do Attitude"
+repo = "https://wikifactory.com/@eyoungdesign/a-can-do-attitude-00a33"
+version = "20210104130019"
+spdx-license = "N/A"
+licensor = "Emily Young"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTI5MTY="
+function = "Exploring the qualities and properties of aluminium from drinks cans, and the creation of a DIY Christmas tree ornament."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTI5MTE="
+mimetype = "text/plain"
+

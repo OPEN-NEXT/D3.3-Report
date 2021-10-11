@@ -1,0 +1,7 @@
+name = "brazo"
+repo = "https://wikifactory.com/@creaeilumina/brazo"
+version = "20210117180659"
+spdx-license = "N/A"
+licensor = "Iluminación Creativa"
+documentation-language = "es"
+function = "automatismo de producción"

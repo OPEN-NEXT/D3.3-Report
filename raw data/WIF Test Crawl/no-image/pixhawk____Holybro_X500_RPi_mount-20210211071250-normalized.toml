@@ -1,0 +1,12 @@
+name = "Holybro X500 RPi mount "
+repo = "https://wikifactory.com/@mwbb/holybro-x500-rpi-mount"
+version = "20210211071250"
+spdx-license = "N/A"
+licensor = "Farhang Naderi"
+documentation-language = "en"
+function = "The aim is to come to a conclusion for an easy 3D printed shell for Raspberry pi which can sit on the kit. \nYou will need three M3 screw and secure nuts to attach."
+[[files]]
+name = "/X500RPi-BottomShell.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzk3MTc="
+mimetype = "application/sla"
+

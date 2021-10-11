@@ -1,0 +1,7 @@
+name = "3D"
+repo = "https://wikifactory.com/@manageadorn/3d"
+version = "20201222162859"
+spdx-license = "N/A"
+licensor = "manageadorn"
+documentation-language = "en"
+function = "Architectural visualisation"

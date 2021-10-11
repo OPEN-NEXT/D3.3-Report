@@ -1,0 +1,12 @@
+name = "Otto ESP32"
+repo = "https://wikifactory.com/@pass810/otto-esp32"
+version = "20200304113120"
+spdx-license = "N/A"
+licensor = "pass810"
+documentation-language = "en"
+function = "This is Otto?\nI made Otto? using ESP32(LOLIN32)."
+[[files]]
+name = "/Otto.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyOTE5MjU="
+mimetype = "image/jpeg"
+

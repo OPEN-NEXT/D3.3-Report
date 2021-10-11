@@ -1,0 +1,12 @@
+name = "Localised Futures"
+repo = "https://wikifactory.com/@danbalint/localised-futures"
+version = "20200120143845"
+spdx-license = "N/A"
+licensor = "Dan Balint"
+documentation-language = "en"
+function = "Exploring how a localised future would benefit communities."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTk2NzU="
+mimetype = "text/markdown"
+

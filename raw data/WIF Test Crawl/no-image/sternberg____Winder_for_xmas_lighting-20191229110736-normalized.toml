@@ -1,0 +1,7 @@
+name = "Winder for xmas lighting"
+repo = "https://wikifactory.com/@sternberg/wind-for-xmas-lighting"
+version = "20191229110736"
+spdx-license = "N/A"
+licensor = "Claus Sternberg"
+documentation-language = "en"
+function = "3D printed winding tool for keeping xmas LED chains untangled. \nI have a \"christmas tree\" consisting of 8 LED light chains to be raised in a flag pole. Each chain is 8 m long and when taking it down it is a hassle to keep the individual chains untangled."

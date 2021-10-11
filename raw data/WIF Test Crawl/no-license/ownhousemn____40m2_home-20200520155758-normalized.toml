@@ -1,0 +1,13 @@
+name = "40m2 home"
+repo = "https://wikifactory.com/@ownhousemn/40m2-home"
+version = "20200520155758"
+spdx-license = "N/A"
+licensor = "OwnHous"
+documentation-language = "ru"
+image = "https://wikifactory.com/files/RmlsZTozNTc1Mjc="
+function = "Бидний ТББ нь 28,598 гишүүн, 153,000 гаруй дэмжигч гишүүдээ дөрвөн чиглэлд бүлэг болгон бодлогоор хэрэгжүүлж буй бүтээлч төрийн бус байгууллага юм. Бидний зорилго бол бага дунд орлоготой иргэд, залуу гэр бүлүүдийг санхүүгийн дарамтгүйгээр орон байртай болгох үйл хэрэг юм."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc1Mjk="
+mimetype = "text/markdown"
+

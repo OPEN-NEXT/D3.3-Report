@@ -1,0 +1,7 @@
+name = "Advance BMS"
+repo = "https://wikifactory.com/@sreenathchatterjee1/advance-bms"
+version = "20201210073744"
+spdx-license = "N/A"
+licensor = "Sreenath Chatterjee"
+documentation-language = "en"
+function = "Able to build a more Advance BMS for EV's"

@@ -1,0 +1,53 @@
+name = "Jeu de dame adapté"
+repo = "https://wikifactory.com/@adamou/jeu-de-dame-adapté"
+version = "20210218231602"
+spdx-license = "N/A"
+licensor = "Adamou AMADOU SOULEY"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1NTU0Nzg="
+function = "UBO Open Factory et l'Association des adultes déficients visuels , Valentin Haüy adaptent le jeu de dame"
+[[files]]
+name = "/Capture d’écran 2021-02-18 à 22.22.50.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU0NzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/Capture d’écran 2021-02-18 à 22.23.17.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU0NzM="
+mimetype = "image/png"
+
+[[files]]
+name = "/Capture d’écran 2021-02-18 à 22.23.48.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU0NzI="
+mimetype = "image/png"
+
+[[files]]
+name = "/Capture d’écran 2021-02-18 à 22.24.27.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU0NzA="
+mimetype = "image/png"
+
+[[files]]
+name = "/Capture d’écran 2021-02-18 à 22.24.44.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU0Njk="
+mimetype = "image/png"
+
+[[files]]
+name = "/Capture d’écran 2021-02-18 à 22.24.57.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU0Njg="
+mimetype = "image/png"
+
+[[files]]
+name = "/Capture d’écran 2021-02-18 à 22.25.21.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU0Njc="
+mimetype = "image/png"
+
+[[files]]
+name = "/Capture d’écran 2021-02-18 à 22.25.38.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU0NjY="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU1MTQ="
+mimetype = "text/markdown"
+

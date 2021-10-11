@@ -1,0 +1,7 @@
+name = "Habityeah"
+repo = "https://wikifactory.com/@habityeah/habityeah"
+version = "20201123165840"
+spdx-license = "N/A"
+licensor = "Emmanuel Marcelin"
+documentation-language = "fr"
+function = "boutique de vente et de location de vêtements en ligne"

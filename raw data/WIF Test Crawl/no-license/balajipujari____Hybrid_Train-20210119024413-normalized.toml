@@ -1,0 +1,7 @@
+name = "Hybrid Train"
+repo = "https://wikifactory.com/@balajipujari/hybrid-train"
+version = "20210119024413"
+spdx-license = "N/A"
+licensor = "Balaji Pujari"
+documentation-language = "en"
+function = "Train will move with the three way energy."

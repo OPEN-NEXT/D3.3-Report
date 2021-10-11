@@ -1,0 +1,13 @@
+name = "BikeSafe "
+repo = "https://wikifactory.com/@nicoontaneda/bikesafe"
+version = "20200724151203"
+spdx-license = "N/A"
+licensor = "Nicolás Ontaneda"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDQ3NDA="
+function = "BikeSafe is a bicycle accessory to be placed in any bike handle. It incorporates a self-sanitizing system, designed with anti-viral materials, which helps to release alcohol when it is in contact with the rider's hand."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ5MDc="
+mimetype = "text/markdown"
+

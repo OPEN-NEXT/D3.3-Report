@@ -1,0 +1,7 @@
+name = "The shirt"
+repo = "https://wikifactory.com/@magicalsamson/the-shirt"
+version = "20200818050141"
+spdx-license = "N/A"
+licensor = "Maereg Samson"
+documentation-language = "en"
+function = "A t shirt wity 3d graphic print"

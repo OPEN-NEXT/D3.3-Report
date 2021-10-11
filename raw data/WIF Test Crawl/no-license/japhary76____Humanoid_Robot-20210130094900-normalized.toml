@@ -1,0 +1,7 @@
+name = "Humanoid Robot"
+repo = "https://wikifactory.com/@japhary76/humanoid-robot"
+version = "20210130094900"
+spdx-license = "N/A"
+licensor = "japhary pendo"
+documentation-language = "en"
+function = "Human Robbot extending human capability on different environment"

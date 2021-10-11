@@ -1,0 +1,18 @@
+name = "Vaata Smart 7.5KW VAWT"
+repo = "https://wikifactory.com/@deepakvalagam/vaata-smart-75kw-vawt"
+version = "20191018042832"
+spdx-license = "N/A"
+licensor = "Deepak Valagam"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzUxODE="
+function = "Smart Small Vertical Axis Wind turbine"
+[[files]]
+name = "/7_5kw_6pole_132frame_assy_60_3_asm.iges"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUxODI="
+mimetype = "model/iges"
+
+[[files]]
+name = "/7_5kw_6pole_132frame_assy_60_3_asm.stp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUxODk="
+mimetype = "text/plain"
+

@@ -1,0 +1,8 @@
+name = "La Coquetterie"
+repo = "https://wikifactory.com/@amaiag/la-coquetterie"
+version = "20201125214537"
+spdx-license = "N/A"
+licensor = "Amaia Garzon"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo0ODk2MjQ="
+function = "Inspired by Marine Serre, \"La Coquetterie\" is a jewellery project that combines soft robotics and fashion design together.\n® @amaiag\n(es) Inspirada en la diseñadora Marine Serre, \"La Coquetterie\" es un proyecto de joyería que abarca el soft robotics y el diseño de moda."

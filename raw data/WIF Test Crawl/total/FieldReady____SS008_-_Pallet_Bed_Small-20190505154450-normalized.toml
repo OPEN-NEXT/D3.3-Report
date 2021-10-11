@@ -1,0 +1,13 @@
+name = "SS008 - Pallet Bed Small"
+repo = "https://wikifactory.com/@brynmorjohn/pallet-bed-small"
+version = "20190505154450"
+spdx-license = "N/A"
+licensor = "Brynmor John"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzAyMjU="
+function = "Alternative to sleeping direction on the ground"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDczNTk="
+mimetype = "text/plain"
+

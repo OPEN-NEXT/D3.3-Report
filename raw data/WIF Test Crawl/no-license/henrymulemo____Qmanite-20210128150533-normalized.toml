@@ -1,0 +1,7 @@
+name = "Qmanite"
+repo = "https://wikifactory.com/@henrymulemo/qmanite"
+version = "20210128150533"
+spdx-license = "N/A"
+licensor = "henrymulemo"
+documentation-language = "en"
+function = "Toy cars for children"

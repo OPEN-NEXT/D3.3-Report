@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@chatchai/test"
+version = "20201007072436"
+spdx-license = "N/A"
+licensor = "chatchai s"
+documentation-language = "en"
+function = "test"

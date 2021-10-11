@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@ud/test"
+version = "20201210231101"
+spdx-license = "N/A"
+licensor = "uyudai1202"
+documentation-language = "en"
+function = "test"

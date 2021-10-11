@@ -1,0 +1,7 @@
+name = "Drone"
+repo = "https://wikifactory.com/@saqlain11/drone"
+version = "20201225062646"
+spdx-license = "N/A"
+licensor = "Syed saqlain"
+documentation-language = "en"
+function = "Hi guys,am a mechanical engineering student. I want to create a drone which camera and it can fly over in rain also. I will attach a parachute type polymer that's help to cover our drone from rain."

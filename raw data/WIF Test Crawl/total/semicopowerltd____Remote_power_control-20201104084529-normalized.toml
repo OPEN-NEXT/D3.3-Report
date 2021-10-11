@@ -1,0 +1,7 @@
+name = "Remote power control "
+repo = "https://wikifactory.com/@semicopowerltd/remote-power-control"
+version = "20201104084529"
+spdx-license = "N/A"
+licensor = "semicopowerltd"
+documentation-language = "en"
+function = "Remote power control using microwaves"

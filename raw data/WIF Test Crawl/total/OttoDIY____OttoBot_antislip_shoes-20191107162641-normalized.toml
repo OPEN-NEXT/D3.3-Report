@@ -1,0 +1,48 @@
+name = "OttoBot antislip shoes"
+repo = "https://wikifactory.com/@prusalab/ottobot-antislip-shoes-00a11"
+version = "20191107162641"
+spdx-license = "N/A"
+licensor = "Prusalab"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzc1Njc="
+function = "Upgrade your Ottobot with fashionable pair of non-slippery shoes!"
+[[files]]
+name = "3Ddesign/OttoDIY_CUSTOM.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk0NTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Printable STL/boot_left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk0NTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Printable STL/boot_right.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk0NTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk0NjI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "TutorialPics/1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzc1Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "TutorialPics/2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzc1Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "TutorialPics/3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzc1Nzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "TutorialPics/4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzc1NzY="
+mimetype = "image/jpeg"
+

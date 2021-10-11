@@ -1,0 +1,7 @@
+name = "Jashivi"
+repo = "https://wikifactory.com/@jasrgu/jashivi"
+version = "20210106100558"
+spdx-license = "N/A"
+licensor = "jasrgu"
+documentation-language = "en"
+function = "Just initial startup"

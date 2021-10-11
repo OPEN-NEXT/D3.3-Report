@@ -1,0 +1,68 @@
+name = "Alcohol gel dispenser"
+repo = "https://wikifactory.com/@rodrigo-pinto/alcohol-dispenser"
+version = "20210209172142"
+spdx-license = "N/A"
+licensor = "Rodrigo Pinto"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MzU4ODM="
+function = "This project's concept is based on the improvement of a product similar to an alcohol gel dispenser. This improvement is centered on some specific details such as being more practical, more ecological and visible to all the people who would use it."
+[[files]]
+name = "/Dispensador  final v1.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4MTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Dispensers research Catarina Rocha/MoodboardDipensadores3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI2MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Dispensers research Catarina Rocha/MoodboardDispensadores2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI2MTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Dispensers research Catarina Rocha/MoodboardsDispensadores.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI2MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/microbit-Micro.Bit.hex"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzU3NzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Moodboard Dispensadores 001 FRANCISCO BELO 3J  Nº2018220.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTYxOTk="
+mimetype = "image/png"
+
+[[files]]
+name = "/Moodboard Dispensadores 002 FRANCISCO BELO 3J N2018220.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTYyMDA="
+mimetype = "image/png"
+
+[[files]]
+name = "/Pesquisa de Dispensadores Francisco Belo 01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ1MDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Pesquisa de Dispensadores Francisco Belo 02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ1MDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Pesquisa de Dispensadores Francisco Belo 03.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ1MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Pesquisa de Dispensadores Francisco Belo 04.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ1MDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzYxOTM="
+mimetype = "text/markdown"
+

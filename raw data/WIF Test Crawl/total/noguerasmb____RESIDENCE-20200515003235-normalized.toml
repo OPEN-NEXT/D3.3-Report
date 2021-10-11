@@ -1,0 +1,7 @@
+name = "RESIDENCE"
+repo = "https://wikifactory.com/@noguerasmb/residence"
+version = "20200515003235"
+spdx-license = "N/A"
+licensor = "noguerasmb"
+documentation-language = "en"
+function = "Building Construction"

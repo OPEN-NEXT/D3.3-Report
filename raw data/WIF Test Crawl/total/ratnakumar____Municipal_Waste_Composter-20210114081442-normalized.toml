@@ -1,0 +1,27 @@
+name = "Municipal Waste Composter"
+repo = "https://wikifactory.com/@ratnakumar/municipal-waste-composter"
+version = "20210114081442"
+spdx-license = "N/A"
+licensor = "Ratnakumar Mudliar"
+documentation-language = "en"
+function = "Self sustainable nursery & seed bank development.\nComposting projects for bio-waste using automatic advanced light weight machine for composting."
+[[files]]
+name = "/IMG_20200229_171834.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg2MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20200229_171851.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg2MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20200229_171906.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg2MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20200229_171923.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg2MzE="
+mimetype = "image/jpeg"
+

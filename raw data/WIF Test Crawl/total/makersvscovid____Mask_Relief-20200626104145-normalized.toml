@@ -1,0 +1,18 @@
+name = "Mask Relief"
+repo = "https://wikifactory.com/@joaoleao/mask-relief"
+version = "20200626104145"
+spdx-license = "N/A"
+licensor = "João Leão"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDQzOTY="
+function = "A simple laser cut mask relief to protect the ears of health professionals after ours of mask use."
+[[files]]
+name = "/Mask Relief 1270mmX685mm 0.8mm Sheet.dxf.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozNDQzOTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTE2Mzg="
+mimetype = "text/markdown"
+

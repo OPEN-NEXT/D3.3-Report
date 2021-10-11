@@ -1,0 +1,13 @@
+name = "Smart Plant Pot"
+repo = "https://wikifactory.com/@botler/smart-plant-pot"
+version = "20180730215548"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2OTU3"
+function = "Stand alone smart plant pot that can email you when it's thirsty, cold, hot, sleeping etc. By Akin Yildiz"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo2OTY3"
+mimetype = "text/markdown"
+

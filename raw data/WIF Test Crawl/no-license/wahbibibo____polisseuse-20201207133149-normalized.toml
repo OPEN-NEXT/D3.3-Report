@@ -1,0 +1,7 @@
+name = "polisseuse"
+repo = "https://wikifactory.com/@wahbibibo/polisseuse"
+version = "20201207133149"
+spdx-license = "N/A"
+licensor = "wahbi sebti belaid"
+documentation-language = "fr"
+function = "réaliser une machine"

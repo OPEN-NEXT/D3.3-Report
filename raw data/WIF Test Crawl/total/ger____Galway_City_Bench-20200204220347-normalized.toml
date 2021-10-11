@@ -1,0 +1,68 @@
+name = "Galway City Bench"
+repo = "https://wikifactory.com/@ger/galway-city-bench"
+version = "20200204220347"
+spdx-license = "N/A"
+licensor = "Gerard Walsh"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDI3Mzk="
+function = "Public Street Furniture project, temporarily installed in Galway City in 2015.\nVery proud to be featured in this ArchDaily Article:\nhttps://www.archdaily.com/794566/the-best-student-design-build-projects-worldwide-2016"
+[[files]]
+name = "Documentation/barlocations.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0MDI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Documentation/IMG_0123.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Documentation/IMG_9794.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Documentation/IMG_9813.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Documentation/method statement diagram.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0OTk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Documentation/notes on assembly.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0OTA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Documentation/parklet guidelines sign.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0OTE="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/FInalMaster-Spacers.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0OTM="
+mimetype = "application/dwg"
+
+[[files]]
+name = "/FInalMaster.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0OTI="
+mimetype = "application/dwg"
+
+[[files]]
+name = "/FinalModel3D.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0ODc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/LaserModel.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0ODg="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDMyODA="
+mimetype = "text/markdown"
+

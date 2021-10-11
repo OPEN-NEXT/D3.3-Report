@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@xanup07/test"
+version = "20210114061335"
+spdx-license = "N/A"
+licensor = "xanup07"
+documentation-language = "en"
+function = "xyz"

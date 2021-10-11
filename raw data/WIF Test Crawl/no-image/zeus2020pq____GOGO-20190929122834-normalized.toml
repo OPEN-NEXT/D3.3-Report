@@ -1,0 +1,7 @@
+name = "GOGO"
+repo = "https://wikifactory.com/@zeus2020pq/gogo"
+version = "20190929122834"
+spdx-license = "N/A"
+licensor = "zeus2020pq"
+documentation-language = "hr"
+function = "gogo ~~just gogo"

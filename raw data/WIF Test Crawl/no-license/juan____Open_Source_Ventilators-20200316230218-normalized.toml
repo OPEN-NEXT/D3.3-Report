@@ -1,0 +1,13 @@
+name = "Open Source Ventilators"
+repo = "https://wikifactory.com/@juan/open-source-respirators"
+version = "20200316230218"
+spdx-license = "N/A"
+licensor = "Juan Mazzuchelli"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTc3MTE="
+function = "Summary and best practices of open-source initiatives to build low cost functional Ventilators for the COVID19 pandemic."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc2MDk="
+mimetype = "text/markdown"
+

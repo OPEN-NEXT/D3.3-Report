@@ -1,0 +1,13 @@
+name = "driedfruits"
+repo = "https://wikifactory.com/@ndubo/driedfruits"
+version = "20210413134133"
+spdx-license = "N/A"
+licensor = "Nicolas Decourcelle"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzczNDU="
+function = "This grid was made for Food Ingeneering courses in order to study fruit drying. Project under CC-BY-NC-ND 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzk2OTQ="
+mimetype = "text/markdown"
+

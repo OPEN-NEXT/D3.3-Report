@@ -1,0 +1,17 @@
+name = "RS485 CAN HAT For Pi"
+repo = "https://wikifactory.com/@thinkgenix/rs485-can-hat-for-pi"
+version = "20210426095558"
+spdx-license = "N/A"
+licensor = "kamal Khan"
+documentation-language = "en"
+function = "RS485 CAN HAT is a multi-node communication module for long-range communication, designed specifically for Raspberry Pi with a 3.3 V operating voltage"
+[[files]]
+name = "/Raspberry Pi RS485 CAN HAT.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTE0MDc="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTE0MTM="
+mimetype = "text/markdown"
+

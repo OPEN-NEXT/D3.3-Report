@@ -1,0 +1,7 @@
+name = "ORANGUTAN"
+repo = "https://wikifactory.com/@oaks/orangutan"
+version = "20201223080226"
+spdx-license = "N/A"
+licensor = "Fanibuyan Boluwatife"
+documentation-language = "en"
+function = "Web-based agricultural software-hardware that will provide farmers with equitable and affordable access to healthy, low-carbon food production on the farm at their fingertips. The uniqueness of this idea involves:\nRisk profiling and mitigation programming."

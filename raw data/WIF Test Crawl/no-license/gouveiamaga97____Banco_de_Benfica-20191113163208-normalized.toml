@@ -1,0 +1,32 @@
+name = "Banco de Benfica "
+repo = "https://wikifactory.com/@gouveiamaga97/banco-de-benfica"
+version = "20191113163208"
+spdx-license = "N/A"
+licensor = "gouveiamaga97"
+documentation-language = "pt"
+function = "Os todos os documentos para o trabalho do banco de Benfica."
+[[files]]
+name = "Banco/Banco de Benfica ..dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyODIwMDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Banco/Banco de Benfica v1.f3d"
+permalink = "https://wikifactory.com/files/RmlsZToyODIwMDI="
+mimetype = "application/zip"
+
+[[files]]
+name = "Banco/cadeira 2 v11.step"
+permalink = "https://wikifactory.com/files/RmlsZToyODIwMDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Banco/final banco.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyODIwMDA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Banco/Manual de instruções.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyODE5OTg="
+mimetype = "application/pdf"
+

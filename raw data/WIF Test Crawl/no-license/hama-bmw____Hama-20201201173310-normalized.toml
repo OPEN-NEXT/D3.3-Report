@@ -1,0 +1,7 @@
+name = "Hama"
+repo = "https://wikifactory.com/@hama-bmw/hama"
+version = "20201201173310"
+spdx-license = "N/A"
+licensor = "Hama bmw"
+documentation-language = "en"
+function = "Hama"

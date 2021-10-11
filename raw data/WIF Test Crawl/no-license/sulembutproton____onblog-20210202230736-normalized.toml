@@ -1,0 +1,12 @@
+name = "onblog"
+repo = "https://wikifactory.com/@sulembutproton/onblog-e1cf4"
+version = "20210202230736"
+spdx-license = "N/A"
+licensor = "Sulembut Proton"
+documentation-language = "en"
+function = "onblog"
+[[files]]
+name = "/kivy.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ1NzQ="
+mimetype = "application/pdf"
+

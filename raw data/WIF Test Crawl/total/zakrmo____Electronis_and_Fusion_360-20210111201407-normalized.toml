@@ -1,0 +1,7 @@
+name = "Electronis and Fusion 360"
+repo = "https://wikifactory.com/@zakrmo/electronis-and-fusion-360"
+version = "20210111201407"
+spdx-license = "N/A"
+licensor = "ZLATKO KRMPOTIĆ"
+documentation-language = "ca"
+function = "Electronics and design"

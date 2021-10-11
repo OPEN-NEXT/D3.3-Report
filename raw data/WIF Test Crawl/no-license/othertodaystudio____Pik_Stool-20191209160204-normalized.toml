@@ -1,0 +1,13 @@
+name = "Pik Stool"
+repo = "https://wikifactory.com/@markos/pik-stool"
+version = "20191209160204"
+spdx-license = "N/A"
+licensor = "Markos Georgiou"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODIzMDg="
+function = "Markos Georgiou_Pik Stool\nTwo stools from a single sheet of plywood. Inspired from guitar picks, designed for guitar players.\n The stool has been designed with minimal waste in the supply chain, therefore reducing the impact on the environment. It is flat pack and fits through a regular letter box."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk4MTY="
+mimetype = "text/markdown"
+

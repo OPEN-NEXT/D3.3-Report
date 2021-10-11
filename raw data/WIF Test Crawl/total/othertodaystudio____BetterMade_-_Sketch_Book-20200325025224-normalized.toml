@@ -1,0 +1,13 @@
+name = "BetterMade - Sketch Book "
+repo = "https://wikifactory.com/@edenbunce2/sketch-book"
+version = "20200325025224"
+spdx-license = "N/A"
+licensor = "Eden Bunce"
+documentation-language = "sk"
+image = "https://wikifactory.com/files/RmlsZTozODE0OTA="
+function = "Final project sketch book"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjMzMTE="
+mimetype = "text/markdown"
+

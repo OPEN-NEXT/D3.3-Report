@@ -1,0 +1,23 @@
+name = "Food Can Supply Chain"
+repo = "https://wikifactory.com/@louislane51/food-can-supply-chain"
+version = "20191115152001"
+spdx-license = "N/A"
+licensor = "Louis Lane"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODAzNDY="
+function = "A supply chain of the materials and processes that go into making aluminium cans, their purchase and what happens to them after they are used by consumers."
+[[files]]
+name = "/Aluminium Can Supply Chain Infographic"
+permalink = "https://wikifactory.com/files/RmlsZToyODAzNDc="
+mimetype = "image/png"
+
+[[files]]
+name = "/Aluminum Can Supply Chain References.docx"
+permalink = "https://wikifactory.com/files/RmlsZToyODAzNDg="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODMzMjE="
+mimetype = "text/markdown"
+

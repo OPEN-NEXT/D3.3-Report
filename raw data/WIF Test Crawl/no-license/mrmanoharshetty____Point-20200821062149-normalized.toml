@@ -1,0 +1,7 @@
+name = "Point "
+repo = "https://wikifactory.com/@mrmanoharshetty/point"
+version = "20200821062149"
+spdx-license = "N/A"
+licensor = "mrmanoharshetty"
+documentation-language = "en"
+function = "Some point"

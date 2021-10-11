@@ -1,0 +1,18 @@
+name = "Mycelium"
+repo = "https://wikifactory.com/@sdgsolutionspace/mycelium"
+version = "20200626112324"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "DURNEY Jean-Marie"
+documentation-language = "nl"
+image = "https://wikifactory.com/files/RmlsZTozOTE2NzY="
+function = "Let's grow Objects"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozOTE2Nzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTE2ODY="
+mimetype = "text/markdown"
+

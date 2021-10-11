@@ -1,0 +1,12 @@
+name = "Rasterz Chocolate"
+repo = "https://wikifactory.com/@rasterz/rasterz-chocolate"
+version = "20210411092637"
+spdx-license = "N/A"
+licensor = "Rafdi Cawthorne"
+documentation-language = "en"
+function = "Basic first project. Simple bars of milk chocolate with paper wrapper. Wrapper has text \"Rasterz\".\nNeeds: Artist, printer, chocolate mold, milk chocolate, waterproof paper, marketing."
+[[files]]
+name = "/rasterz alpha.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzg3ODY="
+mimetype = "image/png"
+

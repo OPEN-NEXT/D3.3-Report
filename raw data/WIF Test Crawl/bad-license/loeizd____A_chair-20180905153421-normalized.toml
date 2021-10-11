@@ -1,0 +1,13 @@
+name = "A chair"
+repo = "https://wikifactory.com/@loeizd/a-chair"
+version = "20180905153421"
+spdx-license = "BAD"
+licensor = "L Down"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMTM2OQ=="
+function = "a chair that isn't that great"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMTAyOQ=="
+mimetype = "{text/plain,NULL}"
+

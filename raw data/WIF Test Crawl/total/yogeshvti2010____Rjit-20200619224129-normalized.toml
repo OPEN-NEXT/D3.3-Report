@@ -1,0 +1,7 @@
+name = "Rjit"
+repo = "https://wikifactory.com/@yogeshvti2010/rjit"
+version = "20200619224129"
+spdx-license = "N/A"
+licensor = "yogeshvti2010"
+documentation-language = "en"
+function = "GPS device"

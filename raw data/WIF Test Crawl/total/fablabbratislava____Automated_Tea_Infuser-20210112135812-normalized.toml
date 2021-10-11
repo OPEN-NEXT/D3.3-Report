@@ -1,0 +1,53 @@
+name = "Automated Tea Infuser"
+repo = "https://wikifactory.com/@ladislavz/automated-tea-infuser"
+version = "20210112135812"
+spdx-license = "N/A"
+licensor = "ladislavz"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTY4OTU="
+function = "Automated Tea Infuser with adjustable timer based on Arduino Uno with 3D-printed parts"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTc1Njg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "src/tea_maker_v0-1.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY4NTY="
+mimetype = "text/x-c"
+
+[[files]]
+name = "stl/drevena_podlozka.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTczNjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "stl/kryt.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTczNjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "stl/podstava.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTczNjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "stl/rameno.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTczNTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "stl/ramik.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTczNTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "stl/valec.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTczNTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "stl/zarazky.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTczNTY="
+mimetype = "application/sla"
+

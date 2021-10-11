@@ -1,0 +1,7 @@
+name = "Public Gym powerhouses"
+repo = "https://wikifactory.com/@roythayyil/public-gym-powerhouses"
+version = "20210113194513"
+spdx-license = "N/A"
+licensor = "Roy Joseph"
+documentation-language = "en"
+function = "Exercise machines such as treadmill, cross trainer or other machines can be modified to generate electricity that powers the city for free.  In return, the City provides the public with installation and maintenance of exercise machines throughout the city where people gather"

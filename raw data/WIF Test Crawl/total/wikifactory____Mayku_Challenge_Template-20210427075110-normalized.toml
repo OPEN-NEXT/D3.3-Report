@@ -1,0 +1,33 @@
+name = "Mayku Challenge Template"
+repo = "https://wikifactory.com/@flowalistik/mayku-challenge-template"
+version = "20210427075110"
+spdx-license = "N/A"
+licensor = "Agustín \"Flowalistik\" Arroyo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzkwMzk="
+function = "A template that will help you develop a great project for the Mayku design challenge.\n\ufeff\nFork this project and use the existing sections to document your own project."
+[[files]]
+name = "CAD Files/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY2MTM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Firmware + Software/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY2MTY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU4MDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Photos + Videos/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY2MTI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTE4ODg="
+mimetype = "text/markdown"
+

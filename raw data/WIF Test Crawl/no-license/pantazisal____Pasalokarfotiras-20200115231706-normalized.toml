@@ -1,0 +1,7 @@
+name = "Pasalokarfotiras "
+repo = "https://wikifactory.com/@pantazisal/pasalokarfotiras"
+version = "20200115231706"
+spdx-license = "N/A"
+licensor = "Alekos Pantazis"
+documentation-language = "en"
+function = "Documentation of a tool for nailing poles. Experimention with Tzoumakers community"

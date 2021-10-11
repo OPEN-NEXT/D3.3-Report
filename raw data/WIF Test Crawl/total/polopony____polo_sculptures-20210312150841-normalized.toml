@@ -1,0 +1,37 @@
+name = "polo sculptures"
+repo = "https://wikifactory.com/@polopony/polo-sculptures"
+version = "20210312150841"
+spdx-license = "N/A"
+licensor = "matias perez"
+documentation-language = "en"
+function = "sculptures to be a prize in a polo tournamet"
+[[files]]
+name = "/20210309_121121.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjUyODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20210309_121132.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjUyODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20210309_121238.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjUyOTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20210309_121248.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjUyOTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20210310_195048.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjUyOTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20210310_195102.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjUyOTA="
+mimetype = "image/jpeg"
+

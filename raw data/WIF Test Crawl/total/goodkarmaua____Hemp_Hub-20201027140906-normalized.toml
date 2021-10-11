@@ -1,0 +1,13 @@
+name = "Hemp Hub"
+repo = "https://wikifactory.com/@goodkarmaua/hamp-hub"
+version = "20201027140906"
+spdx-license = "N/A"
+licensor = "goodkarmaua"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTc2MzA="
+function = "We create new space for IT Hub"
+[[files]]
+name = "/GK hemp prefab poster A1-01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc2MDc="
+mimetype = "image/jpeg"
+

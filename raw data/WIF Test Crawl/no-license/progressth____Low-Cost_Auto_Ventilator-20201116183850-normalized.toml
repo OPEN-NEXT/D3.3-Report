@@ -1,0 +1,93 @@
+name = "Low-Cost Auto Ventilator "
+repo = "https://wikifactory.com/@progressth/low-cost-auto-ventilator"
+version = "20201116183850"
+spdx-license = "N/A"
+licensor = "ProgressTH"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzA2MjU="
+function = "This is an low-cost opensource mechanical ventilator using an Arduino Uno-controlled 25kg-cm high-torque servo-driven linear actuator to compress readily available resuscitation bags (bag valve masks or BVMs). \n\nThe frame is 3D printed and uses 20mm PVC pipes to provide additional support."
+[[files]]
+name = "/2020-04-16 17-25-38_b.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzgzODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/2020-04-16 17-25-46_b.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzgzODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/2020-05-06 22-04-52.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNDgxOTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/2020-05-06 22-05-34.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNDgxOTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDgxNjQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "UPDATED: STL Files /BVM_Supports.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA2MzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "UPDATED: STL Files /ControlPanel_FanCover.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA2MzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "UPDATED: STL Files /cross_support.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA2MzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "UPDATED: STL Files /hardware.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA2Mjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "UPDATED: STL Files /latches.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA2Mjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "UPDATED: STL Files /leftMain_body.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA2Mjc="
+mimetype = "application/sla"
+
+[[files]]
+name = "UPDATED: STL Files /leftRight_cover_ends.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA2MjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "UPDATED: STL Files /leftRight_cover_supports.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA2Mzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "UPDATED: STL Files /linear_actuator.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA2Mzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "UPDATED: STL Files /rightMain_body.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA2MzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/ventilator_FullSizedGIF.gif"
+permalink = "https://wikifactory.com/files/RmlsZTozNDE4ODE="
+mimetype = "image/gif"
+
+[[files]]
+name = "/Ventilator_V1_upload.skp"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA2ODg="
+mimetype = "skp"
+

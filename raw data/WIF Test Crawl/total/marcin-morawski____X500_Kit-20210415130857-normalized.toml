@@ -1,0 +1,118 @@
+name = "X500 Kit"
+repo = "https://wikifactory.com/@marcin-morawski/x500-kit"
+version = "20210415130857"
+spdx-license = "N/A"
+licensor = "Marcin Morawski"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODIwMjM="
+function = "A carbon fiber frame drone kit that is suitable for drone developers who want to airborne quickly with a baseline Pixhawk hardware reference.  No soldering needed."
+[[files]]
+name = "Frame Models/arm-asm.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNjg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Frame Models/Battery-mounting-plat.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Frame Models/battery-pad.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Frame Models/bottom-plat-X500.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Frame Models/carbon fiber tube.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Frame Models/dj-2216-kv880.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Frame Models/hanger_asm.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Frame Models/landing-gear-x500_asm.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNjk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Frame Models/nylon-nut-m3.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Frame Models/nylon-stud-m3x6-6.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Frame Models/PAN-TILT-platform-plat.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Frame Models/pylons-X500.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Frame Models/top-plat-X500.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Pixhawk 4 Information/Pixhawk4 Quick Start Guide.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Pixhawk 4 Information/Pixhawk4-Pinouts.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Pixhawk 4 Information/Pixhawk4_technical_data_sheet.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Pixhawk 4 Mini Information/Pixhawk4Mini_Pinouts.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNjE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Pixhawk 4 Mini Information/Pixhawk4mini_technical_data_sheet.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNjA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Pixhawk 4 Mini Information/Pixhawk4miniQuickStartGuide.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNjI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNTE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/X500 Assembly.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwNDI="
+mimetype = "image/png"
+
+[[files]]
+name = "/X500-Kit_AssemblyManual.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIwMzQ="
+mimetype = "application/pdf"
+

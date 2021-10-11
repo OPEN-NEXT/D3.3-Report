@@ -1,0 +1,8 @@
+name = "Peking Duck"
+repo = "https://wikifactory.com/@adamyang/peking-duck"
+version = "20180811091845"
+spdx-license = "N/A"
+licensor = "Adam Yang"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo3OTE3"
+function = "It's a simple art installation showing some thoughts about synthesized subject. With sweetest and generous Saverio's help, I make a synthesized duck made of different materials we find in Fablab Shanghai."

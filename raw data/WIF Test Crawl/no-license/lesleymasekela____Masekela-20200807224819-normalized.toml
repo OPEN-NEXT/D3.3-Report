@@ -1,0 +1,7 @@
+name = "Masekela "
+repo = "https://wikifactory.com/@lesleymasekela/masekela"
+version = "20200807224819"
+spdx-license = "N/A"
+licensor = "lesleymasekela"
+documentation-language = "en"
+function = "Hybrid electric generator that circulate energy to power the cars and house and office buildings"

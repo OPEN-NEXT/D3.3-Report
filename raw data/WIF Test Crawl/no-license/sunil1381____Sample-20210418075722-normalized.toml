@@ -1,0 +1,12 @@
+name = "Sample"
+repo = "https://wikifactory.com/@sunil1381/sample"
+version = "20210418075722"
+spdx-license = "N/A"
+licensor = "Sunil "
+documentation-language = "en"
+function = "Tryout"
+[[files]]
+name = "/intigrated roller r4.IGS"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODMwMzQ="
+mimetype = "model/iges"
+

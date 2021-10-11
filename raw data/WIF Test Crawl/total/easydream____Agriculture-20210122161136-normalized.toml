@@ -1,0 +1,7 @@
+name = "Agriculture "
+repo = "https://wikifactory.com/@easydream/agriculture"
+version = "20210122161136"
+spdx-license = "N/A"
+licensor = "Nuwan Wijerathne"
+documentation-language = "en"
+function = "A instrument to keep away the animals from harvest"

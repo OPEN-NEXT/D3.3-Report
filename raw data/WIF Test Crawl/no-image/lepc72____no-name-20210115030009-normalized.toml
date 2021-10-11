@@ -1,0 +1,7 @@
+name = "no-name"
+repo = "https://wikifactory.com/@lepc72/no-name"
+version = "20210115030009"
+spdx-license = "N/A"
+licensor = "lepc72"
+documentation-language = "en"
+function = "fast"

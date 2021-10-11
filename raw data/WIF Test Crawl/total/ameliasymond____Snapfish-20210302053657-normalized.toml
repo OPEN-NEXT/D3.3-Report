@@ -1,0 +1,12 @@
+name = "Snapfish"
+repo = "https://wikifactory.com/@ameliasymond/snapfish"
+version = "20210302053657"
+spdx-license = "N/A"
+licensor = "Amelia Symond"
+documentation-language = "en"
+function = "Snapfish is here to help you turn your pictures and photos into beautiful décor, photo books, mugs, prints, wall art, etc. Also, all the services they deliver at discounted rates when you use Snapfish free shipping code.\nhttps://www.pennysaviour.com/coupons/snapfish-free-shipping"
+[[files]]
+name = "/snapfish-black-friday.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjA4NjA="
+mimetype = "image/jpeg"
+

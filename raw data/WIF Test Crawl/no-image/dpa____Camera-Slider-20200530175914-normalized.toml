@@ -1,0 +1,12 @@
+name = "Camera-Slider"
+repo = "https://wikifactory.com/@jsnd/camera-slider"
+version = "20200530175914"
+spdx-license = "N/A"
+licensor = "Joel Schneider"
+documentation-language = "en"
+function = "An electrical camera slider with tilt and rotate functions."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjk3MDk="
+mimetype = "text/markdown"
+

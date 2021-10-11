@@ -1,0 +1,7 @@
+name = "ABCD"
+repo = "https://wikifactory.com/@fawadshaikh/abcd"
+version = "20200629193233"
+spdx-license = "N/A"
+licensor = "Muhammad"
+documentation-language = "en"
+function = "engine"

@@ -1,0 +1,7 @@
+name = "Rfid Solutions"
+repo = "https://wikifactory.com/@kksarhadi/rfid-solutions"
+version = "20191229172843"
+spdx-license = "N/A"
+licensor = "Kelash Kumar"
+documentation-language = "en"
+function = "RFID Solution is the fastest realtime update."

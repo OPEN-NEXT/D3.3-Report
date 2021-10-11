@@ -1,0 +1,7 @@
+name = "FlexiPrint"
+repo = "https://wikifactory.com/@asabarullahkhan/flexiprint"
+version = "20201101073022"
+spdx-license = "N/A"
+licensor = "AhamedLebbe SabarullahKhan "
+documentation-language = "en"
+function = "Large scale printing using cost-effective ink."

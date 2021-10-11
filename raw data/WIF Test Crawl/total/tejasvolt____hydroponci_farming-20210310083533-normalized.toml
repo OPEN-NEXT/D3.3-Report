@@ -1,0 +1,12 @@
+name = "hydroponci farming"
+repo = "https://wikifactory.com/@tejasvolt/hydroponci-farming"
+version = "20210310083533"
+spdx-license = "N/A"
+licensor = "saurabh mishra"
+documentation-language = "en"
+function = "hydro-ponci is the future of the farming by the help of this we are able to achieve good quality as well quantity , beside this in this farming their is less water and space is used it is in rich with nutrients value ."
+[[files]]
+name = "/hydorponic.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjQzODE="
+mimetype = "image/jpeg"
+

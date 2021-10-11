@@ -1,0 +1,7 @@
+name = "E metrix "
+repo = "https://wikifactory.com/@metrix/e-metrix"
+version = "20200704000415"
+spdx-license = "N/A"
+licensor = "Ezekiel "
+documentation-language = "en"
+function = "CONSTRUCTION"

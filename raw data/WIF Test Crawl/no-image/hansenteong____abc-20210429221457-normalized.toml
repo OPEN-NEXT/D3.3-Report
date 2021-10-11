@@ -1,0 +1,12 @@
+name = "abc"
+repo = "https://wikifactory.com/@hansenteong/abc"
+version = "20210429221457"
+spdx-license = "N/A"
+licensor = "hansenteong"
+documentation-language = "en"
+function = "view stp"
+[[files]]
+name = "/WCSP6C.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTI3NDc="
+mimetype = "text/plain"
+

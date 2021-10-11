@@ -1,0 +1,7 @@
+name = "bills and coins value "
+repo = "https://wikifactory.com/@azmathsherkhan/bills-and-coins-value"
+version = "20210207041058"
+spdx-license = "N/A"
+licensor = "AZMATHULLAH KHAN"
+documentation-language = "en"
+function = "my aim is to develop a app that can recognize the value of a bill or coin or all countries and of all times"

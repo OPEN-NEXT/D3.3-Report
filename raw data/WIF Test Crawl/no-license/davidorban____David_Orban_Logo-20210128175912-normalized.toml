@@ -1,0 +1,7 @@
+name = "David Orban Logo"
+repo = "https://wikifactory.com/@davidorban/david-orban-logo"
+version = "20210128175912"
+spdx-license = "N/A"
+licensor = "David Orban"
+documentation-language = "en"
+function = "Testing the platform with the 3D design of the David Orban logo."

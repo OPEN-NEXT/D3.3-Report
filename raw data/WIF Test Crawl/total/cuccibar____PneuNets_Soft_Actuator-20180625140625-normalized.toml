@@ -1,0 +1,13 @@
+name = "PneuNets Soft Actuator"
+repo = "https://wikifactory.com/@cuccibar/pneunets-soft-actuator"
+version = "20180625140625"
+spdx-license = "CC-BY-4.0"
+licensor = "Sabina Barcucci"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1Mzg2"
+function = "In this tutorial you will find the steps to design, mold and cast a soft robot, a PneuNets Bending actuator."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg1"
+mimetype = "text/plain"
+

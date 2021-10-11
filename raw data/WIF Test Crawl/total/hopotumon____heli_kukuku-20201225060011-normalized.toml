@@ -1,0 +1,23 @@
+name = "heli kukuku"
+repo = "https://wikifactory.com/@hopotumon/heli-kukuku"
+version = "20201225060011"
+spdx-license = "CC-BY-4.0"
+licensor = "Sigit Wiryawan Triwibowo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MDgxNDg="
+function = "military helicopter"
+[[files]]
+name = "/Heli_Kukuku_export.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDgxNjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDgxODk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDg0MTE="
+mimetype = "text/markdown"
+

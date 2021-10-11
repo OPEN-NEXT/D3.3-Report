@@ -1,0 +1,13 @@
+name = "PLASTILINA CONDUCTORA"
+repo = "https://wikifactory.com/@wikifablababg/plastilina-conductora"
+version = "20200730131316"
+spdx-license = "N/A"
+licensor = "FABLAB ABG"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo0MTcxODg="
+function = "En el siguiente taller, enfocado a un taller FABKIDS, podrás enseñar a alumnos pequeños la polaridad y conducción de la energía, por medio del uso de una batería de 9v, plastilina playdoh!, un led y una resistencia. Un taller muy entretenido para tus alumnos/as de 5 a 10 años."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTcxOTA="
+mimetype = "text/markdown"
+

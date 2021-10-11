@@ -1,0 +1,248 @@
+name = "Twezees"
+repo = "https://wikifactory.com/@dogukandg/twezees"
+version = "20200705124931"
+spdx-license = "N/A"
+licensor = "Doğukan Gürgen"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTkxMzA="
+function = "A Toy that can spark joy to children&parents by letting their creativity free at indoors which also helps parents to teach their children four simple rules to protect themselves from the novel coronavirus in a fun way."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA3NDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM2MDA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Twezees/Assembly.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTozOTk1OTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Twezees/Examples/Example_dna.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDAzMzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Twezees/Examples/Example_home3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDAzNjU="
+mimetype = ""
+
+[[files]]
+name = "Twezees/GIFs/Assem1-2.gif"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI5MzU="
+mimetype = "image/gif"
+
+[[files]]
+name = "Twezees/GIFs/Assem1-4.gif"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI5NzQ="
+mimetype = "image/gif"
+
+[[files]]
+name = "Twezees/GIFs/Assem1.gif"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI5MjQ="
+mimetype = "image/gif"
+
+[[files]]
+name = "Twezees/GIFs/Assem2-5.gif"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMxMDY="
+mimetype = "image/gif"
+
+[[files]]
+name = "Twezees/GIFs/Assem2-6.gif"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMxMDM="
+mimetype = "image/gif"
+
+[[files]]
+name = "Twezees/GIFs/Assem2-7.gif"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM0ODU="
+mimetype = "image/gif"
+
+[[files]]
+name = "Twezees/Parts/30Degree_Magnet_connector_changed.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM1MTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Twezees/Parts/BallCorner_OtherHalf.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDAzNzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Twezees/Parts/BallCornerHalf.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDAzODA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Twezees/Parts/MagneticPin.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA1NDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Twezees/Parts/MainBody_OtherHalf.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDAzNzU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Twezees/Parts/MainBodyHalf.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDAzODE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Twezees/Parts/STEP FORMAT/30Degree_Magnet_connector_changed.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM1MTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Twezees/Parts/STEP FORMAT/BallCorner_OtherHalf.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA0MTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Twezees/Parts/STEP FORMAT/BallCornerHalf.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA0MTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Twezees/Parts/STEP FORMAT/MainBody_OtherHalf.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA0MTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Twezees/Parts/STEP FORMAT/MainBodyHalf.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA0MTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Twezees/Parts/STEP FORMAT/Tweezes_Arm.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA0MDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Twezees/Parts/STEP FORMAT/Twezees_MagneticPin.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA0MDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Twezees/Parts/STEP FORMAT/Twezees_StickerDisplay.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA0MjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Twezees/Parts/StickerDisplay.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDAzODI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Twezees/Parts/Tweezes_Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDAzODQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Twezees/Parts/Twezees_arm.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI5MTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Twezees/Pictures/1-66.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM1NzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/1-88.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM1Nzk="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDAzODc="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDAzOTA="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDAzODg="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA1MTY="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/10.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA1MTE="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/11.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA1MTc="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/12.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA1MDk="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/13.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA1MTg="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/15.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA1MDY="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/16.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA2NDc="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/20.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA2NDg="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/21.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA3MjY="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Pictures/Logo/twezees logo.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA3NTA="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Stickers/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA2NjI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Twezees/Stickers/Sticker-SOCIAL DISTANCE 2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA2NTk="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Stickers/Sticker-STAY HOME.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA2NTY="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Stickers/Sticker-Wash Hands.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA2NTg="
+mimetype = "image/png"
+
+[[files]]
+name = "Twezees/Stickers/Sticker-WEAR MASK.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDA2NTE="
+mimetype = "image/png"
+

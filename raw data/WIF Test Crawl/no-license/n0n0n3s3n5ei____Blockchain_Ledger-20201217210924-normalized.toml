@@ -1,0 +1,7 @@
+name = "Blockchain Ledger"
+repo = "https://wikifactory.com/@n0n0n3s3n5ei/blockchain-ledger"
+version = "20201217210924"
+spdx-license = "N/A"
+licensor = "n0n0n3S3n5ei"
+documentation-language = "en"
+function = "One page dynamic website connected to an e-wallet..\nstock market type : Linear display of goods and services + costs/prices ongoing .\nAll cryptos"

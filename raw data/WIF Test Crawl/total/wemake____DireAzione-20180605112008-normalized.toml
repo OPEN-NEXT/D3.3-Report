@@ -1,0 +1,18 @@
+name = "DireAzione "
+repo = "https://wikifactory.com/@zoe/direazione"
+version = "20180605112008"
+spdx-license = "CC-BY-4.0"
+licensor = "Zoe Romano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDIx"
+function = "Part of the Modular Fashion initiative at <a href=\"www.wikifactory.com/+wemake\">WeMake</a>. This wide brimmed hat is made from interlocked felt modules. Two module designs were used - one with a rhombus like shape and one with a square shape. This project explores form, function, and direction through modularity."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNDIw"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDMz"
+mimetype = "text/markdown"
+

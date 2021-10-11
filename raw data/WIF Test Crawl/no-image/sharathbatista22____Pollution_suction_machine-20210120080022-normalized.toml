@@ -1,0 +1,7 @@
+name = "Pollution suction machine"
+repo = "https://wikifactory.com/@sharathbatista22/pollution-suction-machine"
+version = "20210120080022"
+spdx-license = "N/A"
+licensor = "Sharath Kumar"
+documentation-language = "en"
+function = "Make a  partial portable suction machine at every signal point , when ever red signal is available machine starts itself and suck all the pollution created by by the vehicle's"

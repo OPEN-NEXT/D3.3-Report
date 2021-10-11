@@ -1,0 +1,233 @@
+name = "Otto Baymax Remix"
+repo = "https://wikifactory.com/@josuedread/otto-baymax-remix"
+version = "20191113091809"
+spdx-license = "N/A"
+licensor = "Mario Josué Pérez Cruz"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzgzOTg="
+function = "I found inspiration in a well known character from an action and futurist robotics movie.<br />I decided to take old otto models as its ancester bob the biped and transform it into a cool red robot with some new features as voice recognition control and interactive answers with phrases of the movie.\n<br />"
+[[files]]
+name = "/1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0ODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/8.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/9.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Demostrative_video.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0Nzg="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Libraries/DF_Player.rar"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg1MDE="
+mimetype = "application/rar"
+
+[[files]]
+name = "Libraries/Otto9.rar"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg1MDI="
+mimetype = "application/rar"
+
+[[files]]
+name = "MP3 Files/0001.mp3"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NDk="
+mimetype = "audio/mp3"
+
+[[files]]
+name = "MP3 Files/0002.mp3"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NDg="
+mimetype = "audio/mp3"
+
+[[files]]
+name = "MP3 Files/0003.mp3"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NDc="
+mimetype = "audio/mp3"
+
+[[files]]
+name = "MP3 Files/0004.mp3"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NDY="
+mimetype = "audio/mp3"
+
+[[files]]
+name = "MP3 Files/0005.mp3"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NDU="
+mimetype = "audio/mp3"
+
+[[files]]
+name = "MP3 Files/0006.mp3"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NDQ="
+mimetype = "audio/mp3"
+
+[[files]]
+name = "MP3 Files/0007.mp3"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NDM="
+mimetype = "audio/mp3"
+
+[[files]]
+name = "MP3 Files/0008.mp3"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NDI="
+mimetype = "audio/mp3"
+
+[[files]]
+name = "MP3 Files/0009.mp3"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NDE="
+mimetype = "audio/mp3"
+
+[[files]]
+name = "MP3 Files/0010.mp3"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NDA="
+mimetype = "audio/mp3"
+
+[[files]]
+name = "MP3 Files/0011.mp3"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0Mzc="
+mimetype = "audio/mp3"
+
+[[files]]
+name = "/otto, squematic.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg1MDM="
+mimetype = "image/png"
+
+[[files]]
+name = "OttoApp and keywords for Speach recognition/Keywords.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "OttoApp and keywords for Speach recognition/OttoAppBaymax.apk"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NTA="
+mimetype = "application/vnd.android.package-archive"
+
+[[files]]
+name = "OttoBaymax .STL files/Baymax_Robot_ButtomHead.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0MjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoBaymax .STL files/Baymax_Robot_eyes.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0MjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoBaymax .STL files/Baymax_Robot_Head.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0MTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoBaymax .STL files/Baymax_Robot_Left_Antenna.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0MTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoBaymax .STL files/Baymax_Robot_LeftBracket.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0MTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoBaymax .STL files/Baymax_Robot_LeftFoot.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0MTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoBaymax .STL files/Baymax_Robot_Right_Antenna.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0MTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoBaymax .STL files/Baymax_Robot_RightBracket.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0MTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoBaymax .STL files/Baymax_Robot_RightFoot.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0MTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoBaymaxCodes/OttoBaymaxCode.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0MDU="
+mimetype = "text/x-c"
+
+[[files]]
+name = "OttoBaymaxCodes/phrases_random.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0MzM="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Photos_construction&tests/1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos_construction&tests/2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos_construction&tests/3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos_construction&tests/4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos_construction&tests/5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos_construction&tests/6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0NjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos_construction&tests/Phrases_test.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0Njg="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg0OTc="
+mimetype = "text/markdown"
+

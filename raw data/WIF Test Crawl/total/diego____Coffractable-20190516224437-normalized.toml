@@ -1,0 +1,8 @@
+name = "Coffractable"
+repo = "https://wikifactory.com/@diego/coffractable"
+version = "20190516224437"
+spdx-license = "N/A"
+licensor = "Diego Rasero"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjQ5MzI="
+function = "Custom laser cut fractal coffee table.\n\n1 - Choose your custom fractal shape, the size and generate the cutting lines for all the pieces.\n2 - Choose your material (wood, metal, crystal, methacrylate...).\n3 - Laser cut the material.\n4 - Assemble the pieces."

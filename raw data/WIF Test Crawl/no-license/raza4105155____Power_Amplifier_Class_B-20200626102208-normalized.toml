@@ -1,0 +1,7 @@
+name = "Power Amplifier Class B"
+repo = "https://wikifactory.com/@raza4105155/power-amplifier-class-b"
+version = "20200626102208"
+spdx-license = "N/A"
+licensor = "raza4105155"
+documentation-language = "en"
+function = "Design of power amplifier class B with relevant waveform of input and output and its efficiency"

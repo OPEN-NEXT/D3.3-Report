@@ -1,0 +1,128 @@
+name = "Arduped"
+repo = "https://wikifactory.com/@cparrapa/arduped"
+version = "20190607095103"
+spdx-license = "N/A"
+licensor = "Camilo Parra Palacio"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTIzNzc="
+function = "After seeing a couple really cool examples of \"four degrees of freedom\" biped out there, I decided that I would make some cool feet and make the robots a bit more creature-like. Current ideas for cool feet are beasty feet, mech-like feet, rock feet.. you know. made by David Ultis"
+[[files]]
+name = "3D Print/Biped_Base.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzODM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Biped_Brackets.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzODI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Biped_Eyes_v2.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2Njg="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Biped_Eyes_v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Biped_Feet_v2.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2Njc="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Biped_Feet_v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Biped_Platform_v2.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Biped_Platform_v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2Njk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Biped_puffyfeetv3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzODc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/PuffyLeftFoot.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzODY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/PuffyRightFoot.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzODU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Sensor_Bracket.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzODQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Utils/cyl_head_bolt.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Utils/data-access.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Utils/data-metric_cyl_head_bolts.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Utils/materials.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/Arduped_fonctions/Arduped_fonctions.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/Arduped_fonctions/Arduped_m.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NTY="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "Firmware/Arduped_fonctions/B_Arduped.h"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NTU="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Firmware/code_random/code_random.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NTg="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Firmware/ServoPrimitives.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/uBipedino.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NTM="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Firmware/WalkFunctions.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzODk="
+mimetype = "text/markdown"
+

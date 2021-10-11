@@ -1,0 +1,163 @@
+name = "Digital Fabrication"
+repo = "https://wikifactory.com/@ronanmcmahon19/digital-fabrication"
+version = "20190221103104"
+spdx-license = "N/A"
+licensor = "Ronan McMahon"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNjU1NA=="
+function = "The fabrication and design of a 3 way joint using a CNC machine and various representation programmes."
+[[files]]
+name = "CNC cuts/CNC_Cut_2.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjc1MA=="
+mimetype = "application/dwg"
+
+[[files]]
+name = "CNC cuts/Digital_Fabrication_First_CNC.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNjcwNw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Laser-Cut Test Models/Prototype Files/Digital Fabrication 2.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzNjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Laser-Cut Test Models/Prototype Files/Digital Fabrication 3.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzNjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Laser-Cut Test Models/Prototype Files/Digital Fabrication 4.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzNjg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Laser-Cut Test Models/Prototype Files/Digital Fabrication 5.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzNjk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Laser-Cut Test Models/Prototype Files/Digital Fabrication.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzNjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Prototype Images/Lasercut3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY4Mg=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY4Mw=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY4NQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut8.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY4Ng=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut9.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY4Nw=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut10.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY4OA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut11.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY4OQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut12.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY5MA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut13.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY5MQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut14.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY5Mg=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut15.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY5Mw=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut16.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY5NA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut17.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY5NQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut20.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY5Ng=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut22.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY5Nw=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut23.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY5OA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut24.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjY5OQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut26.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjcwMA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut27.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjcwMQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut28.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjcwMg=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/Lasercut29.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjcwMw=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/LaserCutTest1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjcwNA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype Images/LaserCutTest2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjcwNQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDg3ODQ="
+mimetype = "text/markdown"
+

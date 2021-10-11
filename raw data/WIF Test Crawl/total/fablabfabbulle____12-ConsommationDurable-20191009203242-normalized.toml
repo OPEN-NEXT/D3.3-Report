@@ -1,0 +1,48 @@
+name = "12-ConsommationDurable"
+repo = "https://wikifactory.com/@burcadus/12-consommationdurable"
+version = "20191009203242"
+spdx-license = "CC-BY-4.0"
+licensor = "Jérôme Frédéric Bouchard"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZToyNDI1ODc="
+function = "Comment pourrions-nous éliminer les plastiques de nos habitudes de consommation et préparer nos commerçants et nos citoyens à ce changement ?"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI1ODg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Photos/20191009_162846.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1Mzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20191009_162850.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20191009_162858.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20191009_162904.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20191009_162906.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20191009_162911.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYxNzI="
+mimetype = "text/markdown"
+

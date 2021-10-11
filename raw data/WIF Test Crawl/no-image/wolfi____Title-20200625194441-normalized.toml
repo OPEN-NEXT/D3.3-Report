@@ -1,0 +1,12 @@
+name = "Title"
+repo = "https://wikifactory.com/@wolfi/title"
+version = "20200625194441"
+spdx-license = "N/A"
+licensor = "Wolfram Grötsch"
+documentation-language = "en"
+function = "Text"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTA5NjU="
+mimetype = "text/plain"
+

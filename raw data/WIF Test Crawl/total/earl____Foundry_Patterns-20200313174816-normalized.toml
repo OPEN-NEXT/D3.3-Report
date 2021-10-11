@@ -1,0 +1,7 @@
+name = "Foundry Patterns"
+repo = "https://wikifactory.com/@earl/foundry-patterns"
+version = "20200313174816"
+spdx-license = "N/A"
+licensor = "Earl Powell"
+documentation-language = "en"
+function = "3D Printing has become the enabling technology for our small foundry at our metal club."

@@ -1,0 +1,7 @@
+name = "Drone for delivery"
+repo = "https://wikifactory.com/@larryogwu/drone-for-delivery"
+version = "20210127112646"
+spdx-license = "N/A"
+licensor = "Larry ogwu"
+documentation-language = "en"
+function = "This project is about a drone with camera and he specifically made for light weighted goods delivery"

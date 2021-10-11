@@ -1,0 +1,7 @@
+name = "Prototype CNC "
+repo = "https://wikifactory.com/@kishanrandika/prototype-cnc"
+version = "20201212045514"
+spdx-license = "N/A"
+licensor = "Kishan Randika"
+documentation-language = "en"
+function = "CNC milling machine"

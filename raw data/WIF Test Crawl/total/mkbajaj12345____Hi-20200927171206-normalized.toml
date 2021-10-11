@@ -1,0 +1,7 @@
+name = "Hi"
+repo = "https://wikifactory.com/@mkbajaj12345/hi"
+version = "20200927171206"
+spdx-license = "N/A"
+licensor = "mkbajaj12345"
+documentation-language = "en"
+function = "Hi"

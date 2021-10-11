@@ -1,0 +1,7 @@
+name = "skateboard test"
+repo = "https://wikifactory.com/@romelink/skateboard-test"
+version = "20200527231927"
+spdx-license = "N/A"
+licensor = "Faure-Durocher Roméo"
+documentation-language = "fr"
+function = "Je veux me faire un skateboard électrique"

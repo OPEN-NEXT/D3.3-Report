@@ -1,0 +1,148 @@
+name = "PLA Sheet"
+repo = "https://wikifactory.com/@jpoulton/pla-sheet"
+version = "20191209130814"
+spdx-license = "N/A"
+licensor = "James Poulton"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODI1Njg="
+function = "Documentation following experimentation and product viability of a recycled PLA sheet material."
+[[files]]
+name = "Cad/desk lamp 2.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cad/Desk Lamp 2.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Cad/desk lamp 3.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cad/Desk Lamp 3.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Cad/Desk Lamp.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cad/Lamp Arm.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cad/Pen Holder.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "IMages/72195082_429108538012680_668626442623385600_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/73472591_462231041076626_5896252750307524608_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/74908778_374259926653543_8176290913107050496_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/75439452_1565791333573965_5811674983004372992_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/76762639_774337966323151_8805228220078096384_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Capture.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Image from iOS (2).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Image from iOS (3).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Image from iOS (4).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Image from iOS (5).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Image from iOS (6).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Image from iOS (7).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Image from iOS (8).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Image from iOS (9).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Image from iOS (10).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzNDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Plastics Factory 1.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzMzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Plastics Factory 2,1.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzMzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Plastics Factory 2.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzMzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Untitled-1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzMzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMages/Untitled-2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzMzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk1Mjc="
+mimetype = "text/markdown"
+

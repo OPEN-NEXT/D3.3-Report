@@ -1,0 +1,7 @@
+name = "3D printer"
+repo = "https://wikifactory.com/@kevinkanz95/3d-printer"
+version = "20210402212505"
+spdx-license = "N/A"
+licensor = "kevinkanz95"
+documentation-language = "en"
+function = "About printer can be printing 3D model"

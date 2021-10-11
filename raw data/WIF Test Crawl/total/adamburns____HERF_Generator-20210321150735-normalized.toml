@@ -1,0 +1,7 @@
+name = "HERF Generator"
+repo = "https://wikifactory.com/@adamburns/herf-generator"
+version = "20210321150735"
+spdx-license = "N/A"
+licensor = "adamburns"
+documentation-language = "en"
+function = "Directional emination of HERFs"

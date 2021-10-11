@@ -1,0 +1,28 @@
+name = "Accioneco"
+repo = "https://wikifactory.com/@normarg728/accioneco"
+version = "20201029211744"
+spdx-license = "N/A"
+licensor = "normarg728"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo0NTk5Mzc="
+function = "ACCIONECO se trata de accionar la data mostrando de manera interactiva y atractiva información en tiempo real sobre la calidad del aire.\nAcciones ecológicas por el futuro."
+[[files]]
+name = "/pm_matrix.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg3NTk="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjE5NDc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/totem_v2.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg3NjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Tótem Accioneco.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjE5NDM="
+mimetype = "video/mp4"
+

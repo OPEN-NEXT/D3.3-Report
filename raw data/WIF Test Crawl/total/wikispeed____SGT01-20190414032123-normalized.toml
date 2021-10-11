@@ -1,0 +1,18 @@
+name = "SGT01"
+repo = "https://wikifactory.com/@michaellulchak/sgt01"
+version = "20190414032123"
+spdx-license = "CC-BY-4.0"
+licensor = "Michael Lulchak"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDkxNzU="
+function = "The SGT01 is a modular, Street legal roadster based on Joe Justice' 100 mpg X-prize entry. It is light and open source. A few of the gas engine version (same car, but uses a gasoline enginer Motor Module) have been tested. Present version uses Electric Motor Module and is more of a track car.<br />"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxOTU0NTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkxNzE="
+mimetype = "text/markdown"
+

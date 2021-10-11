@@ -1,0 +1,12 @@
+name = "MBSE Benchmarking"
+repo = "https://wikifactory.com/@rpinquie/engineering-design-bench"
+version = "20200211124613"
+spdx-license = "N/A"
+licensor = "rpinquie"
+documentation-language = "en"
+function = "This project is a benchmark in the field of Engineering Design."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDQ4ODk="
+mimetype = "text/markdown"
+

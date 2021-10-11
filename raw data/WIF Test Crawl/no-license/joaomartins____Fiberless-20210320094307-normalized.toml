@@ -1,0 +1,7 @@
+name = "Fiberless "
+repo = "https://wikifactory.com/@joaomartins/fiberless"
+version = "20210320094307"
+spdx-license = "N/A"
+licensor = "João Martins"
+documentation-language = "en"
+function = "Improve the number of optical fibers installed on the poles of the world's major cities with a better way algorithm."

@@ -1,0 +1,23 @@
+name = "Zoomografo"
+repo = "https://wikifactory.com/@hackability/zoomografo"
+version = "20180919095039"
+spdx-license = "CC-BY-4.0"
+licensor = "Hackability"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMTkzMw=="
+function = "Zoomografo is a tool for visually impaired people. It zooms words and images without losing the thread of the sentence. The tool is 3Dprinted in a single pre-assembled and adjustable piece, equipped with light and wifi endoscopic camera that through a smartphone facilitates reading and writing."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMTkzMg=="
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMTk1Mg=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Zoomografo_Hackability.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTk1MQ=="
+mimetype = "application/sla"
+

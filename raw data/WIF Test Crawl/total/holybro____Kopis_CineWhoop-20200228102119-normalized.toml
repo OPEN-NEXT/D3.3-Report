@@ -1,0 +1,43 @@
+name = "Kopis CineWhoop"
+repo = "https://wikifactory.com/@vincentpoont2/kopis-cinewhoop"
+version = "20200228102119"
+spdx-license = "N/A"
+licensor = "Vince Tiko Poon"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTA4NDA="
+function = "KOPIS CineWhoop is a high-performance ready-to-fly FPV racing drone from Holybro."
+[[files]]
+name = "3D Print Parts/Camera Mount(Left)-TPU_Kopis-CineWhoop(NEW).stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA4NjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print Parts/Camera Mount(Right)-TPU_Kopis-CineWhoop (NEW).stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA4NjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print Parts/GoPro_HERO5_TPU_3D_Print.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA4Njg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print Parts/Protector(Left)-PLA_Kopis-CineWhoop.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA4NjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print Parts/Protector(Right)-PLA_Kopis-CineWhoop.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA4NTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print Parts/XT60-Holder-TPU_Kopis-CineWhoop.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA4NjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA4OTE="
+mimetype = "text/markdown"
+

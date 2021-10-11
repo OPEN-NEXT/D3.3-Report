@@ -1,0 +1,7 @@
+name = "norcaluavs"
+repo = "https://wikifactory.com/@norcaluavs/norcaluavs"
+version = "20210315110416"
+spdx-license = "N/A"
+licensor = "Chris Hall"
+documentation-language = "en"
+function = "PX4 Vision UAV with Nvidia Jetson Nano Companion Computer"

@@ -1,0 +1,7 @@
+name = "Fuel Filter"
+repo = "https://wikifactory.com/@aribudisetiawan165/fuel-filter"
+version = "20210109021742"
+spdx-license = "N/A"
+licensor = "ari budi setiawan"
+documentation-language = "en"
+function = "fuel water searator"

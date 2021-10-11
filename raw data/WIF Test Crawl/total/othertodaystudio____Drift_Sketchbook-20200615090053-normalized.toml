@@ -1,0 +1,13 @@
+name = "Drift Sketchbook"
+repo = "https://wikifactory.com/@louislane51/drift-sketchbook"
+version = "20200615090053"
+spdx-license = "N/A"
+licensor = "Louis Lane"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozODE0NDM="
+function = "A rough collection of research and extras from development of the Drift Furniture Project"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODE4MDg="
+mimetype = "text/markdown"
+

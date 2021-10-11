@@ -1,0 +1,7 @@
+name = "street vendor catalogue"
+repo = "https://wikifactory.com/@brucemugola/street-vendor-catalogue"
+version = "20200821034157"
+spdx-license = "N/A"
+licensor = "brucemugola"
+documentation-language = "en"
+function = "this is a street vendor catalog that democratizes design by focusing on the many with a bit.  with the use of sustainable materials we're creating a a template database for vending furniture for street vendors."

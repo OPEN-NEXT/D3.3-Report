@@ -1,0 +1,7 @@
+name = "Care Me"
+repo = "https://wikifactory.com/@ahmedatiaaa22/care-me"
+version = "20200717220820"
+spdx-license = "N/A"
+licensor = "ahmed Mohamed attia"
+documentation-language = "en"
+function = "My project is Application take the phiscal data to identify the algorithm of the body action to predict the reaction of the body depend on the data of collector with sensor and x-ray to analysis the data to send a specialist Recommendations to exchange the behavior"

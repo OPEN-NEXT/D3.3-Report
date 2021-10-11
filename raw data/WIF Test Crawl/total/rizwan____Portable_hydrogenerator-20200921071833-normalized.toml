@@ -1,0 +1,7 @@
+name = "Portable hydrogenerator "
+repo = "https://wikifactory.com/@rizwan/portable-hydrogenerator"
+version = "20200921071833"
+spdx-license = "N/A"
+licensor = "Rizwan Ali"
+documentation-language = "en"
+function = "It is small hydropower generator whose work with the combination of solar, wind and hydral"

@@ -1,0 +1,33 @@
+name = "2020Autumn - Simon Downes"
+repo = "https://wikifactory.com/@simondownes/2020autumn-simon-downes"
+version = "20201217115000"
+spdx-license = "N/A"
+licensor = "Simon Downes"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MDIwMzU="
+function = "Work space for SAUL Autumn 2020 Elective - Open sourcin'. This project is about developing a prototype face shield. The face shield has been designed to integrate the use of face masks which removes strain on the wearer's ears."
+[[files]]
+name = "AutoCAD Files/2020.10.28 Face Shield Template V2.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjE1NDU="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "AutoCAD Files/2020.10.28 Face Shield Visor Template V2010.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjE1NDQ="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Fusion 360 Files/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjE1NjQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Illustrator Files/2020.10.28 Face Shield Visor Template V2010.ai"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjE1NDc="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDIwNTM="
+mimetype = "text/markdown"
+

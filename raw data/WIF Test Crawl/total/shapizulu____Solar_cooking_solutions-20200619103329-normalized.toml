@@ -1,0 +1,7 @@
+name = "Solar cooking solutions"
+repo = "https://wikifactory.com/@shapizulu/solar-cooking-solutions"
+version = "20200619103329"
+spdx-license = "N/A"
+licensor = "Steve Zulu"
+documentation-language = "en"
+function = "Use of parabolic dishes to focus heat for cooking."

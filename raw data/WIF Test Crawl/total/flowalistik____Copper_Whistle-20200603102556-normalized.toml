@@ -1,0 +1,43 @@
+name = "Copper Whistle"
+repo = "https://wikifactory.com/@flowalistik/wikifactory-whistle"
+version = "20200603102556"
+spdx-license = "N/A"
+licensor = "Agustín \"Flowalistik\" Arroyo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzE2NjM="
+function = "Easy to print whistle made with virus-resistant materials, redesigned for the New Normal"
+[[files]]
+name = "Files/Whistle_2020_Wikifactory.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzE1OTM="
+mimetype = "application/zip"
+
+[[files]]
+name = "Files/Whistle_2020_Wikifactory.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzE1OTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Files/Whistle_2020_Wikifactory.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzE1NzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Images/wikifactory_whistle_copper.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzE2MDg="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/wikifactory_whistle_design.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzE2MDk="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/wikifactory_whistle_plastic.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzE2MDM="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIxMjA="
+mimetype = "text/markdown"
+

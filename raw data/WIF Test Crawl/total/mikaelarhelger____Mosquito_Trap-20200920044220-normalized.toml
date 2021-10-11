@@ -1,0 +1,23 @@
+name = "Mosquito Trap"
+repo = "https://wikifactory.com/@mikaelarhelger/mosquito-trap"
+version = "20200920044220"
+spdx-license = "N/A"
+licensor = "Mikael Arhelger"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzY5Mzc="
+function = "Mosquito Trap"
+[[files]]
+name = "/Mosquito trap funnel top view.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzY5NDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Mosquito trap funnel with fan in bowl.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzY5NDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Mosquito trap funnel with fan.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzY5Mzg="
+mimetype = "image/jpeg"
+

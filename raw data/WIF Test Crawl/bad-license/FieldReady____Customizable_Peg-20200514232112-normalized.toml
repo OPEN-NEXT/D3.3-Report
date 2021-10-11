@@ -1,0 +1,43 @@
+name = "Customizable Peg"
+repo = "https://wikifactory.com/@mayaroman/customizable-peg"
+version = "20200514232112"
+spdx-license = "BAD"
+licensor = "Maya Roman"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTE1Mjc="
+function = "3D printed spike driven into the ground for holding axa0an object to the ground"
+[[files]]
+name = "CAD Data/GN009_CAD.scad"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE1Mzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "CAD Data/GN009_CAD_Large.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE1NDA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/GN009_CAD_Large.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE1Mzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Drawing Pack/GN009_Eng_Dwg_Large.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE1NDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/GN009_Eng_Dwg_Large.slddrw"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE1NDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE1Mjg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE1NTY="
+mimetype = "text/markdown"
+

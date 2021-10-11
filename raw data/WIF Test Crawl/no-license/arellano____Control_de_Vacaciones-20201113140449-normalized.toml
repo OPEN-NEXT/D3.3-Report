@@ -1,0 +1,7 @@
+name = "Control de Vacaciones"
+repo = "https://wikifactory.com/@arellano/control-de-vacaciones"
+version = "20201113140449"
+spdx-license = "N/A"
+licensor = "Leonardo Ruben Arellano "
+documentation-language = "es"
+function = "Elaboracion de un modelo en excel que permita calcular  el numero exacto  de dias de vacaciones disponibles en base a las normativas legales vigentes  Losep y Codigo de trabajo  de un funcionarii, basado en descuento de permisos  , saldo a favor y dias trabajados."

@@ -1,0 +1,7 @@
+name = "Stalker 4.0"
+repo = "https://wikifactory.com/@hainamhoang23/stalker-40"
+version = "20201223074324"
+spdx-license = "N/A"
+licensor = "hainamhoang23"
+documentation-language = "cs"
+function = "Project for study"

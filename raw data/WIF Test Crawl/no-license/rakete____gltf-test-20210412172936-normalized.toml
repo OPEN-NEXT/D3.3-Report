@@ -1,0 +1,108 @@
+name = "gltf-test"
+repo = "https://wikifactory.com/@rakete/gltf-test"
+version = "20210412172936"
+spdx-license = "N/A"
+licensor = "Andreas Raster"
+documentation-language = "et"
+image = "https://wikifactory.com/files/RmlsZTo1MDAwODU="
+function = "just a test"
+[[files]]
+name = "/67-mask.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTE2NDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Algae_Grower_-_Final_model.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTgxOTU="
+mimetype = "esvfa/25"
+
+[[files]]
+name = "/all-alloys.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTEzNjY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/as1-oc-214.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzI3Mjg="
+mimetype = "esvfa/25"
+
+[[files]]
+name = "/Body Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzkyNTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/box2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODcwMDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/box.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODcwMDA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Diff_Pivot_Swivel.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODE2MTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/dronecoria_v0_6.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTE0MTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Duetta_20_real_size_English.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI5MTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/electronics_board.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI5MTU="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "/io1-cm-214.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjEzODI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/mesa_modulitos.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY3MTY="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "/monkey.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTcwMTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/NotebookSummer.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzA2MzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Payload_Interface_1_19_21.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzExNzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDAwODc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/screenshot.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjEzNjA="
+mimetype = "image/png"
+
+[[files]]
+name = "/SmartCitizen_Case_V1.5_PDF_3D.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTEzNzA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/v6_engine.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjY1MjQ="
+mimetype = "application/octet-stream"
+

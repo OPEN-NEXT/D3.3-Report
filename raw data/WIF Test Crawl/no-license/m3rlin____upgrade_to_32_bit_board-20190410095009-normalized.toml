@@ -1,0 +1,23 @@
+name = "upgrade to 32 bit board"
+repo = "https://wikifactory.com/@denis/32bit-for-your-3d-printer"
+version = "20190410095009"
+spdx-license = "N/A"
+licensor = "Denis Risse"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTQ5Njk="
+function = "Due to the complex calculations, delta printers often reach the limits of the performance of an 8 bit controller. If you're planning to build a delta printer and you want to use a full-graphics display in addition, you should consider upgrading to a powerful 32 bit system with a ramps fd board."
+[[files]]
+name = "/All you need.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxOTQ5NDY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/RAMPS BOARD PINOUT.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTQ5NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTQ5NjU="
+mimetype = "text/markdown"
+

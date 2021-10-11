@@ -1,0 +1,7 @@
+name = "Test Project"
+repo = "https://wikifactory.com/@hilldesigns/test-project"
+version = "20210122145548"
+spdx-license = "N/A"
+licensor = "Simon Hill"
+documentation-language = "en"
+function = "Just a test to see how the platform works."

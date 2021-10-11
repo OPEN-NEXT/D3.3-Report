@@ -1,0 +1,48 @@
+name = "Totoro Candle Mold"
+repo = "https://wikifactory.com/@outsourcedguru/totoro-candle-mold"
+version = "20190520232543"
+spdx-license = "N/A"
+licensor = "Outsourced Guru"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDk4NzE="
+function = "This was a candle mold project to create a dual-wick, Totoro-shaped and colored candle. The molds were 3D printed in PLA filament."
+[[files]]
+name = "/DSC_0011.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk4NjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk4NjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk4ODQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/TC-FrontInitialFill.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk4NTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/TC-FrontWicks.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk4NTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/TC-Halves.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk4NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/TC-MoldBack.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk4NTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/TC-MoldFront.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk4NDk="
+mimetype = "application/sla"
+

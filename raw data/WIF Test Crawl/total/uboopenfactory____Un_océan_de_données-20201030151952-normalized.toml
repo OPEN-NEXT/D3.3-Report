@@ -1,0 +1,138 @@
+name = "Un océan de données "
+repo = "https://wikifactory.com/@yquere/labyrinthe-à-billes"
+version = "20201030151952"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0NjI1MzU="
+function = "Créer un océan de données est une des trois raisons d'être de l'Ifremer. C'est donc pour parler data que nous avons conçu un labyrinthe à bille et un puzzle afin que chaque scientifique puisse expliquer la nature et l'importance de son travail."
+[[files]]
+name = "Labyrinthe_A3/Photo_labyrinthe_mdf.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjIyODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Labyrinthe_A3/Plans_labyrinthe_A3-découpe_3mm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1Mjk="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Labyrinthe_A3/Plans_labyrinthe_A3_découpe_5mm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1MzA="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Labyrinthe_A3/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1MzI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Prototype1/Collage photos.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NDM="
+mimetype = "image/png"
+
+[[files]]
+name = "Prototype1/Test2_IFREMER_3mm.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NDE="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Prototype1/Test2_IFREMER_3mm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NDA="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Prototype1/Test2_IFREMER_5mm.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0Mzk="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Prototype1/Test2_IFREMER_5mm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NDQ="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Prototype2/logo_plots.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NTQ="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Prototype2/logo_plots.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NDc="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Prototype2/proto2_3mm.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NTU="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Prototype2/proto2_3mm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NTc="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Prototype2/proto2_5mm.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NTY="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Prototype2/proto2_5mm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NDg="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Prototype2/proto2_plexi_3.6.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NTM="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Prototype2/proto2_plexi_3.6.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NTg="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Prototype3/boite10mm-3mm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NjU="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Prototype3/boite10mm-plexi.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NjI="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Prototype3/boite10mm_5mm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NjQ="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Prototype3/Prototype3.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk0NjE="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Puzzle/20201028_171103.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI2MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Puzzle/Brainstorm_utilisateurs.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI2MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Puzzle/photo_résultat.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI2MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Puzzle/plan jeu data 2_2.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI2MTc="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI2MjU="
+mimetype = "text/markdown"
+

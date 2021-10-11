@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@grafebruno/test"
+version = "20210419114024"
+spdx-license = "N/A"
+licensor = "Bruno Grafe"
+documentation-language = "en"
+function = "Test"

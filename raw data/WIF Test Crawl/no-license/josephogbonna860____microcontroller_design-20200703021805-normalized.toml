@@ -1,0 +1,7 @@
+name = "microcontroller design"
+repo = "https://wikifactory.com/@josephogbonna860/microcontroller-design"
+version = "20200703021805"
+spdx-license = "N/A"
+licensor = "Joseph Ogbonna"
+documentation-language = "en"
+function = "microntroller project"

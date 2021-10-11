@@ -1,0 +1,7 @@
+name = "Knife forging"
+repo = "https://wikifactory.com/@romontesdeoca/knife-forging"
+version = "20210227042740"
+spdx-license = "N/A"
+licensor = "Rodrigo Montes de Oca "
+documentation-language = "en"
+function = "The ide is to share all the process of forging a piece of high carbon steel in a craft knife."

@@ -1,0 +1,7 @@
+name = "Plant Disease Control"
+repo = "https://wikifactory.com/@tundeola/plant-disease-control"
+version = "20210118181324"
+spdx-license = "N/A"
+licensor = "Tunde Olanrewaju"
+documentation-language = "en"
+function = "A Drone with mounted sensor to discover any plants with deformity"

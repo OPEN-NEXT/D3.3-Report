@@ -1,0 +1,7 @@
+name = "Aardtech Engineering"
+repo = "https://wikifactory.com/@miftahaligilang/aardtech-engineering"
+version = "20200513131438"
+spdx-license = "N/A"
+licensor = "miftahaligilang"
+documentation-language = "en"
+function = "The projects is about reverse engineering such products and enhancing its properties, also perform inspection on running products to understand its behavior"

@@ -1,0 +1,7 @@
+name = "compliant mechanism"
+repo = "https://wikifactory.com/@pizi/compliant-mechanism"
+version = "20210304081400"
+spdx-license = "N/A"
+licensor = "PIERLUIGI ZINGALE"
+documentation-language = "en"
+function = "learn what a compliant mechanism is and how to design"

@@ -1,0 +1,7 @@
+name = "BIILiT"
+repo = "https://wikifactory.com/@dvsaxena/biilit"
+version = "20201208150631"
+spdx-license = "N/A"
+licensor = "Dharmaveer Saxena"
+documentation-language = "en"
+function = "ERP"

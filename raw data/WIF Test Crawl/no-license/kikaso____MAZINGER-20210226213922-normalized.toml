@@ -1,0 +1,7 @@
+name = "MAZINGER "
+repo = "https://wikifactory.com/@kikaso/mazinger"
+version = "20210226213922"
+spdx-license = "N/A"
+licensor = "Jesús Enrique"
+documentation-language = "en"
+function = "A recreation of mazinger z series"

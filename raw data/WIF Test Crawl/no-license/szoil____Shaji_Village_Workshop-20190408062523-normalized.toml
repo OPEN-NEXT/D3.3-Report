@@ -1,0 +1,13 @@
+name = "Shaji Village Workshop"
+repo = "https://wikifactory.com/@vickyxie/shaji-village-workshop"
+version = "20190408062523"
+spdx-license = "N/A"
+licensor = "Vicky Xie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTQ1Mzg="
+function = "SZOIL, IAAC, AFAC, IAU, Wikifactory, Distributed Design Market Platform, and Fab City, invite Chinese and international designers, makers, architects, urbanists, entrepreneurs, and innovators to join us!️\nhttps://www.studioshaji.org/"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTQ1NDQ="
+mimetype = "text/markdown"
+

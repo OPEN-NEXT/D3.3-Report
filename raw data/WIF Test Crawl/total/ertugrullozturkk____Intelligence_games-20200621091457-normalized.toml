@@ -1,0 +1,213 @@
+name = "Intelligence games"
+repo = "https://wikifactory.com/@ertugrullozturkk/intelligence-games"
+version = "20200621091457"
+spdx-license = "N/A"
+licensor = "ertugrullozturkk"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozODQ5ODM="
+function = "This project includes laser engraving and 3d printer technologies. Chess, checkers and go etc. includes games."
+[[files]]
+name = "DWG Folder/3 stone game.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozODU5NzQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "DWG Folder/6 stone games.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozODU5NzI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "DWG Folder/9 Stone game.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozODU5NzA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "DWG Folder/checkers 8x8.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozODU5NjM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "DWG Folder/checkers 10x10.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozODU5NTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "DWG Folder/chess game area 8x8.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozODU5NTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "DWG Folder/Go games 9x9.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozODU5NTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "DWG Folder/Go games 13x13.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozODU5NTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "DWG Folder/Go games 17x17.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozODU5NTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "DWG Folder/Go games 19x19.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozODU5NDk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Image Folder/Bishop.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzNzM="
+mimetype = "image/png"
+
+[[files]]
+name = "Image Folder/chees figure-All.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzNjE="
+mimetype = "image/png"
+
+[[files]]
+name = "Image Folder/Chess asembly.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzNjA="
+mimetype = "image/png"
+
+[[files]]
+name = "Image Folder/King.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzNzY="
+mimetype = "image/png"
+
+[[files]]
+name = "Image Folder/Knight.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzNzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Image Folder/Pawn.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzNzE="
+mimetype = "image/png"
+
+[[files]]
+name = "Image Folder/Queen.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzNzU="
+mimetype = "image/png"
+
+[[files]]
+name = "Image Folder/Rook.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzNzI="
+mimetype = "image/png"
+
+[[files]]
+name = "Image Folder/Stone.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozODU5MzI="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODY5MzY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Sldprt Folder/Bishop.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwMjg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Sldprt Folder/King.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwMjQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Sldprt Folder/Knight.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwMjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Sldprt Folder/Pawn.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwMTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Sldprt Folder/Queen.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwMTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Sldprt Folder/Rook.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwMTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Sldprt Folder/Stone.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwMTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Step Folder/Bishop.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwNTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Step Folder/King.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwNTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Step Folder/Knight.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwNTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Step Folder/Pawn.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwNTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Step Folder/Queen.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwNTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Step Folder/Rook.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwNjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Step Folder/Stone.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTozODYwNjg="
+mimetype = "text/plain"
+
+[[files]]
+name = "STL Folder/Bishop.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzNDE="
+mimetype = ""
+
+[[files]]
+name = "STL Folder/King.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzNTE="
+mimetype = ""
+
+[[files]]
+name = "STL Folder/Knight.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzNDI="
+mimetype = ""
+
+[[files]]
+name = "STL Folder/Pawn.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzMzc="
+mimetype = ""
+
+[[files]]
+name = "STL Folder/Queen.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzNDk="
+mimetype = ""
+
+[[files]]
+name = "STL Folder/Rook.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODQzNDA="
+mimetype = ""
+
+[[files]]
+name = "STL Folder/Stone.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozODU5MzM="
+mimetype = "application/sla"
+

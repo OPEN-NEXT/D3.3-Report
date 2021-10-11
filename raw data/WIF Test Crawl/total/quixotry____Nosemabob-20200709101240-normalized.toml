@@ -1,0 +1,83 @@
+name = "Nosemabob"
+repo = "https://wikifactory.com/@quixotry/nosemabob"
+version = "20200709101240"
+spdx-license = "N/A"
+licensor = "Christoff"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDQ1MzY="
+function = "This is a concept for a device that separates oxygen from carbon dioxide when wearing a protective mask or shield for Covid-19. The device prevents glasses from fogging up by directing the wearer's breath away from the inside of the mask, shield or glasses via a direct pathway through Tesla valves."
+[[files]]
+name = "/3 D printed part  drawing.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQyMzc="
+mimetype = "image/png"
+
+[[files]]
+name = "/35B47BF2-1203-4171-B448-357E751CE3A7.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDc0NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/ nosemabob 3D printing file.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQyNDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Concept drawing 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQyMjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Concept drawing 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQyMzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Concept drawing 3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQyMzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Laser cut file 1mm perspex Shields for nosemabob.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQyNDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDc0NDk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/rough Prototype.HEIC"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQyMzk="
+mimetype = "image/heic"
+
+[[files]]
+name = "/Scan shape outline.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQyNDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/See through showing Tesla valves.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQyMzg="
+mimetype = "image/png"
+
+[[files]]
+name = "/Tesla Valve.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDUzNTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Use of copper wire as part of filtration system.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ1Mzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Use under mask.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQyODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/with full shield.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQyNDU="
+mimetype = "image/png"
+

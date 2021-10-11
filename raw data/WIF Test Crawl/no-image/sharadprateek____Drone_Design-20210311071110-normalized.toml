@@ -1,0 +1,7 @@
+name = "Drone Design"
+repo = "https://wikifactory.com/@sharadprateek/drone-design"
+version = "20210311071110"
+spdx-license = "N/A"
+licensor = "sharadprateek"
+documentation-language = "en"
+function = "Developing a drone for research purposes on how to extend flight time by using regeneration methods."

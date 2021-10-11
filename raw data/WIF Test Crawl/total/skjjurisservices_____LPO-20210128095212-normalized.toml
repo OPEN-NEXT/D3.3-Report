@@ -1,0 +1,7 @@
+name = " LPO"
+repo = "https://wikifactory.com/@skjjurisservices/lpo"
+version = "20210128095212"
+spdx-license = "N/A"
+licensor = "skjjurisservices"
+documentation-language = "en"
+function = "LPO is an widely used in the legal outsourcing industry. LPOs are referred to as outside companies that providing legal support to the law firms and corporations based out of markets where the legal cost is high. \nhttps://www.skjjuris.com/lpo-legal-process-outsourcing/"

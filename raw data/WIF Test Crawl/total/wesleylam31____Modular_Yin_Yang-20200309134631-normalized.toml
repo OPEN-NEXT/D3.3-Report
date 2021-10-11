@@ -1,0 +1,13 @@
+name = "Modular Yin Yang"
+repo = "https://wikifactory.com/@wesleylam31/digifab"
+version = "20200309134631"
+spdx-license = "N/A"
+licensor = "Wesley Lam"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDA3MTQ="
+function = "My portfolio for during the class Digital Fabrication. Here I will upload my progress, thoughts, and failures along the way of the project, creating a new modular, foldable, parametric and flat fabric"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTQ2MzQ="
+mimetype = "text/markdown"
+

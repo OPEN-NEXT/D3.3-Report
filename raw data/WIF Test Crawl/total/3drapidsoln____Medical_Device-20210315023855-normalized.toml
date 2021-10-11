@@ -1,0 +1,8 @@
+name = "Medical Device"
+repo = "https://wikifactory.com/@raingee/medical-device"
+version = "20210315023855"
+spdx-license = "N/A"
+licensor = "Rain Gamboa"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NjYzNzE="
+function = "EasyFlow Adapters for 3M Respirators. Our team at 3DRapidSolutions designed, CAD modeled, and 3D printed this in response to the need of healthcare professionals for a more accessible and affordable option."

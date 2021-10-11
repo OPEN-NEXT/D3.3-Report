@@ -1,0 +1,7 @@
+name = "Sample 1"
+repo = "https://wikifactory.com/@ozzirexx/sample-1"
+version = "20210317081650"
+spdx-license = "N/A"
+licensor = "Tyrone Rex Asombrado"
+documentation-language = "en"
+function = "Laser"

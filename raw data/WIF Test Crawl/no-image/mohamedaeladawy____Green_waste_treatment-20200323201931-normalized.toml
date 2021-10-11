@@ -1,0 +1,7 @@
+name = "Green waste treatment"
+repo = "https://wikifactory.com/@mohamedaeladawy/green-waste-treatment"
+version = "20200323201931"
+spdx-license = "N/A"
+licensor = "mohamedaeladawy"
+documentation-language = "en"
+function = "New methods used for treatment wastes to produce green power."

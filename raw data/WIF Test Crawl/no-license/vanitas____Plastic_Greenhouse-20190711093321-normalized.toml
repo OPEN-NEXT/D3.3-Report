@@ -1,0 +1,13 @@
+name = "Plastic Greenhouse"
+repo = "https://wikifactory.com/@vanitas/plastic-greenhouse"
+version = "20190711093321"
+spdx-license = "N/A"
+licensor = "Valentin Sanitas"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjU3ODE="
+function = "Fight against plastic pollution by the production of a tiny tomato greenhouse for home, 100% recycled plastic, based on ``Precious Plastic`` technics."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYyNDA="
+mimetype = "text/markdown"
+

@@ -1,0 +1,33 @@
+name = "Rodin Coil"
+repo = "https://wikifactory.com/@botler/rodin-coil"
+version = "20190301005115"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMzk2Mzg="
+function = "<a href=\"https://www.secretenergy.com/spiritual-advisor/marko-rodin/\">Mark Rodin</a>, Introducing “Vortex-Based Mathematics” with this project energy expresses itself mathematically. This shows the dimensional shape and function of the universe as a toroid back hole. Is a template of the universe and all within the base ten decimal system with powerful applications.."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNzcyMg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMzk2Mzc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Rodin-007.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzc5Nw=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "STL Files/rodin_coil_part_1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzc5NQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL Files/rodin_coil_part_2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzc5NA=="
+mimetype = "application/octet-stream"
+

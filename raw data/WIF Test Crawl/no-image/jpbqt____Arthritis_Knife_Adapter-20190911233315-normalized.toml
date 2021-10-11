@@ -1,0 +1,7 @@
+name = "Arthritis Knife Adapter"
+repo = "https://wikifactory.com/@jpbqt/arthritis-knife-adapter"
+version = "20190911233315"
+spdx-license = "N/A"
+licensor = "Jules Perrin"
+documentation-language = "en"
+function = "The adapter is designed so it can be used by either left or right dominant hand user.\nAll details are at \nhttps://www.thingiverse.com/thing:3851962\n\n<br />"

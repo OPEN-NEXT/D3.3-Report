@@ -1,0 +1,73 @@
+name = "Flag Pole Pulley"
+repo = "https://wikifactory.com/@jozefvasko-cc378/test"
+version = "20201207140821"
+spdx-license = "CC0-1.0"
+licensor = "Jozef Vasko"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MjcwNzQ="
+function = "3D-Printed enclosure for pulley to fix the old system."
+[[files]]
+name = "Images/Hlavica na stoziar 1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjcwNzE="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Hlavica na stoziar 2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjcwNzA="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Hlavica na stoziar 3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjcwNjk="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Hlavica na stoziar 4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjcwNjg="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Hlavica na stoziar 5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjcwNjc="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Hlavica na stoziar 6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjcwNjY="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Hlavica na stoziar 7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjcwNjU="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Stara Hlavica Zdola.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjcwNjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/Stara Hlavica Zhora.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjcwNjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/Vejuce Vlajky.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjcwNjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjcwNzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjczODA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "stl/hlavica.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjcwOTE="
+mimetype = "application/sla"
+

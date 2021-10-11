@@ -1,0 +1,17 @@
+name = "(EN) Remake MK3s manual"
+repo = "https://wikifactory.com/@gszczechowiak/en-remake-mk3s-manual"
+version = "20191121203711"
+spdx-license = "N/A"
+licensor = "hobby-store.pl"
+documentation-language = "en"
+function = "This is the English manual for assembling the Remake MK3s printer sold by <a href=\"https://hobby-store.pl/en/fff-fdm/remake-mk3s-3d-printer-diy-set.html?SubmitCurrency=1&amp;id_currency=2\">https://hobby-store.pl</a>"
+[[files]]
+name = "Assembly/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODQ2OTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODQ1NDQ="
+mimetype = "text/plain"
+

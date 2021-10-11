@@ -1,0 +1,12 @@
+name = "Water & Heat Proofing "
+repo = "https://wikifactory.com/@faizanaali/water-heat-proofing"
+version = "20210128112708"
+spdx-license = "N/A"
+licensor = "Faizan Ali"
+documentation-language = "en"
+function = "Roof Water and Heat Proofing can upgrade and secure your House"
+[[files]]
+name = "/Zamzam Chemicals.lnk"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mjk4NDI="
+mimetype = "application/octet-stream"
+

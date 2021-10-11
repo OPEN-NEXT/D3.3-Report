@@ -1,0 +1,12 @@
+name = "Invisible dog"
+repo = "https://wikifactory.com/@woody/invisible-dog"
+version = "20210409221639"
+spdx-license = "N/A"
+licensor = "J. Richard Wood"
+documentation-language = "en"
+function = "A hand held device to allow blind people to navigate their surroundings easier."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzg0NTg="
+mimetype = "text/markdown"
+

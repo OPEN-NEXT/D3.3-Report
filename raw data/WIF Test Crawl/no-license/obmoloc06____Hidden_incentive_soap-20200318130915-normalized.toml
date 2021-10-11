@@ -1,0 +1,23 @@
+name = "Hidden incentive soap"
+repo = "https://wikifactory.com/@obmoloc06/hidden-incentive-soap"
+version = "20200318130915"
+spdx-license = "N/A"
+licensor = "Andrea Colombo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDU4MTg="
+function = "Industrialization project of a soap bar made starting from the \"Hidden incentive soap\" projected by Field ready with the engineer Andrew lamb.\nused technologies:<br />- 3d printing<br />- silicon rubber<br />- saponification<br />\nThe aim of the project is to educate children to wash their hands."
+[[files]]
+name = "/Mold matrix.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTgzMzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDcxNzU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/stampo sapone.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTU4NTY="
+mimetype = "application/sla"
+

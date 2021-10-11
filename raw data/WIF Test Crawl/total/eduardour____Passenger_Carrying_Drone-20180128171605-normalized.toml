@@ -1,0 +1,13 @@
+name = "Passenger Carrying Drone"
+repo = "https://wikifactory.com/@eduardour/passenger-carrying-drone"
+version = "20180128171605"
+spdx-license = "N/A"
+licensor = "Eduardo Uriarte Ruiz"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2MTM="
+function = "Prototype of a VTOL (Vertical Take of and Landing) vehicle, able to carry one passenger or cargo."
+[[files]]
+name = "Propulsion system/Kairos Air Vehicle.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTQ="
+mimetype = "image/jpeg"
+

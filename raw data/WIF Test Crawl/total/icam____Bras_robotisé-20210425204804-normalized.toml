@@ -1,0 +1,7 @@
+name = "Bras robotisé"
+repo = "https://wikifactory.com/@firdaws/bras-robotisé"
+version = "20210425204804"
+spdx-license = "N/A"
+licensor = "Firdaws fifi"
+documentation-language = "fr"
+function = "Ceci est un tutoriel pour créer et assembler un bras robotisé de A à Z.\nÇa te dis ?"

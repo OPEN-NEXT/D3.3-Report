@@ -1,0 +1,12 @@
+name = "Sit & Grow"
+repo = "https://wikifactory.com/@benyscott/sit-grow"
+version = "20200518143311"
+spdx-license = "N/A"
+licensor = "Benjamin Scott"
+documentation-language = "en"
+function = "Fab Academy projects which combines parametrically designed furniture with growing plants."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQ2MjE="
+mimetype = "text/markdown"
+

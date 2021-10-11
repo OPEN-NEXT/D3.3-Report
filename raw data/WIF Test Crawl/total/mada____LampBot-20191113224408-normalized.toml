@@ -1,0 +1,8 @@
+name = "LampBot"
+repo = "https://wikifactory.com/@mada/lampbot"
+version = "20191113224408"
+spdx-license = "N/A"
+licensor = "Massimiliano d'Angelo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODI0MjU="
+function = "<b>LampBot</b>, is a robot lamp for still life photography. It is a robot arm, but at the head there is not a tongs, but a LED Lamp, that can range lighting intensity. By remote, the photographer can move the lamp position around the object every time he wants, without move to the desk each time."

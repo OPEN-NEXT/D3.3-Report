@@ -1,0 +1,7 @@
+name = "Electric Plant cutter"
+repo = "https://wikifactory.com/@kingkishor1722/electric-plant-cutter"
+version = "20200818113507"
+spdx-license = "N/A"
+licensor = "kingkishor1722"
+documentation-language = "en"
+function = "Without using engine the plant cutter blade rotates and cut the plant by using 1or1.5hp motor connected by battery"

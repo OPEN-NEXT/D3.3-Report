@@ -1,0 +1,7 @@
+name = " Auxiliary battery charge"
+repo = "https://wikifactory.com/@bajozero/auxiliary-battery-charge"
+version = "20210319101220"
+spdx-license = "N/A"
+licensor = "Javier De Miguel"
+documentation-language = "en"
+function = "Auxiliary battery charging through an original installation of any vehicle."

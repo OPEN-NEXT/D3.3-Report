@@ -1,0 +1,7 @@
+name = "Coffee shop pond"
+repo = "https://wikifactory.com/@ocholafrankline/coffee-shop-pond"
+version = "20190805193011"
+spdx-license = "N/A"
+licensor = "OCHOLA FRANKLINE"
+documentation-language = "en"
+function = "The coffe shop has a pond that is used to propagate and irrigate a hydroponics system as well as water flower beds through a drip system"

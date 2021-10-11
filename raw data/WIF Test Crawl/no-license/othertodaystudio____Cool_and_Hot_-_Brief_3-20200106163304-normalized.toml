@@ -1,0 +1,13 @@
+name = "Cool and Hot - Brief 3 "
+repo = "https://wikifactory.com/@abuazharahmed/cool-and-hot-brief-3"
+version = "20200106163304"
+spdx-license = "N/A"
+licensor = "Azhar Ahmed"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyOTYyMjM="
+function = "Making the lives of everyone better in all countries."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYyODg="
+mimetype = "text/markdown"
+

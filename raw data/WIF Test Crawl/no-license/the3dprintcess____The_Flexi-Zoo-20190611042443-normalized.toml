@@ -1,0 +1,13 @@
+name = "The Flexi-Zoo."
+repo = "https://wikifactory.com/@the3dprintcess/the-flexi-zoo"
+version = "20190611042443"
+spdx-license = "N/A"
+licensor = "the3dPrintcess"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTI5Mjk="
+function = "The First project- Learn to set up, calibrate, and use your 3D printer, and make some cool toys in the process!"
+[[files]]
+name = "/080_mouse.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI5Mjc="
+mimetype = "application/sla"
+

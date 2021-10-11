@@ -1,0 +1,63 @@
+name = "Fabuleux voyage virtuel"
+repo = "https://wikifactory.com/@yquere/vas-y"
+version = "20210324195703"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1NTY2MTk="
+function = "Le fabuleux voyage virtuel  : Une démarche innovante auprès des personnes âgées à domicile."
+[[files]]
+name = "/affiche.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTkyNDE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/COMM_PRESSE Le fabuleux voyage.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjUzODc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Fiche Action Voyage virtuel - Prototype.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTk4MDY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Fiche Action Voyage virtuel.docx.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjMzNjM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Les parties prenantes.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTk2NTg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/NOTRE METHODE.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjQ1MjY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/photo d'équipe"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyNzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/ProtoB_Scénario d'usage_Un fabuleux voyage virtuel avec Vas-Y.docx.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTk2NjI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzIwNDE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/rendu proto.pptx.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjQzOTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/scenario-persona.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MzQ="
+mimetype = "application/pdf"
+

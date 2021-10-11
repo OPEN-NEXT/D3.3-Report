@@ -1,0 +1,7 @@
+name = "one"
+repo = "https://wikifactory.com/@valenzandoli/one"
+version = "20201210145147"
+spdx-license = "N/A"
+licensor = "valenzandoli"
+documentation-language = "no"
+function = "Im just getting started"

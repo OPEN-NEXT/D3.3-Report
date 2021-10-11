@@ -1,0 +1,233 @@
+name = "Dronecoria"
+repo = "https://wikifactory.com/@aeracoop/dronecoria"
+version = "20201111200119"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Lot Amorós"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNzMzOA=="
+function = "Open source drone platform for aerial sowing of seed balls, for a revolutionary and efficient large scale forest reforestation.\nOrganization page: http://wikifactory.com/+dronecoria"
+[[files]]
+name = "config/dronecoria-opentx-radio-config.otx"
+permalink = "https://wikifactory.com/files/RmlsZToyODUyNDc="
+mimetype = "application/zip"
+
+[[files]]
+name = "config/dronecoria-pixhawk4-config.param"
+permalink = "https://wikifactory.com/files/RmlsZToyODUyMDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/DronecoriaParameters.param"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1OTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "frame/6mm-Plywood/dronecoria_6mm_v0_6_4.AI"
+permalink = "https://wikifactory.com/files/RmlsZToyODUxNTU="
+mimetype = "application/postscript"
+
+[[files]]
+name = "frame/6mm-Plywood/dronecoria_6mm_v0_6_4.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyODUxNTQ="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "frame/6mm-Plywood/dronecoria_6mm_v0_6_4.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyODUxNTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "frame/dronecoria_0_5.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNzUxMw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "frame/Dronecoria_frame_v0_5_1.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyNTc4MQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "frame/dronecoria_v0_5_1_corteGrabado.ai"
+permalink = "https://wikifactory.com/files/RmlsZToxNzUxMQ=="
+mimetype = "application/illustrator"
+
+[[files]]
+name = "frame/dronecoria_v0_5_1_corteGrabado.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToxNzUyMA=="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "frame/dronecoria_v0_5_1_corteGrabado.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxNzUwOQ=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "frame/dronecoria_v0_6.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIyMjM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "frame/dronecoria_v0_6.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIyMjI="
+mimetype = "application/postscript"
+
+[[files]]
+name = "frame/dronecoria_v0_6.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIyMjE="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "frame/dronecoria_v0_6.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIyMjA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "frame/dronecoria_v0_6.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIyMTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "frame/dronecoria_v0_6_2.AI"
+permalink = "https://wikifactory.com/files/RmlsZToyNDg2MDE="
+mimetype = "application/postscript"
+
+[[files]]
+name = "frame/dronecoria_v0_6_2.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDg2MDA="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "frame/dronecoria_v0_6_2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDg1OTk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "frame/dronecoria_v0_6_size.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc3NjM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "frame/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUwOTc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "frame/version 7/DronecoriaFrame-V7-3D.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDgzMjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "frame/version 7/DronecoriaFrame-v7-Cut1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDgzMjI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "frame/version 7/DronecoriaFrame-v7-Cut2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDgzMjE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDY1Mg=="
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "PowderVenturi/PowderVenturi_V0.8.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzgzMTM="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "PowderVenturi/PowderVenturi_V0.9.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzgzMDk="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "PowderVenturi/PowderVenturi_V1.0.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzgzMDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "PowderVenturi/PowderVenturi_V1.0.gh"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzgzMDg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "PowderVenturi/PowderVenturi_V1.0.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzgzMDY="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzI3Nzg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Readme.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzgxOTE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "SeedDisperser/MechanicalSeedDisperser/MechanicalSeedDisperser_V1.0.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzk0OTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SeedDisperser/MechanicalSeedDisperser/V1.0_Carcasa1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzk0OTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "SeedDisperser/MechanicalSeedDisperser/V1.0_Carcasa2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzk0OTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "SeedDisperser/MechanicalSeedDisperser/V1.0_Disco.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzk0ODk="
+mimetype = "application/sla"
+
+[[files]]
+name = "SeedDisperser/PhysicalSeedDisperser/PhysicalSeedDisperser_V0.7.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzk0Njk="
+mimetype = "application/sla"
+
+[[files]]
+name = "SeedDisperser/PhysicalSeedDisperser/PhysicalSeedDisperser_V0.8.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzk0Nzg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SeedDisperser/PhysicalSeedDisperser/PhysicalSeedDisperser_V0.8.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzk0Nzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "SeedShutter/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzkzNTk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "SeedShutter/SeedShutter_V0.8.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzk0NTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SeedShutter/SeedShutter_V0.8.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzk0NTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "SeedShutter/SeedShutter_V0.9.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzkzNTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "SeedShutter/SeedShutter_V1.0.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzkzNTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SeedShutter/SeedShutter_V1.0.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzkzNTI="
+mimetype = "application/sla"
+

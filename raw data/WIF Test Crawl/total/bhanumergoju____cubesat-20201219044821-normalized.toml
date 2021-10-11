@@ -1,0 +1,7 @@
+name = "cubesat"
+repo = "https://wikifactory.com/@bhanumergoju/cubesat"
+version = "20201219044821"
+spdx-license = "N/A"
+licensor = "bhanumergoju"
+documentation-language = "en"
+function = "cubesat project"

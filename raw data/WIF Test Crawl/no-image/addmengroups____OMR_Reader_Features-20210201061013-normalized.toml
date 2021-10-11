@@ -1,0 +1,7 @@
+name = "OMR Reader Features"
+repo = "https://wikifactory.com/@addmengroups/omr-reader-features"
+version = "20210201061013"
+spdx-license = "N/A"
+licensor = "addmengroups"
+documentation-language = "en"
+function = "omr reader is useful for read the information from omr answer sheet those are held in diverse passage or government exam. Due to omr reader we can improve our quality of exam and correctness also.For more details visit here https://www.addmengroup.com/OMR/features-professional-omr-reader.htm"

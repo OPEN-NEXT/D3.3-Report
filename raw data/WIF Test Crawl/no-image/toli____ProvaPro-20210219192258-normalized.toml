@@ -1,0 +1,7 @@
+name = "ProvaPro"
+repo = "https://wikifactory.com/@toli/provapro"
+version = "20210219192258"
+spdx-license = "N/A"
+licensor = "Tommaso Lilli"
+documentation-language = "it"
+function = "progetto di prova n.1"

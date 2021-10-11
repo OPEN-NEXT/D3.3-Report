@@ -1,0 +1,43 @@
+name = "Lili by WeMake"
+repo = "https://wikifactory.com/@memo1812/lili-by-wemake"
+version = "20201029210519"
+spdx-license = "CC-BY-4.0"
+licensor = "Guillermo Zarate"
+documentation-language = "ca"
+image = "https://wikifactory.com/files/RmlsZTo0NTg3MDU="
+function = "Intelligent multicolor lamp"
+[[files]]
+name = "/Colours.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg4NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/LAMP3 v3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg3MzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg3MjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/lili.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg4NTM="
+mimetype = "image/png"
+
+[[files]]
+name = "/PSX_20201028_021434.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg4MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjE5MzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Vertical2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg4MjE="
+mimetype = "image/png"
+

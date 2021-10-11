@@ -1,0 +1,7 @@
+name = "Multi Purpose Lift"
+repo = "https://wikifactory.com/@wukbot/multi-purpose-lift"
+version = "20210104065637"
+spdx-license = "N/A"
+licensor = "Wuk"
+documentation-language = "en"
+function = "Small tyre shops lack the facility to perform multipal tasks for their customers like, brake repairs, wheel alignment, suspension repairs, plus tyre fitment on one piece of equipment."

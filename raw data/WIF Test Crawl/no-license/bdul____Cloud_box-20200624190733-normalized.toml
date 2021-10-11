@@ -1,0 +1,7 @@
+name = "Cloud box"
+repo = "https://wikifactory.com/@bdul/cloud-box"
+version = "20200624190733"
+spdx-license = "N/A"
+licensor = "Abdulrahaman muhammad Aliyu"
+documentation-language = "en"
+function = "It is base on cloud computing"

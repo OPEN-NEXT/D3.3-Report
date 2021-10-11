@@ -1,0 +1,23 @@
+name = "Wasp style 3D printer"
+repo = "https://wikifactory.com/@bensoloart/wasp-style-3d-printer"
+version = "20190408073708"
+spdx-license = "N/A"
+licensor = "Ben Solo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTU1Mjk="
+function = "everything made from scratch. with aluminum and polycarbonite. and brass fittings from hardware store. \nRamps 1.4 board\nMarlin Firmware\nPrusa clone frame"
+[[files]]
+name = "/a5.gcode"
+permalink = "https://wikifactory.com/files/RmlsZToxOTU2MTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Marlin Firmware edited for the mechanical pump"
+permalink = "https://wikifactory.com/files/RmlsZToxOTU1MzA="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTU1Mjg="
+mimetype = "text/markdown"
+

@@ -1,0 +1,108 @@
+name = "PPE Design Files"
+repo = "https://wikifactory.com/@nlundman/ppe-design-files"
+version = "20200330031834"
+spdx-license = "N/A"
+licensor = "Naiomi Lundman"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjQ3NDA="
+function = "Many businesses, organizations and individuals are pivoting to meet PPE demand. Let's help ensure what is made works well and keeps people safe. Please add your design files (or other public files) here for collaboration on quality and dissemination to others for production and use."
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Mask/Face Mask Ver 1 (Serger).pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwNzE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Mask/Images/Fabric Label.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwNzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Mask/Images/Serger.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwNzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Mask/Images/Sewing Machine.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwNzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Mask/Pattern & Cut Files/Face Mask SURGE NEST.CEI"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwODc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Mask/Pattern & Cut Files/Face Mask SURGE.CEI"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwOTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Mask/Pattern & Cut Files/Full Strap.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwODM="
+mimetype = "text/plain"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Mask/Pattern & Cut Files/Half Strap.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwODA="
+mimetype = "text/plain"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Mask/Pattern & Cut Files/Surge Mask Body.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwNzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Mask/Production Notes/Face Mask Ver 1 (Serge) Step 1.MOV"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUxMDE="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Mask/Production Notes/Face Mask Ver 1 (Sew) Step 2.MOV"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUxMDA="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Shield/Face Shield.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUxMjc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Shield/Images/IMG_2069.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUxMDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Shield/Images/IMG_2070.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUxMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Shield/Pattern and Cut Files/Face Sheild.CEI"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUxMjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Shield/Pattern and Cut Files/Long Strap.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUxMDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Shield/Pattern and Cut Files/Sheild Body.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUxMTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/Face Shield/Pattern and Cut Files/Short Strap.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUxMDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "KAAS Tailored face shield and mask/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwNjU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjYwMDg="
+mimetype = "text/markdown"
+

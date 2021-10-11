@@ -1,0 +1,12 @@
+name = "wind"
+repo = "https://wikifactory.com/@max1968/wind"
+version = "20201212183717"
+spdx-license = "N/A"
+licensor = "Maksim Durseņev"
+documentation-language = "en"
+function = "asdfghjk"
+[[files]]
+name = "/fullturbine1_02.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTg4NTc="
+mimetype = "application/octet-stream"
+

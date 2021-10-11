@@ -1,0 +1,7 @@
+name = "Agri farm automation"
+repo = "https://wikifactory.com/@santosh1971/agri-farm-automation"
+version = "20210126160724"
+spdx-license = "N/A"
+licensor = "Santosh Kumar Jha"
+documentation-language = "en"
+function = "Farm automation like irrigation and fertigation system for small farm holder."

@@ -1,0 +1,13 @@
+name = "Design Studio"
+repo = "https://wikifactory.com/@shanaghryanomeara/design-studio"
+version = "20201009114632"
+spdx-license = "N/A"
+licensor = "shanaghryanomeara"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NDkyNjg="
+function = "A material and structural response to the smart citizen and the +CityxChange program."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkzNTM="
+mimetype = "text/markdown"
+

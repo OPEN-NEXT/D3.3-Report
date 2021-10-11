@@ -1,0 +1,23 @@
+name = "Cycleau Sanitation"
+repo = "https://wikifactory.com/@noemiflorea1/cycleau-sanitation"
+version = "20200825183244"
+spdx-license = "N/A"
+licensor = "Noemi Florea"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MjY0NzU="
+function = "Cycleau both advances public sanitation in resource-scarce regions as well as reduces single-use waste by facilitating sanitation for durable goods in commercial settings; it also reduces water and energy use by recycling the sanitation solution and operating through passive mechanics."
+[[files]]
+name = "/Cycleau Sanitation Review.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjY0ODI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Cycleau Sanitation System.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjY0OTA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjY0ODY="
+mimetype = "text/markdown"
+

@@ -1,0 +1,8 @@
+name = "Semáforo com Franzininho"
+repo = "https://wikifactory.com/@dianasantosip/semáforo-com-franzininho"
+version = "20210313152017"
+spdx-license = "N/A"
+licensor = "Diana"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTo1NjU2ODk="
+function = "Nesse exemplo vamos fazer um semáforo de uma via."

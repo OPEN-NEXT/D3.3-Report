@@ -1,0 +1,18 @@
+name = "Chair inflate "
+repo = "https://wikifactory.com/@gregoirebouineau/chair-inflate"
+version = "20200216165941"
+spdx-license = "N/A"
+licensor = "Bouineau Grégoire"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDY2NTI="
+function = "reuse of inner tubes, to generate comfort on a seat. the inner tubes are cut to identify the leak then braided to be assembled."
+[[files]]
+name = "/installation_inflate chair .jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDY2NTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDY2NjI="
+mimetype = "text/markdown"
+

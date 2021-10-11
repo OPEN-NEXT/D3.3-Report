@@ -1,0 +1,18 @@
+name = "Infinity Mirror Clock"
+repo = "https://wikifactory.com/@dushtahuja/infinity-mirror-clock"
+version = "20190324071846"
+spdx-license = "CC0-1.0"
+licensor = "Dushyant Ahuja"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDY3ODI="
+function = "Build this a few years back\nEver since my addressable RGB LED strips (WS2812B) came from Aliexpress, I've been fascinated with LED projects. Following up on my success with my Charlieplexed LED clock, I wanted to create something with more Jazz.."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDY3NTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDY3NTk="
+mimetype = "text/markdown"
+

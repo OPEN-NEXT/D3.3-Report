@@ -1,0 +1,7 @@
+name = "Www"
+repo = "https://wikifactory.com/@phoneyac676/www"
+version = "20200823004940"
+spdx-license = "N/A"
+licensor = "Yacouba"
+documentation-language = "en"
+function = "My first job"

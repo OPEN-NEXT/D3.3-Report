@@ -1,0 +1,7 @@
+name = "My frist project"
+repo = "https://wikifactory.com/@godstic000/my-frist-project"
+version = "20200818011208"
+spdx-license = "N/A"
+licensor = "godstic000"
+documentation-language = "en"
+function = "Craft"

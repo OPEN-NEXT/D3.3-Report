@@ -1,0 +1,8 @@
+name = "Mini Car "
+repo = "https://wikifactory.com/@hebersdavid/mini-car"
+version = "20210304142253"
+spdx-license = "N/A"
+licensor = "hebersdavid"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo1NjE4MDU="
+function = "un vehiculo, capaz de transportar a dos pasajeros, con un costo accesible a las masas como para estudiantes, jovenes y pesonas de bajo recurso. ofreciendo comodidad, confort y economia de compbustible"

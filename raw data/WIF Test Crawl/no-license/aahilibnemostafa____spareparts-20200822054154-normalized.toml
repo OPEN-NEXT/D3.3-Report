@@ -1,0 +1,7 @@
+name = "spareparts"
+repo = "https://wikifactory.com/@aahilibnemostafa/spareparts"
+version = "20200822054154"
+spdx-license = "N/A"
+licensor = "aahilibnemostafa"
+documentation-language = "en"
+function = "We want to manufacture alloy materials spares for all industeial machineries"

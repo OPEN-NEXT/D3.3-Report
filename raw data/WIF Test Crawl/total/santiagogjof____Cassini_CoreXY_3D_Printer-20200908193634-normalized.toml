@@ -1,0 +1,7 @@
+name = "Cassini CoreXY 3D Printer"
+repo = "https://wikifactory.com/@santiagogjof/cassini-corexy-3d-printer"
+version = "20200908193634"
+spdx-license = "N/A"
+licensor = "Santiago Garcia"
+documentation-language = "en"
+function = "I would like to contribute to the 3D printing community by sharing my 3D printer design.\nThe 3D models and config.h files can be downloaded for free.\nHappy Printing!"

@@ -1,0 +1,7 @@
+name = "eLearning Kiosk"
+repo = "https://wikifactory.com/@charlesnlacuna/elearning-kiosk"
+version = "20210113110654"
+spdx-license = "N/A"
+licensor = "charlesnlacuna"
+documentation-language = "en"
+function = "This kiosk is a fileserver powered by raspberry pi.\nThe primary goal is to solve the problem in printing of learning modules which is very expensive.\nTo cut cost, modules are stored in kiosk and downloaded via bluetooth or wifi  to phones, tablets, laptops without internet connection."

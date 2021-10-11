@@ -1,0 +1,18 @@
+name = "X VEIN"
+repo = "https://wikifactory.com/@yukiogasawara/x-vein"
+version = "20200920045234"
+spdx-license = "CC-BY-4.0"
+licensor = "YukiOgasawara"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzY5NTE="
+function = "This drone is designed with using Generative design technology as a method to combine various performances such as strength, shooting ability, safety, and expandability with lightness, which is a trade-off relationship."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzY5NTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzY5NTQ="
+mimetype = "text/markdown"
+

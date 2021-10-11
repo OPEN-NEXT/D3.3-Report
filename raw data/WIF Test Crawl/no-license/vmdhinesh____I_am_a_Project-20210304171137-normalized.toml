@@ -1,0 +1,7 @@
+name = "I am a Project"
+repo = "https://wikifactory.com/@vmdhinesh/i-am-a-project"
+version = "20210304171137"
+spdx-license = "N/A"
+licensor = "vmdhinesh"
+documentation-language = "en"
+function = "Not yet cool"

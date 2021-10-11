@@ -1,0 +1,13 @@
+name = "Sassy Samba Dress"
+repo = "https://wikifactory.com/@lukasmaximus89/sassy-samba-dress"
+version = "20180528050318"
+spdx-license = "CC-BY-4.0"
+licensor = "Luke Henderson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODg2"
+function = "An up-cycled old samba dresses is given a new breath of life with unique feather designs and jewellery made by the students of Shekou american international school Shenzhen."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODg1"
+mimetype = "text/plain"
+

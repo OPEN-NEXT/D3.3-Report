@@ -1,0 +1,7 @@
+name = "Model of Monetary System "
+repo = "https://wikifactory.com/@aaabos/model-of-monetary-system"
+version = "20210409082717"
+spdx-license = "N/A"
+licensor = "Andrew Carl Bosworth"
+documentation-language = "en"
+function = "Showing two economies whose monetary systems perpetually charge one another and themselves."

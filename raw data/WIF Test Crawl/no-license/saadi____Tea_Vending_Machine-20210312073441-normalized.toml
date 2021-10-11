@@ -1,0 +1,7 @@
+name = "Tea Vending Machine"
+repo = "https://wikifactory.com/@shekharsaad/tea-vending-machine"
+version = "20210312073441"
+spdx-license = "N/A"
+licensor = "Shekhar Shinde"
+documentation-language = "en"
+function = "Tea Vending Machine is vast market in India. Fast working Tea vending machine is required which are maintained by one or two persons for busiest business"

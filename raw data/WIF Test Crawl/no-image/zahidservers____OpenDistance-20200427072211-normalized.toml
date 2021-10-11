@@ -1,0 +1,7 @@
+name = "OpenDistance"
+repo = "https://wikifactory.com/@zahidservers/opendistance"
+version = "20200427072211"
+spdx-license = "N/A"
+licensor = "zahidservers"
+documentation-language = "en"
+function = "Version 1.0.0\nTo download click here<a href=\"https://github.com/ZahidServers/OpenDistance\"> https://github.com/ZahidServers/OpenDistance</a>\nUsing this Web App you can create your own website like coursera or udemy. OpenDistance is php 5.3 based Freeware Web App which works on all platforms except shared hostings."

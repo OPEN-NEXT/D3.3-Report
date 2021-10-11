@@ -1,0 +1,13 @@
+name = "Isolate FM"
+repo = "https://wikifactory.com/@danbalint/localisation"
+version = "20200616102038"
+spdx-license = "N/A"
+licensor = "Dan Balint"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozODE1OTQ="
+function = "Isolate FM is an online radio station designed to inspire and unite communities during the COVID-19 lockdown. \nwww.isolatefm.com"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODI1MTg="
+mimetype = "text/markdown"
+

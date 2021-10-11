@@ -1,0 +1,7 @@
+name = "Prohubs"
+repo = "https://wikifactory.com/@wasimghafar6/prohubs"
+version = "20200604031722"
+spdx-license = "N/A"
+licensor = "wasimghafar6"
+documentation-language = "en"
+function = "Flow meter using Arduino"

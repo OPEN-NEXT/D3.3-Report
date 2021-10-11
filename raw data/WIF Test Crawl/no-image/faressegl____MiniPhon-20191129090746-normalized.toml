@@ -1,0 +1,7 @@
+name = "MiniPhon"
+repo = "https://wikifactory.com/@faressegl/miniphon"
+version = "20191129090746"
+spdx-license = "N/A"
+licensor = "faressegl"
+documentation-language = "it"
+function = "simple mini \ufeffsmartphone"

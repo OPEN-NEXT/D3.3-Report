@@ -1,0 +1,33 @@
+name = "WOOD ROCKET LAMP"
+repo = "https://wikifactory.com/@andrea/wood-rocket-lamp"
+version = "20180611143512"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Andrea Biffi"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0Mjk2"
+function = "A beautiful present for your son birthday will be this exciting lamp to be assembled by themselves. But don&#x27;t stop there, you can customize the project so that it will be unique in the world!"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mjkz"
+mimetype = "text/plain"
+
+[[files]]
+name = "/missile (1).3dmk"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzY5"
+mimetype = "application/3dmk"
+
+[[files]]
+name = "/missile-V1-final (1).dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzcy"
+mimetype = "text/plain"
+
+[[files]]
+name = "/missile-V2-final (1).dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzcx"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzY4"
+mimetype = "text/markdown"
+

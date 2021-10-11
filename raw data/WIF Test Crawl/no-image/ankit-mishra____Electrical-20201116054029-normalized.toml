@@ -1,0 +1,7 @@
+name = "Electrical "
+repo = "https://wikifactory.com/@ankit-mishra/electrical"
+version = "20201116054029"
+spdx-license = "N/A"
+licensor = "Ankit Kumar Mishra"
+documentation-language = "en"
+function = "The Single line digram"

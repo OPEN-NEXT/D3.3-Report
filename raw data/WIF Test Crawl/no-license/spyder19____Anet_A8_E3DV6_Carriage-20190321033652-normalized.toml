@@ -1,0 +1,18 @@
+name = "Anet A8 E3DV6 Carriage"
+repo = "https://wikifactory.com/@spyder19/anet-a8-e3dv6-carriage"
+version = "20190321033652"
+spdx-license = "N/A"
+licensor = "Spyder"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDY0MDE="
+function = "This is a carriage for ppl who want to adapt an Anet A8 to a bowden system with an E3DV6 hotend"
+[[files]]
+name = "/Anet A8 E3DV6 CarriageV10.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDY2Nzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDY2Nzc="
+mimetype = "text/markdown"
+

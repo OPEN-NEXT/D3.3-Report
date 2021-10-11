@@ -1,0 +1,28 @@
+name = "Plaster Tile Mould"
+repo = "https://wikifactory.com/@driesverbruggen/plaster-tile-mould"
+version = "20181216174055"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Dries Verbruggen"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNzQ1Nw=="
+function = "Mould for producing flat plaster printbed tiles with uniform thickness for 3d printing ceramics. The trick is to cast your tiles vertical instead of horizontal."
+[[files]]
+name = "/150x150_M6.ai"
+permalink = "https://wikifactory.com/files/RmlsZToxNzQ1OA=="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/150x150_M6.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI2NTk="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/150x150_M6B.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI2Njc="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNzQ0OA=="
+mimetype = "text/plain"
+

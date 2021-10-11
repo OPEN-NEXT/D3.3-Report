@@ -1,0 +1,128 @@
+name = "PolarGraph/VerticalPloter"
+repo = "https://wikifactory.com/@3denvangelist/polargraphverticalploter"
+version = "20201116234750"
+spdx-license = "N/A"
+licensor = "Ricardo José  Pereira"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0ODU0NTk="
+function = "updating"
+[[files]]
+name = "3d_STL_PARTS/cable_weight_support_M8.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk2NTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d_STL_PARTS/eletronics_support.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk2NTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d_STL_PARTS/Gear_ballX2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk2NTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d_STL_PARTS/Polar_graf_base-Circle_002.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODI5MTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d_STL_PARTS/Polar_graf_base-FCE_1501_01_001_hub_r01.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODI5MTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d_STL_PARTS/Polar_graf_base-FCE_1501_01_003_ring_001.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODI5MDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d_STL_PARTS/Polar_graf_base-FCE_1501_01_003_ring_004.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODI5MTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d_STL_PARTS/Polar_graf_base-FCE_1501_01_004_lockring.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODI5MTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d_STL_PARTS/Polar_graf_base-FCE_1501_01_005_fix_r01.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODI5MTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d_STL_PARTS/Polar_graf_base-FCE_1501_01_006_servobracket.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODI5MTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d_STL_PARTS/Polar_graf_base-FCE_1501_01_011_bracket_angled_OH_001.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODI5MTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3d_STL_PARTS/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODI5MDM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Firmware.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk2NTA="
+mimetype = "application/zip"
+
+[[files]]
+name = "Photos/IMG_20201116_103527.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODU0NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201116_104319.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODU0NzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201116_105914.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODU0NzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201116_105929.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODU0NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201116_111227.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODU0NzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201116_111352.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODU0NzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201116_111628.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODU0NzA="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos/IMG_20201116_112204.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODU0NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/polargraph board.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njc3NjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODU0ODc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Software.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk2NTc="
+mimetype = "application/zip"
+

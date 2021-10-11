@@ -1,0 +1,7 @@
+name = "domotix"
+repo = "https://wikifactory.com/@anibalvaz/domotix"
+version = "20210309073321"
+spdx-license = "N/A"
+licensor = "anibalvaz"
+documentation-language = "es"
+function = "domotica modular para la automatizacion de hogares a bajo costo"

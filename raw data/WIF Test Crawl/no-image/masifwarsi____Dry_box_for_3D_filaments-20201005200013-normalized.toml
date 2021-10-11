@@ -1,0 +1,12 @@
+name = "Dry box for 3D filaments"
+repo = "https://wikifactory.com/@masifwarsi/dry-box-for-3d-filaments"
+version = "20201005200013"
+spdx-license = "N/A"
+licensor = "masifwarsi"
+documentation-language = "en"
+function = "I am interested in building a dry box for 3D printing filament storidg as well as printing."
+[[files]]
+name = "/Dry box design.blend"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDcwNDA="
+mimetype = "application/octet-stream"
+

@@ -1,0 +1,23 @@
+name = "SensOcean"
+repo = "https://wikifactory.com/@cedriccourson/sensocean"
+version = "20210131132745"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Cédric Courson"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0NjI0ODY="
+function = "C'est un programme de science participative, qui vise à équiper les voiliers de plaisanciers de capteurs de mesure (température et de salinité de surface). Ces mesures permettront de mieux comprendre l’évolution de l’océan et des courants marins et leur impact sur le changement climatique."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI0ODE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Projet-SensOcean-V2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkxMjg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI3NzM="
+mimetype = "text/markdown"
+

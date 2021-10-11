@@ -1,0 +1,7 @@
+name = "Solar Light up "
+repo = "https://wikifactory.com/@obiyorn/solar-light-up"
+version = "20200624021220"
+spdx-license = "N/A"
+licensor = "obiyorn"
+documentation-language = "sv"
+function = "Solar energy innovation"

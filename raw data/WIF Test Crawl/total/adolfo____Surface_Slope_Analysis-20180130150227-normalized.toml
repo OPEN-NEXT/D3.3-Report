@@ -1,0 +1,23 @@
+name = "Surface Slope Analysis"
+repo = "https://wikifactory.com/@adolfo/surface-slope-analysis"
+version = "20180130150227"
+spdx-license = "CC-BY-4.0"
+licensor = "Adolfo Nadal Serrano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2NDI="
+function = "A simple rvb script to easily visualize the slope (angles) of each face in a mesh. It is great to detect possible flaws in geometry or simply see whether you can use a certain object for casting purposes. Intended specially for demonstration purposes."
+[[files]]
+name = "Data and code/surface_slope.py"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDQ="
+mimetype = "text/x-python-script"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo2Mzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Readme/surface_slope_readme.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDM="
+mimetype = "text/plain"
+

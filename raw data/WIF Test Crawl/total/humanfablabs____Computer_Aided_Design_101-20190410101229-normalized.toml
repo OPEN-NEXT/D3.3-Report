@@ -1,0 +1,18 @@
+name = "Computer Aided Design 101"
+repo = "https://wikifactory.com/@jmm/computeraideddesign101"
+version = "20190410101229"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Jean-Michel Molenaar"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTQ5Mzg="
+function = "This is a introduction to CAD (computer aided design) and it's concepts and possibilities."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxOTQ5MzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDgwMDc="
+mimetype = "text/markdown"
+

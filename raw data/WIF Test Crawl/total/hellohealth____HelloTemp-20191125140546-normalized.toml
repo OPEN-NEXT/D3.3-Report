@@ -1,0 +1,13 @@
+name = "HelloTemp"
+repo = "https://wikifactory.com/@rutvijpathak/hellotemp"
+version = "20191125140546"
+spdx-license = "CC-BY-4.0"
+licensor = "Rutvij Pathak"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODUzNzI="
+function = "This is digital thermometer using basic electronics and sensors"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODUzNzM="
+mimetype = "text/plain"
+

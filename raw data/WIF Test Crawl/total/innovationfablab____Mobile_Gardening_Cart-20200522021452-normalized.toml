@@ -1,0 +1,18 @@
+name = "Mobile Gardening Cart"
+repo = "https://wikifactory.com/@innovationfablab/urban-green-garden-box"
+version = "20200522021452"
+spdx-license = "N/A"
+licensor = "Innovation FabLab"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTE2MzI="
+function = "Our mobile gardening cart of green boxes helps you easily grow plants and vegetables for your own consumption at home using solar energy and some simple technology. Fabricate a little garden,pProduce your own food and it's all free!"
+[[files]]
+name = "/0042 Prototype Box Garden specification.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozNTU3Mjg="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk2Nzg="
+mimetype = "text/markdown"
+

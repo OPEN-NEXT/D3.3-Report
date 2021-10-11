@@ -1,0 +1,62 @@
+name = "IcospherePrototype"
+repo = "https://wikifactory.com/@rievo/icosphereprototype"
+version = "20210407123849"
+spdx-license = "N/A"
+licensor = "Diego Vaquero "
+documentation-language = "en"
+function = "Project imported from https://github.com/rievo/icosphere"
+[[files]]
+name = "css/style.css"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4MjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/icosphere.blend"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4MTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/icosphere.blend1"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4MTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/index.html"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4MTk="
+mimetype = "text/html"
+
+[[files]]
+name = "js/cell.js"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4MjE="
+mimetype = "text/x-c++"
+
+[[files]]
+name = "js/dat.gui.js"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4MjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "js/jquery.min.js"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4MjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "js/line.js"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4MjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "js/main.js"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4MjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "js/orbitcontrols.js"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4MjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "js/three.js"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4Mjc="
+mimetype = "text/plain"
+

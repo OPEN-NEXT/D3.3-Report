@@ -1,0 +1,8 @@
+name = "EasyModePOS"
+repo = "https://wikifactory.com/@netsiteweaver/easymodepos"
+version = "20190903120107"
+spdx-license = "N/A"
+licensor = "Reeaz Ramoly"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDQwNjE="
+function = "EasyModePOS is an online stock control application, for multiple departments(locations), multi users. It provides invoicing, reservations, quotations, delivery notes"

@@ -1,0 +1,7 @@
+name = "Open Teardrop"
+repo = "https://wikifactory.com/@huxub/open-teardrop"
+version = "20200224174310"
+spdx-license = "N/A"
+licensor = "Paul Ganelon"
+documentation-language = "da"
+function = "Open designed trailer"

@@ -1,0 +1,8 @@
+name = "ECOSHIP"
+repo = "https://wikifactory.com/@salamonpisti/ecoship"
+version = "20200414080937"
+spdx-license = "N/A"
+licensor = "Istvan Salamon"
+documentation-language = "ca"
+image = "https://wikifactory.com/files/RmlsZTozMzYyMTQ="
+function = "Large electrice energy storage for aquatic vehicles."

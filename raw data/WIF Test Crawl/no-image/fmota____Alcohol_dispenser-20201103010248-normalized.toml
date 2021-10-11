@@ -1,0 +1,7 @@
+name = "Alcohol dispenser"
+repo = "https://wikifactory.com/@fmota/alcohol-dispenser"
+version = "20201103010248"
+spdx-license = "N/A"
+licensor = "Francisco Mota"
+documentation-language = "ca"
+function = "Automatic alcohol dispenser"

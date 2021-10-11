@@ -1,0 +1,12 @@
+name = "wooden pellets "
+repo = "https://wikifactory.com/@amrsaed64/wooden-pellets"
+version = "20201120083643"
+spdx-license = "N/A"
+licensor = "Amr Mohamed"
+documentation-language = "en"
+function = "recycling the wooden sawdust to be pellets to reuse it for residential and industrial heating ; production line."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODczMzU="
+mimetype = "text/markdown"
+

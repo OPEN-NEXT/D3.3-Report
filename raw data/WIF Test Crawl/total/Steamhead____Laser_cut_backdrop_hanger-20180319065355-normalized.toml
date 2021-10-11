@@ -1,0 +1,13 @@
+name = "Laser cut backdrop hanger"
+repo = "https://wikifactory.com/@lukasmaximus89/laser-cut-backdrop-hanger"
+version = "20180319065355"
+spdx-license = "N/A"
+licensor = "Luke Henderson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMDU5"
+function = "This is a laser cuttable derivative of a 3D printed bracket i found on thingiverse https://www.thingiverse.com/thing:2111927"
+[[files]]
+name = "/PaperRoll_Bracket.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToxMDg1"
+mimetype = "text/plain"
+

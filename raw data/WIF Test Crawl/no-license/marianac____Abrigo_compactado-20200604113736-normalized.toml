@@ -1,0 +1,13 @@
+name = "Abrigo compactado"
+repo = "https://wikifactory.com/@marianac/abrigo-compactado"
+version = "20200604113736"
+spdx-license = "N/A"
+licensor = "Mariana Canelas"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTozNjEyNDk="
+function = "Abrigo temporário que serve de apoio em caso de catástrofes naturais."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI5NDk="
+mimetype = "text/markdown"
+

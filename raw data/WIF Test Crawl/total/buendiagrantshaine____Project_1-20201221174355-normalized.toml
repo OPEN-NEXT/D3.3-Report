@@ -1,0 +1,7 @@
+name = "Project 1"
+repo = "https://wikifactory.com/@buendiagrantshaine/project-1"
+version = "20201221174355"
+spdx-license = "N/A"
+licensor = "buendiagrantshaine"
+documentation-language = "en"
+function = "something"

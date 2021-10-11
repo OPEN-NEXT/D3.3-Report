@@ -1,0 +1,7 @@
+name = "Soomarvi SW"
+repo = "https://wikifactory.com/@drsoomari2k8/soomarvi-sw"
+version = "20201108192150"
+spdx-license = "N/A"
+licensor = "Muhammad Ashfaque Sanjrani"
+documentation-language = "en"
+function = "INVENTORY SYSTEM"

@@ -1,0 +1,7 @@
+name = "Vision PickPack"
+repo = "https://wikifactory.com/@jamontoyah/vision-pickpack"
+version = "20201027155626"
+spdx-license = "N/A"
+licensor = "JOSE ANTONIO MONTOYA HERNANDEZ"
+documentation-language = "es"
+function = "Sistema para diseño y administración de almacenenes basado em modelos 3D y Realidad Virtual y aAumentada."

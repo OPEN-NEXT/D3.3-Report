@@ -1,0 +1,17 @@
+name = "POWER AMPLIFIER"
+repo = "https://wikifactory.com/@saadmushtaq/power-amplifier"
+version = "20200701040829"
+spdx-license = "N/A"
+licensor = "saadmushtaq"
+documentation-language = "en"
+function = "design and analyze class B power amplifier"
+[[files]]
+name = "/report.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozOTUwNDE="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/simulation power amp.png"
+permalink = "https://wikifactory.com/files/RmlsZTozOTUwMzY="
+mimetype = "image/png"
+

@@ -1,0 +1,7 @@
+name = "Engin X"
+repo = "https://wikifactory.com/@abagu-mannaseh/engin-x"
+version = "20201031111958"
+spdx-license = "N/A"
+licensor = "Abagu mannaseh"
+documentation-language = "en"
+function = "A robotic flight machine using the principle of bee flight concept"

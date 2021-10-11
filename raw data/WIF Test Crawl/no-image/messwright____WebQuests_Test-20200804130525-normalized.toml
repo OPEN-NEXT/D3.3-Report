@@ -1,0 +1,7 @@
+name = "WebQuests Test"
+repo = "https://wikifactory.com/@messwright/webquests-test"
+version = "20200804130525"
+spdx-license = "N/A"
+licensor = "Mess Wright"
+documentation-language = "en"
+function = "WebQuests Website (built in Django)"

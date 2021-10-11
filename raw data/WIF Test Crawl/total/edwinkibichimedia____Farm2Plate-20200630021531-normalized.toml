@@ -1,0 +1,7 @@
+name = "Farm2Plate"
+repo = "https://wikifactory.com/@edwinkibichimedia/farm2plate"
+version = "20200630021531"
+spdx-license = "N/A"
+licensor = "Edwin Masinde"
+documentation-language = "en"
+function = "Farm2Plate. It's a project I started in 2016 in rural Western Kenya.\nDevelop a mobile application that syncs farmers to access market, daily updates on the progress of Chicken; health, feeds and market from chicks to mature birds, and laying eggs."

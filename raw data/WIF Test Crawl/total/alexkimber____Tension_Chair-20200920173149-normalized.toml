@@ -1,0 +1,613 @@
+name = "Tension Chair"
+repo = "https://wikifactory.com/@alexkimber/tension-chair"
+version = "20200920173149"
+spdx-license = "CC-BY-4.0"
+licensor = "Alex Kimber"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDk4ODg="
+function = "An intriguing stool using tensegrity to create the illusion of a floating seat. The design is suitable for digital fabrication and uses ratchet straps, avoiding the need for adhesives.\nThe chair is being developed in both plywood and plastic produced through the Precious Plastics network."
+[[files]]
+name = "Design & Documentation/Assembly Guide and Supporting Materials/TensionChair_AssemblyGuide_130720.indd"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4ODM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design & Documentation/Assembly Guide and Supporting Materials/TensionChair_AssemblyGuide_130720.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4MTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Design & Documentation/Assembly Guide and Supporting Materials/TensionChair_QuickIdentity.ai"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4ODQ="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Design & Documentation/Current CAD Files/DfD_3DPrint_TCStrapClip_v1 v1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzc0NjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Design & Documentation/Current CAD Files/DfD_3DPrint_TCStrapClip_v1 v2.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mzc0NzU="
+mimetype = "application/zip"
+
+[[files]]
+name = "Design & Documentation/Current CAD Files/TC_ASSEM_CNCReady_130720.f3z"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk3OTE="
+mimetype = "application/zip"
+
+[[files]]
+name = "Design & Documentation/Current CAD Files/TC_ASSEM_CNCReady_130720.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4MDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Design & Documentation/Current CAD Files/TC_ASSEM_CNCReady_ 130720.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4MDM="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "Design & Documentation/Current CAD Files/TC_BASE-SEAT_130720.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4MTY="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "Design & Documentation/Current CAD Files/TC_BASE-SEAT_130720.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4MTI="
+mimetype = "application/zip"
+
+[[files]]
+name = "Design & Documentation/Current CAD Files/TC_BASE-SEAT_130720.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk3ODc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Design & Documentation/Current CAD Files/TC_FIN_130720.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk3ODY="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "Design & Documentation/Current CAD Files/TC_FIN_130720.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk3ODU="
+mimetype = "application/zip"
+
+[[files]]
+name = "Design & Documentation/Current CAD Files/TC_FIN_130720.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk3ODQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Design & Documentation/Documentation/TC_Design Specification_v2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4MTk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Design & Documentation/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjMxMDA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNjMwODY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/CAD Files/110520-FullScale-21mmPly-TensionChair.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg5MTM="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/CAD Files/110520-FullScale-21mmPly-TensionChair.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg4Nzc="
+mimetype = "application/zip"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/CAD Files/110520-FullScale-21mmPly-TensionChair.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg4NzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/CAD Files/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg5MDI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_111925.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_112114.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_112117.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_112122.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_112223.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_112242.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_112301.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_112621.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_112855.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_112859.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_113132.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_113140.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_113151.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_113214.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_113233.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_135409.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyOTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_135418.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyOTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_135426.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyOTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_135550.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyOTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_135616.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyOTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_135646.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyOTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_135729.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyOTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_135802.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyOTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_135833.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_151127.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_151242.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_151300.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_151323.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_151352.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_151417.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_151441.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_151513.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_151606.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_151631.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_151709.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_152308.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_152310.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_152317.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_152320.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_152321.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_152322.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_152326.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_152339.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_152833.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_152838.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/IMG_20200511_152842.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcyNjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/110520 - Plywood Prototype w_ Straps Test/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMzc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_8837_.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_8844_.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_8856_.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_8861_.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_8865_.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_8877_.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4Mjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_8883_.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_8905_.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4Mzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_8907_.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_8942_.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_8948_.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4MzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_8957_.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_8967_.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4MjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200702_121302.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200702_135045.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200702_135136.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200702_135519.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200702_140120.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200702_143032.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200702_143758.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4Njg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200702_143802.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200702_144051.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200702_175826.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200707_164149.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200707_164154.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200707_164159.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200707_164209.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200707_164224.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/130720 - Updated Plywood w_ Ratchet and Luggage Straps/IMG_20200707_164248.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/150520 - Steel Wire Plywood Prototype/IMG_20200514_160948.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/150520 - Steel Wire Plywood Prototype/IMG_20200515_161916.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/150520 - Steel Wire Plywood Prototype/IMG_20200515_162855.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/150520 - Steel Wire Plywood Prototype/IMG_20200515_162920.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/150520 - Steel Wire Plywood Prototype/IMG_20200515_162940.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/150520 - Steel Wire Plywood Prototype/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMzQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Prototypes & Development/Early Models/Copy of IMG_20191228_154413.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczNDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/Early Models/IMG_20191223_172558.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczNDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/Early Models/IMG_20191228_144304.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczNDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/Early Models/IMG_20191228_161904.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczMzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/Early Models/IMG_20200303_215959.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczNTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/Early Models/IMG_20200303_220234.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczNDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/Early Models/IMG_20200303_220350.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTczNDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototypes & Development/In Development/ASSEM_CNCReady_ v3.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzE2MTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Prototypes & Development/In Development/ASSEM_CNCReady_ v5.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIxNDM="
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "Prototypes & Development/In Development/ASSEM_CNCReady_.f3z"
+permalink = "https://wikifactory.com/files/RmlsZTozNzE2MTg="
+mimetype = "application/zip"
+
+[[files]]
+name = "Prototypes & Development/In Development/BASE-SEAT_Parametric_.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIxMzU="
+mimetype = "application/zip"
+
+[[files]]
+name = "Prototypes & Development/In Development/FIN_Parametric_.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIxNDU="
+mimetype = "application/zip"
+
+[[files]]
+name = "Prototypes & Development/In Development/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4Nzg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Prototypes & Development/In Development/V2/ASSEM_CNCReady_Version2.f3z"
+permalink = "https://wikifactory.com/files/RmlsZTozODk5ODQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "Prototypes & Development/In Development/V2/FIN_Parametric_ForStrap.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozODk5OTE="
+mimetype = "application/zip"
+
+[[files]]
+name = "Prototypes & Development/In Development/V2/FIN_Parametric_ForStrap.step"
+permalink = "https://wikifactory.com/files/RmlsZTozODk5ODU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk4ODk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Shared/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDk3ODM="
+mimetype = "text/markdown"
+

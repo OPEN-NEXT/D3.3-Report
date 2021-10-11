@@ -1,0 +1,7 @@
+name = "nimic"
+repo = "https://wikifactory.com/@bobocos/nimic"
+version = "20210321124826"
+spdx-license = "N/A"
+licensor = "Bogdan Cosmin"
+documentation-language = "en"
+function = "ceva"

@@ -1,0 +1,13 @@
+name = "Reactions"
+repo = "https://wikifactory.com/@markos/reactions"
+version = "20191209160432"
+spdx-license = "N/A"
+licensor = "Markos Georgiou"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODg2Njc="
+function = "Markos\nThis Pecha Kucha looks at different cases, small and large scale, showing how everything is interconnected and has external dependance for its function or existence. It hides the reactions of the observer and presents how everything is one. Everything needs anything else to be anything at all."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk4MjE="
+mimetype = "text/markdown"
+

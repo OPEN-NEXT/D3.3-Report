@@ -1,0 +1,7 @@
+name = "Solar Roofing Drone"
+repo = "https://wikifactory.com/@phlotonic/solar-roofing-drone"
+version = "20210416160609"
+spdx-license = "N/A"
+licensor = "Adam Dryden"
+documentation-language = "en"
+function = "A drone that can grab, lift and carry Tesla solar roofing tiles 45\"x15\" in size up to the roof of a house repeatedly during an 8-10 hour shift. Would come standard with multiple photovoltaic micro panels, sensors, batteries and feature a scalable payload potential with higher-end models."

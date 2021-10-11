@@ -1,0 +1,23 @@
+name = "3d printed drag knife"
+repo = "https://wikifactory.com/@itay/3d-printed-drag-knife"
+version = "20191123101602"
+spdx-license = "N/A"
+licensor = "Itay Laniado"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODUxODY="
+function = "a drag knife for CNC cutters"
+[[files]]
+name = "/CNC Drag Knife v0.1.step"
+permalink = "https://wikifactory.com/files/RmlsZToyODMyNjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/CNC Drag Knife v0.2.step"
+permalink = "https://wikifactory.com/files/RmlsZToyODUxNzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODUxNzA="
+mimetype = "text/markdown"
+

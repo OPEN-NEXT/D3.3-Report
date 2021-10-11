@@ -1,0 +1,18 @@
+name = "Open BioPrinter"
+repo = "https://wikifactory.com/@alexansuh/open-bioprinter"
+version = "20190116194711"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Alexander Ansuh-Amponsah"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDYzMDU="
+function = "A low cost extruding system for 3D printing pastes and biomaterials using syringes and leadscrews."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxODg4NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNjgwMA=="
+mimetype = "text/markdown"
+

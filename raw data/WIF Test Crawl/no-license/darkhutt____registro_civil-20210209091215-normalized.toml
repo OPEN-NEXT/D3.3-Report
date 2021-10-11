@@ -1,0 +1,7 @@
+name = "registro_civil"
+repo = "https://wikifactory.com/@darkhutt/registrocivil"
+version = "20210209091215"
+spdx-license = "N/A"
+licensor = "Abraham Selin Gonzalez Vivas"
+documentation-language = "it"
+function = "prototipo de sistema de registro civil"

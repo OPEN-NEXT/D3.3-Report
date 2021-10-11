@@ -1,0 +1,38 @@
+name = "Voronoi Brick"
+repo = "https://wikifactory.com/@kriffe/voronoi-brick"
+version = "20190701104203"
+spdx-license = "CC-BY-4.0"
+licensor = "Kristofer Skyttner"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTcwNzQ="
+function = "Variation of the continous brick project"
+[[files]]
+name = "/Flowing_bricks_v2_1_voro.ply"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwNzU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Flowing_bricks_v2_1_voro.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwNzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwNzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwODA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Voronated_flowing_brick.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwNzY="
+mimetype = "image/png"
+
+[[files]]
+name = "/Voronated_flowing_brick_front.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwNzc="
+mimetype = "image/png"
+

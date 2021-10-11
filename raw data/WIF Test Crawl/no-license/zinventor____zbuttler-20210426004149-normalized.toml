@@ -1,0 +1,7 @@
+name = "zbuttler"
+repo = "https://wikifactory.com/@zinventor/zbuttler"
+version = "20210426004149"
+spdx-license = "N/A"
+licensor = "Zahi Mechref"
+documentation-language = "en"
+function = "a domestic countertop automated machine that makes egg and omlet sandwish.Press a button and ur breakfast will be ready in minutes."

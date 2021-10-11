@@ -1,0 +1,7 @@
+name = "Tidal Current Energy"
+repo = "https://wikifactory.com/@noormem/tidal-current-energy"
+version = "20210126191552"
+spdx-license = "N/A"
+licensor = "Noor Mustafa"
+documentation-language = "en"
+function = "To develop and understand the concept of wave current power generation in coastal area of Pakistan. To make feasibility of potential areas, where energy could be harnessed through tidal waves and currents. To develop small scale prototype at potential area after successful feasibility analysis."

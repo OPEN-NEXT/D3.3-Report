@@ -1,0 +1,33 @@
+name = "Saans: Live and let live"
+repo = "https://wikifactory.com/@ritwickm12197/saans-live-and-let-live"
+version = "20201211152911"
+spdx-license = "N/A"
+licensor = "Ritwick Mukhopadhyay"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0OTgyMTg="
+function = "What happens when you throw away your surgical mask? Does it add up to the landfill or does it bloom into a flower. Well Saans Mask does bloom into a flower."
+[[files]]
+name = "/1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTgyMTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTgyMTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTgyMTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Assemble.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTgyMDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Self Photo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTgyMDg="
+mimetype = "image/jpeg"
+

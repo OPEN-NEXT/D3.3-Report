@@ -1,0 +1,18 @@
+name = "clay 3d printing"
+repo = "https://wikifactory.com/@stoneflower3d/multimaterial-3d-printing"
+version = "20200521112958"
+spdx-license = "CC-BY-4.0"
+licensor = "Anatoly Berezkin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMzg0OA=="
+function = "equipment for 3d printing of clay, porcelain, concrete, other materials"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA0Mg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTg3MzU="
+mimetype = "text/markdown"
+

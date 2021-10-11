@@ -1,0 +1,7 @@
+name = "Apilador formatos grandes"
+repo = "https://wikifactory.com/@carloslermont/apilador-formatos-grandes"
+version = "20201207130556"
+spdx-license = "N/A"
+licensor = "Carlos Adolfo Lermont Alvarez"
+documentation-language = "es"
+function = "Modificación de un apilador de formatos de planchas de MDF."

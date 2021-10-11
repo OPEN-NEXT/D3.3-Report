@@ -1,0 +1,28 @@
+name = "Animal food dispenser"
+repo = "https://wikifactory.com/@andreianeves391999/animal-food-dispenser"
+version = "20210209124525"
+spdx-license = "N/A"
+licensor = "Andreia Neves"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MzU2NzE="
+function = "We will make a functional and very useful food dispenser for company animals\nOur Project will have a modern and minimalist design to attract any owner who wants the best for their animals..."
+[[files]]
+name = "/Dispensador 1 v14.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg1MzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/microbit-demonstração-microbit.hex"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg2MjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg2Mjg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/tigela v1.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg0OTc="
+mimetype = "text/plain"
+

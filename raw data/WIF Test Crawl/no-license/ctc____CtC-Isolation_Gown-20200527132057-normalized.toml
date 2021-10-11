@@ -1,0 +1,93 @@
+name = "CtC-Isolation Gown"
+repo = "https://wikifactory.com/@driesverbruggen/ctc-isolation-gown"
+version = "20200527132057"
+spdx-license = "N/A"
+licensor = "Dries Verbruggen"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjU0NDQ="
+function = "Pattern for an isolation gown which can be used for the production of reusable cotton sleeved aprons or disposable non-woven & plastic versions. \nThis pattern was developed by 'Creatives tegen Corona' for use in Corona Denktank national fight against COVID-19"
+[[files]]
+name = "/CtC_CC BY-NC-SA_ENG.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjA2ODA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/CtC_CC BY-NC-SA_NL.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjA2Nzk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Digital Pattern for Industrial Use/CTC-Apron_v1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjI4MTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Digital Pattern for Industrial Use/CTC-Apron_v1.rul"
+permalink = "https://wikifactory.com/files/RmlsZTozMjI4MTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Digital Pattern for Industrial Use/Previous versions/Corona-Apron_RC1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjI4MjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Digital Pattern for Industrial Use/Previous versions/Corona-Apron_RC1.rul"
+permalink = "https://wikifactory.com/files/RmlsZTozMjI4MTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "ENGLISH Pattern & Manual/Gown Manual.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY1NjQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "ENGLISH Pattern & Manual/Gown pattern_841mm format.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ1NjY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "ENGLISH Pattern & Manual/Gown Pattern_A0 format.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ1NTk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "ENGLISH Pattern & Manual/Gown pattern_A4 format.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ1NjU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NEDERLANDS Patroon & Handleiding/CTC_CC BY-NC-SA_NL.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjYzMTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NEDERLANDS Patroon & Handleiding/handleiding.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwNDU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NEDERLANDS Patroon & Handleiding/Patronen/Schort patroon_841mm formaat.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcyNzY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NEDERLANDS Patroon & Handleiding/Patronen/Schort patroon_A0 formaat.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcyNzQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NEDERLANDS Patroon & Handleiding/Patronen/Schort patroon_A4 formaat.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcyNzM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NEDERLANDS Patroon & Handleiding/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzgzNjQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ1Njg="
+mimetype = "text/markdown"
+

@@ -1,0 +1,98 @@
+name = "D-CORN"
+repo = "https://wikifactory.com/@morinig17/d-corn"
+version = "20200129155804"
+spdx-license = "N/A"
+licensor = "Gustavo González"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjc1OTA="
+function = "The project consists of a manual corn sheller that was built in 90% with digital manufacturing. It can be used with any type of corn. It was designed and built as a final project of the subject of Innovation Management in the Fab Lab UPA."
+[[files]]
+name = "3D Printer/codo1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1Nzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printer/codo 2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1ODA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printer/tapa de caño delantera.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1Nzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printer/tapa de caño trasera.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1Nzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printer/tapa.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1NzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "Laser cut/acrilico.AI"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1Njk="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Laser cut/mdf.AI"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1Njg="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Laser cut/parte_trasera.AI"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1Njc="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Laser cut/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1NzA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIxMzM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Router CNC/anillo1.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1ODM="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Router CNC/anillo1y2.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1ODI="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Router CNC/anillo2.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1ODE="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Router CNC/puerta_desgranadora.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1ODg="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Router CNC/puerta_trasera_nueva.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1ODc="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Router CNC/tolva1_rediseñado.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1ODY="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Router CNC/tolva2_rediseñado.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1ODU="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Router CNC/tolva3_real.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc1ODQ="
+mimetype = "image/svg+xml"
+

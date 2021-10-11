@@ -1,0 +1,23 @@
+name = "Laser Cut Armed Otto"
+repo = "https://wikifactory.com/@gb3431/laser-cut-armed-otto"
+version = "20200304112922"
+spdx-license = "N/A"
+licensor = "gb3431"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDExMzU="
+function = "Basic Otto that is laser cut with added arms"
+[[files]]
+name = "/Body.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMDExMTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Head.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMDExMTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDExMDg="
+mimetype = "text/markdown"
+

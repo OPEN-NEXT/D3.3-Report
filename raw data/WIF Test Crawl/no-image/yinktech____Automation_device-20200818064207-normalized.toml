@@ -1,0 +1,7 @@
+name = "Automation device "
+repo = "https://wikifactory.com/@yinktech/automation-device"
+version = "20200818064207"
+spdx-license = "N/A"
+licensor = "Olayinka adewale ajayi"
+documentation-language = "en"
+function = "It use to control home electrical via smart phone"

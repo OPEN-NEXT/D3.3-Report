@@ -1,0 +1,12 @@
+name = "Estantería de pallets"
+repo = "https://wikifactory.com/@victorgarridob/mobiliario-con-palets"
+version = "20210124024757"
+spdx-license = "N/A"
+licensor = "Víctor Garrido Burgos"
+documentation-language = "es"
+function = "Diseño y manual de construcción de una estantería en base a la reutilización de pallets para la comuna de Diego de Almagro."
+[[files]]
+name = "/M_Estanteria_18.01.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjYyMjI="
+mimetype = "application/pdf"
+

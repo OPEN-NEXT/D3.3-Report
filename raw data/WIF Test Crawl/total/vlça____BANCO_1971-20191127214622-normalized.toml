@@ -1,0 +1,22 @@
+name = "BANCO 1971"
+repo = "https://wikifactory.com/@vlça/banco-1971"
+version = "20191127214622"
+spdx-license = "N/A"
+licensor = "VLça"
+documentation-language = "ca"
+function = "BANCO 1971\nVanessa Lança \n--\nCor: Preto\nEspessura: 19mm"
+[[files]]
+name = "/BANCO 1971 - Vanessa Lança.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk3MjA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/BANCO 1971 v1.step"
+permalink = "https://wikifactory.com/files/RmlsZToyODU5ODc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/BANCO 1971.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyODU5ODE="
+mimetype = "text/plain"
+

@@ -1,0 +1,48 @@
+name = "No- Vee: Mobile Sanitizer"
+repo = "https://wikifactory.com/@sriki/no-vee-mobile-sanitizer"
+version = "20200701162047"
+spdx-license = "N/A"
+licensor = "Srikanth P"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTYxMDQ="
+function = "In this pandemic situation everyone are trying to keep their hands clean, but have you considered to sanitize the thing that you touch the most? Exactly the thing is you mobile phone! \n\nMy project is unique idea of sanitizing the phone while charging."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgxNTM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "solidworks files/Assem2.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgxNTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "solidworks files/lower casing.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgyNTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "solidworks files/middle tray.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgxNTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "solidworks files/upper casing.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgyNTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "stl files/lower casing.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgyMzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "stl files/middle tray.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgyMzQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "stl files/upper casing.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgyMzg="
+mimetype = "application/sla"
+

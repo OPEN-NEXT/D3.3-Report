@@ -1,0 +1,13 @@
+name = "3D printed Coaster"
+repo = "https://wikifactory.com/@juan/3d-printed-ceramic-coasters"
+version = "20180125153123"
+spdx-license = "N/A"
+licensor = "Juan Mazzuchelli"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2Mjc="
+function = "A fully functional 3D printed Ceramic coaster that will keep your drink from heating for a few more minutes"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNjg4"
+mimetype = "text/markdown"
+

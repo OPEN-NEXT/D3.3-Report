@@ -1,0 +1,7 @@
+name = "Demo"
+repo = "https://wikifactory.com/@premjith/demo"
+version = "20210428073359"
+spdx-license = "N/A"
+licensor = "Premjith K T"
+documentation-language = "en"
+function = "Trying wikifactory"

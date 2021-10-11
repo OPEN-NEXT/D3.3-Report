@@ -1,0 +1,7 @@
+name = "assist glasses"
+repo = "https://wikifactory.com/@efeeloodumwisdom08/assist-glasses"
+version = "20200914235214"
+spdx-license = "N/A"
+licensor = "efeeloodumwisdom08"
+documentation-language = "en"
+function = "help as an aid to personnels to point and detect issues before hand ina work station"

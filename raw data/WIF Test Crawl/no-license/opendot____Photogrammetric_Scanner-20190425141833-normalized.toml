@@ -1,0 +1,78 @@
+name = "Photogrammetric Scanner"
+repo = "https://wikifactory.com/@pierluigi-79d97/photogrammetric-scanner"
+version = "20190425141833"
+spdx-license = "N/A"
+licensor = "Pierluigi De Palo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTY2MTc="
+function = "What I feel may be useful in the Photogrammetric Fab Scanner, is to use one camera, combined with the rotation of the object to be scanned, for the construct a series of aligned photos. This automated process will be reduces the costs of the photogrammetric scan"
+[[files]]
+name = "images/fp_v04_animated_version94.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/fp_v04_animated_version_1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/fp_v04_animated_version_5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/fp_v04_animated_version_7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/fp_v04_animated_version_9.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/fp_v04_animated_version_20.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/fp_v04_animated_version_21.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/fp_v04_animated_version_30.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/fp_v04_animated_version_31.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/fp_v04_animated_version_33.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/fp_v04_animated_version_44.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/fp_v04_animated_version_49.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/presentation.png"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MDk="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2MDM="
+mimetype = "text/plain"
+

@@ -1,0 +1,103 @@
+name = "LED Guitar"
+repo = "https://wikifactory.com/@birkirthor/leds-guitar"
+version = "20180823123500"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Birkir Thor"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo5MDg3"
+function = "Plexi LED Guitar, with kill switch and soundsensor that affects LED lights that illumine engraved plexiglass.<a href=\"http://archive.fabacademy.org/archives/2017/fablabhornafjordur/students/201/index.html\"><br /></a>"
+[[files]]
+name = "Design/Fretboard.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzA3"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Guitar_Body"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzEz"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Guitar_Body.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzA2"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Neck_holes.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzEx"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Neck_no_Holes.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzA4"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Plexi.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzEy"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Plexi_600x300.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzA5"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Design/Plexi_Back.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzEw"
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Electronics/Birkir-Final-Pro.brd"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzE5"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Birkir-Final-Pro.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzE2"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/FINAL-RGB-BOARD.brd"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzE4"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Finalpro-RGB-boards.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzE3"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo5MjA2"
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "Programming/Guitar-Master-board.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzI4"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/Guitar-Mic-Board.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzI3"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/Guitar-Slave-1-board-led_serial_test.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzMx"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/Guitar-Slave-1-board.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzI5"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/Guitar-Slave-1-boardTEST.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzMw"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo5MzAz"
+mimetype = "text/markdown"
+

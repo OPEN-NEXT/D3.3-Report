@@ -1,0 +1,13 @@
+name = "Transparency"
+repo = "https://wikifactory.com/@danbalint/transparency"
+version = "20200812134831"
+spdx-license = "N/A"
+licensor = "Dan Balint"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODc3OTE="
+function = "Examining the rise in household Waste Electrical and Electronic Equipment (WEEE), whilst questioning the design of existing objects, and looking to re-design to better comply with the Right to Repair movement across Europe."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjEzODc="
+mimetype = "text/markdown"
+

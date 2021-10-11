@@ -1,0 +1,38 @@
+name = "SCLOOP"
+repo = "https://wikifactory.com/@ruggeripereira/scloop"
+version = "20200528025929"
+spdx-license = "N/A"
+licensor = "Ruggeri Costa"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNjIzNjM="
+function = "A shelter made entirely from the life cycle of the electric scooters"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQxMjE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/SCLOOPSTEP.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNTg4NDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/SCLOOPWITHSCOOTERS.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIwMTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/SPECS_1-04.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjI5MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/SPECS_2-04-05.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjI5MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/SPECS_3-04-05-06.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjI5MDI="
+mimetype = "image/jpeg"
+

@@ -1,0 +1,12 @@
+name = "DIY protable speaker "
+repo = "https://wikifactory.com/@simonh/diy-protable-speaker"
+version = "20200806121353"
+spdx-license = "N/A"
+licensor = "Simon Haaeman"
+documentation-language = "en"
+function = "Make your own portable speaker."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTk0NDE="
+mimetype = "text/markdown"
+

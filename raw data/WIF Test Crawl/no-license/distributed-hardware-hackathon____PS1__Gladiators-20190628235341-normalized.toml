@@ -1,0 +1,48 @@
+name = "PS1  Gladiators "
+repo = "https://wikifactory.com/@eseosa/ps1-gladiators"
+version = "20190628235341"
+spdx-license = "N/A"
+licensor = "Ese Osaghae"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTY5NjY="
+function = "We are the PS1 Gladiators ready for the challenge of hardware documentation. Our project is titled KISS (Keep it Simple Stupid). It is funny because we realized as we went along that modeling simplicity is a very complex endeavor."
+[[files]]
+name = "/02_Push-button_bb-min.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_2594.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5NzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_2595.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_2596.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5NzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/lk.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/PS1 Gladiators.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5ODQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/ReactNativeBeaconReciever-master.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcxMzQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5NjQ="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "distance_ light sensors"
+repo = "https://wikifactory.com/@karimnayme/distance-light-sensors"
+version = "20200810222241"
+spdx-license = "N/A"
+licensor = "karimnayme"
+documentation-language = "en"
+function = "A sensors clipped in eyeglass for monitoring distance and light ambiance\nAnd possiblity to have a report per day of activity"

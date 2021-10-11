@@ -1,0 +1,118 @@
+name = "01 Pas de pauvreté"
+repo = "https://wikifactory.com/@burcadus/01-pas-de-pauvreté"
+version = "20191024155749"
+spdx-license = "CC-BY-4.0"
+licensor = "Jérôme Frédéric Bouchard"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZToyNDA3MDI="
+function = "Comment pourrions-nous développer des mécanismes innovants de redistribution de la richesse collective et ainsi devenir un territoire sans pauvreté ?"
+[[files]]
+name = "/20191009_145055.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191009_145100.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191009_145112.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191009_145116.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191009_145119.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191009_145122.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191009_145125.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191009_153431.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191009_153436.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191009_153440.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191009_153444.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191009_153450.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Affiches/ODD1-affiche.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwNzQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Espace citoyen/AmenagementDuLocal.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwNzc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA3MDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcxMzY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Rendu 2D"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcxMDA="
+mimetype = "image/png"
+
+[[files]]
+name = "/Rendu 3D_1"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcxMTc="
+mimetype = "image/png"
+
+[[files]]
+name = "/Rendu 3D_2"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcwOTc="
+mimetype = "image/png"
+
+[[files]]
+name = "/Rendu 3D_3"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcwOTE="
+mimetype = "image/png"
+
+[[files]]
+name = "/Rendu 3D_4"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcwOTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/Rendu 3D_5"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcwODc="
+mimetype = "image/png"
+

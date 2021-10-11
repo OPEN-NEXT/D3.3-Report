@@ -1,0 +1,63 @@
+name = "3D Larynx Surgery Trainer"
+repo = "https://wikifactory.com/@3dlaryngology/3d-larynx-surgery-trainer"
+version = "20201013220143"
+spdx-license = "N/A"
+licensor = "3D laryngologist"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTUzNTc="
+function = "The 3D Larynx Surgery Trainer is an educational tool designed and reviewed by expert laryngologists to teach otolaryngology trainees office-based laryngology procedures such as transcervical injection laryngoplasty."
+[[files]]
+name = "/H&N_Manikin.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTkwMTQ="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "/Larynx_Cartilage.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTkwMTM="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "/Larynx_Soft_Tissue_Mold_base.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTkwMTE="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "/Larynx_Soft_Tissue_Mold_part1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTkwMTA="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "/Larynx_Soft_Tissue_Mold_part2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTkwMDk="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "/Larynx_Soft_Tissue_Mold_part3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTkwMDg="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "/Larynx_Soft_Tissue_Mold_part4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTkwMDc="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTI5MDI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Skin_Drape_Mold_part1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTkwMDY="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "/Skin_Drape_Mold_part2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTkwMDU="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "/Supplement_Soft_Tissue_Model.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTkwNjc="
+mimetype = "application/vnd.ms-pki.stl"
+

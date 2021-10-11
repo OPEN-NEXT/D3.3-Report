@@ -1,0 +1,17 @@
+name = "1a prova"
+repo = "https://wikifactory.com/@nsnito/1a-prova"
+version = "20210209164702"
+spdx-license = "N/A"
+licensor = "nsnito"
+documentation-language = "en"
+function = "Primera prova"
+[[files]]
+name = "/Escalera 15mm-1mm.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg5MDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Escalera 15mm-1mm.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg5MDQ="
+mimetype = "application/sla"
+

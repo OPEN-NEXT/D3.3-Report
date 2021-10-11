@@ -1,0 +1,12 @@
+name = "UV based sanitizer "
+repo = "https://wikifactory.com/@varunpandithurai/uv-based-sanitizer"
+version = "20200611114714"
+spdx-license = "N/A"
+licensor = "varunpandithurai"
+documentation-language = "en"
+function = "My project is about building a UV based sanitizer particularly used for Cleansing Fruits and vegetables because chemical based sanitizer fastens Rotting and Ripening process."
+[[files]]
+name = "/Transperent view.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNzg0Nzc="
+mimetype = "image/jpeg"
+

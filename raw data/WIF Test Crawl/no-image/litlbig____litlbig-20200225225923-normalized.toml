@@ -1,0 +1,7 @@
+name = "litlbig"
+repo = "https://wikifactory.com/@litlbig/litlbig"
+version = "20200225225923"
+spdx-license = "N/A"
+licensor = "litlbig"
+documentation-language = "en"
+function = "litlbig"

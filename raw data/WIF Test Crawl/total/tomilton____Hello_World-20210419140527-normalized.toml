@@ -1,0 +1,7 @@
+name = "Hello World"
+repo = "https://wikifactory.com/@tomilton/hello-world"
+version = "20210419140527"
+spdx-license = "N/A"
+licensor = "Tom Hamilton"
+documentation-language = "en"
+function = "My first project"

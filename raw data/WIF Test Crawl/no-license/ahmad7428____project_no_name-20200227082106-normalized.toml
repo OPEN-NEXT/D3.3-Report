@@ -1,0 +1,12 @@
+name = "project_no_name"
+repo = "https://wikifactory.com/@ahmad7428/projectnoname"
+version = "20200227082106"
+spdx-license = "N/A"
+licensor = "Muhammad Ahmad"
+documentation-language = "ca"
+function = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit amet sequi vero pariatur deserunt quas, minus dolorem voluptatum ipsam cumque saepe doloremque vitae dolorum, repudiandae officiis laboriosam perspiciatis dolore eos."
+[[files]]
+name = "folder_no_name/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA1MDI="
+mimetype = "text/markdown"
+

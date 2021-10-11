@@ -1,0 +1,7 @@
+name = "Portas termo-sensoriais"
+repo = "https://wikifactory.com/@fernandomayta07/portas-termo-sensoriais"
+version = "20200826094820"
+spdx-license = "N/A"
+licensor = "fernandomayta07"
+documentation-language = "pt"
+function = "Uma porta que abre-se(ou nao)  automaticamente depois de medir a temperatura corporal do individuo, com objectivo de evitar contágios por covid-19."

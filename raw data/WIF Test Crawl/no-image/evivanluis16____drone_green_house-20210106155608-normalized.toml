@@ -1,0 +1,7 @@
+name = "drone_green_house"
+repo = "https://wikifactory.com/@evivanluis16/dronegreenhouse"
+version = "20210106155608"
+spdx-license = "N/A"
+licensor = "evivanluis16"
+documentation-language = "en"
+function = "green_house"

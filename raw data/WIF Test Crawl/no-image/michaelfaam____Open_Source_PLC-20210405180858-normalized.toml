@@ -1,0 +1,7 @@
+name = "Open Source PLC"
+repo = "https://wikifactory.com/@michaelfaam/open-source-plc"
+version = "20210405180858"
+spdx-license = "N/A"
+licensor = "michaelfaam"
+documentation-language = "en"
+function = "Open source programming for programmable logic controller, even open source board design"

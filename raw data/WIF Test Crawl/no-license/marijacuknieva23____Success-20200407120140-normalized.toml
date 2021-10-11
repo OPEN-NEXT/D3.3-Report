@@ -1,0 +1,7 @@
+name = "Success"
+repo = "https://wikifactory.com/@marijacuknieva23/success"
+version = "20200407120140"
+spdx-license = "N/A"
+licensor = "marijacuknieva23"
+documentation-language = "en"
+function = "make \ufeffa sensor build in a blouse who detects panic attack and start sending calming waves and the voice will start telling you a calming advice so you can get easily through the panic attack"

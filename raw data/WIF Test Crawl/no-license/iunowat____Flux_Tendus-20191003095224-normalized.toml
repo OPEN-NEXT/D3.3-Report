@@ -1,0 +1,7 @@
+name = "Flux Tendus"
+repo = "https://wikifactory.com/@iunowat/flux-tendus"
+version = "20191003095224"
+spdx-license = "N/A"
+licensor = "JACQUES Lorenzo"
+documentation-language = "fr"
+function = "Flux Tendu est une borne de jeux interactive sur le thème de l'énergie. Inspirée des bornes d’arcades classiques, elle propose une expérience de jeux profonde et originale singeant les enjeux de la production, de la consommation et du stockage de l’énergie."

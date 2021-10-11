@@ -1,0 +1,7 @@
+name = "Standby"
+repo = "https://wikifactory.com/@nani39503/standby"
+version = "20210226055329"
+spdx-license = "N/A"
+licensor = "nani"
+documentation-language = "en"
+function = "A human can work without ladder\nBy fixing artificial legs to human legs"

@@ -1,0 +1,7 @@
+name = "Vending"
+repo = "https://wikifactory.com/@annamamedovmerdan/vending"
+version = "20201225115734"
+spdx-license = "N/A"
+licensor = "Merdan Annamamedov"
+documentation-language = "en"
+function = "Create new vending machines"

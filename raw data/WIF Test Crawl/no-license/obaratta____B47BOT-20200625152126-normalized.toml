@@ -1,0 +1,7 @@
+name = "B47BOT"
+repo = "https://wikifactory.com/@obaratta/b47bot"
+version = "20200625152126"
+spdx-license = "N/A"
+licensor = "Oscar Baratta"
+documentation-language = "en"
+function = "Selfbalancing Wheelchair"

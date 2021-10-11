@@ -1,0 +1,68 @@
+name = "Spark Jump"
+repo = "https://wikifactory.com/@diego/spark-jump"
+version = "20190705041234"
+spdx-license = "N/A"
+licensor = "Diego Rasero"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTgyODE="
+function = "Electromechanical spark jump. \nIsolate the nut for safety."
+[[files]]
+name = "lib/HelicalCoil.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyOTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "lib/Screw_Library/LeadNut-Cut.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyODg="
+mimetype = "application/sla"
+
+[[files]]
+name = "lib/Screw_Library/LeadNut_fixed.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyODY="
+mimetype = "application/sla"
+
+[[files]]
+name = "lib/Screw_Library/LeadScrew-Cut.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyODU="
+mimetype = "application/sla"
+
+[[files]]
+name = "lib/Screw_Library/LeadScrew_fixed.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyODQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "lib/Screw_Library/Thread_Library.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyODc="
+mimetype = "text/plain"
+
+[[files]]
+name = "lib/Screw_Library/Tread_Test.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyODk="
+mimetype = "text/plain"
+
+[[files]]
+name = "lib/Spring.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyOTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "lib/spring.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyOTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "lib/Thread_Library.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyOTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/salto_chispa.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyODM="
+mimetype = "application/x-openscad"
+
+[[files]]
+name = "/salto_de_chispa.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyODI="
+mimetype = "image/png"
+

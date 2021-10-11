@@ -1,0 +1,18 @@
+name = "WLS_00_M_24L4OLR"
+repo = "https://wikifactory.com/@welivesmall/wls00m24l4olr"
+version = "20200531171210"
+spdx-license = "N/A"
+licensor = "WeLiveSmall"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzAzMjM="
+function = "00 UTILITIES - Structure | Allround - Mountingrails: C incert M8"
+[[files]]
+name = "01 Models/WLS_00_M_24L4OLR.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzAzMjU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "01 Models/WLS_00_M_24L4OLR.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzAzMzA="
+mimetype = "text/plain"
+

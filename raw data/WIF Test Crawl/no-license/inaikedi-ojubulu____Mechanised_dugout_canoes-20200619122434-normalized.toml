@@ -1,0 +1,7 @@
+name = "Mechanised dugout canoes "
+repo = "https://wikifactory.com/@inaikedi-ojubulu/mechanised-dugout-canoes"
+version = "20200619122434"
+spdx-license = "N/A"
+licensor = "Inaikedi Ojubulu"
+documentation-language = "en"
+function = "A miniscule engine that can move canoes without the use of paddles"

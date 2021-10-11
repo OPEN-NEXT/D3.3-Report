@@ -1,0 +1,12 @@
+name = "FabAcademy"
+repo = "https://wikifactory.com/@akimurajr/fabacademy"
+version = "20210209010826"
+spdx-license = "N/A"
+licensor = "Almir Kimura Junior"
+documentation-language = "en"
+function = "FabAcademy"
+[[files]]
+name = "/Montagem finalKimura.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgyNzQ="
+mimetype = "application/octet-stream"
+

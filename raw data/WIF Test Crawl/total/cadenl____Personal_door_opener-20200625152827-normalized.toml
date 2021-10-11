@@ -1,0 +1,7 @@
+name = "Personal door opener"
+repo = "https://wikifactory.com/@cadenl/personal-door-opener"
+version = "20200625152827"
+spdx-license = "N/A"
+licensor = "Caden Longdon"
+documentation-language = "en"
+function = "My project is a 3D printed handle that you carry around with you, and it fits almost any door"

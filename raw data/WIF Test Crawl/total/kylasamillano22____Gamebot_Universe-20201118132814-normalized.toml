@@ -1,0 +1,13 @@
+name = "Gamebot Universe"
+repo = "https://wikifactory.com/@kylasamillano22/gamebot-universe"
+version = "20201118132814"
+spdx-license = "N/A"
+licensor = "kylasamillano22"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0ODYxOTE="
+function = "It is a personalized development for software developers and hardware developers, it is decorated as a happy community and a saver's heritage."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODYxOTI="
+mimetype = "text/markdown"
+

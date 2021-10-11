@@ -1,0 +1,7 @@
+name = "Misting system "
+repo = "https://wikifactory.com/@alftah/misting-system"
+version = "20201107233928"
+spdx-license = "N/A"
+licensor = "M.Husary"
+documentation-language = "en"
+function = "Membrane dampening system with open timer and non-drip drainage system"

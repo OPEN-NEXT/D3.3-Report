@@ -1,0 +1,7 @@
+name = "Interlocking bricks"
+repo = "https://wikifactory.com/@veharian92/interlocking-bricks"
+version = "20200819151534"
+spdx-license = "N/A"
+licensor = "Muhammad Ramzan"
+documentation-language = "en"
+function = "Bricks which connect automatically without cement or any other adhesive material"

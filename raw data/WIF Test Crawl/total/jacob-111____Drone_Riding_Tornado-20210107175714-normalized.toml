@@ -1,0 +1,13 @@
+name = "Drone Riding Tornado"
+repo = "https://wikifactory.com/@jacob-111/drone-riding-tornado"
+version = "20210107175714"
+spdx-license = "N/A"
+licensor = "Jacob Bizer"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MDQwMzk="
+function = "Presented drone has 3 know-hows that can increase the load capacity and ergonomic many times:\n1. Propellers with turboexpander \n2. Reactive cuts on the wings, which increase the load capacity\n3. A motor that can accumulate hysteresis losses\nhttps://www.facebook.com/groups/1504038833236442"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ0NzE="
+mimetype = "text/markdown"
+

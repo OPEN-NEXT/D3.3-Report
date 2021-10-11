@@ -1,0 +1,17 @@
+name = "Make Otto dance"
+repo = "https://wikifactory.com/@ms/make-otto-dance"
+version = "20200306151046"
+spdx-license = "N/A"
+licensor = "Maud Schlich"
+documentation-language = "en"
+function = "Introduce Robotics to Kids at the age of 10-12"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDQxMzY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Working sheets (in German)/OttosServos.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozMDYzNDc="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+

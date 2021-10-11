@@ -1,0 +1,7 @@
+name = "Waste to Product (W2P)"
+repo = "https://wikifactory.com/@minvayu/waste-to-product-w2p"
+version = "20210425064609"
+spdx-license = "N/A"
+licensor = "minvayu"
+documentation-language = "en"
+function = "W2P is a global collaboration to develop an open source mid sized distributed plastic recycling platform for processing household waste and farm biomass waste into reinforced biocomposite products.  It is designed to be built locally in a FabLab or mechanic shop anywhere in the world."

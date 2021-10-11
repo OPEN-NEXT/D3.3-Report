@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@ratansrivastavawork/test"
+version = "20210407152725"
+spdx-license = "N/A"
+licensor = "ratansrivastavawork"
+documentation-language = "en"
+function = "Ok"

@@ -1,0 +1,7 @@
+name = "Home Power Bank"
+repo = "https://wikifactory.com/@tessonproject/home-power-bank"
+version = "20200717054107"
+spdx-license = "N/A"
+licensor = "tessonproject"
+documentation-language = "en"
+function = "Ultimate home and office UPS system"

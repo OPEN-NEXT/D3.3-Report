@@ -1,0 +1,12 @@
+name = "squirrel"
+repo = "https://wikifactory.com/@atross905/squirrel"
+version = "20201217155045"
+spdx-license = "N/A"
+licensor = "atross905"
+documentation-language = "fr"
+function = "Battery optimisation technique"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDIxOTk="
+mimetype = "text/markdown"
+

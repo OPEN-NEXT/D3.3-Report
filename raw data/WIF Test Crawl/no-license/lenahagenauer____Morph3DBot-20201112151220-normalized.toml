@@ -1,0 +1,8 @@
+name = "Morph3DBot"
+repo = "https://wikifactory.com/@lenahagenauer/morph3dbot"
+version = "20201112151220"
+spdx-license = "N/A"
+licensor = "Lena Hagenauer"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NzMzNzA="
+function = "A modular robot system that can be used for teaching and introducing kids to robots and programming. The system is versatile in terms of its parts and combinations and beginner friendly as well."

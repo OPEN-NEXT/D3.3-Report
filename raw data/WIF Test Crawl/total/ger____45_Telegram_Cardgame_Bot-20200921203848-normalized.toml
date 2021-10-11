@@ -1,0 +1,13 @@
+name = "45: Telegram Cardgame Bot"
+repo = "https://wikifactory.com/@ger/45-telegram-cardgame-bot"
+version = "20200921203848"
+spdx-license = "N/A"
+licensor = "Gerard Walsh"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzgxMTc="
+function = "Personal project for my father and many others who would have played the cardgame Forty-Five regularly before the lockdown. A popular game locally, and played in many parts of the world with slight variations on the rules, and sometimes under different names.\n\nhttps://en.wikipedia.org/wiki/Forty-fives"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzgyMzc="
+mimetype = "text/markdown"
+

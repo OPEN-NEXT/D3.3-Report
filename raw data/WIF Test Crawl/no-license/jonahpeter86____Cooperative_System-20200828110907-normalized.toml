@@ -1,0 +1,7 @@
+name = "Cooperative System"
+repo = "https://wikifactory.com/@jonahpeter86/cooperative-system"
+version = "20200828110907"
+spdx-license = "N/A"
+licensor = "JONAH PETER OCHE"
+documentation-language = "en"
+function = "C"

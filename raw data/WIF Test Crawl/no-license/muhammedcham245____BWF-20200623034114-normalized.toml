@@ -1,0 +1,7 @@
+name = "BWF"
+repo = "https://wikifactory.com/@muhammedcham245/bwf"
+version = "20200623034114"
+spdx-license = "N/A"
+licensor = "Muhammed Cham"
+documentation-language = "fr"
+function = "Help identify problems and suggest possible solutions for entrepreneurs"

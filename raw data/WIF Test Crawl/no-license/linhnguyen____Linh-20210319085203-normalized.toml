@@ -1,0 +1,12 @@
+name = "Linh"
+repo = "https://wikifactory.com/@linhnguyen/linh"
+version = "20210319085203"
+spdx-license = "N/A"
+licensor = "Nguyen Linh"
+documentation-language = "en"
+function = "Nice"
+[[files]]
+name = "/BOX-SCBS3-12.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzAxODI="
+mimetype = "text/plain"
+

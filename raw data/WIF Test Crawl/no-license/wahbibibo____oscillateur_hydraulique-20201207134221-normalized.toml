@@ -1,0 +1,7 @@
+name = "oscillateur hydraulique "
+repo = "https://wikifactory.com/@wahbibibo/oscillateur-hydraulique"
+version = "20201207134221"
+spdx-license = "N/A"
+licensor = "wahbi sebti belaid"
+documentation-language = "fr"
+function = "réaliser les plans techniques de conception d'une oscillateur hydraulique"

@@ -1,0 +1,7 @@
+name = "Coffee machine"
+repo = "https://wikifactory.com/@golfgen1/coffee-machine"
+version = "20200622175730"
+spdx-license = "N/A"
+licensor = "golfgen1"
+documentation-language = "en"
+function = "Smart portable coffee machine with coin"

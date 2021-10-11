@@ -1,0 +1,18 @@
+name = "NoFoodToWasTe"
+repo = "https://wikifactory.com/@hieeez/nofoodtowaste"
+version = "20200331074122"
+spdx-license = "N/A"
+licensor = "Xavier Sanchez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjY4NjM="
+function = "A new revolutionary concept to help homeowners, individuals and specially all food venues to takle food waste, increase work efficiency, decreasing spendings in groceries & create conciousness on sustainability"
+[[files]]
+name = "/F0C66D13-5A91-41B7-B6E6-E033C161360E.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjY4NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjY4NTY="
+mimetype = "text/markdown"
+

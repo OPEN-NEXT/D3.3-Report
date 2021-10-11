@@ -1,0 +1,33 @@
+name = "Locker"
+repo = "https://wikifactory.com/@jaysonolaguera/locker"
+version = "20210325002220"
+spdx-license = "CC-BY-4.0"
+licensor = "jaysonolaguera"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1NzIwNzA="
+function = "Réalisation d'un loquet en 3D pour gérer la fermeture de panneaux d'affichage du jardin partagé \"Le Jardin d'Heol\" à Concarneau"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzIwODM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Loquet femelle a.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzIwODI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Loquet femelle b.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzIwODA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Loquet mâle.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzIwNzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzIwODE="
+mimetype = "text/markdown"
+

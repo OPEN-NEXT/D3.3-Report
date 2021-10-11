@@ -1,0 +1,18 @@
+name = "Ottominion"
+repo = "https://wikifactory.com/@oody/ottominion"
+version = "20210207140531"
+spdx-license = "N/A"
+licensor = "Ömer Deveci"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MzQ3MTM="
+function = "The combination of Otto Robot and The Cartoon Characters, that will be called as Ottominion"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzczMDk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/TimePlan.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzczMDU="
+mimetype = "text/markdown"
+

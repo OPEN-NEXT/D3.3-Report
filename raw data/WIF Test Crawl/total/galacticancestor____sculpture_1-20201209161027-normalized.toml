@@ -1,0 +1,7 @@
+name = "sculpture 1"
+repo = "https://wikifactory.com/@galacticancestor/sculpture-1"
+version = "20201209161027"
+spdx-license = "N/A"
+licensor = "Tom Holmes"
+documentation-language = "en"
+function = "test the tools"

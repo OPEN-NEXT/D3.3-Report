@@ -1,0 +1,23 @@
+name = "Dispensador "
+repo = "https://wikifactory.com/@carlasilva/dispensador-de-camisolas"
+version = "20201103133102"
+spdx-license = "N/A"
+licensor = "carlasilva"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTo0NjU0MTM="
+function = "Objecto ou dispositivo para distribuir um produto, geralmente em doses ou quantidades pequenas ou uniformes (ex.: dispensador de cereais; dispensador de moedas; dispensador de sabonete). \n Realizar um dispensador que tenha um impacto ambiental é um dos nossos focos principais."
+[[files]]
+name = "/IMG_20201103_130627.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjUzODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201103_130645.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjUzODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201103_130650.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjUzODc="
+mimetype = "image/jpeg"
+

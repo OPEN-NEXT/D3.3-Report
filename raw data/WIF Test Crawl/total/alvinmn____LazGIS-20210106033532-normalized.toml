@@ -1,0 +1,7 @@
+name = "LazGIS"
+repo = "https://wikifactory.com/@alvinmn/lazgis"
+version = "20210106033532"
+spdx-license = "N/A"
+licensor = "Alvin M. Natividad"
+documentation-language = "en"
+function = "To create a full blown GIS software using freePascal and Lazarus"

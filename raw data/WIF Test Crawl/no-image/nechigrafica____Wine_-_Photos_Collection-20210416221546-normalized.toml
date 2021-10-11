@@ -1,0 +1,7 @@
+name = "Wine - Photos Collection"
+repo = "https://wikifactory.com/@nechigrafica/wine-photos-collection"
+version = "20210416221546"
+spdx-license = "N/A"
+licensor = "nechigrafica"
+documentation-language = "en"
+function = "Photo session"

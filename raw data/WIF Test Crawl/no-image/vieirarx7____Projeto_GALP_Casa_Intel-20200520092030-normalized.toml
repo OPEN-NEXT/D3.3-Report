@@ -1,0 +1,7 @@
+name = "Projeto GALP Casa Intel"
+repo = "https://wikifactory.com/@vieirarx7/projeto-galp-casa-intel"
+version = "20200520092030"
+spdx-license = "N/A"
+licensor = "Francisco Vieira"
+documentation-language = "hr"
+function = "Casa Inteligente, projeto GALP"

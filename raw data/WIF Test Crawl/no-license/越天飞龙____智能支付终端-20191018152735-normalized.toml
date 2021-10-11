@@ -1,0 +1,17 @@
+name = "智能支付终端"
+repo = "https://wikifactory.com/@越天飞龙/智能支付终端"
+version = "20191018152735"
+spdx-license = "N/A"
+licensor = "陈国富"
+documentation-language = "en"
+function = "Design of intelligent payment terminal based on scan code technology.Improve industry efficiency and optimize business chain through code scanning technology."
+[[files]]
+name = "/jp.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyNTM="
+mimetype = ""
+
+[[files]]
+name = "/POST机盒.rar"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyNTI="
+mimetype = ""
+

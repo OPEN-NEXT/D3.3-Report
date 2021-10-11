@@ -1,0 +1,28 @@
+name = "Axoloti Tremolo FX"
+repo = "https://wikifactory.com/@cntlsn/axolotitremolofx"
+version = "20180822115905"
+spdx-license = "N/A"
+licensor = "Alessandro Contini"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjcwMg=="
+function = "Code and layout for a guitar/bass/synth effect based on Axoloti Core, a circuit board with stereo audio in- and output, audio analog-to-digital and digital-to-analog converters and a microcontroller suitable for digital audio processing."
+[[files]]
+name = "/axoloti_tremolo_fx-HARDWARE.axp"
+permalink = "https://wikifactory.com/files/RmlsZToxMTg5MQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/axoloti_tremolo_fx-hardware_layout.fzz"
+permalink = "https://wikifactory.com/files/RmlsZToxMTg4Nw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/axoloti_tremolo_fx.axp"
+permalink = "https://wikifactory.com/files/RmlsZToxMTg4OQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMjcxNA=="
+mimetype = "text/markdown"
+

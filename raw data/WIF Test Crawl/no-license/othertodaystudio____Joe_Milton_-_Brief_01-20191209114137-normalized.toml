@@ -1,0 +1,23 @@
+name = "Joe Milton - Brief 01"
+repo = "https://wikifactory.com/@joemilton/joe-milton-brief-1"
+version = "20191209114137"
+spdx-license = "N/A"
+licensor = "Joe Milton"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDczMzg="
+function = "University work for Brief 1"
+[[files]]
+name = "/Joe Milton Presentation..mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4Njg="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Presentation words.docx"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4NzA="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODkzOTU="
+mimetype = "text/markdown"
+

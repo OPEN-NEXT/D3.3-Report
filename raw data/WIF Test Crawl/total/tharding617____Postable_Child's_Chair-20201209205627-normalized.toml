@@ -1,0 +1,78 @@
+name = "Postable Child's Chair"
+repo = "https://wikifactory.com/@tharding617/postable-childs-chair"
+version = "20201209205627"
+spdx-license = "N/A"
+licensor = "Tom Harding"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0ODM5Mjk="
+function = "A simple alternative to unrecyclable plastic chairs."
+[[files]]
+name = "/20201110_093827.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQzODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201110_094208.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQzODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201110_094213.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQzODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201114_124038.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQzODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201115_204939.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQ0ODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201115_204950.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQ0Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201115_204956.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQ0Nzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201115_205006.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQ0Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201115_224254[2825].jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQ0NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Capture.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQzODI="
+mimetype = "image/png"
+
+[[files]]
+name = "/Childs chair.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQ0ODM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODM5MDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTcxNTY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Supply chain for Birch Plywood.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQzODE="
+mimetype = "image/png"
+

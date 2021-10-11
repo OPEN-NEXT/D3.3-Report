@@ -1,0 +1,23 @@
+name = "Quadcopter Frame Design"
+repo = "https://wikifactory.com/@puneethobli/quadcopter-frame-design"
+version = "20201213164204"
+spdx-license = "N/A"
+licensor = "Puneeth Nagaraju O"
+documentation-language = "ca"
+image = "https://wikifactory.com/files/RmlsZTo0OTkzNzQ="
+function = "Generative design of quadcopter frame"
+[[files]]
+name = "Design File(.stl format)/derived gd final v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTkzNTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "report/quadcopter frame optimization.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTkzNjY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "report/quadcopter frame optimization.pptx"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTkzNjU="
+mimetype = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+

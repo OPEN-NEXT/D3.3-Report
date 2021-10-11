@@ -1,0 +1,7 @@
+name = "UV Fan"
+repo = "https://wikifactory.com/@ramprasad/uv-fan"
+version = "20201220162149"
+spdx-license = "N/A"
+licensor = "Ramprasad gopalakrishnan"
+documentation-language = "en"
+function = "UV Fan"

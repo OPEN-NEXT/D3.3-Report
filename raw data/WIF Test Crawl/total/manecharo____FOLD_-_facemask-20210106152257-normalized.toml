@@ -1,0 +1,8 @@
+name = "FOLD - facemask"
+repo = "https://wikifactory.com/@manecharo/fold-facemask"
+version = "20210106152257"
+spdx-license = "N/A"
+licensor = "Manuel"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTQwNzE="
+function = "A cheap, DIY and ecological alternative for hard hit covid areas. I am still looking for a way to prove its efficacy. I would love to know if the mask actually prevents the flow of the virus. \n\nIf anyone has the ability to test please let me know.\nhttps://www.youtube.com/watch?v=dejWIZcwyEI"

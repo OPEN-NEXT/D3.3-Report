@@ -1,0 +1,7 @@
+name = "Renewed Energy"
+repo = "https://wikifactory.com/@engahmedelhegery/renewed-energy"
+version = "20200918140501"
+spdx-license = "N/A"
+licensor = "Ahmed Hussein"
+documentation-language = "en"
+function = "Convert the compressed air force to a mechanical energy."

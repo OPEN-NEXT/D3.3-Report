@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@keisev/test"
+version = "20210429081920"
+spdx-license = "N/A"
+licensor = "Juan Márquez"
+documentation-language = "en"
+function = "test"

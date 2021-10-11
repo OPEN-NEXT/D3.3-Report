@@ -1,0 +1,13 @@
+name = "CIPP office Sign board"
+repo = "https://wikifactory.com/@ranidamuluri/cipp-office-sign-board"
+version = "20201229033450"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "rani damuluri"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTA3NDg="
+function = "Designing CIPP Sign board for our new office location with the technology and machines our lab has, rather than going to commercial vendors"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTA3NTE="
+mimetype = "text/plain"
+

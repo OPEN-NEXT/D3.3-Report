@@ -1,0 +1,7 @@
+name = "Filepoint"
+repo = "https://wikifactory.com/@skdev/filepoint"
+version = "20210120205722"
+spdx-license = "N/A"
+licensor = "Sandeep  Karun"
+documentation-language = "en"
+function = "A database of all the files of a user with easy search and analytics.. Oft it becomes hard to find files, compare, or manage/ organise them. This is an attempt to provide solutions related to files all in one place."

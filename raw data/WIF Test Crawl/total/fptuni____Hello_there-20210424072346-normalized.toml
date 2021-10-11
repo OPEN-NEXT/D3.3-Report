@@ -1,0 +1,7 @@
+name = "Hello there"
+repo = "https://wikifactory.com/@ducktoan/hello-there"
+version = "20210424072346"
+spdx-license = "N/A"
+licensor = "Le Duc Toan"
+documentation-language = "en"
+function = "sdsd"

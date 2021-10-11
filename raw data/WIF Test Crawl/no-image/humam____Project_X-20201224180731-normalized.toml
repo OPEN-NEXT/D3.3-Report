@@ -1,0 +1,7 @@
+name = "Project X"
+repo = "https://wikifactory.com/@humam/project-x"
+version = "20201224180731"
+spdx-license = "N/A"
+licensor = "Md. Humam Chowdhury"
+documentation-language = "en"
+function = "A voice that will assist in everything a human can ever get from a virtual machine."

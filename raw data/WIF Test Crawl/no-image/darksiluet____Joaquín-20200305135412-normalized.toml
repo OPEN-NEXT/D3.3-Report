@@ -1,0 +1,7 @@
+name = "Joaquín "
+repo = "https://wikifactory.com/@darksiluet/joaquín"
+version = "20200305135412"
+spdx-license = "N/A"
+licensor = "darksiluet"
+documentation-language = "en"
+function = "cnc router"

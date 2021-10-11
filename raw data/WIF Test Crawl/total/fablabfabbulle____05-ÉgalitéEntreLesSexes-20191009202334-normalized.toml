@@ -1,0 +1,43 @@
+name = "05-ÉgalitéEntreLesSexes"
+repo = "https://wikifactory.com/@burcadus/05-égalitéentrelessexes"
+version = "20191009202334"
+spdx-license = "CC-BY-4.0"
+licensor = "Jérôme Frédéric Bouchard"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZToyNDI1NTQ="
+function = "Comment pourrions-nous initier davantage de filles aux sciences, à l’ingénierie et aux technologies ?"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI1NTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Photos des panneaux/20191009_161705.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1Mjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos des panneaux/20191009_161709.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1Mjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos des panneaux/20191009_161715.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1Mjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos des panneaux/20191009_161720.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos des panneaux/20191009_161725.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos des panneaux/20191009_161729.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MjQ="
+mimetype = "image/jpeg"
+

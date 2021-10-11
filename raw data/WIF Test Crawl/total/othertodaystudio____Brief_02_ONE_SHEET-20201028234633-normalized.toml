@@ -1,0 +1,23 @@
+name = "Brief 02: ONE SHEET"
+repo = "https://wikifactory.com/@garowello/brief-02-one-sheet"
+version = "20201028234633"
+spdx-license = "N/A"
+licensor = "Gareth Owen Lloyd"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzQxODk="
+function = "Using one sheet of material, design a product to be as simple, cost-effective and waste efficient as possible."
+[[files]]
+name = "/Example hand in_page1.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU4NTc="
+mimetype = "image/png"
+
+[[files]]
+name = "/Example hand in_page2.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU4NTg="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk5MTQ="
+mimetype = "text/markdown"
+

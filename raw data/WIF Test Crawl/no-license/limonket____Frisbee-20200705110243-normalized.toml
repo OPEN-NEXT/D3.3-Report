@@ -1,0 +1,18 @@
+name = "Frisbee"
+repo = "https://wikifactory.com/@limonket/frisbee"
+version = "20200705110243"
+spdx-license = "N/A"
+licensor = "Limon Ket"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDMyNjM="
+function = "Through the rough days of quarantine, we all need a game to relieve the everyday stress. Frisbee is a great sport, that is perfect for playing while social distancing."
+[[files]]
+name = "/frisbee.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMyOTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMzMjc="
+mimetype = "text/markdown"
+

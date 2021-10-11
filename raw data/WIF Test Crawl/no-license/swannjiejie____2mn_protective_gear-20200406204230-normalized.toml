@@ -1,0 +1,23 @@
+name = "2mn protective gear"
+repo = "https://wikifactory.com/@swannjiejie/2mn-protective-gear"
+version = "20200406204230"
+spdx-license = "N/A"
+licensor = "swannjiejie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzA4MzM="
+function = "No need to worry about lack of masks, shieldsl use what you have at home to make yourself super mask and shield in 2mn."
+[[files]]
+name = "/no sewing mask.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzA4NTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzA4NDY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/ready to wear no fuss shield.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzA4NTU="
+mimetype = "image/jpeg"
+

@@ -1,0 +1,17 @@
+name = "PX4 Dev Drone"
+repo = "https://wikifactory.com/@jinger26/px4-dev-drone"
+version = "20210316142413"
+spdx-license = "N/A"
+licensor = "Jinger Zeng"
+documentation-language = "en"
+function = "Two approaches with the new PX4 payload bus will be proposed in this project. Either to put RPi on top or bottom."
+[[files]]
+name = "/X500-Payload-RPI-Top.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjgyMDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/X500-Payload-RPI-Under.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjgyMTA="
+mimetype = "text/plain"
+

@@ -1,0 +1,7 @@
+name = "MINI HYDROPOWER GENERATOR"
+repo = "https://wikifactory.com/@adabu2013/mini-hydropower-generator"
+version = "20210130161755"
+spdx-license = "N/A"
+licensor = "adabu2013"
+documentation-language = "en"
+function = "I have been trying to make a SELF RUNNING MOBILE HYDRO POWER which depends on 1 LITRE of water with the use of 12 VOLTS PUMPING MACHINE, 12 VOLTS BATTERY,  12 VOLTS MINI GENERATOR, CHARGE CONTROL UNIT AND AN INVERTER which can serve  households. ."

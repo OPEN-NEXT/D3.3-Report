@@ -1,0 +1,27 @@
+name = "Sunroof / solar panel"
+repo = "https://wikifactory.com/@stefar70/sunroof-solar-panel"
+version = "20210403132446"
+spdx-license = "N/A"
+licensor = "Stephen Farrugia"
+documentation-language = "en"
+function = "An opening sunroof that allows occupants of cars with solar panels on the roof to enjoy an open air feeling."
+[[files]]
+name = "/Lamellen Schiebedach 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzUwODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Lamellen Schiebedach 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzUwODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Lamellen Schiebedach 3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzUwNzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzUwOTI="
+mimetype = "text/markdown"
+

@@ -1,0 +1,13 @@
+name = "Brief_01"
+repo = "https://wikifactory.com/@garowello/brief01"
+version = "20191208100709"
+spdx-license = "N/A"
+licensor = "Gareth Owen Lloyd"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODYxMzQ="
+function = "Your name_Loose Association & Supply Chain\nA paragraph introducing the theme of your Pecha Kucha"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODg1ODc="
+mimetype = "text/markdown"
+

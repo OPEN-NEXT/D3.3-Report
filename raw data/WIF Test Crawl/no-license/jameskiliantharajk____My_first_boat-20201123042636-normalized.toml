@@ -1,0 +1,7 @@
+name = "My first boat"
+repo = "https://wikifactory.com/@jameskiliantharajk/my-first-boat"
+version = "20201123042636"
+spdx-license = "N/A"
+licensor = "jameskiliantharajk"
+documentation-language = "id"
+function = "I am building an aluminium jet boat"

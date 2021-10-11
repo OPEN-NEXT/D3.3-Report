@@ -1,0 +1,12 @@
+name = "E Textiles Sample"
+repo = "https://wikifactory.com/@hurleyc20/e-textiles-sample"
+version = "20190820165706"
+spdx-license = "N/A"
+licensor = "hurleyc20"
+documentation-language = "en"
+function = "Descrip."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDE2NDM="
+mimetype = "text/markdown"
+

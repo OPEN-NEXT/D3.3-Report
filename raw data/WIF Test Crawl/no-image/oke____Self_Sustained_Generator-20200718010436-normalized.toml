@@ -1,0 +1,7 @@
+name = "Self Sustained Generator"
+repo = "https://wikifactory.com/@oke/self-sustained-generator"
+version = "20200718010436"
+spdx-license = "N/A"
+licensor = "Oke Adeoye"
+documentation-language = "en"
+function = "Free energy electricity generation system"

@@ -1,0 +1,7 @@
+name = "just testing 01"
+repo = "https://wikifactory.com/@phc001/just-testing-01"
+version = "20201122102245"
+spdx-license = "N/A"
+licensor = "Le Phuoc"
+documentation-language = "en"
+function = "test"

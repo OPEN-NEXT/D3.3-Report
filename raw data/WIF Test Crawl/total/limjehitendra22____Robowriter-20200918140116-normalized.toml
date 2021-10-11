@@ -1,0 +1,7 @@
+name = "Robowriter"
+repo = "https://wikifactory.com/@limjehitendra22/robowriter"
+version = "20200918140116"
+spdx-license = "N/A"
+licensor = "limjehitendra22"
+documentation-language = "en"
+function = "To design robot that can write"

@@ -1,0 +1,7 @@
+name = "omr sheet check list "
+repo = "https://wikifactory.com/@addmengroups/omr-sheet-check-list"
+version = "20210201072556"
+spdx-license = "N/A"
+licensor = "addmengroups"
+documentation-language = "en"
+function = "omr sheet checker it use to check only omr answer sheet it is not able to check riposte sheet in different format. It check omr answer sheet and reproduce result in excel, pdf format or print directly obtained outcome."

@@ -1,0 +1,73 @@
+name = "Tabouret Plastique Rond"
+repo = "https://wikifactory.com/@tomim/tabouret-plastique-rond"
+version = "20210205152132"
+spdx-license = "N/A"
+licensor = "Tomi Murovec"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1MzYyMDY="
+function = "Tabouret en plastique recyclé, fabriqué dans le contexte de revalorisation de déchets de plastique, projet collaboratif entre UBO Open Factory et EcoActionPlus."
+[[files]]
+name = "2D Sketch/TabouretPlastique_Rond_Sketch.ai"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY1NDk="
+mimetype = "application/postscript"
+
+[[files]]
+name = "2D Sketch/TabouretPlastique_Rond_Sketch.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY1NTA="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "3D model/Tabouret_Rond.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY1NzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D model/Tabouret_Rond_FlatFab.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY1NzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Photos/20210128-IMG_3971.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY1NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20210129-IMG_3973.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY1NTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20210129-IMG_3982.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY1NTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20210202-20210202-IMG_0799.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY1NjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20210202-20210202-IMG_0807.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY1NjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20210202-20210202-IMG_0827.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY1NjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20210202-20210202-IMG_0840.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY1NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Tabouret_Rond_plastique_Render.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY2OTA="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY2OTE="
+mimetype = "text/markdown"
+

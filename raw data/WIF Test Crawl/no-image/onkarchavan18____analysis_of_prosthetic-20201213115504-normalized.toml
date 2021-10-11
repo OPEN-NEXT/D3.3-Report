@@ -1,0 +1,12 @@
+name = "analysis of prosthetic "
+repo = "https://wikifactory.com/@onkarchavan18/analysis-of-prosthetic"
+version = "20201213115504"
+spdx-license = "N/A"
+licensor = "onkarchavan18"
+documentation-language = "en"
+function = "Design and analysis of prosthetic hand used in medical industry"
+[[files]]
+name = "/cadcamcaeassign.scdoc"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTkxOTc="
+mimetype = "application/octet-stream"
+

@@ -1,0 +1,52 @@
+name = "Robot"
+repo = "https://wikifactory.com/@fabianfabiani1979/robot"
+version = "20210307225240"
+spdx-license = "N/A"
+licensor = "Fabian Fabiani"
+documentation-language = "es"
+function = "Es un robot que funciona con arduino y la libreria PS2 con un jostick inalambrico. Ademas el robot tiene entrada de audio para que a travez de un servomotor pueda mover la boca."
+[[files]]
+name = "/IMG_20180906_154652379.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjI5MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20180906_160830011.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjI5MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20181008_205032556.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjI5MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20210223_163207619.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjI5MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20210223_163217849.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjI5MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Robot.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjI5MjA="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/VID-20210223-WA0048~2.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjI5MTc="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/VID_20210223_205639907~2.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjI5MTk="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/VID_20210223_205752990~2.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjI5MTg="
+mimetype = "video/mp4"
+

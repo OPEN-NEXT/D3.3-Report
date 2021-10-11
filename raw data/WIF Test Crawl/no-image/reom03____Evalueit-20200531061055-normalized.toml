@@ -1,0 +1,7 @@
+name = "Evalueit"
+repo = "https://wikifactory.com/@reom03/evalueit"
+version = "20200531061055"
+spdx-license = "N/A"
+licensor = "reom03"
+documentation-language = "en"
+function = "A platform for manage recruiting campaigns"

@@ -1,0 +1,13 @@
+name = "Bink Bar"
+repo = "https://wikifactory.com/@alexseanhill/bink-bar"
+version = "20191208170610"
+spdx-license = "N/A"
+licensor = "Alex Hill"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODIyNjI="
+function = "A flat pack solution to on the go boxing training."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODIyNjM="
+mimetype = "text/markdown"
+

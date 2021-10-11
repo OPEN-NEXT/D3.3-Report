@@ -1,0 +1,13 @@
+name = "Steedy"
+repo = "https://wikifactory.com/@milo/steedy"
+version = "20190628090113"
+spdx-license = "N/A"
+licensor = "Milo Mcloughlin-Greening"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjUxMDY="
+function = "Steedy is a fun rocking toy with interchangeable heads, made from locally recycled plastic in Eindhoven. It is the result of a week long Design Challenge at the precious plastics HQ in Eindhoven that was organised by the DDMP."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTYzMjk="
+mimetype = "text/markdown"
+

@@ -1,0 +1,12 @@
+name = "ABC"
+repo = "https://wikifactory.com/@daupper1/abc"
+version = "20201210225933"
+spdx-license = "N/A"
+licensor = "Daryl Bosch"
+documentation-language = "en"
+function = "Test"
+[[files]]
+name = "/front shock clamp.prt"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTc4MjU="
+mimetype = "chemical/x-ncbi-asn1-ascii"
+

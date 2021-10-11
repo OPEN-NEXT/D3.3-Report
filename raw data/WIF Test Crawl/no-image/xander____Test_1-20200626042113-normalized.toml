@@ -1,0 +1,7 @@
+name = "Test 1"
+repo = "https://wikifactory.com/@xander/test-1"
+version = "20200626042113"
+spdx-license = "N/A"
+licensor = "Alex Kennedy"
+documentation-language = "en"
+function = "Test Project 1"

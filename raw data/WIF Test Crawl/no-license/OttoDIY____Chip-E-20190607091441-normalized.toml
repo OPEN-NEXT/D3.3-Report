@@ -1,0 +1,258 @@
+name = "Chip-E"
+repo = "https://wikifactory.com/@cparrapa/chip-e"
+version = "20190607091441"
+spdx-license = "N/A"
+licensor = "Camilo Parra Palacio"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTc5MzE="
+function = "Chip-E is RobotGeek’s first 3D printable robot kit that you can build yourself!, is a cute and lovable walking companion that you can print at home, with a friend or through a printing service. Open source design and programming allow you to expand its abilities and truly make your robot unique!"
+[[files]]
+name = "3D Print/Base.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Base.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Foot_Left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Foot_Right.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/2_Line_LCD.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/2c_Li-Ion_Battery.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/10mm_standoff.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/15mm_standoff.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/20mm_standoff.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/25mm_standoff.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/30mm_standoff.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/Barrel_Jack_Female_connected_to_battery.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/Geekduino.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/Geekduino_with_Sensor_Shield.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/RG_Sensor_Shield.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/RG_Servo_with_Horn_and_Idler.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/RG_Servo_with_Horn_no_Idler.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/RobotGeek_Buzzer.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNjc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/RobotGeek_IR_Receiver.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/Switch_connected_to_Power_Harness.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/hardware kit/XL_Bracket.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzNjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Head.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Head.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Head_NoMounts.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Left_Foot.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Left_Shoe.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Midsection.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Midsection.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/RG_Servo.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Right_Foot.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Right_Shoe.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/RobotGeek Chip-E Biped.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMjc="
+mimetype = "application/x-koan"
+
+[[files]]
+name = "3D Print/RobotGeek_Chip-E_Biped.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMjM="
+mimetype = "application/x-koan"
+
+[[files]]
+name = "3D Print/Shoe_Left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Shoe_Right.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Top.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Print/Top_Plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/XL_Bracket.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/Chip-E/ChipE.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMzU="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "Firmware/Chip-E/ChipE.h"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMzQ="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Firmware/Chip-E/examples/Chip-E_BasicWalking/Chip-E_BasicWalking.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/Chip-E/examples/Chip-E_Gamepad/Chip-E_Gamepad.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/Chip-E/examples/Chip-E_Google_Home/Chip-E_ESP8266/Chip-E_ESP8266.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/Chip-E/examples/Chip-E_Google_Home/ESP_Pass_String/ESP_Pass_String.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMzA="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Firmware/Chip-E/examples/Chip-E_Skateboard/Chip-E_Skateboard.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMjk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/ChipE_LCD/ChipE_LCD.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMzk="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "Firmware/ChipE_LCD/ChipE_LCD.h"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMzg="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Firmware/Oscillator/Oscillator.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMzc="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "Firmware/Oscillator/Oscillator.h"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMzY="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIzMDY="
+mimetype = "text/markdown"
+

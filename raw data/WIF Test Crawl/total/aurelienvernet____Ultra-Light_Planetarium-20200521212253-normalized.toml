@@ -1,0 +1,18 @@
+name = "Ultra-Light Planetarium"
+repo = "https://wikifactory.com/@aurelienvernet/ultra-light-planetarium"
+version = "20200521212253"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Aurélien Vernet"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTozMTI5NjU="
+function = "Un <a href=\"http://bretagne-planetarium.org/domes-ultra-legers/\">dôme de planetarium</a> pesant moins de 10kg, tenant dans le coffre d'une voiture, dont la mise en oeuvre peut être effectuée par une seule personne. \n\nVoici la promesse de l'Ultra-light dôme, qui vient compléter les projecteurs open-source du s<a href=\"http://www.lss-planetariums.info/\">ysteme LSS</a>."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNTg2Mzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk1NjY="
+mimetype = "text/markdown"
+

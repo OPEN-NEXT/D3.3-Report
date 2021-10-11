@@ -1,0 +1,12 @@
+name = "Orbitors"
+repo = "https://wikifactory.com/@djul47/orbitors"
+version = "20210422003309"
+spdx-license = "N/A"
+licensor = "Doug Caban"
+documentation-language = "en"
+function = "3 \ufeffdemensional disc of 4.\nSpinner 1 loc underneath middle disc 2 in one direction while stationary, \ndisc 3 control center windows, crew \ufeff\n\ufeffdisc 4 array for coms ."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk2NTY="
+mimetype = "text/markdown"
+

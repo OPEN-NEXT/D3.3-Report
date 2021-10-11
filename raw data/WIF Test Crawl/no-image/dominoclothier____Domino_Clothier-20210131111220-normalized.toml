@@ -1,0 +1,7 @@
+name = "Domino_Clothier"
+repo = "https://wikifactory.com/@dominoclothier/dominoclothier"
+version = "20210131111220"
+spdx-license = "N/A"
+licensor = "Sabitu Akinola Giwa-Bioku"
+documentation-language = "en"
+function = "World class clothing"

@@ -1,0 +1,7 @@
+name = "Hybrid  bike making kit"
+repo = "https://wikifactory.com/@fkp/hybrid-bike-making-kit"
+version = "20210428112401"
+spdx-license = "N/A"
+licensor = "Faruqkhan pareeth"
+documentation-language = "en"
+function = "making two wheelers to hybrid model, which powers electrical and normal petrol"

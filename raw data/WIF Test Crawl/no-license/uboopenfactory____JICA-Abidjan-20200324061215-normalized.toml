@@ -1,0 +1,18 @@
+name = "JICA-Abidjan"
+repo = "https://wikifactory.com/@uboopenfactory/jica-abidjan"
+version = "20200324061215"
+spdx-license = "N/A"
+licensor = "uboopenfactory"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTozMjIzNDY="
+function = "La première édition des Journées de l’Innovation en Contexte Académique (JICA 2019)"
+[[files]]
+name = "Photos/IMG_2962.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMjIzNDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjIzMzk="
+mimetype = "text/markdown"
+

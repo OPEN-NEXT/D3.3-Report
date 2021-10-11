@@ -1,0 +1,7 @@
+name = "Automated water dispenser"
+repo = "https://wikifactory.com/@leler776/automated-water-dispenser"
+version = "20200503133228"
+spdx-license = "N/A"
+licensor = "Japheth Lele"
+documentation-language = "en"
+function = "Automated water dispenser utilizes the power of Arduino in integration with ultrasonic sensors and solenoid valves to control the flow of water from an outlet without then need for a mechanical tap."

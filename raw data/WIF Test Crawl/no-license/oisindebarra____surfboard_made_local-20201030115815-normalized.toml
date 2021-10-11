@@ -1,0 +1,92 @@
+name = "surfboard made local"
+repo = "https://wikifactory.com/@oisindebarra/surf-in-covid"
+version = "20201030115815"
+spdx-license = "N/A"
+licensor = "oisin de barra"
+documentation-language = "en"
+function = "surfing during covid"
+[[files]]
+name = "/2nd review 1 pdf.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDU2OTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "3d MODEL /Screen Shot 2020-10-28 at 12.50.01.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwNjk="
+mimetype = "image/png"
+
+[[files]]
+name = "3d MODEL /Screen Shot 2020-10-28 at 12.50.30.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwNzI="
+mimetype = "image/png"
+
+[[files]]
+name = "3d MODEL /Screen Shot 2020-10-28 at 12.50.53.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwNzU="
+mimetype = "image/png"
+
+[[files]]
+name = "3d MODEL /Screen Shot 2020-10-28 at 12.51.25.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwNjA="
+mimetype = "image/png"
+
+[[files]]
+name = "3d MODEL /Screen Shot 2020-10-28 at 12.53.25.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwNDk="
+mimetype = "image/png"
+
+[[files]]
+name = "/design process pdf.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI0Njk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "issues of 3d printing/images.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwMzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "issues of 3d printing/jigsurf8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwMzg="
+mimetype = "image/png"
+
+[[files]]
+name = "issues of 3d printing/shoe_cover.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwMzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "issues of 3d printing/yuyo_3Dprinting.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwMzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "laser cutting examples /images-1.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwMjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "laser cutting examples /images.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwMjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "laser cutting examples /Unknown-1.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwMjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "laser cutting examples /Unknown-2.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwMjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "laser cutting examples /Unknown.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkwMjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI0NzM="
+mimetype = "text/markdown"
+

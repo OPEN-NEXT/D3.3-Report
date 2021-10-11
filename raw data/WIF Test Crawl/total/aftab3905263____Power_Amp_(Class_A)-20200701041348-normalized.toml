@@ -1,0 +1,12 @@
+name = "Power Amp (Class A)"
+repo = "https://wikifactory.com/@aftab3905263/power-amp-class-a"
+version = "20200701041348"
+spdx-license = "N/A"
+licensor = "aftab3905263"
+documentation-language = "en"
+function = "Its an amplifier that's operated in the totally linear range of a transistor. The transistor is biased on and thus it dissipates power continuously so its inefficient, especially at high power levels."
+[[files]]
+name = "/classApowamp(EL-16036).ms14"
+permalink = "https://wikifactory.com/files/RmlsZTozOTY4NzA="
+mimetype = "application/octet-stream"
+

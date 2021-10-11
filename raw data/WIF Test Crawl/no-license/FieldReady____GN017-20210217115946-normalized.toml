@@ -1,0 +1,12 @@
+name = "GN017"
+repo = "https://wikifactory.com/@brynmorjohn/gn017"
+version = "20210217115946"
+spdx-license = "N/A"
+licensor = "Brynmor John"
+documentation-language = "en"
+function = "Set Square"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTQ2NzE="
+mimetype = "text/plain"
+

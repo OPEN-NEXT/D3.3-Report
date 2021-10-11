@@ -1,0 +1,13 @@
+name = "TEEEM Tools "
+repo = "https://wikifactory.com/@jonschull/teeem-tools"
+version = "20180527172222"
+spdx-license = "CC-BY-4.0"
+licensor = "Jon Schull"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODc5"
+function = "<strong> Technologies for Enabling Enlightened and Effective Mobs</strong>\n\nInfoViz, and interaction design,  \n...\nfor data gathering, information finding, knowledge management, collaboration, team building, good citizenship, self-governance, and basic research \n...\nin, and on, connected humanitarian networks."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODY4"
+mimetype = "text/plain"
+

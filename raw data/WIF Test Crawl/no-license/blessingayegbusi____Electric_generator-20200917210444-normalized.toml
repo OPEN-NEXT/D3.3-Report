@@ -1,0 +1,7 @@
+name = "Electric generator"
+repo = "https://wikifactory.com/@blessingayegbusi/electric-generator"
+version = "20200917210444"
+spdx-license = "N/A"
+licensor = "blessingayegbusi"
+documentation-language = "en"
+function = "It works on principle of electromagnetic and uses no fuel or cumbustion engine but uses batteries for startup and feedback, selfcharge back"

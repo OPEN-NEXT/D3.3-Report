@@ -1,0 +1,13 @@
+name = "Jangalee"
+repo = "https://wikifactory.com/@bandhi/jangalee"
+version = "20180629133749"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Gonzalo Badiola Ramos"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzA0"
+function = "Survival ax"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzAz"
+mimetype = "text/plain"
+

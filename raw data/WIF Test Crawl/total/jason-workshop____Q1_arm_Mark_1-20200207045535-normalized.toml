@@ -1,0 +1,13 @@
+name = "Q1 arm Mark 1"
+repo = "https://wikifactory.com/@jason-workshop/q1-arm-mark-1"
+version = "20200207045535"
+spdx-license = "N/A"
+licensor = "Q1 Robot"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMzEwNQ=="
+function = "Q1 arm Mark 1 is a simple robot arm control by joystick,\nIt's easy to make and assembly, suitable for robot beginner.\n\nDesigned by <a href=\"http://q1.jasonworkshop.com\">Q1 Robot @ Jason Workshop</a>"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDQwNTU="
+mimetype = "text/markdown"
+

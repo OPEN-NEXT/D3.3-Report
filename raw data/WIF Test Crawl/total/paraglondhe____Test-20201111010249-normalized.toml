@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@paraglondhe/test"
+version = "20201111010249"
+spdx-license = "N/A"
+licensor = "paraglondhe"
+documentation-language = "en"
+function = "Test project"

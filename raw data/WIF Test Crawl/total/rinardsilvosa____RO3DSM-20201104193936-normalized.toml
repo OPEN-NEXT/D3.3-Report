@@ -1,0 +1,7 @@
+name = "RO3DSM"
+repo = "https://wikifactory.com/@rinardsilvosa/ro3dsm"
+version = "20201104193936"
+spdx-license = "N/A"
+licensor = "rinardsilvosa"
+documentation-language = "en"
+function = "Innovative model of a solar module."

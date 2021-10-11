@@ -1,0 +1,7 @@
+name = "Documentation Guidelines"
+repo = "https://wikifactory.com/@romain/documentation-guidelines"
+version = "20201022091234"
+spdx-license = "N/A"
+licensor = "Romain"
+documentation-language = "en"
+function = "TBD"

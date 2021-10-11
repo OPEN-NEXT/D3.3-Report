@@ -1,0 +1,7 @@
+name = "Dragon Clock"
+repo = "https://wikifactory.com/@kurt/dragon-clock"
+version = "20180811074211"
+spdx-license = "N/A"
+licensor = "Chengyuan Xue"
+documentation-language = "en"
+function = "A Clock and a Dragon"

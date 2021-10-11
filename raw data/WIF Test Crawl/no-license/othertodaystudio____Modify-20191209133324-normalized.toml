@@ -1,0 +1,28 @@
+name = "Modify"
+repo = "https://wikifactory.com/@jpoulton/circular-economy"
+version = "20191209133324"
+spdx-license = "N/A"
+licensor = "James Poulton"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODUzNTI="
+function = "Documentation of a project based around a product modification brief."
+[[files]]
+name = "Ideation/ideation (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODMyNDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Ideation/ideation (2).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODMyNDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Ideation/ideation (3).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODMyNDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk2Mjc="
+mimetype = "text/markdown"
+

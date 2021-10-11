@@ -1,0 +1,7 @@
+name = "Crayfish Dryer"
+repo = "https://wikifactory.com/@mkpouto/crayfish-dryer"
+version = "20210128142623"
+spdx-license = "N/A"
+licensor = "Mkpouto Akpan"
+documentation-language = "en"
+function = "a machine that can be used to dry crayfish"

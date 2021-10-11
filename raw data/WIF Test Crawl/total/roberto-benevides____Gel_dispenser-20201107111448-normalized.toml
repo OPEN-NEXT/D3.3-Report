@@ -1,0 +1,48 @@
+name = "Gel dispenser"
+repo = "https://wikifactory.com/@roberto-benevides/gel-dispensor"
+version = "20201107111448"
+spdx-license = "N/A"
+licensor = "Roberto Benevides"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo0Njc2OTQ="
+function = "Dispensador de Gel Automático"
+[[files]]
+name = "Gel Dispenser - Fab Exeprience'20/Carcaça Servo (1).stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk3MzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Gel Dispenser - Fab Exeprience'20/Img 0162-1.m4v"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk3Mjk="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Gel Dispenser - Fab Exeprience'20/Img 0255-1.m4v"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk3Mjg="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Gel Dispenser - Fab Exeprience'20/Img 0344-1.m4v"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk3Mjc="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Gel Dispenser - Fab Exeprience'20/Img E9977-1.m4v"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk3MjY="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Gel Dispenser - Fab Exeprience'20/Projeto Gel Dispenser.ai"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk3NDY="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Gel Dispenser - Fab Exeprience'20/RODA BOCAL+pega engrenagem.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk3NDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Gel Dispenser - Fab Exeprience'20/suporte sensor 10cm.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njk3MzA="
+mimetype = "application/sla"
+

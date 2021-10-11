@@ -1,0 +1,13 @@
+name = "Construction of a drawbot"
+repo = "https://wikifactory.com/@nima/construction-of-a-drawbot"
+version = "20191128161809"
+spdx-license = "N/A"
+licensor = "Nawel Khenak"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzkzNzI="
+function = "This project is an attempt to build a Polar Drawbot useable for different drawings."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODYzMzQ="
+mimetype = "text/markdown"
+

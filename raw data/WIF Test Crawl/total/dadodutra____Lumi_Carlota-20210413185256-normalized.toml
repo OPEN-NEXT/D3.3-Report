@@ -1,0 +1,7 @@
+name = "Lumi Carlota"
+repo = "https://wikifactory.com/@dadodutra/lumi-carlota"
+version = "20210413185256"
+spdx-license = "N/A"
+licensor = "Eduardo Dutra"
+documentation-language = "en"
+function = "Its an outdoor luminaire that´s based upon the reflection over a plain suface what difuses light in an homogenously manner"

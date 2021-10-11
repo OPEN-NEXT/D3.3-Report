@@ -1,0 +1,7 @@
+name = "thepro"
+repo = "https://wikifactory.com/@ramlove/thepro"
+version = "20210104144902"
+spdx-license = "N/A"
+licensor = "aman"
+documentation-language = "tl"
+function = "imp is do anything"

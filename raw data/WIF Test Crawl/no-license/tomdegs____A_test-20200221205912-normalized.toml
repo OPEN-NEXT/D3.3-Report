@@ -1,0 +1,12 @@
+name = "A test"
+repo = "https://wikifactory.com/@tomdegs/a-test"
+version = "20200221205912"
+spdx-license = "N/A"
+licensor = "Tom D"
+documentation-language = "en"
+function = "This is a test"
+[[files]]
+name = "/aTest.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMDgyNjk="
+mimetype = "application/3dm"
+

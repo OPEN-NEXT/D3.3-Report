@@ -1,0 +1,7 @@
+name = "Droners"
+repo = "https://wikifactory.com/@fabiothys771/droners"
+version = "20200818064254"
+spdx-license = "N/A"
+licensor = "fabiothys771"
+documentation-language = "en"
+function = "It's based on the drone technology"

@@ -1,0 +1,7 @@
+name = "pH ,Ca, alkalinity meter"
+repo = "https://wikifactory.com/@mendietaantunez/ph-ca-alkalinity-meter"
+version = "20210115171037"
+spdx-license = "N/A"
+licensor = "Jesus Mendieta"
+documentation-language = "en"
+function = "create an embedded solution to monitor pH, alkalinity and calcium content in water in real time"

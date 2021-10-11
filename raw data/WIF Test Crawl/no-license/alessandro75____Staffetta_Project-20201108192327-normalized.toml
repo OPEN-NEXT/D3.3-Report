@@ -1,0 +1,18 @@
+name = "Staffetta Project"
+repo = "https://wikifactory.com/@alessandro75/staffetta-project"
+version = "20201108192327"
+spdx-license = "N/A"
+licensor = "Alessandro Marateia"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NzEwMTA="
+function = "Staffetta, an intelligent mobility project. A high regional speed obtained by reducing passenger boarding and alighting times."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzEwMTU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Video-Progetto-Staffetta.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzEwNDE="
+mimetype = "video/mp4"
+

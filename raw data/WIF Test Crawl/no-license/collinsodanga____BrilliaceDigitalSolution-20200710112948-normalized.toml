@@ -1,0 +1,7 @@
+name = "BrilliaceDigitalSolution"
+repo = "https://wikifactory.com/@collinsodanga/brilliacedigitalsolution"
+version = "20200710112948"
+spdx-license = "N/A"
+licensor = "collins Odanga"
+documentation-language = "en"
+function = "Interactive online learning content for primary and secondary School students and teachers."

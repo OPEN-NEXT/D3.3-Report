@@ -1,0 +1,7 @@
+name = "Coral Reef Mapping Robot"
+repo = "https://wikifactory.com/@cesarjungharada/coral-reef-mapping-robot"
+version = "20191202214437"
+spdx-license = "N/A"
+licensor = "Cesar Jung-Harada"
+documentation-language = "en"
+function = "Coral Reef Mapping Robot, Open Source, modular, to map the reefs - quick."

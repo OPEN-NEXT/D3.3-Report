@@ -1,0 +1,8 @@
+name = "Alohomora"
+repo = "https://wikifactory.com/@7unw3n/alohomora"
+version = "20200629103744"
+spdx-license = "N/A"
+licensor = "Lau Jun Wen"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTQ0MDk="
+function = "Place it over door knobs to prevent pesky muggles from entering places that they are not supposed to. Good for doors that you don’t have keys to (e.g. rental or lost keys). Provides adequate protection up to muggles without hammer, saw or really strong arms."

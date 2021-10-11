@@ -1,0 +1,38 @@
+name = "Formation Wikifactory"
+repo = "https://wikifactory.com/@mcariou/formation-wikifactory"
+version = "20200907141907"
+spdx-license = "N/A"
+licensor = "Mathieu Cariou"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzA2MDc="
+function = "Formation Wikifactory pour l'UBO Open Factory"
+[[files]]
+name = "illustrations/arborescence.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzA0Nzk="
+mimetype = "image/png"
+
+[[files]]
+name = "illustrations/Connexion.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzA0NzU="
+mimetype = "image/png"
+
+[[files]]
+name = "illustrations/Creer_projet.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzA0NzY="
+mimetype = "image/png"
+
+[[files]]
+name = "illustrations/Invitation.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzA0Nzc="
+mimetype = "image/png"
+
+[[files]]
+name = "illustrations/photo_groupe_07_09_2020.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzA0Nzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzA2MjE="
+mimetype = "text/markdown"
+

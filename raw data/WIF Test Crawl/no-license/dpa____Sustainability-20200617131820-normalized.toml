@@ -1,0 +1,68 @@
+name = "Sustainability"
+repo = "https://wikifactory.com/@robinmvsv/sustainability"
+version = "20200617131820"
+spdx-license = "N/A"
+licensor = "Robin"
+documentation-language = "de"
+image = "https://wikifactory.com/files/RmlsZTozODMyODg="
+function = "Im Rahmen der Digital Prototype Academy soll hier eine wiederverwertbare Filamentspule entstehen, welche das Theme “MakervsVirus” haben wird."
+[[files]]
+name = "Fusion 360 Files/Masterspool Merge 1 v10.f3z"
+permalink = "https://wikifactory.com/files/RmlsZTozODMyNjU="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fusion 360 Files/Masterspool Merge 2 v13.f3z"
+permalink = "https://wikifactory.com/files/RmlsZTozODMyNjY="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fusion 360 Files/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA1Mzc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Fusion 360 Files/Seite A v3_01.06.2020.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA1MzY="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fusion 360 Files/Seite A v4_03.06.2020.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzIzNDE="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fusion 360 Files/Seite A v8_09.06.2020.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY2NTc="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fusion 360 Files/Seite A v13._10.06.2020f3d.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc3NTU="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fusion 360 Files/Seite B v3_01.06.2020.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA1MzQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fusion 360 Files/Seite B v4_09.06.2020.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzY2NTY="
+mimetype = "application/zip"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODMxOTY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "STLs/Masterspool Merge 1 v9.f3z"
+permalink = "https://wikifactory.com/files/RmlsZTozODMyNTE="
+mimetype = "application/zip"
+
+[[files]]
+name = "STLs/Masterspool Merge 2 v12.f3z"
+permalink = "https://wikifactory.com/files/RmlsZTozODMyNTI="
+mimetype = "application/zip"
+

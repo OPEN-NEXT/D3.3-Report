@@ -1,0 +1,7 @@
+name = "clothes machine"
+repo = "https://wikifactory.com/@samet/clothes-machine"
+version = "20210117165934"
+spdx-license = "N/A"
+licensor = "samet yılmaz"
+documentation-language = "pl"
+function = "store in your wardrobe\n\ngardrop unuzdaki mağza"

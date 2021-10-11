@@ -1,0 +1,148 @@
+name = "Plasteac"
+repo = "https://wikifactory.com/@cparrapa/plasteac"
+version = "20180912062825"
+spdx-license = "GPL-3.0"
+licensor = "Camilo Parra Palacio"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjcxNjQ="
+function = "The robotic dancing teapot.\nmade by Paul-Louis Ageneau"
+[[files]]
+name = "3DPrint/footl.scad"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ4Mg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3DPrint/footl.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ4Mw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/footr.scad"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ4NA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3DPrint/footr.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ4NQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/leg.scad"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ4OA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3DPrint/leg.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ4Ng=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/lid2_button.scad"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ5MA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3DPrint/lid2_button.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ5MQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/lid2_handle.scad"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ5Mg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3DPrint/lid2_handle.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ5Mw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/lid2_hole.scad"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ5NA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3DPrint/lid2_hole.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ5Ng=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/lid.scad"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ4Nw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3DPrint/lid.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ4OQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/platform.scad"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ5NQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3DPrint/platform.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ5Nw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/top.scad"
+permalink = "https://wikifactory.com/files/RmlsZToxMTUwMA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3DPrint/top.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ5OA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/utah_lid.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ5OQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3DPrint/utah_teapot.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTUwMQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Firmware/plasteac/move.h"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcxNzA="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Firmware/plasteac/plasteac.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcxNjk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/plasteac/player.h"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcxNjg="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Firmware/plasteac_random/move.h"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcxNjc="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Firmware/plasteac_random/plasteac.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcxNjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/plasteac_random/player.h"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcxNjU="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ3Ng=="
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcxNjM="
+mimetype = "text/markdown"
+

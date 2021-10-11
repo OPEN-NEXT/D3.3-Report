@@ -1,0 +1,7 @@
+name = "GameReality"
+repo = "https://wikifactory.com/@gamereality/gamereality"
+version = "20210312120705"
+spdx-license = "N/A"
+licensor = "M.Sc. Magnus Ivarsson "
+documentation-language = "en"
+function = "I build holonomic android telerobots for a telerobotic game so people can play with real wifi camera robots that can strafe in a telerobotic game. \nhttps://www.youtube.com/watch?v=TZ4ujKcy87o&list=PLi0zyNfBMXA8SMBR8jWbhCJ7RWjkjBnN_"

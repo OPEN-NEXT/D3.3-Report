@@ -1,0 +1,7 @@
+name = "Signalisation"
+repo = "https://wikifactory.com/@polyconcept/signalisation"
+version = "20200922042016"
+spdx-license = "N/A"
+licensor = "polyconcept"
+documentation-language = "en"
+function = "Auto signalisation"

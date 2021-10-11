@@ -1,0 +1,63 @@
+name = " Loose Associations "
+repo = "https://wikifactory.com/@selinasahans/brief-loose-associations"
+version = "20191209121302"
+spdx-license = "N/A"
+licensor = "Selina Sahans"
+documentation-language = "tl"
+image = "https://wikifactory.com/files/RmlsZToyODk3Mjg="
+function = "Blog post/ Pecha Kucha\n\n by Selina Sahans"
+[[files]]
+name = "/Arsenic Posioning.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE3NjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Cosmetic spoon .jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE3NDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Cult beauty.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE3NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Deadly Nightshade.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE3NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Elizabeth 1 - monarch behind the mask .jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE3NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Estee Lauder .jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE3NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/James Charles Makeup influencer .jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE3NTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Mac cosmetics.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE3NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Mask of youth .jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE3NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk0Mzc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Scold's Bridal Medieval Torture Device.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODE3NDk="
+mimetype = "image/jpeg"
+

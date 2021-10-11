@@ -1,0 +1,7 @@
+name = "Automatic ✋ Washer"
+repo = "https://wikifactory.com/@babawuya/automatic-washer"
+version = "20200805034549"
+spdx-license = "N/A"
+licensor = "Alkali Babawuya"
+documentation-language = "en"
+function = "To use UTS to automatically wash hand to privent Covid 19"

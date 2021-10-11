@@ -1,0 +1,7 @@
+name = "stackfast"
+repo = "https://wikifactory.com/@sstngp4/stackfast"
+version = "20201202151348"
+spdx-license = "N/A"
+licensor = "S. Ahmed"
+documentation-language = "en"
+function = "Need solution for faster material handling and stacking. something in between traditional and bulk material handling system."

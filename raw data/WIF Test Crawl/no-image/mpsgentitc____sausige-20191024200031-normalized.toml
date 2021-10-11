@@ -1,0 +1,12 @@
+name = "sausige"
+repo = "https://wikifactory.com/@mpsgentitc/sausige"
+version = "20191024200031"
+spdx-license = "N/A"
+licensor = "mpsgentitc"
+documentation-language = "en"
+function = "test"
+[[files]]
+name = "/SAUSIGES.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYxMTI="
+mimetype = "application/3dm"
+

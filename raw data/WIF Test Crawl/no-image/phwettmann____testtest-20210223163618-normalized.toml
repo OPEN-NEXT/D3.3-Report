@@ -1,0 +1,7 @@
+name = "testtest"
+repo = "https://wikifactory.com/@phwettmann/testtest"
+version = "20210223163618"
+spdx-license = "N/A"
+licensor = "phwettmann"
+documentation-language = "en"
+function = "test"

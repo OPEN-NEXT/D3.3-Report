@@ -1,0 +1,7 @@
+name = "Solar Powered Internet"
+repo = "https://wikifactory.com/@bilalgul/solar-powered-internet"
+version = "20201222200829"
+spdx-license = "N/A"
+licensor = "Bilal Gul"
+documentation-language = "en"
+function = "I want to design solar and sattlelight powered internet connections for remote places"

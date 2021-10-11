@@ -1,0 +1,73 @@
+name = "Lamp Shades"
+repo = "https://wikifactory.com/@einarvallejo/lamp-shades"
+version = "20181213190312"
+spdx-license = "N/A"
+licensor = "Einar Vallejo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNzI3Mw=="
+function = "This project its focused on the making of 3d printed lamps using different materials from translucent, recycled, natural and diffusing materials."
+[[files]]
+name = "/descarga.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzI5Nw=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/DSC_0060.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToxNzI4Mw=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/DSC_0062.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToxNzI4MA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMzk5Mg=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Settings01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzMwNQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/sku_431758_1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzI5OQ=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "STL/Flower_of_life13mm.STL"
+permalink = "https://wikifactory.com/files/RmlsZToxNzI5MA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Fruit_of_life13mm.STL"
+permalink = "https://wikifactory.com/files/RmlsZToxNzI4NA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/lampcover.STL"
+permalink = "https://wikifactory.com/files/RmlsZToxNzMwMA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Metatronscube13mm.STL"
+permalink = "https://wikifactory.com/files/RmlsZToxNzI5Mw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/Seed_of_life13mm.STL"
+permalink = "https://wikifactory.com/files/RmlsZToxNzI4NQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/trinity_13mm.STL"
+permalink = "https://wikifactory.com/files/RmlsZToxNzI5NQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "STL/vesica_piscis_13mm.STL"
+permalink = "https://wikifactory.com/files/RmlsZToxNzI4Nw=="
+mimetype = "application/octet-stream"
+

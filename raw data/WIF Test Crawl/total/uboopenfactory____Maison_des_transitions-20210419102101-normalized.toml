@@ -1,0 +1,18 @@
+name = "Maison des transitions"
+repo = "https://wikifactory.com/@uboopenfactory/les-ecoliens"
+version = "20210419102101"
+spdx-license = "N/A"
+licensor = "uboopenfactory"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1ODIwNzk="
+function = "Un espace ouvert à tous pour apprendre à vivre ensemble en harmonie avec la Nature, pour promouvoir tous les gestes de la transition écologique, et des transitions vers un mieux-vivre et un bien vivre ensemble."
+[[files]]
+name = "/Organisation TL.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTU0NjI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQyMDY="
+mimetype = "text/markdown"
+

@@ -1,0 +1,23 @@
+name = "GROUU small nursery"
+repo = "https://wikifactory.com/@steam228/grouu-small-nursery"
+version = "20190701221912"
+spdx-license = "N/A"
+licensor = "André Rocha"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTcxNzA="
+function = "A small seedling tray + automated tidal system."
+[[files]]
+name = "STEPFILES v1 Fab Academy/pcbProbeNursery1 v22.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcxNzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "STEPFILES v1 Fab Academy/SmallNursery v26.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcxNzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "STEPFILES v1 Fab Academy/SmallNursery v30.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNDEyMzk="
+mimetype = "text/plain"
+

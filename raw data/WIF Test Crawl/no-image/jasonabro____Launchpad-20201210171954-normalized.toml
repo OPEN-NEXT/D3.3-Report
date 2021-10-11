@@ -1,0 +1,7 @@
+name = "Launchpad"
+repo = "https://wikifactory.com/@jasonabro/launchpad"
+version = "20201210171954"
+spdx-license = "N/A"
+licensor = "Jason Abromaitis"
+documentation-language = "en"
+function = "workout"

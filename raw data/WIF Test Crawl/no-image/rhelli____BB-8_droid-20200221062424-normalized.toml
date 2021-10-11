@@ -1,0 +1,7 @@
+name = "BB-8 droid"
+repo = "https://wikifactory.com/@rhelli/bb-8-droid"
+version = "20200221062424"
+spdx-license = "N/A"
+licensor = "SPYROS ALIFRAGIS"
+documentation-language = "en"
+function = "a fully moveable droid"

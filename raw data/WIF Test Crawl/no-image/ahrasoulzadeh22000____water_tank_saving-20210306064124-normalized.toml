@@ -1,0 +1,7 @@
+name = "water tank saving"
+repo = "https://wikifactory.com/@ahrasoulzadeh22000/water-tank-saving"
+version = "20210306064124"
+spdx-license = "N/A"
+licensor = "ahrasoulzadeh22000"
+documentation-language = "en"
+function = "Using these water storage tanks around the rivers and underground, it can always be used to control the flood in the rivers, from the massive volume of water in floods, to store water in drought, as well as controlling the subsidence."

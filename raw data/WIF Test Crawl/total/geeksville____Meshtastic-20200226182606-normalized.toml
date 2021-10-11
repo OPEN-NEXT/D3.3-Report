@@ -1,0 +1,13 @@
+name = "Meshtastic"
+repo = "https://wikifactory.com/@geeksville/meshtastic"
+version = "20200226182606"
+spdx-license = "N/A"
+licensor = "Kevin Hester"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTAzMjM="
+function = "<a href=\"https://www.meshtastic.org\">Meshtastic</a> is an open-source hiking, pilot, skiing, Signal-App-extending GPS mesh communicator.\n\nIt is a software project built on top of existing inexpensive GPS/<a href=\"https://en.wikipedia.org/wiki/LoRa\">LoRa</a> devices available via Aliexpress.  Currently we support the <a href=\"https://www.aliexpress.com/item/4000119152086.html?spm=a2g0o.productlist.0.0.181d358bODGv7v&amp;algo_pvid=ab6260d5-0d96-48cd-ab3c-feef6a3860cf&amp;algo_expid=ab6260d5-0d96-48cd-ab3c-feef6a3860cf-0&amp;btsid=0be3743615827378977145157eb3df&amp;ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_\">T-BEAM</a> and <a href=\"https://www.aliexpress.com/item/32838226825.html?spm=a2g0o.productlist.0.0.111a6720tuXPi7&amp;algo_pvid=0e87b8a4-4b73-4ed8-b1ad-90a86812a260&amp;algo_expid=0e87b8a4-4b73-4ed8-b1ad-90a86812a260-6&amp;btsid=0be3743b15827379342535157efec0&amp;ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_\">Lora32</a> boards."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTAzMzg="
+mimetype = "text/markdown"
+

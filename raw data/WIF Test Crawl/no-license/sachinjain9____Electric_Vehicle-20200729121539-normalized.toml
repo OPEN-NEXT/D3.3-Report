@@ -1,0 +1,7 @@
+name = "Electric Vehicle "
+repo = "https://wikifactory.com/@sachinjain9/electric-vehicle"
+version = "20200729121539"
+spdx-license = "N/A"
+licensor = "sachin jain"
+documentation-language = "en"
+function = "Personal Electric Vehicle for india Market."

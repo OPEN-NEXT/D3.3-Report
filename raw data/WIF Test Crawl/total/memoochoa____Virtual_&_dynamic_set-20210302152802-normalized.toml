@@ -1,0 +1,7 @@
+name = "Virtual & dynamic set"
+repo = "https://wikifactory.com/@memoochoa/virtual-dynamic-set"
+version = "20210302152802"
+spdx-license = "N/A"
+licensor = "Guillermo Ochoa"
+documentation-language = "en"
+function = "Virtual Set"

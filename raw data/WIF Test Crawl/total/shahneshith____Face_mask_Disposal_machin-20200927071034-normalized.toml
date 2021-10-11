@@ -1,0 +1,7 @@
+name = "Face mask Disposal machin"
+repo = "https://wikifactory.com/@shahneshith/face-mask-disposal-machin"
+version = "20200927071034"
+spdx-license = "N/A"
+licensor = "shahneshith"
+documentation-language = "en"
+function = "In covid 19 face mask disposal is prime after use."

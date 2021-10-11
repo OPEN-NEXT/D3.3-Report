@@ -1,0 +1,18 @@
+name = "Schickards Machine"
+repo = "https://wikifactory.com/@juewei/schickards-machine"
+version = "20190515204752"
+spdx-license = "N/A"
+licensor = "Jürgen Weigert"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDkxMzE="
+function = "Lasercut reconstruction of the first calculating machine designed by Wilhelm Schickard 1623.\nLicensed under CC-by-sa-nc-3.0\nPublished at https://www.thingiverse.com/thing:3451695"
+[[files]]
+name = "/Adjustment_and_Maintenance.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkxMzQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkxMzI="
+mimetype = "text/markdown"
+

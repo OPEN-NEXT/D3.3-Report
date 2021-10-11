@@ -1,0 +1,13 @@
+name = "DataDeltaSaloum"
+repo = "https://wikifactory.com/@mcariou/datadeltasaloum"
+version = "20210209091349"
+spdx-license = "N/A"
+licensor = "Mathieu Cariou"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1MzgzNjk="
+function = "Mesure de données physico-chimiques dans le delta du Saloum (Sénégal)"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzgzNzg="
+mimetype = "text/markdown"
+

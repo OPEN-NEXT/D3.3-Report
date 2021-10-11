@@ -1,0 +1,7 @@
+name = "An electric tricycle "
+repo = "https://wikifactory.com/@psefa556/an-electric-tricycle"
+version = "20200731233029"
+spdx-license = "N/A"
+licensor = "psefa556"
+documentation-language = "en"
+function = "A tricycle for farmers which uses rechargeable batteries."

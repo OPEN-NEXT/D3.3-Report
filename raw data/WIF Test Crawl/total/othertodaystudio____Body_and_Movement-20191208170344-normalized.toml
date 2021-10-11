@@ -1,0 +1,13 @@
+name = "Body and Movement "
+repo = "https://wikifactory.com/@alexseanhill/body-and-movement"
+version = "20191208170344"
+spdx-license = "N/A"
+licensor = "Alex Hill"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODA2MTI="
+function = "This project explores loose associations between people and objects associated with training and improving the body. This research explores the possible associations between both objects used in this area and people who have pushed these areas to their limit."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODIyODM="
+mimetype = "text/markdown"
+

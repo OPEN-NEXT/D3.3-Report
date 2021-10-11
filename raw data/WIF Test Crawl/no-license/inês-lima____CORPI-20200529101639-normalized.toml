@@ -1,0 +1,37 @@
+name = "CORPI"
+repo = "https://wikifactory.com/@inês-lima/corpi"
+version = "20200529101639"
+spdx-license = "N/A"
+licensor = "Inês João P. Teixeira Lima"
+documentation-language = "en"
+function = "A self-sufficient product that collects garbage from the oceans, more specifically plastic."
+[[files]]
+name = "/14MAIO_TABELA_novo.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM2MzQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/CORPI _mp4.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozNjMzNDU="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Desenhos_Tecnicos.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM2MDA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg2MTY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/STL_CORPI.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNjE4MzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/video.gif"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg2MDM="
+mimetype = "image/gif"
+

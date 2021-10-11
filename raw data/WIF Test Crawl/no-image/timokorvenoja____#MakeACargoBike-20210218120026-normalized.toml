@@ -1,0 +1,27 @@
+name = "#MakeACargoBike"
+repo = "https://wikifactory.com/@timokorvenoja/makeacargobike"
+version = "20210218120026"
+spdx-license = "N/A"
+licensor = "timokorvenoja"
+documentation-language = "en"
+function = "Every town/city in this our globe needs to take of their outdoor trash cans.  With this trike it is easy to collect trash in parks, market places and sidewalks."
+[[files]]
+name = "/Trash barrels_big.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUyMTk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Trash barrels_small.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUyMTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Trike_trashcollector1.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUyMDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/trike_trashcollector2.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTUyMDg="
+mimetype = "text/plain"
+

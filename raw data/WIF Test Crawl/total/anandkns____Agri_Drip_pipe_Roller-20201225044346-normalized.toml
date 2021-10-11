@@ -1,0 +1,12 @@
+name = "Agri Drip pipe Roller"
+repo = "https://wikifactory.com/@anandkns/agri-drip-pipe-roller"
+version = "20201225044346"
+spdx-license = "N/A"
+licensor = "ANAND KUM"
+documentation-language = "en"
+function = "With negligible cost made a budgeted Drip lateral pipe roller for un bundling  & bundling of 16mm lateral drip pipes"
+[[files]]
+name = "/Drip lateral Pipe.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDgyNjU="
+mimetype = "video/mp4"
+

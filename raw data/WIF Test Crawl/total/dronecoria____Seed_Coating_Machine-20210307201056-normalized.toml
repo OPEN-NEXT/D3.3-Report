@@ -1,0 +1,68 @@
+name = "Seed Coating Machine"
+repo = "https://wikifactory.com/@aeracoop/seed-coating-machine"
+version = "20210307201056"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Lot Amorós"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0OTc2NzA="
+function = "An automatic and programable machine to perform seed coating to enable low cost and large scale, seed based reforestations."
+[[files]]
+name = "Controller/coating-controller-diagram.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM1MjY="
+mimetype = "image/png"
+
+[[files]]
+name = "Controller/coating-controller-picture.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ0NTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Controller/coating-controller-scheme.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM3OTI="
+mimetype = "image/png"
+
+[[files]]
+name = "Controller/coating-controller-shematics.fzz"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM1MjQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "Controller/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjI4NzI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDgzNjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "PowderFeeder/PowderFeeder_V0.8.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDg2ODA="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "PowderFeeder/PowderFeeder_V0.9.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDg2ODI="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "PowderFeeder/PowderFeeder_V1.0.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDg2Nzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "PowderFeeder/PowderFeeder_V1.0.gh"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDg2Nzg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "PowderFeeder/PowderFeeder_V1.0.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDg2Nzc="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjA5OTU="
+mimetype = "text/markdown"
+

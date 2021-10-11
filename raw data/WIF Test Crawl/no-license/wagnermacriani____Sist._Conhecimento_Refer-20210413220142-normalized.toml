@@ -1,0 +1,12 @@
+name = "Sist. Conhecimento Refer."
+repo = "https://wikifactory.com/@wagnermacriani/sist-conhecimento-refer"
+version = "20210413220142"
+spdx-license = "N/A"
+licensor = "Wagner Ferreira Macriani"
+documentation-language = "pt"
+function = "Um modelo para facilitar o acesso a qualquer informação em fontes de Informações diversas."
+[[files]]
+name = "/cto_frm8 - Cópia.doc"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzk3NzM="
+mimetype = "application/msword"
+

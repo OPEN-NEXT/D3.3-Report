@@ -1,0 +1,33 @@
+name = "Formato Externos FabLab"
+repo = "https://wikifactory.com/@miguelpalma/formato-externos-fablab"
+version = "20210308142734"
+spdx-license = "N/A"
+licensor = "Miguel Palma Rojas"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo1NjE5NjY="
+function = "<b>Resumen del proyecto, máximo 1 párrafo.</b>\nPuede usar los siguientes puntos como guía:\n<ul><li>¿Qué es lo que se construye o estudia?\n</li><li>¿Para qué se hace?, ¿Cuáles son sus objetivos principales?\n</li><li> ¿Cómo busca impactar en el área seleccionada?\n</li></ul>"
+[[files]]
+name = "Archivos/Captura2.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE5Nzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Archivos/Captura3.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE5Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Archivos/Captura4.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE5NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Archivos/Captura.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE5Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjMzOTA="
+mimetype = "text/markdown"
+

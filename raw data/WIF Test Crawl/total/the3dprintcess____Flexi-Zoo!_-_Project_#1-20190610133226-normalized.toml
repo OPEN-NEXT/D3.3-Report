@@ -1,0 +1,13 @@
+name = "Flexi-Zoo! - Project #1"
+repo = "https://wikifactory.com/@the3dprintcess/flexi-zoo-project-1"
+version = "20190610133226"
+spdx-license = "N/A"
+licensor = "the3dPrintcess"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTI4NjM="
+function = "Build a zoo of Flexible animals with us! \n\nThe goal is to learn how to set up and calibrate our 3D printers, and to make some cool toys while we're at it."
+[[files]]
+name = "/3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI4NjQ="
+mimetype = "application/sla"
+

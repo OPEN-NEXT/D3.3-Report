@@ -1,0 +1,17 @@
+name = "smart ventilation"
+repo = "https://wikifactory.com/@deivisbluz/smart-ventilation"
+version = "20200418081303"
+spdx-license = "N/A"
+licensor = "Deivis Bluznevičius"
+documentation-language = "en"
+function = "We can look at weather and buildings as waves. Buildings trap and release air, heat. Water flows through pipes. We need software which monitors and regulates flow, temperature and ventilation to shift weather on the planet from the perspective of one single building."
+[[files]]
+name = "2020.04.08/smart-ventilation-20200408.rtf"
+permalink = "https://wikifactory.com/files/RmlsZTozMzI0MTk="
+mimetype = "text/rtf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzI0MTU="
+mimetype = "text/markdown"
+

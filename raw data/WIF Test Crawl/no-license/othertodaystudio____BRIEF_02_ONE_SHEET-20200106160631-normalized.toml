@@ -1,0 +1,18 @@
+name = "BRIEF_02_ONE_SHEET "
+repo = "https://wikifactory.com/@abuazharahmed/brief-2-one-sheet"
+version = "20200106160631"
+spdx-license = "N/A"
+licensor = "Azhar Ahmed"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyOTU4MDE="
+function = "EZEE Wraps, Sports Gear made easier."
+[[files]]
+name = "/Ezee Wraps Template.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYyMTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYyNDE="
+mimetype = "text/markdown"
+

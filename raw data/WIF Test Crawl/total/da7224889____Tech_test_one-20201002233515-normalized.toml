@@ -1,0 +1,7 @@
+name = "Tech test one"
+repo = "https://wikifactory.com/@da7224889/tech-test-one"
+version = "20201002233515"
+spdx-license = "N/A"
+licensor = "da7224889"
+documentation-language = "en"
+function = "It's based on a personal drone that people can fly in"

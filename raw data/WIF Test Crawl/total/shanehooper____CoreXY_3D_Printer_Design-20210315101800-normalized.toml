@@ -1,0 +1,233 @@
+name = "CoreXY 3D Printer Design"
+repo = "https://wikifactory.com/@shanehooper/corexy-3d-printer-design"
+version = "20210315101800"
+spdx-license = "N/A"
+licensor = "Shane Hooper"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1OTIyMTM="
+function = "The SolidCore CoreXY is designed to be a highspeed workhorse for repeated use.  Our long term goal is to is to build a modular platform, not just a printer. Think of it as an ecosystem of parts that can be arranged in different configurations and adapted for unique applications."
+[[files]]
+name = "/20200423_012011.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20200423_012040.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1NTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Bed_Magnet_.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI0OTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Carriage_Clip.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1NTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/Carriage_Clip.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI0OTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Carriage_Clip.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI0OTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/corexy_carriage.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1NTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/CoreXY_Explained.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/corexy_gantry_kit.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1NTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/corexy_gantry_kit_4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Corner_Idler_Plate.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1NDk="
+mimetype = "image/png"
+
+[[files]]
+name = "/Corner_Idler_Plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Corner_Plates_Toolchanger.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1NDg="
+mimetype = "image/png"
+
+[[files]]
+name = "/Corner_Plates_Toolchanger.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/hotend_mount.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1NDc="
+mimetype = "image/png"
+
+[[files]]
+name = "/hotend_mount.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/idler_Plate.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1NDY="
+mimetype = "image/png"
+
+[[files]]
+name = "/idler_Plate.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/idler_Plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI2NDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/motor_mount_with_square_flange.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1NDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/motor_mount_with_square_flange.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Motor_Plate_20mm_Gates.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1NDI="
+mimetype = "image/png"
+
+[[files]]
+name = "/Motor_Plate_20mm_Gates.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Motor_Plate_20mm_Gates_.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/New_Idler_Plate_Gates_.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjY0ODA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Side-Panels-Diagram-2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1NDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Side-Panels-Diagram.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1NDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/SolidCore-3d-printer-corexy-Up-Close-3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/SolidCore-Carriage-Diagram.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/SolidCore-Core-XY-Top-Plates.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/solidcore-motion-system.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1Mjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/SolidCore_BLTOUCH_Hotend_Mount.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/SolidCore_CoreXY_3D_Printer.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/SolidCore_CoreXY_3D_Printer.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/X-Carriage.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MjU="
+mimetype = "image/png"
+
+[[files]]
+name = "/X-Carriage.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI0OTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/X-Carriage_.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI0OTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Y-Carriage.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/Y-Carriage.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI0OTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Y-Carriage_.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI0OTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Z-Axis_L-Bracket.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI1MjM="
+mimetype = "image/png"
+
+[[files]]
+name = "/Z-Axis_L-Bracket.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI0OTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Z-Axis_L-Bracket.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI0OTQ="
+mimetype = "application/sla"
+

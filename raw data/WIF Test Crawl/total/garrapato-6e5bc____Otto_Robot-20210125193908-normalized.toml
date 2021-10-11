@@ -1,0 +1,7 @@
+name = "Otto Robot"
+repo = "https://wikifactory.com/@garrapato-6e5bc/otto-robot"
+version = "20210125193908"
+spdx-license = "N/A"
+licensor = "Garrapato"
+documentation-language = "en"
+function = "Otro Robot"

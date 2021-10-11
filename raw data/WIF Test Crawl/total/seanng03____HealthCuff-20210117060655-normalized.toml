@@ -1,0 +1,12 @@
+name = "HealthCuff"
+repo = "https://wikifactory.com/@seanng03/healthcuff"
+version = "20210117060655"
+spdx-license = "N/A"
+licensor = "Ng Zi Yuan"
+documentation-language = "en"
+function = "The idea of HealthCuff is based on creating health test kits that are both more affordable and portable. Since diabetic monitor, blood pressure monitor and etc. are all sold separately. I truly believe this product will make an impact on the market."
+[[files]]
+name = "/2021-01-08 (7).png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjAzMTY="
+mimetype = "image/png"
+

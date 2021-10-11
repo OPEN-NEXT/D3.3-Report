@@ -1,0 +1,8 @@
+name = "Launchmart"
+repo = "https://wikifactory.com/@titannguyen090909/launchmart"
+version = "20201221102030"
+spdx-license = "N/A"
+licensor = "Tan Nguyen"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MDQ3OTg="
+function = "a fashion garment builder"

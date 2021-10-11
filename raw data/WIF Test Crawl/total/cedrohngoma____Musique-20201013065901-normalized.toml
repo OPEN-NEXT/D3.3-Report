@@ -1,0 +1,7 @@
+name = "Musique "
+repo = "https://wikifactory.com/@cedrohngoma/musique"
+version = "20201013065901"
+spdx-license = "N/A"
+licensor = "cedrohngoma"
+documentation-language = "en"
+function = "Formation musicale"

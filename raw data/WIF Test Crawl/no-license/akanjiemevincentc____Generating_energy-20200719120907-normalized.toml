@@ -1,0 +1,7 @@
+name = "Generating energy "
+repo = "https://wikifactory.com/@akanjiemevincentc/generating-energy"
+version = "20200719120907"
+spdx-license = "N/A"
+licensor = "Christopher "
+documentation-language = "en"
+function = "Generating energy with out gas"

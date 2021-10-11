@@ -1,0 +1,7 @@
+name = "Tryout"
+repo = "https://wikifactory.com/@wieslaw/tryout"
+version = "20210224035536"
+spdx-license = "N/A"
+licensor = "Wieslaw Maz"
+documentation-language = "en"
+function = "First time"

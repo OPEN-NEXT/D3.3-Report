@@ -1,0 +1,7 @@
+name = "Starting "
+repo = "https://wikifactory.com/@abdullahbhai/starting"
+version = "20200918080047"
+spdx-license = "N/A"
+licensor = "Abdullah bhai"
+documentation-language = "en"
+function = "Start getting ready for work"

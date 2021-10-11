@@ -1,0 +1,7 @@
+name = "Zero Expense "
+repo = "https://wikifactory.com/@shinaz/zero-expense"
+version = "20201225100951"
+spdx-license = "N/A"
+licensor = "Shinaz"
+documentation-language = "en"
+function = "Zero expenses for home to maintain"

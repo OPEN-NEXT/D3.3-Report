@@ -1,0 +1,13 @@
+name = "#MakersForGood #m4g"
+repo = "https://wikifactory.com/@oscarvlqz/makersforgood-template"
+version = "20200730090212"
+spdx-license = "N/A"
+licensor = "Oscar Velazquez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MTcwNzg="
+function = "This is the Demo projec for the Make-A-Ton. It is an initiative by Makers for Good & Wikifactory, during the days of the FABxLive to challenge the Fablab network to design for the New Reality using digital fabrication."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTY2OTE="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Design and print"
+repo = "https://wikifactory.com/@hengchulsa/design-and-print"
+version = "20200619174953"
+spdx-license = "N/A"
+licensor = "Chulsa Heng"
+documentation-language = "en"
+function = "I can design in 3D and print"

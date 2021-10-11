@@ -1,0 +1,63 @@
+name = "Augmented Reality Board"
+repo = "https://wikifactory.com/@shannonmassingill/ar-board"
+version = "20200706041816"
+spdx-license = "N/A"
+licensor = "shannonmassingill"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDQxMTE="
+function = "AR board makes it #safetoplay across the table or across the world. Simply video call your friend with an AR board and set your phone on the platform and connect to the projector. You will see their board overlayed on yours. Enjoy a whiteboard collaboration or your favorite board game again."
+[[files]]
+name = "3D Print Files/Base brace.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ0NDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print Files/Board Clips.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ0NDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print Files/Board Lock.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQzMjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print Files/Brace.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ0NDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print Files/Lock.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQzMjc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print Files/Locking ladder.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQzMjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print Files/Phone Holder.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQzMjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/AR Board.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ0MDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "CNC or Laser Cut/Side panels.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2OTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "CNC or Laser Cut/Side pannels.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2Nzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ4Nzg="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "."
+repo = "https://wikifactory.com/@konstantin/akademie-projekt-home"
+version = "20200525191936"
+spdx-license = "N/A"
+licensor = "konstantin_stam*os"
+documentation-language = "en"
+function = "."

@@ -1,0 +1,13 @@
+name = "Isolate Radio [OLD]"
+repo = "https://wikifactory.com/@danbalint/isolate-radio"
+version = "20200529085512"
+spdx-license = "N/A"
+licensor = "Dan Balint"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNjAwMjM="
+function = "Isolate Radio is a platform for creatives to share work with an online audience in audio format."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg1NDY="
+mimetype = "text/markdown"
+

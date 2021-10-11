@@ -1,0 +1,13 @@
+name = "Loira 2.0"
+repo = "https://wikifactory.com/@juan/loira-20"
+version = "20200710234149"
+spdx-license = "N/A"
+licensor = "Juan Mazzuchelli"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzY1"
+function = "Loira is a natural air conditioning system by <a href=\"https://alpha.wikifactory.com/@amantevez\">Aman Agrawal</a> and <a href=\"https://alpha.wikifactory.com/@samueldesosa\">Samuel de Sosa</a> done in collaboration with Wave Ceramics. It lowers the air temperature by evaporating water progressively."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY4"
+mimetype = "text/markdown"
+

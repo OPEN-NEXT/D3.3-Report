@@ -1,0 +1,13 @@
+name = "Otto DIY"
+repo = "https://wikifactory.com/@spyder19/otto-diy"
+version = "20200320172619"
+spdx-license = "N/A"
+licensor = "Spyder"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDQ3NzU="
+function = "Um, it's OttoDIY\nThe only difference is that I added  a fan. I have a BT module that I may want to install so I can make it remote control\nI did have a bit of an issue with the sketches at first, but I figured it out"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDUyNjM="
+mimetype = "text/markdown"
+

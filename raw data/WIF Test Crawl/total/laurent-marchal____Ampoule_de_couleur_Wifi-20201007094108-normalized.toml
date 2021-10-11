@@ -1,0 +1,12 @@
+name = "Ampoule de couleur Wifi"
+repo = "https://wikifactory.com/@laurent-marchal/ampoule-de-couleur-wifi"
+version = "20201007094108"
+spdx-license = "N/A"
+licensor = "MARCHAL Laurent"
+documentation-language = "fr"
+function = "Ampoule de faible puissance dont on peut modifier la couleur en Wifi."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzgwNTc="
+mimetype = "text/markdown"
+

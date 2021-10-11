@@ -1,0 +1,12 @@
+name = "Building Printer Network"
+repo = "https://wikifactory.com/@zecma/building-printer-network"
+version = "20201108172516"
+spdx-license = "N/A"
+licensor = "Ulli Westphal"
+documentation-language = "en"
+function = "Building Printer Network"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzA5MzE="
+mimetype = "text/markdown"
+

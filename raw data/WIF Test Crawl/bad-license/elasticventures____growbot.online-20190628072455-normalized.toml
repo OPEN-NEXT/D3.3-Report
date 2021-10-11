@@ -1,0 +1,13 @@
+name = "growbot.online"
+repo = "https://wikifactory.com/@elasticventures/growbotonline"
+version = "20190628072455"
+spdx-license = "BAD"
+licensor = "Brian Horakh"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTYxMzY="
+function = "A residential aeroponic garden platform with integrated AI software; supplier of parts for independent builds requiring raw materials such as reflective films, durable pumps, and electronics."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTYxMzM="
+mimetype = "text/plain"
+

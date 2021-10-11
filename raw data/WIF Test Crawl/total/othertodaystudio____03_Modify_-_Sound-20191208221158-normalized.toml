@@ -1,0 +1,13 @@
+name = "03 Modify - Sound"
+repo = "https://wikifactory.com/@josephlyons/03-modify-sound"
+version = "20191208221158"
+spdx-license = "N/A"
+licensor = "Joseph Lyons"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODg0NTQ="
+function = "Modifying peoples interaction with sound through interactive objects and instruments."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODg5NDQ="
+mimetype = "text/markdown"
+

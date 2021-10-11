@@ -1,0 +1,13 @@
+name = "Octobox"
+repo = "https://wikifactory.com/@stevensnpa/octobox"
+version = "20200705020011"
+spdx-license = "N/A"
+licensor = "Stevens Nelson Peña Alcántara"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDI1NzM="
+function = "The purpose is to be able to disinfect the belongings by UV rays after having been on the exposed street. No need to abuse or expose belongings to corrosive agents. This project is intended for anyone who frequently exposes their belongings to the germs of the environment, especially COVID-19."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2NDI="
+mimetype = "text/markdown"
+

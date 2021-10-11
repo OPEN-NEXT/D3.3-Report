@@ -1,0 +1,8 @@
+name = "Estufa do Rapha"
+repo = "https://wikifactory.com/@andremarquet/estufa-do-rapha"
+version = "20201010145104"
+spdx-license = "N/A"
+licensor = "André Marquet"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTo0NTAwNTU="
+function = "Estufa do Rapha, é um projeto de estufa IoT, que foi desenvolvida com metodologia de design thinking."

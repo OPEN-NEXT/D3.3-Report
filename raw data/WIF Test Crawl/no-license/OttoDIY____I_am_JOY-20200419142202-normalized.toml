@@ -1,0 +1,12 @@
+name = "\"I am JOY\""
+repo = "https://wikifactory.com/@oy/i-am-joy-efd51"
+version = "20200419142202"
+spdx-license = "N/A"
+licensor = "Joy Abraham"
+documentation-language = "en"
+function = "Like to introduce a robot/a mechanized puppet which can introduce by itself, Interact with a touch screen as like a kiosk. Speak. Ask & reply. Offer the features of helping the user."
+[[files]]
+name = "/Mascot3DView.doc"
+permalink = "https://wikifactory.com/files/RmlsZTozMzkzMjM="
+mimetype = "application/msword"
+

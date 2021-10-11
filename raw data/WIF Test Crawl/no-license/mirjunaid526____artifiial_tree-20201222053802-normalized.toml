@@ -1,0 +1,18 @@
+name = "artifiial tree"
+repo = "https://wikifactory.com/@mirjunaid526/artifiial-tree"
+version = "20201222053802"
+spdx-license = "N/A"
+licensor = "mirjunaid526"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MDQ4ODM="
+function = "using AI to  design a tree which can trace environmental pollution, absorb harmful gasses from atmosphere and store them or convert them to less harmful products."
+[[files]]
+name = "/download.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQ4Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDUzNDU="
+mimetype = "text/markdown"
+

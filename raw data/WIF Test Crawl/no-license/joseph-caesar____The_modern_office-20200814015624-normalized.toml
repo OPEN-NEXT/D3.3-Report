@@ -1,0 +1,7 @@
+name = "The modern office"
+repo = "https://wikifactory.com/@joseph-caesar/the-modern-office"
+version = "20200814015624"
+spdx-license = "N/A"
+licensor = "Ayenomoh Joseph"
+documentation-language = "en"
+function = "It's an illustration showing an office."

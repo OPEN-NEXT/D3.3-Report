@@ -1,0 +1,7 @@
+name = "Test Project"
+repo = "https://wikifactory.com/@patricklrollinson/test-project"
+version = "20200513135027"
+spdx-license = "N/A"
+licensor = "Patrick Rollinson"
+documentation-language = "en"
+function = "This is a test project"

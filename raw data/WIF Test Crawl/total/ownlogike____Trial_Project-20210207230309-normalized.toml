@@ -1,0 +1,7 @@
+name = "Trial Project"
+repo = "https://wikifactory.com/@ownlogike/trial-project"
+version = "20210207230309"
+spdx-license = "N/A"
+licensor = "Fernando Soriano Jr."
+documentation-language = "en"
+function = "Trial Project to test platform"

@@ -1,0 +1,13 @@
+name = "GROUNDS®"
+repo = "https://wikifactory.com/@alexwitty/a-world-without-waste"
+version = "20210121134118"
+spdx-license = "N/A"
+licensor = "Alex Witty"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjI1ODk="
+function = "How might me design future products in order to create world without waste"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQzMTA="
+mimetype = "text/markdown"
+

@@ -1,0 +1,13 @@
+name = "Beautifying the Community"
+repo = "https://wikifactory.com/@meganjay/beautifying-the-community"
+version = "20200515093914"
+spdx-license = "N/A"
+licensor = "Megan Stratford"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzEyMTM="
+function = "This project explores how we could all take more responsibility for the appearance of our communities, what we can do to both add or maintain beauty within it. Furthermore this project delves into the idea of community, what community means to us and how it is changing during a worldwide pandemic."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE3OTc="
+mimetype = "text/markdown"
+

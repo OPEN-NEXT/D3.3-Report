@@ -1,0 +1,7 @@
+name = "Telescope"
+repo = "https://wikifactory.com/@fatmaabdalltif/telescope"
+version = "20201111112417"
+spdx-license = "N/A"
+licensor = "fatma abdalltif"
+documentation-language = "en"
+function = "Telescope for view moon and mars"

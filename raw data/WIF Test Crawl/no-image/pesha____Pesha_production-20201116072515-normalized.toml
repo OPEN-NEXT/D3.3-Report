@@ -1,0 +1,7 @@
+name = "Pesha production"
+repo = "https://wikifactory.com/@pesha/pesha-production"
+version = "20201116072515"
+spdx-license = "N/A"
+licensor = "Ewald Ileka"
+documentation-language = "en"
+function = "Video manufacturing"

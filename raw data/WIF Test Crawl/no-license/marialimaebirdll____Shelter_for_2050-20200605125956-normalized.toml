@@ -1,0 +1,48 @@
+name = "Shelter for 2050"
+repo = "https://wikifactory.com/@marialimaebirdll/shelter-for-2050"
+version = "20200605125956"
+spdx-license = "N/A"
+licensor = "Maria Lima"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTc0ODE="
+function = "This project is a proposal of a shelter to the problem of rising water levels that will have devastating consequences for 2050 and the following years. In this proposal we will show you our work process and how we arrived at our final proposal."
+[[files]]
+name = "/abrigo 2050 2semana (7).pdf FINAL"
+permalink = "https://wikifactory.com/files/RmlsZTozNjYyODQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Abrigo 2050. pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUwMzQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Abrigo para 2050.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc0NjE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/B O M-1.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjYwMDI="
+mimetype = "image/png"
+
+[[files]]
+name = "/compostor abrigo 2050 v32.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUxMjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/cozinha abrigo 2050 v18.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc0NTY="
+mimetype = "application/fusion"
+
+[[files]]
+name = "/cozinha abrigo 2050 v19.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzE2NTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/video compostor.avi"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUyMzI="
+mimetype = "video/avi"
+

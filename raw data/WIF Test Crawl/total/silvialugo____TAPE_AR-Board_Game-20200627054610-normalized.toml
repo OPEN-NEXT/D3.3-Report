@@ -1,0 +1,18 @@
+name = "TAPE AR-Board Game"
+repo = "https://wikifactory.com/@silvialugo/tape-path-arboard-game"
+version = "20200627054610"
+spdx-license = "N/A"
+licensor = "Silvia Beatriz Lugo Lugo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTIyMzM="
+function = "Can you imagine technology teaching children about compassion, or empathy and ALSO how to play safe ?!\nTAPE are multiple board games combined with Augmented reality that teaches children not only soft skills like empathy, time management, or compassion, also values like social distancing."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozOTIyMzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTIyNjI="
+mimetype = "text/plain"
+

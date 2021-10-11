@@ -1,0 +1,7 @@
+name = "Prueba"
+repo = "https://wikifactory.com/@santiblair1/prueba"
+version = "20210412003741"
+spdx-license = "N/A"
+licensor = "santiblair1"
+documentation-language = "en"
+function = "LAser"

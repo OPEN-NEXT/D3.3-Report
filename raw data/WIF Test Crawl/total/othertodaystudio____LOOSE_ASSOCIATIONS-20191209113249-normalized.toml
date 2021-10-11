@@ -1,0 +1,13 @@
+name = "LOOSE ASSOCIATIONS"
+repo = "https://wikifactory.com/@gwilym/loose"
+version = "20191209113249"
+spdx-license = "N/A"
+licensor = "Gwilym James Therin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODgzMjI="
+function = "Connect the unconnected"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODkyMzg="
+mimetype = "text/markdown"
+

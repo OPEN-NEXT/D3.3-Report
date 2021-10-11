@@ -1,0 +1,38 @@
+name = "Module ESP12 et DHT22"
+repo = "https://wikifactory.com/@laurent-marchal/passerelle-module-a"
+version = "20210219141805"
+spdx-license = "N/A"
+licensor = "MARCHAL Laurent"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1NTU3MDk="
+function = "Création d'un module d'acquisition de température et d'hygrométrie à base de ESP12."
+[[files]]
+name = "/module A Assemblage.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU3MTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Module A implantation.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU3MTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Module A schéma electrique.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU3MTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/module_A.brd"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU3MTY="
+mimetype = "application/xml"
+
+[[files]]
+name = "/module_A.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU3MTU="
+mimetype = "application/xml"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTU3Mjg="
+mimetype = "text/markdown"
+

@@ -1,0 +1,153 @@
+name = "Project North Star"
+repo = "https://wikifactory.com/@mkampik/project-north-star"
+version = "20180907164404"
+spdx-license = "N/A"
+licensor = "Maximilian Kampik"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNjkxMg=="
+function = "A (wip) mirror of the open-source hardware files comprising <a href=\"https://www.leapmotion.com/\">Leap Motion</a>'s Project <a href=\"http://blog.leapmotion.com/northstar/\">North Star AR Headset</a>. Intended to help make the visualisation of assembly files accessible to anyone. For software source files, please see Leap Motion's <a href=\"https://github.com/leapmotion/ProjectNorthStar\">github repo</a>."
+[[files]]
+name = "Mechanical/3D Prints/Headgear/3M Speedglas/adjustment_knob.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTI5NA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Headgear/3M Speedglas/hinge_3M_-_part_A.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTI5OA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Headgear/3M Speedglas/hinge_3M_-_part_A_-_FDM_Optimized.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTI5NQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Headgear/3M Speedglas/hinge_3M_-_part_B.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTI5Ng=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Headgear/3M Speedglas/hinge_3M_-_part_C.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTI5OQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Headgear/3M Speedglas/hinge_3M_-_part_D.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTI5Nw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Headgear/Miller Gen IV/hinge_miller_-_left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMwMA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Headgear/Miller Gen IV/hinge_miller_-_simple_track.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMwMQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/LICENSE.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMTI5Mw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Mechanical/3D Prints/Optics/cheek_alignment_-_left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMwNg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Optics/display_tray_-_left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMwNQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Optics/end_cap.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMwMw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Optics/endcap_wiremanage.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMwMg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Optics/optics_bracket.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMwNw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Optics/optics_bracket_-_FDM_Optimized.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMwNA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Tracking/Leap Motion Controller/halo_lid_LMC.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMwOQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Tracking/Leap Motion Controller/halo_lid_LMC_-_FDM_Optimized.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMxMA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Tracking/Leap Motion Controller/halo_LMC.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMwOA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Tracking/Leap Motion Controller/halo_LMC_-_FDM_Optimized.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMxMQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Tracking/Leap Motion Next-gen/electronics_tray.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMxNQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Tracking/Leap Motion Next-gen/halo.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMxNg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Tracking/Leap Motion Next-gen/halo_-_FDM_optimized.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMxMg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Tracking/Leap Motion Next-gen/halo_lid.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMxMw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Tracking/Leap Motion Next-gen/halo_lid_-_FDM_optimized.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMxNA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/3D Prints/Tracking/Leap Motion Next-gen/usb_strain_relief.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTMxNw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Mechanical/Assembly/LMC.step"
+permalink = "https://wikifactory.com/files/RmlsZToxMTY5OA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Mechanical/Assembly/Next-gen.step"
+permalink = "https://wikifactory.com/files/RmlsZToxMTY5OQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Mechanical/Optic_Positions.step"
+permalink = "https://wikifactory.com/files/RmlsZToxMTI4OQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Mechanical/Reflector_Definition.step"
+permalink = "https://wikifactory.com/files/RmlsZToxMTI5Mg=="
+mimetype = "application/octet-stream"
+

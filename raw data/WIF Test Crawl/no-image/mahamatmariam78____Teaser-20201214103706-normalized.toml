@@ -1,0 +1,7 @@
+name = "Teaser"
+repo = "https://wikifactory.com/@mahamatmariam78/teaser"
+version = "20201214103706"
+spdx-license = "N/A"
+licensor = "Mariam Dackou"
+documentation-language = "en"
+function = "Teaser\nHandmade teaser."

@@ -1,0 +1,23 @@
+name = "FabLab workshop 2019"
+repo = "https://wikifactory.com/@11127473/fablab-workshop-2019"
+version = "20190222110849"
+spdx-license = "N/A"
+licensor = "aoife bennett murray"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZToyNjQ4Mw=="
+function = "CNC machine joint"
+[[files]]
+name = "/japanese.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToyNjU3NA=="
+mimetype = "image/png"
+
+[[files]]
+name = "/japanese.PNG_2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToyNjU3Mg=="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNjQ3MA=="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Away"
+repo = "https://wikifactory.com/@linamonther8/away"
+version = "20200621060400"
+spdx-license = "N/A"
+licensor = "linamonther8"
+documentation-language = "en"
+function = "My project “away” aiming to social distance at todays situation, It’s based on ‘Arduino’ technology, using ultrasonic sensor to figure the distance ,and gms to send a message (alert) to your smart phone that you both are so close to together at distance."

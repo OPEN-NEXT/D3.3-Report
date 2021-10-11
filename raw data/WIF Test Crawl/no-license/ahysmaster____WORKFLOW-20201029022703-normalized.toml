@@ -1,0 +1,7 @@
+name = "WORKFLOW"
+repo = "https://wikifactory.com/@ahysmaster/workflow"
+version = "20201029022703"
+spdx-license = "N/A"
+licensor = "Miguel Ángel Cardeña Poma"
+documentation-language = "en"
+function = "Aprender BOR"

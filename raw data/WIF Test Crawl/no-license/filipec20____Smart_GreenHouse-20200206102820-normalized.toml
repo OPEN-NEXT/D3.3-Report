@@ -1,0 +1,7 @@
+name = "Smart GreenHouse"
+repo = "https://wikifactory.com/@filipec20/smart-greenhouse"
+version = "20200206102820"
+spdx-license = "N/A"
+licensor = "Filipe Cruz"
+documentation-language = "pt"
+function = "Este projeto consiste na produção de uma estufa inteligente, baseado na plantaforma arduino, com diversos sensores e um HMI de 3.6 polegadas para controlo da estufa. Também vai incluir uma shield ethernet para que a partir de um site poder controlar a estufa."

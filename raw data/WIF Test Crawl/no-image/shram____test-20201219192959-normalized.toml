@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@shram/test"
+version = "20201219192959"
+spdx-license = "N/A"
+licensor = "Srinivas Mangipudi"
+documentation-language = "en"
+function = "testing wikifactory"

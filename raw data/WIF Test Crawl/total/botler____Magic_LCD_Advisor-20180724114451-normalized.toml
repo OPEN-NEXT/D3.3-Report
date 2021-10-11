@@ -1,0 +1,18 @@
+name = "Magic LCD Advisor"
+repo = "https://wikifactory.com/@botler/magic-lcd-advisor"
+version = "20180724114451"
+spdx-license = "CC-BY-4.0"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2NzI2"
+function = "Tutorial: How to turn a normal LCD screen into your personal magic ball / medium / advisor-in-times-of-darkness / AI prophet with just some Arduino coding and a button. By Federico Guardabrazo."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo2NzE3"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo2NzI1"
+mimetype = "text/markdown"
+

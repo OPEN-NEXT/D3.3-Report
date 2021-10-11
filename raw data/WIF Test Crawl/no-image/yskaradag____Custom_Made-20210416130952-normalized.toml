@@ -1,0 +1,7 @@
+name = "Custom Made"
+repo = "https://wikifactory.com/@yskaradag/custom-made"
+version = "20210416130952"
+spdx-license = "N/A"
+licensor = "Yusuf Şevki KARADAĞ"
+documentation-language = "en"
+function = "Custom modeling and printing, make a patisserie"

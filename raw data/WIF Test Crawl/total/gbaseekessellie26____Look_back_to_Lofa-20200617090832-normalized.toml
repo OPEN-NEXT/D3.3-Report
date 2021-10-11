@@ -1,0 +1,7 @@
+name = "Look back to Lofa"
+repo = "https://wikifactory.com/@gbaseekessellie26/look-back-to-lofa"
+version = "20200617090832"
+spdx-license = "N/A"
+licensor = "gbaseekessellie26"
+documentation-language = "en"
+function = "Give you information about Lofa county and the way people live there"

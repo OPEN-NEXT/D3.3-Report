@@ -1,0 +1,7 @@
+name = "TicTacToe for disabled"
+repo = "https://wikifactory.com/@dominika/tictactoe-for-disabled"
+version = "20200904094201"
+spdx-license = "N/A"
+licensor = "Dominika Tóthová"
+documentation-language = "en"
+function = "Classic game of TicTacToe in a board version designed for sight disabled. It was made by a participant od DesignThinking course in FabLab Bratislava"

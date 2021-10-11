@@ -1,0 +1,53 @@
+name = "Cloudio"
+repo = "https://wikifactory.com/@wim/cloudio"
+version = "20180807111328"
+spdx-license = "N/A"
+licensor = "Wim Lanz"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo3MzIz"
+function = "A Cloud stands for the levitation part and I/O for input and output. Its a weather station that gets real time weather data and send it back to the cloud over a html coded homepage which gives my different light output depending on the forecast, temperature and humidity. By <a href=\"http://archive.fabacademy.org/archives/2017/fablabbcn/students/4/finalproject.html\">WIM LANZ\u200b</a>."
+[[files]]
+name = "Design/cloudfinal.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo4MTY3"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/logo.ai"
+permalink = "https://wikifactory.com/files/RmlsZTo4MTY2"
+mimetype = "application/postscript"
+
+[[files]]
+name = "Design/logoqr.ai"
+permalink = "https://wikifactory.com/files/RmlsZTo4MTY1"
+mimetype = "application/postscript"
+
+[[files]]
+name = "Electronics /PCBFinal2.brd"
+permalink = "https://wikifactory.com/files/RmlsZTo4MTYz"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics /PCBFinal.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo4MTYy"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/Climapage/DS_Store"
+permalink = "https://wikifactory.com/files/RmlsZTo4MTU0"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/Climapage/index.html"
+permalink = "https://wikifactory.com/files/RmlsZTo4MTUz"
+mimetype = "text/html"
+
+[[files]]
+name = "Programming/Wifiarduino.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo4MTUx"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDM3"
+mimetype = "text/markdown"
+

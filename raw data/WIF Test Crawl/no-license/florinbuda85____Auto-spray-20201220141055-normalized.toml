@@ -1,0 +1,7 @@
+name = "Auto-spray"
+repo = "https://wikifactory.com/@florinbuda85/auto-spray"
+version = "20201220141055"
+spdx-license = "N/A"
+licensor = "florinbuda85"
+documentation-language = "en"
+function = "An device that you'll install at the near the of your cabin to scare bears with peper spray"

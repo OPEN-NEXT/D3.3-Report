@@ -1,0 +1,23 @@
+name = "Flexible book lamp"
+repo = "https://wikifactory.com/@remy/flexible-book-lamp"
+version = "20210313170736"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Remy Ducros"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NjU3MDM="
+function = "My first attempt making a flexible PCB using the vinyl cutter."
+[[files]]
+name = "/FlexiLamp.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjU3NDA="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjU3MDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjU3NTU="
+mimetype = "text/markdown"
+

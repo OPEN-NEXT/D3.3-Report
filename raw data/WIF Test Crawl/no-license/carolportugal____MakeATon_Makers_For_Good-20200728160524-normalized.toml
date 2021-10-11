@@ -1,0 +1,13 @@
+name = "MakeATon Makers For Good"
+repo = "https://wikifactory.com/@carolportugal/makeaton-makers-for-good"
+version = "20200728160524"
+spdx-license = "N/A"
+licensor = "Carolina Alves Portugal"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MTU4Njg="
+function = "This is the Demo projec for the Make A Ton. It is an initiative by Makers for Good & Wikifactory, during the days of the FABxLive to challenge the Fablab network to design for the New Reality using digital fabrication."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTU4NjQ="
+mimetype = "text/markdown"
+

@@ -1,0 +1,13 @@
+name = "The \"Me to You\" Project"
+repo = "https://wikifactory.com/@bcronnie/the-me-to-you-project"
+version = "20200530184340"
+spdx-license = "N/A"
+licensor = "Ben Ronnie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzAxMDk="
+function = "Ben Ronnie\nOther Today Studio\nhttps://www.instagram.com/ben_ronnie_design/\nWHAT:   Sewing project made to help others during difficult times.\nHOW:   Distributed design to help others recreate this project within their home.\nWHY:   To provide comfort and support when we are unable to see our loved ones."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjk3OTY="
+mimetype = "text/markdown"
+

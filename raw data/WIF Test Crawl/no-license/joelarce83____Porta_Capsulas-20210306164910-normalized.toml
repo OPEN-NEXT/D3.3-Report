@@ -1,0 +1,7 @@
+name = "Porta Capsulas"
+repo = "https://wikifactory.com/@joelarce83/porta-capsulas"
+version = "20210306164910"
+spdx-license = "N/A"
+licensor = "joelarce83"
+documentation-language = "pt"
+function = "Estético, simple e intuitivo. Contener cápsulas de Café."

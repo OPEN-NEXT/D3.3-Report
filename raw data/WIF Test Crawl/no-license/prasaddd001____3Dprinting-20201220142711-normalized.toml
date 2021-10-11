@@ -1,0 +1,12 @@
+name = "3Dprinting"
+repo = "https://wikifactory.com/@prasaddd001/3dprinting"
+version = "20201220142711"
+spdx-license = "N/A"
+licensor = "Prasad Chinthaka"
+documentation-language = "en"
+function = "I can help you with:\n\nCreating CAD models\n2D CAD drawings with or without dimensions\n3D printing\nProviding high-quality files\n3D Modeling\nSTL file editing\n2D PDF Engineering Drawings of cad model\nMechanical Design\nSTEP, OBJ, STL, Pdf, Jpg, Png Files"
+[[files]]
+name = "/Body1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQyNDM="
+mimetype = "application/sla"
+

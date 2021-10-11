@@ -1,0 +1,7 @@
+name = "Lease abstraction"
+repo = "https://wikifactory.com/@skjjurisservices/lease-abstraction"
+version = "20210128104118"
+spdx-license = "N/A"
+licensor = "skjjurisservices"
+documentation-language = "en"
+function = "Residential and Commercial properties are leased out by real estate companies to variety of tenants by executing lease deed. Subsequent to execution of a lease deed, at times, parties execute amendment to lease for further alteration of their terms. \nhttps://www.skjjuris.com/lease-abstraction/"

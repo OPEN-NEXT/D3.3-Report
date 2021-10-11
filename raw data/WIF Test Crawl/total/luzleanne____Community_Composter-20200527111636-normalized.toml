@@ -1,0 +1,293 @@
+name = "Community Composter"
+repo = "https://wikifactory.com/@luzleanne/community-composter"
+version = "20200527111636"
+spdx-license = "N/A"
+licensor = "luzleanne"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTozNjQxNTk="
+function = "Compostor Comunitário que visa a reutilização, e consequente redução, dos resíduos sólidos produzidos em áreas urbanas. Trata-se de uma solução que passa por reduzir a atividade nos aterros, através da implementação de estratégias como a reciclagem e a compostagem."
+[[files]]
+name = "/CompostorComunitário.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQxMzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Desenhos Técnicos/DesenhoTecnico_Antecâmera.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQxNDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Desenhos Técnicos/DesenhoTecnico_Base.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQxNDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Desenhos Técnicos/DesenhoTecnico_DepósitoCentral.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQxNDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Desenhos Técnicos/DesenhoTecnico_Perna.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQxNDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Desenhos Técnicos/DesenhoTecnico_Tampa.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQxNDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "GIF/Figura20.gif"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM1NzQ="
+mimetype = "image/gif"
+
+[[files]]
+name = "GIF/Figura27.gif"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM2NTA="
+mimetype = "image/gif"
+
+[[files]]
+name = "GIF/Figura29.gif"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM2ODA="
+mimetype = "image/gif"
+
+[[files]]
+name = "Imagens/31.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjI2NDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/34.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM4MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/39.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM4MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/40.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM4MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/desenho técnico corpo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjI3MzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 8.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 9.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 10.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 11.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 12.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 13.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 14.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 15.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 16.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 17.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 18.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 19.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 20.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 21.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyNzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 22.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 23.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIyODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 24.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjI0OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 25.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjI0OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 26.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjI1MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 27.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjI1MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 28.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM2MzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 29.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM2MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 30.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM3ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 31.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM3ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 32.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM3Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 33.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM3NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 35.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM4MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 36.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM4MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 37.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM4MjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 38.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM4MjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 41.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM4MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 42.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM4NDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 43.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM4Mjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/figura 44.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjM4MzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Imagens/tabela produto.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjIxNjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ0Mjk="
+mimetype = "text/markdown"
+

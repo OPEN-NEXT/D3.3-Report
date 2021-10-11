@@ -1,0 +1,12 @@
+name = "Car - solar integration "
+repo = "https://wikifactory.com/@rainer-wenzl/car-solar-integration"
+version = "20210207135548"
+spdx-license = "N/A"
+licensor = "Rainer Wenzl"
+documentation-language = "en"
+function = "Increase of gaining battery power through two layer technique (add. pol. solar panel) of car windows moved with existing electric window lift and tow layer engine bonnet. Upper part equipped with solar panels to protect the front shield from heating in summer. Lower part  equipped with solar panels."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzcyOTg="
+mimetype = "text/markdown"
+

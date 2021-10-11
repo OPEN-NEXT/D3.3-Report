@@ -1,0 +1,18 @@
+name = "Bare"
+repo = "https://wikifactory.com/@josephine/bare"
+version = "20200108175205"
+spdx-license = "N/A"
+licensor = "Josephine Choy"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODcyMTA="
+function = "Modifying the design of soap/shampoo/conditioner bars in efforts to remove unnecessary packaging."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTAyODM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/supply chain 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODk4MDc="
+mimetype = "image/jpeg"
+

@@ -1,0 +1,93 @@
+name = "3D Printed Nutating Mixer"
+repo = "https://wikifactory.com/@jpearce/3d-printed-nutating-mixer"
+version = "20190226104125"
+spdx-license = "N/A"
+licensor = "Joshua Pearce"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNjk5NQ=="
+function = "3-D printable open source desktop nutating mixer, which provides a fixed 20° platform tilt angle for a gentle three-dimensional (gyrating) agitation of chemical or biological samples (e.g., DNA or blood samples) without foam formation."
+[[files]]
+name = "FreeCAD/Base.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAwMw=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD/Bearing_Holder.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAwNA=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD/Cover.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAwNQ=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD/Ninjaflex_Dimpled_Mat.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAwNg=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD/Ninjaflex_Slit.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAwNw=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD/Platform.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAwOA=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD/Rod.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAwOQ=="
+mimetype = "application/zip"
+
+[[files]]
+name = "/nutating_mixer_video.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAwMQ=="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Open_Source_3-D_Printed_Nutating_Mixer.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNjk5OA=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM4MDQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "STL Files/Base.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAxMQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Bearing_holder.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAxMg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Cover.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAxMw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Dimpled_mat.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAxNA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/NinjaFlex_Slit.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAxNQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Platform.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAxNg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Rod.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzAxNw=="
+mimetype = "application/sla"
+

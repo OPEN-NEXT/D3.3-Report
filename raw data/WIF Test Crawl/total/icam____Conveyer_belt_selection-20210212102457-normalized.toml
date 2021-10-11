@@ -1,0 +1,238 @@
+name = "Conveyer belt selection"
+repo = "https://wikifactory.com/@remy/conveyer-belt-selection"
+version = "20210212102457"
+spdx-license = "N/A"
+licensor = "Remy Ducros"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1OTIyMTU="
+function = "A pedagical tool to control and sort a material."
+[[files]]
+name = "3D files/3MF files/No support parts.3mf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4NTc="
+mimetype = "application/zip"
+
+[[files]]
+name = "3D files/3MF files/Support everywhere parts.3mf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4NTY="
+mimetype = "application/zip"
+
+[[files]]
+name = "3D files/3MF files/Support on plate parts.3mf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4NTU="
+mimetype = "application/zip"
+
+[[files]]
+name = "3D files/STEP Files/Ball and Beam.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM2Njk="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D files/STL Files/ALL/Alt color sensor mount x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3NDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Alt extrusion arm mount x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3Mzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Alt IR sensor mount x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3Mzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Arm part 1 x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3MzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Arm part 2 x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3MzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Arm part 3 x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3Mjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Bearing mount x6.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3MjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Box x3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3MTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Color sensor mount x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3MTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Extrusion arm mount x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3MTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Freewheel pulley x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3MTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Induction sensor mount x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3MTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/IR sensor mount x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3MTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/MDF spacer mount x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM3MDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Motor mount x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM2OTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Motor pulley x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM2OTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Raspberry mount x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM2ODg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Spacer x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM2ODY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/tensioner extrusion mount x8.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM2ODU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/ALL/Tensioner x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM2ODQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/No support/Arm part 1 x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4NDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/No support/Arm part 2 x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4NDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/No support/Arm part 3 x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4NDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/No support/Box x3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4NDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/No support/Color sensor mount x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4NDA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/No support/Extrusion arm mount x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4Mzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/No support/Induction sensor mount x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4Mzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/No support/IR sensor mount x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4Mzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/No support/MDF spacer mount x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4MzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/No support/Raspberry mount x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4MzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/No support/Spacer x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4MzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/No support/Tensioner x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4MzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/Support everywhere/Alt extrusion arm mount x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4MzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/Support everywhere/Freewheel pulley x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4MzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/Support everywhere/Motor pulley x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4MzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/Support on plate/Alt color sensor mount x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4NTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/Support on plate/Alt IR sensor mount x4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4NTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/Support on plate/Bearing mount x6.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4NTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/Support on plate/Motor mount x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4NDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D files/STL Files/Divided by build plate/Support on plate/tensioner extrusion mount x8.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4NDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzA1MzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NDAyNjY="
+mimetype = "text/markdown"
+

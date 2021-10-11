@@ -1,0 +1,7 @@
+name = "Water Level Controller"
+repo = "https://wikifactory.com/@sumithcmohan/water-level-controller"
+version = "20210115095049"
+spdx-license = "N/A"
+licensor = "Sumith C Mohan"
+documentation-language = "en"
+function = "Wireless based Water level controller using magnetic float switches."

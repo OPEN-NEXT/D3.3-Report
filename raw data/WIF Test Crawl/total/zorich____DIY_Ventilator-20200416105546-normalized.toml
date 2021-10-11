@@ -1,0 +1,7 @@
+name = "DIY Ventilator "
+repo = "https://wikifactory.com/@zorich/diy-ventilator"
+version = "20200416105546"
+spdx-license = "N/A"
+licensor = "Zorich Guia"
+documentation-language = "en"
+function = "A custom made/DIY ventilator using an Ambu Bag as an emergency/backup mechanical ventilator especially in times of Pandemic situation."

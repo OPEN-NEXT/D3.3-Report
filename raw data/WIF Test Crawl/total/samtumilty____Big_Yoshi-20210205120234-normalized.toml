@@ -1,0 +1,12 @@
+name = "Big Yoshi"
+repo = "https://wikifactory.com/@samtumilty/big-yoshi"
+version = "20210205120234"
+spdx-license = "N/A"
+licensor = "Sam2 (E3D)"
+documentation-language = "en"
+function = "he's siting there"
+[[files]]
+name = "/SWORD-TEST_PRINT (1).stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY2MzA="
+mimetype = "application/sla"
+

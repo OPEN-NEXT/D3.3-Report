@@ -1,0 +1,7 @@
+name = "Juice"
+repo = "https://wikifactory.com/@tiagomelo/juice"
+version = "20210210124216"
+spdx-license = "N/A"
+licensor = "Tiago Melo"
+documentation-language = "en"
+function = "Text summarization platform"

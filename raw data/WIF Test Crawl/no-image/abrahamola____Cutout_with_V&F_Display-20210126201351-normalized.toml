@@ -1,0 +1,7 @@
+name = "Cutout with V&F Display"
+repo = "https://wikifactory.com/@abrahamola/cutout-with-vf-display"
+version = "20210126201351"
+spdx-license = "N/A"
+licensor = "Ola Abraham"
+documentation-language = "en"
+function = "An electrical cutout is just a dumb fuse. \nBut this version is an iteration that adds some intelligence to the cutout. \nThe final product is one that  adds a voltage and frequency metering circuit with display and data logger to the cutout."

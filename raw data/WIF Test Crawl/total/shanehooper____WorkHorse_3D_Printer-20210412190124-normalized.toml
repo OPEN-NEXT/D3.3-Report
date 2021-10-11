@@ -1,0 +1,28 @@
+name = "WorkHorse 3D Printer "
+repo = "https://wikifactory.com/@shanehooper/workhorse-3d-printer"
+version = "20210412190124"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Shane Hooper"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzkyODE="
+function = "The Workhorse Printer is a large format 3d printer some friends and I have been working on for the past three years. The large 3d printer is a modular machine platform that uses lead screw driven motion with a fixed bed / moving gantry."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjQ2NDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzkzMDk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Workhorse Printer v150.f3z"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjQ2NDk="
+mimetype = "application/zip"
+
+[[files]]
+name = "/Workhorse Printer v150.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjQ2NTA="
+mimetype = "text/plain"
+

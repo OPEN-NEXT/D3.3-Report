@@ -1,0 +1,7 @@
+name = "Express wash20"
+repo = "https://wikifactory.com/@tropicanet/express-wash20"
+version = "20200519160636"
+spdx-license = "N/A"
+licensor = "Eric"
+documentation-language = "en"
+function = "washing and cleaning the hand quickly"

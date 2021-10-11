@@ -1,0 +1,63 @@
+name = "The Enable Atlas"
+repo = "https://wikifactory.com/@jonschull/the-enable-atlas"
+version = "20190321181744"
+spdx-license = "N/A"
+licensor = "Jon Schull"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDY0NzM="
+function = "<a href=\"http://kumu.io/e-NABLE\">https://kumu.io/e-NABLE</a>\nembedded in <a href=\"http://e-NABLE.org\">e-NABLE.org</a> and <a href=\"http://enablingthefuture.org/e-nable-community-chapters/\">http://enablingthefuture.org/e-nable-community-chapters/</a>\nDeveloped and maintained here. (Volunteers needed)."
+[[files]]
+name = "BadgeMap/BadgerJuly2019forScatter.ipynb"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc5Njc="
+mimetype = "text/plain"
+
+[[files]]
+name = "BadgeMap/BadgerMassagerJuly2019.ipynb"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc5Njg="
+mimetype = "text/plain"
+
+[[files]]
+name = "BadgeMap/kumu-jonschull-badgecolumns.json"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc5NjQ="
+mimetype = "application/json"
+
+[[files]]
+name = "BadgeMap/kumu-jonschull-badges-and-people-from-enable-web-central (1).json"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc5NjM="
+mimetype = "application/json"
+
+[[files]]
+name = "BadgeMap/pySheets.ipynb"
+permalink = "https://wikifactory.com/files/RmlsZToxOTU2NDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "BadgeMap/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjc5NzA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Chapter Map revisited/chapter maps workflow as of June 11 2019.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTMwMjI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Chapter Map revisited/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTczODU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Chapter Map revisited/Screen Recording 2019-06-10 at 07.46 PM.gif"
+permalink = "https://wikifactory.com/files/RmlsZToyMTMwMDE="
+mimetype = "image/gif"
+
+[[files]]
+name = "Images for Maps/PCOM.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTAyOTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTMwMjg="
+mimetype = "text/markdown"
+

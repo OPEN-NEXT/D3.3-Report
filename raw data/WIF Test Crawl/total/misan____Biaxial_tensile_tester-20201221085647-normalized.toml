@@ -1,0 +1,48 @@
+name = "Biaxial tensile tester"
+repo = "https://wikifactory.com/@misan/biaxial-tensile-tester"
+version = "20201221085647"
+spdx-license = "BAD"
+licensor = "Miguel Sanchez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0OTk0OTA="
+function = "A joint effort with my friend to build a biaxial tensile tester aimed to cultural heritage conservation."
+[[files]]
+name = "/biaxial-tester.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTk0ODE="
+mimetype = "image/png"
+
+[[files]]
+name = "/biaxial_tester.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTk0NjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electronics/wiring.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTk0NzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "firmware/firmware.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTk0NzM="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTk0ODY="
+mimetype = "text/plain"
+
+[[files]]
+name = "pcsoftware/breakTest.py"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTk0NzI="
+mimetype = "text/x-python"
+
+[[files]]
+name = "pcsoftware/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQ3NDc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQ3NTA="
+mimetype = "text/markdown"
+

@@ -1,0 +1,13 @@
+name = "Unknown"
+repo = "https://wikifactory.com/@kennychui/future-wheel"
+version = "20200323050118"
+spdx-license = "N/A"
+licensor = "Kenny Chui"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjEzNDU="
+function = "Where I explore the topic of overuse of smartphones and see potential ways of creating a product or system that help combat this."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjEzNDA="
+mimetype = "text/markdown"
+

@@ -1,0 +1,13 @@
+name = "Laser cut doggie"
+repo = "https://wikifactory.com/@hollyerthanthou/laser-cut-doggie"
+version = "20180328034212"
+spdx-license = "CC0-1.0"
+licensor = "Holly bates"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjQw"
+function = "This is my first experiment of using a laser cutter to cut seperate pieces and put them together to create a 3D model."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMjEx"
+mimetype = "text/plain"
+

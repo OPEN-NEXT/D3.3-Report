@@ -1,0 +1,13 @@
+name = "Playa Printer"
+repo = "https://wikifactory.com/@stadslabrotterdam/playa-printer"
+version = "20190904102157"
+spdx-license = "N/A"
+licensor = "Elise van Beurden"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDQyMzg="
+function = "The Playa Printer is a big 3D printer that can print with locally obtained material. For now, it's a sand printer to create objects that can be degraded and upcycled after a few days. It is an ongoing project that will be improved and used with different materials by different groups of students."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDQyMzk="
+mimetype = "text/markdown"
+

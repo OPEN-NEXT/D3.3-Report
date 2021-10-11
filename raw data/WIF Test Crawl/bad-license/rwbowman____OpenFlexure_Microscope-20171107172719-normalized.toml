@@ -1,0 +1,143 @@
+name = "OpenFlexure Microscope"
+repo = "https://wikifactory.com/@rwbowman/openflexure-microscope"
+version = "20171107172719"
+spdx-license = "BAD"
+licensor = "Richard Bowman"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTQ="
+function = "The Openflexure Microscope was the first product by <a href=\"http://www.waterscope.org/\">Waterscope</a>. It is a 3D printed open-source microscope that can be assembled in the classroom and used as an education tool for students and teachers."
+[[files]]
+name = "3D printed parts /actuator_assembly_tools.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDgx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /body_LS65-M.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDgy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /body_LS65.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDgz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /body_SS-M.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDg0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /body_SS.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDg1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /condenser_lens_tool.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDg2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /feet.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDg3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /gears.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDg4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /illumination_and_back_foot_adj_LS65.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDg5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /illumination_and_back_foot_adj_SS.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDkw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /illumination_and_back_foot_condenser_LS65.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDkx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /illumination_and_back_foot_condenser_LS75.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDky"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /just_leg_test.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /optics_c270_ownlens.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDkz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /optics_c270_rms.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /optics_picam2_pilens.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /optics_picam2_rms.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /optics_usb_M12.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /optics_usb_rms.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /picam2_board_gripper.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTAx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /picam2_lens_remover.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTAy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /picam_cover.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTAw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA4"
+mimetype = "text/markdown"
+
+[[files]]
+name = "3D printed parts /sample_clip.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts /tube_lens_tool.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTA1"
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo2NzUy"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo4NzYw"
+mimetype = "text/markdown"
+

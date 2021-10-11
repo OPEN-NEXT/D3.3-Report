@@ -1,0 +1,7 @@
+name = "pond monitoring system"
+repo = "https://wikifactory.com/@jhaashish4567/pond-monitoring-system"
+version = "20210116115039"
+spdx-license = "N/A"
+licensor = "jhaashish4567"
+documentation-language = "en"
+function = "Fish pond monitoring system to measure dissolve oxygen, dissolved ammonia, ph. and mud  present in water."

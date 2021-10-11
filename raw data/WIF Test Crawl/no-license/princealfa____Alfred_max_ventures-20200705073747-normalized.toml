@@ -1,0 +1,7 @@
+name = "Alfred max ventures"
+repo = "https://wikifactory.com/@princealfa/alfred-max-ventures"
+version = "20200705073747"
+spdx-license = "N/A"
+licensor = "Dauda Alfa"
+documentation-language = "en"
+function = "Local and international product supplier/vendor."

@@ -1,0 +1,7 @@
+name = "image detection"
+repo = "https://wikifactory.com/@guruprasadcheetha/image-detection"
+version = "20201123150732"
+spdx-license = "N/A"
+licensor = "guruprasadcheetha"
+documentation-language = "en"
+function = "image processing and detection using opencv"

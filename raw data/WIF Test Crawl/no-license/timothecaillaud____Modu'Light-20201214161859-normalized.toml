@@ -1,0 +1,23 @@
+name = "Modu'Light"
+repo = "https://wikifactory.com/@timothecaillaud/idée-modulaire"
+version = "20201214161859"
+spdx-license = "N/A"
+licensor = "timothecaillaud"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTY5Mjc="
+function = "Creation of a modular object to cover a light for children, to help them fall asleep.\nhttps://www.instagram.com/p/B9w2tQsBfei/?utm_source=ig_web_button_share_sheet"
+[[files]]
+name = "/20191128_134609.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODY1NjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191128_135820.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODY1NjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDAyMjQ="
+mimetype = "text/markdown"
+

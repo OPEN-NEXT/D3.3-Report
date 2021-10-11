@@ -1,0 +1,43 @@
+name = "Sea-Through"
+repo = "https://wikifactory.com/@veryesp/sea-through"
+version = "20201105183746"
+spdx-license = "N/A"
+licensor = "Veronica Esposito"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NjY4Njk="
+function = "“ Sea-Through “ was born during an intensive workshop at Plus X space in Brighton, experimenting with a new biomaterial, made of Sicilian sea salt, water, and flour. \nThe product highlights the translucent aspect of this new material and shows a combination of my Sicilian heritage and Brighton."
+[[files]]
+name = "/IMG_2533.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjY4NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_2548.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjY4NTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_2554.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjY4NTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_2568.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjY4NTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_2575.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjY4NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjY4Njc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Sea-Through.mov"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjY4NTc="
+mimetype = "video/quicktime"
+

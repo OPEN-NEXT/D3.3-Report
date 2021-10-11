@@ -1,0 +1,7 @@
+name = "Drone "
+repo = "https://wikifactory.com/@jordanclain/drone"
+version = "20201114200050"
+spdx-license = "N/A"
+licensor = "Sekeire Jordan clain "
+documentation-language = "en"
+function = "Its a drone I want to make powered by a lipo battery and many other components"

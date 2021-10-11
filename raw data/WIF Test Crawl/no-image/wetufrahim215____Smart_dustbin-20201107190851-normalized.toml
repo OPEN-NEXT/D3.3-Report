@@ -1,0 +1,7 @@
+name = "Smart dustbin"
+repo = "https://wikifactory.com/@wetufrahim215/smart-dustbin"
+version = "20201107190851"
+spdx-license = "N/A"
+licensor = "wetufrahim215"
+documentation-language = "en"
+function = "is a dustbin that is able to come to where you are it opens itself when it reaches you and also when it is full it informs the person and also does not open"

@@ -1,0 +1,13 @@
+name = "Ehpad-de-Demain"
+repo = "https://wikifactory.com/@uboopenfactory/ehpad-de-demain"
+version = "20201002145655"
+spdx-license = "N/A"
+licensor = "uboopenfactory"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0MDg0MTA="
+function = "Projet Ehpad de Demain du Marathon de la fondation Ildys organisée avec l'UBO Open Factory"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDU3NjE="
+mimetype = "text/markdown"
+

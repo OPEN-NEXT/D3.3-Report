@@ -1,0 +1,33 @@
+name = "Hands-free handles"
+repo = "https://wikifactory.com/@pallabshrestha/elbow-operated-tap-assist"
+version = "20200630120952"
+spdx-license = "N/A"
+licensor = "pallab"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTYyNzU="
+function = "This product is developed as a precaution to stop the spread of COVID-19 from wash taps.\nThis can be mounted over the circular head TAPs with diameter ranging from 25mm to 60mm. (CC BY-NC-SA<br />)\n\nand operated by elbow.\nThis product also can be installed in circular door knobs and operated via elbow."
+[[files]]
+name = "/ARMS.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTU3ODM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/HANDLE SUPPLEMENT.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTU3ODI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/HANDLE.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTU3ODE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/HANDS-FREE HANDLE.stp"
+permalink = "https://wikifactory.com/files/RmlsZTozOTU3Njk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTYyMjM="
+mimetype = "text/markdown"
+

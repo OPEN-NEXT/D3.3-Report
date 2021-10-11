@@ -1,0 +1,7 @@
+name = "Online psychology page "
+repo = "https://wikifactory.com/@elmaster0038/online-psychology-page"
+version = "20200920033053"
+spdx-license = "N/A"
+licensor = "elmaster0038"
+documentation-language = "en"
+function = "This online psychology page is for psychologists from different countries worldwide to give advice and therapy."

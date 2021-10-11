@@ -1,0 +1,53 @@
+name = "Ultimaker"
+repo = "https://wikifactory.com/@cparrapa/robonino"
+version = "20180912061518"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Camilo Parra Palacio"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTE1MzM="
+function = "Ultimaker pet robot (aka. Ultimakerbot) remix using the functional parts of +OttoDIY\nFor programming refer to #ottodiy\nMade by <a href>Santiago \"sdeux\"</a>"
+[[files]]
+name = "3D Printed Files/OTTO_footL_v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ2Nw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/OTTO_footR_v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ2OA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/OTTO_leg_v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ2OQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/robonino_-_brazo.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ3MA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/robonino_-_cabeza.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ3Mg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/robonino_-_cuerpo.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ3MQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Files/UltimakerRobot_support.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1MTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMTQ2Mw=="
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE1NDQ="
+mimetype = "text/markdown"
+

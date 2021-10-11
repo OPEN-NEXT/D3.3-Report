@@ -1,0 +1,17 @@
+name = "Piston  head design"
+repo = "https://wikifactory.com/@expertscad/piston-head-design"
+version = "20210126061312"
+spdx-license = "N/A"
+licensor = "Muhammad Ammar"
+documentation-language = "en"
+function = "it is a piston design of 70cc engine."
+[[files]]
+name = "/Piston Head Final.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjczMDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Piston head.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjczMDk="
+mimetype = "image/jpeg"
+

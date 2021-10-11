@@ -1,0 +1,43 @@
+name = "3D Printed Otoscope"
+repo = "https://wikifactory.com/@jpearce/3d-printed-otoscope"
+version = "20190219143249"
+spdx-license = "N/A"
+licensor = "Joshua Pearce"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNjA1Mw=="
+function = "An otoscope is simple device used in the diagnosis of ear, nose, and throat diseases."
+[[files]]
+name = "/OtoscopeBatteryCover.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNjA2MA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/OtoscopeBody.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNjA2Mg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/OtoscopeLensAssembly.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNjA2NQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/OtoscopeMountBase.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNjA2NA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/OtoscopeSpeculum.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNjA2MQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/OtoscopeSwitchCover.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNjA2Mw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNjA2Nw=="
+mimetype = "text/markdown"
+

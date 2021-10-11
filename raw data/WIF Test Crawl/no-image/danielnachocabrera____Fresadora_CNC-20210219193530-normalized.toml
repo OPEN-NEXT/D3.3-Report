@@ -1,0 +1,7 @@
+name = "Fresadora CNC"
+repo = "https://wikifactory.com/@danielnachocabrera/fresadora-cnc"
+version = "20210219193530"
+spdx-license = "N/A"
+licensor = "Daniel Cabrera"
+documentation-language = "en"
+function = "."

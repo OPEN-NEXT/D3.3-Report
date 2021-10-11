@@ -1,0 +1,7 @@
+name = "Smart tape dispenser"
+repo = "https://wikifactory.com/@wikifactoryhelpcent/smart-tape-dispenser"
+version = "20201221122649"
+spdx-license = "N/A"
+licensor = "Help Center"
+documentation-language = "af"
+function = "Arduino-powered tape dispenser"

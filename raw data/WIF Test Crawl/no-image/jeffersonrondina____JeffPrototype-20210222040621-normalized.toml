@@ -1,0 +1,7 @@
+name = "JeffPrototype"
+repo = "https://wikifactory.com/@jeffersonrondina/jeffprototype"
+version = "20210222040621"
+spdx-license = "N/A"
+licensor = "Jefferson Rondina"
+documentation-language = "en"
+function = "It is a project development about planting/gardening. This prototype will be used in thesis presentation."

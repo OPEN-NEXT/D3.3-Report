@@ -1,0 +1,158 @@
+name = "OTTO TALL REMIX -advanced"
+repo = "https://wikifactory.com/@cadcygnus/otto-tall-remix"
+version = "20200811002937"
+spdx-license = "N/A"
+licensor = "Bill SCHONFELDER"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MjA3MzU="
+function = "Otto Tall can will do everything that the basic Otto does, with motors + touch and sound sensor, RGB eyes, and a LED matrix programmable mouth. It has a broader way of interaction and control.  This Otto tall does have the ultrasound sensor on the bottom of the body."
+[[files]]
+name = "Instructions PDF/BDS OTTO TALL_Page_01.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4NDI="
+mimetype = "image/png"
+
+[[files]]
+name = "Instructions PDF/BDS OTTO TALL_Page_02.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4NDE="
+mimetype = "image/png"
+
+[[files]]
+name = "Instructions PDF/BDS OTTO TALL_Page_03.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4NDA="
+mimetype = "image/png"
+
+[[files]]
+name = "Instructions PDF/BDS OTTO TALL_Page_04.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4Mzk="
+mimetype = "image/png"
+
+[[files]]
+name = "Instructions PDF/BDS OTTO TALL_Page_05.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4Mzg="
+mimetype = "image/png"
+
+[[files]]
+name = "Instructions PDF/BDS OTTO TALL_Page_06.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4Mzc="
+mimetype = "image/png"
+
+[[files]]
+name = "Instructions PDF/BDS OTTO TALL_Page_07.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4MzY="
+mimetype = "image/png"
+
+[[files]]
+name = "Instructions PDF/BDS OTTO TALL_Page_08.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4MzU="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4NTE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Renders/Otto Tall beige back profile.bmp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4MzI="
+mimetype = "image/bmp"
+
+[[files]]
+name = "Renders/Otto Tall beige front profile.bmp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4MzE="
+mimetype = "image/bmp"
+
+[[files]]
+name = "Renders/Otto Tall beige side profile.bmp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4MzQ="
+mimetype = "image/bmp"
+
+[[files]]
+name = "Renders/Otto Tall beige unit.bmp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4MzM="
+mimetype = "image/bmp"
+
+[[files]]
+name = "STL files/OT Battery Door.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3NDA="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT BLT Speaker brace (2).stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3Mzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT BLT Speaker rail (2) mirror.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3Mzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT BLT Spearker bowl.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3NTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT Body Bottom.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3NTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT Center Section Body.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3NTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT Floor.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3NDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT Foot (2).stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3NDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT Hand Servo control horn (2).stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3NDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT Head.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3NDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT Hinge (2).stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3NDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT Leg (2) mirror.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3NDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT Shoulder (2) mirror.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3NDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT Side Arm (2) mirror.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3NDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/OT Switch Cover.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA3NDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4MTA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Wiring Diagram /Otto tall robot wiring diagram.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjA4NDU="
+mimetype = "image/jpeg"
+

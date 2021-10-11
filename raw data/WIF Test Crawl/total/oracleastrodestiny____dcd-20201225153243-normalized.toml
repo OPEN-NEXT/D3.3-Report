@@ -1,0 +1,7 @@
+name = "dcd"
+repo = "https://wikifactory.com/@oracleastrodestiny/dcd"
+version = "20201225153243"
+spdx-license = "N/A"
+licensor = "oracleastrodestiny"
+documentation-language = "en"
+function = "dddd"

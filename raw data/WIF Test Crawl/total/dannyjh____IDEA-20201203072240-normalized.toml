@@ -1,0 +1,7 @@
+name = "IDEA"
+repo = "https://wikifactory.com/@dannyjh/idea"
+version = "20201203072240"
+spdx-license = "N/A"
+licensor = "dannyjh"
+documentation-language = "en"
+function = "Prueba"

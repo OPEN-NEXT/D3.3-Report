@@ -1,0 +1,7 @@
+name = "Trash to cash"
+repo = "https://wikifactory.com/@royette/trash-to-cash"
+version = "20200629135809"
+spdx-license = "N/A"
+licensor = "Royette cooke"
+documentation-language = "en"
+function = "Designing moulds for injectors that can be used to turn discarded plastics into usable items"

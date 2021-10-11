@@ -1,0 +1,7 @@
+name = "Project FLY - uFoxJet"
+repo = "https://wikifactory.com/@markdejongeu/project-fly-ufoxjet"
+version = "20210326205625"
+spdx-license = "N/A"
+licensor = "Mark"
+documentation-language = "en"
+function = "https://www.ufoxjet.com"

@@ -1,0 +1,7 @@
+name = "New project"
+repo = "https://wikifactory.com/@jaguadoarias/new-project"
+version = "20200423104651"
+spdx-license = "N/A"
+licensor = "Javier Aguado Arias"
+documentation-language = "en"
+function = "This is a new project"

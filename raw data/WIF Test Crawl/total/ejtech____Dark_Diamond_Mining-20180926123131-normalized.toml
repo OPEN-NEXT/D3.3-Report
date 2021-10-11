@@ -1,0 +1,18 @@
+name = "Dark Diamond Mining"
+repo = "https://wikifactory.com/@ejtech/dark-diamond-mining"
+version = "20180926123131"
+spdx-license = "CC0-1.0"
+licensor = "EJTECH"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjg2Mw=="
+function = "Home grown conductive crystals"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMjg2MQ=="
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMjg3OQ=="
+mimetype = "text/markdown"
+

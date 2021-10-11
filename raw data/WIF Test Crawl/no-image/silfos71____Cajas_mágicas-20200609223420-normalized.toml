@@ -1,0 +1,7 @@
+name = "Cajas mágicas"
+repo = "https://wikifactory.com/@silfos71/cajas-mágicas"
+version = "20200609223420"
+spdx-license = "N/A"
+licensor = "Hildebrando Franco"
+documentation-language = "es"
+function = "Cajas para guardar dados con un fino trabajo de grabado celta con el nombre de cada comprador."

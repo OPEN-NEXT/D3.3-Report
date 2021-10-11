@@ -1,0 +1,33 @@
+name = "Alquimétricos connectors"
+repo = "https://wikifactory.com/@ferdaguanno/alquimétricos-connectors"
+version = "20200409023122"
+spdx-license = "N/A"
+licensor = "ferdaguanno"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDEzMjY="
+function = "Alquimétricos DIY flexible connectors are a simple but powerfull STEAM educational resource targeted specially for vulnerable communities\nA simple set of hexagon and pentagon pieces allows to build geodesic structures any anything else you can imagine."
+[[files]]
+name = "/DY die cutter press.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyNDQxNjQ="
+mimetype = "SKP"
+
+[[files]]
+name = "/hex eva10mm.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDQxMzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Parametric Alquimétricos connector.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNDQxMzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzI1NzM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/sacabocados.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyNDQxNzI="
+mimetype = "SKP"
+

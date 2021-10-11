@@ -1,0 +1,8 @@
+name = "DIY syringe pump"
+repo = "https://wikifactory.com/@davidonet/diy-syringe-pump"
+version = "20200117152219"
+spdx-license = "N/A"
+licensor = "david olivari"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyOTkwNTk="
+function = "A complete DIY syringue pump controlled by RPI with stepper and position control"

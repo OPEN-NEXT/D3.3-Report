@@ -1,0 +1,7 @@
+name = "Software Development "
+repo = "https://wikifactory.com/@lyterpro24/software-development"
+version = "20201115092552"
+spdx-license = "N/A"
+licensor = "lyterpro24"
+documentation-language = "en"
+function = "1). Software Systems for companies, organization, institutes etc\n2). Desktop Apps for problem solving, security,\n3). Penetration Testing to secure systems by fixing loopholes\n4). Embedded Systems"

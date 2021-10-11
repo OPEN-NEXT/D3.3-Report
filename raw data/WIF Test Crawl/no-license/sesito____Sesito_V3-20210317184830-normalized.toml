@@ -1,0 +1,7 @@
+name = "Sesito V3"
+repo = "https://wikifactory.com/@sesito/sesito-v3"
+version = "20210317184830"
+spdx-license = "N/A"
+licensor = "Sesito"
+documentation-language = "en"
+function = "Education Project"

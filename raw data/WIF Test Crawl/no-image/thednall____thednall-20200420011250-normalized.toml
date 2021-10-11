@@ -1,0 +1,7 @@
+name = "thednall"
+repo = "https://wikifactory.com/@thednall/thednall"
+version = "20200420011250"
+spdx-license = "N/A"
+licensor = "Zhen Yu"
+documentation-language = "en"
+function = "DNA Laboratory Limited is operating according to the ISO 17025 standard and guideline (ISO / IEC 17025 General requirements for the competence of testing and calibration laboratories) to ensure the highest level of quality.<br />\n\nClick Here: https://www.thednall.com/"

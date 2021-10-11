@@ -1,0 +1,7 @@
+name = "ArcExterior "
+repo = "https://wikifactory.com/@aimarc3d/arcexterior"
+version = "20200110042756"
+spdx-license = "N/A"
+licensor = "Ash"
+documentation-language = "ca"
+function = "exterior \ufeffdesign"

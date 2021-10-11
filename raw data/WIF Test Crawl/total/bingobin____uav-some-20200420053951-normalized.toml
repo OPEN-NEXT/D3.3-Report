@@ -1,0 +1,7 @@
+name = "uav-some"
+repo = "https://wikifactory.com/@bingobin/uav-some"
+version = "20200420053951"
+spdx-license = "N/A"
+licensor = "LiangWei"
+documentation-language = "en"
+function = "四旋翼无人机结构设计"

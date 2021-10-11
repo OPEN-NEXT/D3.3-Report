@@ -1,0 +1,18 @@
+name = "Open Energy Monitor"
+repo = "https://wikifactory.com/@botler/open-energy-monitor"
+version = "20190311111110"
+spdx-license = "CC-BY-4.0"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDIyMTg="
+function = "The OpenEnergyMonitor system has the capability to monitor electrical energy use / generation, temperature and humidity."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDIyMTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDIyMTk="
+mimetype = "text/markdown"
+

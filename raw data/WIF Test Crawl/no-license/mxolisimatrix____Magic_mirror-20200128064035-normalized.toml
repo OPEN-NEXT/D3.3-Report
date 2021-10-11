@@ -1,0 +1,7 @@
+name = "Magic mirror "
+repo = "https://wikifactory.com/@mxolisimatrix/magic-mirror"
+version = "20200128064035"
+spdx-license = "N/A"
+licensor = "Mxolisi Phandliwe I "
+documentation-language = "tl"
+function = "making \ufeffa magic mirror"

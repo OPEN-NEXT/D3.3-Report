@@ -1,0 +1,7 @@
+name = "Motorcycle rear set"
+repo = "https://wikifactory.com/@javacnc/motorcycle-rear-set"
+version = "20201218030621"
+spdx-license = "N/A"
+licensor = "Andry Cahya"
+documentation-language = "en"
+function = "Motorcycle racing rear set"

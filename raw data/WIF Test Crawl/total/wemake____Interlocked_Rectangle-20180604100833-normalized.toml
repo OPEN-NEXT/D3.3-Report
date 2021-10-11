@@ -1,0 +1,23 @@
+name = "Interlocked Rectangle "
+repo = "https://wikifactory.com/@zoe/interlocked-rectangle"
+version = "20180604100833"
+spdx-license = "CC-BY-4.0"
+licensor = "Zoe Romano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzM0"
+function = "Part of the Modular Fashion initiative at <a href=\"www.wikifactory.com/+wemake\">WeMake</a>. Rectangular felt module that interlocks to create various geometric designs"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMjg4"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0Nzcw"
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Rounded Square.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjg5"
+mimetype = "image/svg+xml"
+

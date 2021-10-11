@@ -1,0 +1,7 @@
+name = "bbvv"
+repo = "https://wikifactory.com/@litlbig/bbvv"
+version = "20200225230558"
+spdx-license = "N/A"
+licensor = "litlbig"
+documentation-language = "en"
+function = "test"

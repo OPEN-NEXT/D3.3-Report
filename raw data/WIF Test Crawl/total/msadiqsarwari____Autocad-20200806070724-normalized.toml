@@ -1,0 +1,7 @@
+name = "Autocad"
+repo = "https://wikifactory.com/@msadiqsarwari/autocad"
+version = "20200806070724"
+spdx-license = "N/A"
+licensor = "Msadiqsarwari"
+documentation-language = "en"
+function = "A"

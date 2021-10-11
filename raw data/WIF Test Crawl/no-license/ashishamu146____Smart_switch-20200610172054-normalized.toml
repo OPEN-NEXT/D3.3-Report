@@ -1,0 +1,7 @@
+name = "Smart switch"
+repo = "https://wikifactory.com/@ashishamu146/smart-switch"
+version = "20200610172054"
+spdx-license = "N/A"
+licensor = "ashishamu146"
+documentation-language = "en"
+function = "Smart wifi switch with 5 channel & 2 Amp. Rating.   Mqtt & HTTP support."

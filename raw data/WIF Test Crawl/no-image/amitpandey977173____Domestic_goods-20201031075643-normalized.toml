@@ -1,0 +1,7 @@
+name = "Domestic goods"
+repo = "https://wikifactory.com/@amitpandey977173/domestic-goods"
+version = "20201031075643"
+spdx-license = "N/A"
+licensor = "amitpandey977173"
+documentation-language = "fr"
+function = "Chair table etc"

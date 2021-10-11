@@ -1,0 +1,13 @@
+name = "dpa-Project \"HOME\""
+repo = "https://wikifactory.com/@konstantin/dpa-project-home"
+version = "20200617000552"
+spdx-license = "N/A"
+licensor = "konstantin_stam*os"
+documentation-language = "de"
+image = "https://wikifactory.com/files/RmlsZTozODI3ODY="
+function = "Projektaufgabe HOME: wir sollen in der Gruppe etwas entwickeln was mit \"Home\" zu tun hat.\n<ul><li>Das kann von reiner Dekoration bis hinzu nützlichen Tools reichen.\n</li><li>Unsere ersten Ideen zB.: \n</li><li>kontaktloser Wasserhahn,  \n</li><li>Raumklimaüberwachung, \n</li><li>Digitales Kochbuch mit extra Funktionen \n</li><li>und einen \"smarten\" Spiegel \n</li></ul>"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODI4ODc="
+mimetype = "text/markdown"
+

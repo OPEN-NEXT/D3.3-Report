@@ -1,0 +1,7 @@
+name = "Green energy"
+repo = "https://wikifactory.com/@turiluis/green-energy"
+version = "20200615174738"
+spdx-license = "N/A"
+licensor = "turiluis"
+documentation-language = "en"
+function = "We are working to develope devices for energy efficiency in the house and green energy production. Including wind and geotérmic energy, passive house and iot"

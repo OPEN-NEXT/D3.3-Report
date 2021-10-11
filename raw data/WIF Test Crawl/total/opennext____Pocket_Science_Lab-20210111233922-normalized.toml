@@ -1,0 +1,13 @@
+name = "Pocket Science Lab"
+repo = "https://wikifactory.com/@mariobehling/pocket-science-lab"
+version = "20210111233922"
+spdx-license = "N/A"
+licensor = "Mario Berlin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTcwODY="
+function = "The Open Source PSLab board is a small USB powered hardware extension for your Android phone or PC that adds additional sensor capabilities to your phone and enables you to connect to possibly hundreds of available sensors. Simply connect two wires to the relevant pins and start measuring."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcxMTA="
+mimetype = "text/markdown"
+

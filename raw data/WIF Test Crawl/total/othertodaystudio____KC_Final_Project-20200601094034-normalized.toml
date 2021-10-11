@@ -1,0 +1,28 @@
+name = "KC Final Project"
+repo = "https://wikifactory.com/@kennychui/kc-final-project"
+version = "20200601094034"
+spdx-license = "N/A"
+licensor = "Kenny Chui"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNjk1NDI="
+function = "Holo is an alternative way of digital down time for users that helps reduce the antisocial use of smartphones in traditional social environment. It utilises the users smartphones that helps create a beautiful visual effect that draws the attention where people can admire and socialise."
+[[files]]
+name = "/B.O.M (2).pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzAzNjU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Bill Of Material - Sheet1 (1).pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjMxNDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/development.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjk1ODI="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA3NjE="
+mimetype = "text/markdown"
+

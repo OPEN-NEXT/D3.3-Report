@@ -1,0 +1,7 @@
+name = "Prolab LIS"
+repo = "https://wikifactory.com/@ayoubb/prolab-lis"
+version = "20210315154421"
+spdx-license = "N/A"
+licensor = "Ayoub BENSAKHRIA"
+documentation-language = "fr"
+function = "Progiciel de gestion de laboratoire d'analyses médicales"

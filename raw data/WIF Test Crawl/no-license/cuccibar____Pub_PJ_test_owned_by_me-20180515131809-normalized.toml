@@ -1,0 +1,18 @@
+name = "Pub PJ test owned by me"
+repo = "https://wikifactory.com/@cuccibar/pub-pj-test-owned-by-me"
+version = "20180515131809"
+spdx-license = "N/A"
+licensor = "Sabina Barcucci"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxODk5"
+function = "I test platform behaviour by creating a project public and owned by myself."
+[[files]]
+name = "/Domande (1).pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxODk3"
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Domande (3).pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxODk4"
+mimetype = "application/pdf"
+

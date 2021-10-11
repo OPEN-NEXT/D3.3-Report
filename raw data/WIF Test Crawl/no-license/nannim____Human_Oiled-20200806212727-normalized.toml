@@ -1,0 +1,7 @@
+name = "Human Oiled"
+repo = "https://wikifactory.com/@nannim/human-oiled"
+version = "20200806212727"
+spdx-license = "N/A"
+licensor = "Nannim David Dandam"
+documentation-language = "en"
+function = "The one humanoid to rule them all."

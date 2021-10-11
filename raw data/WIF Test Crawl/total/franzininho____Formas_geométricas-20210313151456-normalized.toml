@@ -1,0 +1,13 @@
+name = "Formas geométricas "
+repo = "https://wikifactory.com/@dianasantosip/formas-geométricas"
+version = "20210313151456"
+spdx-license = "N/A"
+licensor = "Diana"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTo1NjU2ODQ="
+function = "Atividade Formas Geométricas\nNesta atividade os alunos devem criar formas geométricas a partir de um papelão com formato das formas citadas. Vamos trabalhar com 4 formas nesta atividade, mas você pode desafiar seus alunos a criarem outras."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjU2ODE="
+mimetype = "text/markdown"
+

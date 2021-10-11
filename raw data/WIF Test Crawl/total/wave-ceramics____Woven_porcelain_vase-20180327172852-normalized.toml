@@ -1,0 +1,8 @@
+name = "Woven porcelain vase"
+repo = "https://wikifactory.com/@juan/woven-porcelain-vase"
+version = "20180327172852"
+spdx-license = "N/A"
+licensor = "Juan Mazzuchelli"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjA2"
+function = "Vase made of porcelain through 3D printing technique that takes advantage of controlled vibrations in printing process to generate an irregular texture."

@@ -1,0 +1,7 @@
+name = "giannis"
+repo = "https://wikifactory.com/@giannisth2004/giannis"
+version = "20191229065150"
+spdx-license = "N/A"
+licensor = "Giannis Thanos"
+documentation-language = "no"
+function = "first \ufeffset"

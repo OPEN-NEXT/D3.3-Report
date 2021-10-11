@@ -1,0 +1,243 @@
+name = "Adaptation La Bonne Paye"
+repo = "https://wikifactory.com/@mcariou/adaptation-la-bonne-paye"
+version = "20201028150421"
+spdx-license = "N/A"
+licensor = "Mathieu Cariou"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0NTc4MTY="
+function = "Adaptation du jeu de société la bonne paye pour personnes en déficience visuelle"
+[[files]]
+name = "/20201026_134449.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc4MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201026_150432.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201026_150524 (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201026_150538 (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201026_150608 (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201026_150636 (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201026_150711 (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201026_165903.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201027_092558.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20201027_092627.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Arduino_mp3/ArduinoLibraryToAdd.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkzNTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Arduino_mp3/drive-download-20201028T144042Z-001.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkzNTg="
+mimetype = "application/zip"
+
+[[files]]
+name = "Arduino_mp3/mp3_somo_buttons.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTkzNTY="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/IMG_20201026_160948302.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTY3MzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201027_095546.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczNzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201027_104426.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczNzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201027_104625.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczNzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201027_104644.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczNzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201027_111506.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc1Mjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201027_111519.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc1MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201027_114225.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc1MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201027_114754.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc1Mjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201027_134713.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc1MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201027_150105.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc1OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_20201027_154727.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc3MDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_150432.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc0MDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_150440.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTY3MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_150524 (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc0MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_150524.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTY3MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_150538 (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc0MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_150538.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTY3MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_150608 (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTc0MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_150608.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTY3MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_150636 (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczOTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_150636.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTY3MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_150711 (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczOTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_150711.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTY3MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_150742.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTY3MDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_151414.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTY3MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201026_165903.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczOTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201027_092558.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczOTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/20201027_092627.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczOTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/IMG_20201027_095546.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczOTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/IMG_20201027_104426.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczOTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/IMG_20201027_104625.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczOTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "PHOTOS/IMG_20201027_104644.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTczOTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk0Mjc="
+mimetype = "text/markdown"
+

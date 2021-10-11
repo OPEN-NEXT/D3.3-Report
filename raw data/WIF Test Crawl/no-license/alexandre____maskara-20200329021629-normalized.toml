@@ -1,0 +1,28 @@
+name = "maskara"
+repo = "https://wikifactory.com/@alexandre/maskara"
+version = "20200329021629"
+spdx-license = "N/A"
+licensor = "Alexandre Acsensi"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjM4NDU="
+function = "DIY mask from an individual acetate A4 sheet with a cutting plotter."
+[[files]]
+name = "/maskarav00.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwMTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/maskarav01.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjQ5NjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/maskarav02.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjU0NjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjU0NTg="
+mimetype = "text/markdown"
+

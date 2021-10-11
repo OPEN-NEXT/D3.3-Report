@@ -1,0 +1,7 @@
+name = "Symbiotic"
+repo = "https://wikifactory.com/@saraalvarez/symbiotic"
+version = "20210415093546"
+spdx-license = "N/A"
+licensor = "Sara Alvarez Vinagre"
+documentation-language = "en"
+function = "Classic looking 3D printed shoes"

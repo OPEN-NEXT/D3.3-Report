@@ -1,0 +1,48 @@
+name = "Karavan des Océans"
+repo = "https://wikifactory.com/@konkarlab/karavaneocean"
+version = "20210322132805"
+spdx-license = "N/A"
+licensor = "konkarlab"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1NjM3Mzg="
+function = "Dispositif mobile de sensibilisation sur les océans.\nPorté par le Fond de Dotation Explore et Konk Ar Lab.\nCo-construit et mutalisé avec des acteurs locaux de sensibilisation à l'océan : Cap vers la Nature, Plages vivantes, Rehab, Captain Darwin..."
+[[files]]
+name = "Box sensibilisation/Contours box_e10.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzEyMDM="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Box sensibilisation/Loquet femelle.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzEyMDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Box sensibilisation/Loquet Mâle.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzEyMDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Box sensibilisation/Support cloison_5mm.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzEyMjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "Box sensibilisation/support pied rangement.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzEyMTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "Box sensibilisation/Support pied.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzExOTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Karavan des Océans_Présentation_v5_light.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjgwNzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzAwMTA="
+mimetype = "text/markdown"
+

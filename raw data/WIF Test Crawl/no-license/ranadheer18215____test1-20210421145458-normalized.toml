@@ -1,0 +1,7 @@
+name = "test1"
+repo = "https://wikifactory.com/@ranadheer18215/test1"
+version = "20210421145458"
+spdx-license = "N/A"
+licensor = "Ranadheer Beeravelli"
+documentation-language = "en"
+function = "jfa"

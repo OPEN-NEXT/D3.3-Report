@@ -1,0 +1,7 @@
+name = "Bottles Filling Machine "
+repo = "https://wikifactory.com/@paaray/bottles-filling-machine"
+version = "20200314100643"
+spdx-license = "N/A"
+licensor = "Raymond Owusu"
+documentation-language = "en"
+function = "A bottle filling machine to be used by small scale businesses to package their products. \nIt uses a pump with flow meter to deliver accurate amount of product."

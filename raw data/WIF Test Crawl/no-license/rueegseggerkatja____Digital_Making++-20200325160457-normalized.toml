@@ -1,0 +1,22 @@
+name = "Digital Making++"
+repo = "https://wikifactory.com/@rueegseggerkatja/digital-making"
+version = "20200325160457"
+spdx-license = "N/A"
+licensor = "rueegseggerkatja"
+documentation-language = "en"
+function = "Communication during Social Distance for young kids\nGroup Nr 5"
+[[files]]
+name = "/72acbd08b0a9141188ec55c0d9b178ea.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjM3Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjM3NTk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Screen Shot 2020-03-25 at 13.10.56.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMjM3NjA="
+mimetype = "image/png"
+

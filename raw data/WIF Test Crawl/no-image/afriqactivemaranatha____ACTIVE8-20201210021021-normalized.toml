@@ -1,0 +1,12 @@
+name = "ACTIVE8"
+repo = "https://wikifactory.com/@afriqactivemaranatha/active8"
+version = "20201210021021"
+spdx-license = "N/A"
+licensor = "joel livingstone"
+documentation-language = "en"
+function = "Alternative Curative Therapies Involving Vege-fruital Extracts"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTczMjU="
+mimetype = "text/markdown"
+

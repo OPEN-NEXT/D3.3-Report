@@ -1,0 +1,13 @@
+name = "Phone Stand "
+repo = "https://wikifactory.com/@erabhisheksingh17/phone-stand"
+version = "20210223193933"
+spdx-license = "N/A"
+licensor = "erabhisheksingh17"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NTc3MjU="
+function = "Phone stand with amazing design for 3D printing"
+[[files]]
+name = "/mobile_holder_6.CATPart"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTc3MjA="
+mimetype = "application/octet-stream"
+

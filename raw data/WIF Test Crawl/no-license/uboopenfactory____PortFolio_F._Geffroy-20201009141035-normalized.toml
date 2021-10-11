@@ -1,0 +1,43 @@
+name = "PortFolio F. Geffroy"
+repo = "https://wikifactory.com/@yquere/portfolio-f-geffroy"
+version = "20201009141035"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0Mjk2NDQ="
+function = "PortFolio de Fabienne Geffroy. Fabienne Geffroy décrit ici son travail sur la modélisation qualitative."
+[[files]]
+name = "Photos/Table de mixage_20200904_120528.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mjk2NDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzA0OTA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Videos/Double diamant_UdD_20200228_170453.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDk0MjE="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Videos/EdutripXproject.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDk0NzM="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Videos/SplaceXproject0.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDk0ODA="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Videos/SplaceXproject2019.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDk0NzY="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Videos/Temps libre et contraint_UdD_20200113_165548.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDk0NDM="
+mimetype = "video/mp4"
+

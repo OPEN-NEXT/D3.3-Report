@@ -1,0 +1,7 @@
+name = "RemoteOperatorCB"
+repo = "https://wikifactory.com/@rguerra101/remoteoperatorcb"
+version = "20201207193235"
+spdx-license = "N/A"
+licensor = "Roberto Guerra"
+documentation-language = "en"
+function = "Provide remote command vía celular pone for avoid risk of flash arc, automate houses, offices"

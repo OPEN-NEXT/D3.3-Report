@@ -1,0 +1,7 @@
+name = "VMP EcoGlobal"
+repo = "https://wikifactory.com/@gonzalodonato/vmp-ecoglobal"
+version = "20200812085930"
+spdx-license = "N/A"
+licensor = "gonzalodonato"
+documentation-language = "es"
+function = "Vehículos de movilidad personal o VMP  El proyecto es dividir en dos módulos, su producción..\nModulo 1. eje delantero motor, columna batería, manubrio con mandos, luz, rueda trasera con freno y luz. PRODUCCIÓN CENTRALIZADA.\nModulo 2. Chasis de madera .PRODUCCIÓN  Y ENSAMBLE TOTAL DISTRIBUIDO."

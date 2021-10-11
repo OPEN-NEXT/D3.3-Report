@@ -1,0 +1,7 @@
+name = "Future Energy "
+repo = "https://wikifactory.com/@jjdp3333/future-energy"
+version = "20200524051723"
+spdx-license = "N/A"
+licensor = "jjdp3333"
+documentation-language = "en"
+function = "Renewable Energy\nMicro Grid"

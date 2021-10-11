@@ -1,0 +1,8 @@
+name = "Decaying bottles"
+repo = "https://wikifactory.com/@juan/decaying-bottles"
+version = "20180130113725"
+spdx-license = "N/A"
+licensor = "Juan Mazzuchelli"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2Mzc="
+function = "A series of 3D printed porcelain bottles deformed by virtue of experimentation with layer height and print speed properties."

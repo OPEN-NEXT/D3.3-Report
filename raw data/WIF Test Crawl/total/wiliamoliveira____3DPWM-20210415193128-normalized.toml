@@ -1,0 +1,23 @@
+name = "3DPWM"
+repo = "https://wikifactory.com/@wiliamoliveira/3dpwm"
+version = "20210415193128"
+spdx-license = "N/A"
+licensor = "William"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODIyMTA="
+function = "3D Printer"
+[[files]]
+name = "/New Text Document.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIyMDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIyMDc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/WHEELED MOBILE 3D PRINTER Overview Wikifactory.htm"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIyMDE="
+mimetype = "text/html"
+

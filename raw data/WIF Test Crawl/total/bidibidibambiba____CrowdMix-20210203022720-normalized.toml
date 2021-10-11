@@ -1,0 +1,7 @@
+name = "CrowdMix"
+repo = "https://wikifactory.com/@bidibidibambiba/crowdmix"
+version = "20210203022720"
+spdx-license = "N/A"
+licensor = "David Abraham"
+documentation-language = "en"
+function = "Building a platform that will turn music artist into companies by allowing them to be crowdfunded, hence allowing their investing fans to receive dividends."

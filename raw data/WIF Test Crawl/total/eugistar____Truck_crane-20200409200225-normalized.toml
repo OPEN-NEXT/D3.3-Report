@@ -1,0 +1,7 @@
+name = "Truck crane"
+repo = "https://wikifactory.com/@eugistar/truck-crane"
+version = "20200409200225"
+spdx-license = "N/A"
+licensor = "Evgeni Dimitrov"
+documentation-language = "en"
+function = "truck"

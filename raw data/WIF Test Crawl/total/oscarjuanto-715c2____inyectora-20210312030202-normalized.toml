@@ -1,0 +1,7 @@
+name = "inyectora"
+repo = "https://wikifactory.com/@oscarjuanto-715c2/inyectora"
+version = "20210312030202"
+spdx-license = "N/A"
+licensor = "oscarjuanto"
+documentation-language = "en"
+function = "inyectora plastico"

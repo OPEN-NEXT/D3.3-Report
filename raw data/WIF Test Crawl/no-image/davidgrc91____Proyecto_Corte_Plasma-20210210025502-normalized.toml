@@ -1,0 +1,7 @@
+name = "Proyecto Corte Plasma"
+repo = "https://wikifactory.com/@davidgrc91/proyecto-corte-plasma"
+version = "20210210025502"
+spdx-license = "N/A"
+licensor = "davidgrc91"
+documentation-language = "es"
+function = "Proyecto de prueba en plataforama, posibilidades de colaboración"

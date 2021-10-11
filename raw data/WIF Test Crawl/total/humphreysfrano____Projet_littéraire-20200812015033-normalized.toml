@@ -1,0 +1,7 @@
+name = "Projet littéraire"
+repo = "https://wikifactory.com/@humphreysfrano/projet-littéraire"
+version = "20200812015033"
+spdx-license = "N/A"
+licensor = "humphreysfrano"
+documentation-language = "en"
+function = "Écrit"

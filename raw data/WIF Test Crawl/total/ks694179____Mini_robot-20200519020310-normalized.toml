@@ -1,0 +1,7 @@
+name = "Mini robot"
+repo = "https://wikifactory.com/@ks694179/mini-robot"
+version = "20200519020310"
+spdx-license = "N/A"
+licensor = "ks694179"
+documentation-language = "en"
+function = "I want create mini robot can talk with human or understand"

@@ -1,0 +1,13 @@
+name = "Pechu Kucha"
+repo = "https://wikifactory.com/@abuazharahmed/pechu-kucha-f52df"
+version = "20200106010517"
+spdx-license = "N/A"
+licensor = "Azhar Ahmed"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyOTYwMjc="
+function = "A story told through Pechu Kucha - By Azhar Ahmed"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYxNzU="
+mimetype = "text/markdown"
+

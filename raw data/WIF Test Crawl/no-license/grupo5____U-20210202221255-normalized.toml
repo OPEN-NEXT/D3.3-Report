@@ -1,0 +1,108 @@
+name = "U"
+repo = "https://wikifactory.com/@nunosilva/exercício-3"
+version = "20210202221255"
+spdx-license = "N/A"
+licensor = "Nuno Silva"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTo1MzM5NDg="
+function = "Construção de uma peça  em formato de \"u\" para mais tarde ser produzido em série e utilizado para várias possíveis construções  livres."
+[[files]]
+name = "/ Instruções.md "
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MDI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Conceito.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk0OTY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/exercicio3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/planificação.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk0NjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "processo/notas/121291404_817345139033058_7577979557787573845_n.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1Mjc="
+mimetype = "image/png"
+
+[[files]]
+name = "processo/notas/131151802_1136043480132260_6341904455540965738_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processo/notas/131355456_167339751762227_5972096736234810656_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processo/notas/138288699_434481747698307_7615447159538417850_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processo/notas/138675201_143098264287178_4695009684011870923_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processo/notas/138882294_162553475326620_1919662809839369791_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processo/notas/139040466_830966950798216_4886427053380927989_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processo/notas/139069083_711938969510243_7409352251052455701_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processo/notas/IMG_20201215_112529.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processo/Peça de encaixe.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "processo/referências/107811891_283894339340824_4710971767143888936_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "processo/referências/123404664_359481458653345_5550363926707964538_n.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MTY="
+mimetype = "image/png"
+
+[[files]]
+name = "processo/referências/123449418_3419614728126705_1028684310164965651_n.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MTU="
+mimetype = "image/png"
+
+[[files]]
+name = "processo/referências/123656196_1088078118272466_8022161252656753397_n.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTk1MTI="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ0Nzk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/u cnc.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQyMzk="
+mimetype = "text/plain"
+

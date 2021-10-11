@@ -1,0 +1,7 @@
+name = "Automated Window "
+repo = "https://wikifactory.com/@blessings-zoko/automated-window"
+version = "20201117133133"
+spdx-license = "N/A"
+licensor = "Blessings Zoko"
+documentation-language = "en"
+function = "The heat from the sun is focused, by a lens, on a bimetal strip. The bimetal strip swap wires connecting between a battery and a motor to make the motor move either clockwise or anti-clockwise. On the motor, are mounted magnets for sliding the window to and from."

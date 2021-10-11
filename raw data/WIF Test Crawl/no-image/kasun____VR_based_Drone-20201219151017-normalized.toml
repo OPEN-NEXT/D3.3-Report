@@ -1,0 +1,7 @@
+name = "VR based Drone "
+repo = "https://wikifactory.com/@kasun/vr-based-drone"
+version = "20201219151017"
+spdx-license = "N/A"
+licensor = "kasun"
+documentation-language = "en"
+function = "I am going to build a drone with VR technologies"

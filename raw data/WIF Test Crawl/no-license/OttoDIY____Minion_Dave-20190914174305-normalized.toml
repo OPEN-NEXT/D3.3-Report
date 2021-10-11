@@ -1,0 +1,43 @@
+name = "Minion_Dave"
+repo = "https://wikifactory.com/@cparrapa/minion-08e48"
+version = "20190914174305"
+spdx-license = "N/A"
+licensor = "Camilo Parra Palacio"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTE0NTk="
+function = "Print your own, pint sized, personal robot Minion! and make it walk like +OttoDIY made by Mark Ledwold"
+[[files]]
+name = "3D Print/Dave-the-Minion-Left-Foot.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE0Njk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Dave-the-Minion-Left-Leg.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE0NzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Dave-the-Minion-Minion-Base.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE0NzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Dave-the-Minion-Minion-Re-design.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE0NzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Dave-the-Minion-Right-Foot.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE0NzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Dave-the-Minion-right-Leg.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE0NzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE0Njg="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Taller de inovacion"
+repo = "https://wikifactory.com/@alvaca996/taller-de-inovacion"
+version = "20210227210531"
+spdx-license = "N/A"
+licensor = "alvaca996"
+documentation-language = "es"
+function = "El objetivo es crear un lugar donde las ideas se lleven a cabo por medio de experimentacion practica y teorica.\n\nLos proyectos seran enfocados en automatizacion, domotica, robotica, desarrollo de software, electronica, vision artificial, entre otros."

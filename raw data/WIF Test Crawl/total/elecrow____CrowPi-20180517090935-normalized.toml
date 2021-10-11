@@ -1,0 +1,13 @@
+name = "CrowPi"
+repo = "https://wikifactory.com/@david-elecrow/crowpi"
+version = "20180517090935"
+spdx-license = "N/A"
+licensor = "David - 朱利华"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTk3"
+function = "CrowPi is an amazing kit to help you learn computer science, programming, electronics and master Raspberry Pi. Go from Zero to Hero With Raspberry Pi by backing us on <a href=\"https://www.kickstarter.com/projects/elecrow/crowpi-lead-you-go-from-zero-to-hero-with-raspberr/\">Kickstarter</a>!\nQuite helpful if you are tired of messing around with PCBs in a chaotic way."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDAx"
+mimetype = "text/markdown"
+

@@ -1,0 +1,18 @@
+name = "GeoShow"
+repo = "https://wikifactory.com/@geoshow/geoshow"
+version = "20201029121821"
+spdx-license = "N/A"
+licensor = "GeoShowLab"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo0NTg1NzQ="
+function = "Estructura Geodesica adaptable y sensorial, internamente cuenta con una experiencia audiovisual interactiva y genera una base de datos sobre el impacto obtenido, externamente cuenta con sensores de la calidad del aire."
+[[files]]
+name = "/archive_e36a75c.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk5NzU="
+mimetype = "application/zip"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjA1MTA="
+mimetype = "text/markdown"
+

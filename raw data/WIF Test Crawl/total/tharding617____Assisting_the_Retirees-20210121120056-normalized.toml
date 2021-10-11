@@ -1,0 +1,18 @@
+name = "Assisting the Retirees"
+repo = "https://wikifactory.com/@tharding617/assisting-the-elderly"
+version = "20210121120056"
+spdx-license = "CC-BY-4.0"
+licensor = "Tom Harding"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjI1MjY="
+function = "A project revolving around assisting the retirees adjust to, and enjoy, an unstructured retirement."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjI1NTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQxODY="
+mimetype = "text/markdown"
+

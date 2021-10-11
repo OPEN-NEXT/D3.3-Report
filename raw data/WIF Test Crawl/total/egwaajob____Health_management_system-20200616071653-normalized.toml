@@ -1,0 +1,7 @@
+name = "Health management system "
+repo = "https://wikifactory.com/@egwaajob/health-management-system"
+version = "20200616071653"
+spdx-license = "N/A"
+licensor = "Aigbovbioise-Job Egwakhide "
+documentation-language = "en"
+function = "An hospital management system incorporated with fingerprint as a means of identification"

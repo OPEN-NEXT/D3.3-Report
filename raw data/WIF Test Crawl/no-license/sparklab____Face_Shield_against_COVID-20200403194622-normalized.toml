@@ -1,0 +1,68 @@
+name = "Face Shield against COVID"
+repo = "https://wikifactory.com/@sparklab/face-shield-against-covid"
+version = "20200403194622"
+spdx-license = "N/A"
+licensor = "Léo Podechard"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjc0MTY="
+function = "This is a tutorial for making face shield quickly and without 3D printer"
+[[files]]
+name = "Pictures/covid shield.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjc0MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/houba.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjczOTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20200330_130428.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjc0MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20200330_130840.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjc0MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20200330_131554.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjc0MDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20200330_150638.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjc0MDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20200331_110417.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjc0MDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20200331_111044.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjc0MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20200331_132826.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjc0MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/IMG_20200331_133318.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjc0MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pictures/shield strip exemple.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjczOTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjg2NjI="
+mimetype = "text/markdown"
+

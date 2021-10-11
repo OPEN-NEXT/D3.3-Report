@@ -1,0 +1,7 @@
+name = "Cnc router"
+repo = "https://wikifactory.com/@fnroyal/cnc-router"
+version = "20200814200920"
+spdx-license = "N/A"
+licensor = "M Faheem"
+documentation-language = "en"
+function = "Working on a cnc router upgrading it with it own incomplete ver"

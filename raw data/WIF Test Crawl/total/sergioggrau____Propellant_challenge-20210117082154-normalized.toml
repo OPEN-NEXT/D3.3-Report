@@ -1,0 +1,38 @@
+name = "Propellant challenge "
+repo = "https://wikifactory.com/@sergioggrau/propellant-challenge"
+version = "20210117082154"
+spdx-license = "N/A"
+licensor = "sergioggrau"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjAzOTY="
+function = "I have tried to create something simple, with common materials  easy to build and based on Newton's laws.\nI propose the challenge of developing the best design of this propeller to integrate it into a drone, preferably using only 2 propellers, go ahead!\n\n."
+[[files]]
+name = "/Art.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg2NjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg2ODI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/TRV-En.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg2NTU="
+mimetype = "image/png"
+
+[[files]]
+name = "/TRV-En_btt.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg2NzM="
+mimetype = "image/png"
+
+[[files]]
+name = "/TRV-En_fr.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg2Njg="
+mimetype = "image/png"
+
+[[files]]
+name = "/TRV.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjAzOTI="
+mimetype = "image/png"
+

@@ -1,0 +1,7 @@
+name = "Solarize"
+repo = "https://wikifactory.com/@nithinaziz/solarize"
+version = "20210209011317"
+spdx-license = "N/A"
+licensor = "nithinaziz"
+documentation-language = "en"
+function = "Attempting to solarize every aspect of a human transportation"

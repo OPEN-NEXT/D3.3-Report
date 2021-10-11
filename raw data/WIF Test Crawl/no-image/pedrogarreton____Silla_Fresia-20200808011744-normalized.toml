@@ -1,0 +1,7 @@
+name = "Silla Fresia"
+repo = "https://wikifactory.com/@pedrogarreton/silla-fresia"
+version = "20200808011744"
+spdx-license = "N/A"
+licensor = "pedrogarreton"
+documentation-language = "es"
+function = "Silla fresia nace de un ejercicio de diseño y fabricación digital para entender como utilizar la fresadora y las uniones en piezas de terciado, generando una estructura robusta de bajo costo y fácil montaje."

@@ -1,0 +1,12 @@
+name = "Recommendation System RFP"
+repo = "https://wikifactory.com/@danieliglesias/recommendation-system-rfp"
+version = "20200407044149"
+spdx-license = "N/A"
+licensor = "Daniel Iglesias"
+documentation-language = "en"
+function = "Recommendation System for Request For Proposal Document Automatic Processing"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzA5ODE="
+mimetype = "text/markdown"
+

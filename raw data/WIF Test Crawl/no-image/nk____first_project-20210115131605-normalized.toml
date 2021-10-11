@@ -1,0 +1,7 @@
+name = "first project"
+repo = "https://wikifactory.com/@nk/first-project"
+version = "20210115131605"
+spdx-license = "N/A"
+licensor = "niraj kamal"
+documentation-language = "en"
+function = "my first project as wikifactory forced me to do it before I could do anything on the platform"

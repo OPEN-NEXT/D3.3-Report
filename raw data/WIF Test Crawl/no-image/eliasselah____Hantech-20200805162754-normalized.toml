@@ -1,0 +1,7 @@
+name = "Hantech"
+repo = "https://wikifactory.com/@eliasselah/hantech"
+version = "20200805162754"
+spdx-license = "N/A"
+licensor = "eliasselah"
+documentation-language = "en"
+function = "Smart watch which can have different options from mouse and pointers for presentation. Just using hand u can access a wireless mouse and pointter just using z watch."

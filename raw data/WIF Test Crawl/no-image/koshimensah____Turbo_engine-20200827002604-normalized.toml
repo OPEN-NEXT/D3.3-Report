@@ -1,0 +1,7 @@
+name = "Turbo engine"
+repo = "https://wikifactory.com/@koshimensah/turbo-engine"
+version = "20200827002604"
+spdx-license = "N/A"
+licensor = "Kumedzina Martin"
+documentation-language = "en"
+function = "My project is about an aircraft engine"

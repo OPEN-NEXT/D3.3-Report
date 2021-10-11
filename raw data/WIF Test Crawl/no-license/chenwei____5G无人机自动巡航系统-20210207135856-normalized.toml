@@ -1,0 +1,17 @@
+name = "5G无人机自动巡航系统"
+repo = "https://wikifactory.com/@chenwei/5g无人机巡航系统"
+version = "20210207135856"
+spdx-license = "N/A"
+licensor = "CHENWEI"
+documentation-language = "en"
+function = "由无人机和小型自动化机场组成的无人机自动巡航系统"
+[[files]]
+name = "/5G无人机自动巡航系统.docx"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzczMDE="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzcyMDc="
+mimetype = "text/markdown"
+

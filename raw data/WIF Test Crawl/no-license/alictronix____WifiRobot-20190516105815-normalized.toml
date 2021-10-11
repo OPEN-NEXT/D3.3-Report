@@ -1,0 +1,63 @@
+name = "WifiRobot"
+repo = "https://wikifactory.com/@alictronix/wifirobot"
+version = "20190516105815"
+spdx-license = "N/A"
+licensor = "Faisal Ali"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDkyNzc="
+function = "Arduino Wifi Smart RC DIY Robot Car Kit ESP8266 Android App Control Obstacle Avoidance"
+[[files]]
+name = "3D Files/2wd-base.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzMjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/2wd-top.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzMjc="
+mimetype = "application/sla"
+
+[[files]]
+name = "Android App/myRobot.aia"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzMzY="
+mimetype = "application/zip"
+
+[[files]]
+name = "Android App/myRobot.apk"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzMzU="
+mimetype = "application/vnd.android.package-archive"
+
+[[files]]
+name = "/Arduino-IDE-Settings-ESP8266-12E-Guide.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzMzk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "code/ESP8266-APP-Adhoc.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzMzA="
+mimetype = "text/x-c"
+
+[[files]]
+name = "code/esp8266-obstacle-bot2.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzMzM="
+mimetype = "text/x-c"
+
+[[files]]
+name = "code/esp8266_robot_rest.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzMzE="
+mimetype = "text/x-c"
+
+[[files]]
+name = "code/line-follower.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzMzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzNTg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/user-mannual-for-esp-12e-motor-shield.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkzMzg="
+mimetype = "application/pdf"
+

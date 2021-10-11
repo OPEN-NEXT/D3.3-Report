@@ -1,0 +1,12 @@
+name = "zeeshan"
+repo = "https://wikifactory.com/@zeeshan/zeeshan-c21e3"
+version = "20200816230244"
+spdx-license = "N/A"
+licensor = "zeeshan shahzad"
+documentation-language = "en"
+function = "3D Models"
+[[files]]
+name = "/offices.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjMwNzQ="
+mimetype = "image/png"
+

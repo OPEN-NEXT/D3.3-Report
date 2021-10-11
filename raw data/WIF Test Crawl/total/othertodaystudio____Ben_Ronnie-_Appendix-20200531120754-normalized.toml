@@ -1,0 +1,13 @@
+name = "Ben Ronnie- Appendix"
+repo = "https://wikifactory.com/@bcronnie/ben-ronnie-portfolio"
+version = "20200531120754"
+spdx-license = "N/A"
+licensor = "Ben Ronnie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjA4ODI="
+function = "This is the appendix for my 'Me to You' project.\nIt includes rough drafts of the work and other pieces to support.\nIt is a simple collection of my work with minimul editing."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzAxMjk="
+mimetype = "text/markdown"
+

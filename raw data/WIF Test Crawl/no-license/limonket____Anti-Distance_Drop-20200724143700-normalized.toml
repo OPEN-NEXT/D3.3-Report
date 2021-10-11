@@ -1,0 +1,33 @@
+name = "Anti-Distance Drop"
+repo = "https://wikifactory.com/@limonket/anti-distance-drop"
+version = "20200724143700"
+spdx-license = "N/A"
+licensor = "Limon Ket"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDMxMTU="
+function = "Helping keeping social distance #safetoplay"
+[[files]]
+name = "/drop.sat"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIyMzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/drophalf.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIyNDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "pictures, videos/Annotation 2020-07-05 000559.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIyNDA="
+mimetype = "image/png"
+
+[[files]]
+name = "pictures, videos/full-drop.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIyNDE="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMzNTM="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "noor"
+repo = "https://wikifactory.com/@kefah/noor"
+version = "20200919144045"
+spdx-license = "N/A"
+licensor = "Kefah T. Issa"
+documentation-language = "en"
+function = "Personal technical blog"

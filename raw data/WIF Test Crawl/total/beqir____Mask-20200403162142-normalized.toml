@@ -1,0 +1,7 @@
+name = "Mask "
+repo = "https://wikifactory.com/@beqir/mask"
+version = "20200403162142"
+spdx-license = "N/A"
+licensor = "Beqir"
+documentation-language = "en"
+function = "ds\ufeff"

@@ -1,0 +1,68 @@
+name = "LK - Pecha Kucha"
+repo = "https://wikifactory.com/@lukekelly/lk-pecha-kucha"
+version = "20191206112749"
+spdx-license = "N/A"
+licensor = "Luke Kelly"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzgyODg="
+function = "Luke Kelly - Pecha Kucha based around planned obsolescence and separating from consumerism"
+[[files]]
+name = "/lukekelly_pechakucha-video.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ5NTc="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Photos/car diagnostic.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4NjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/carboardbottle.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4NTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/gillette disposable.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4NjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/hand plane.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4NjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/homestead.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4NTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/iPhone-11-iFixit-teardown-1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/land rover.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ5Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/procter and gamble.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/razor.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/tesla.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODgyMDg="
+mimetype = "text/markdown"
+

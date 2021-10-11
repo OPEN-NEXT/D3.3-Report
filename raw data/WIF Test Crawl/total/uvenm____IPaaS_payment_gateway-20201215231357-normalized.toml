@@ -1,0 +1,7 @@
+name = "IPaaS payment gateway "
+repo = "https://wikifactory.com/@uvenm/ipaas-payment-gateway"
+version = "20201215231357"
+spdx-license = "N/A"
+licensor = "Uven "
+documentation-language = "en"
+function = "Vas solutions Consulting expert\nPayment gateway with self service"

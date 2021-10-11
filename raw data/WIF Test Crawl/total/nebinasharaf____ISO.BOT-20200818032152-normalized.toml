@@ -1,0 +1,7 @@
+name = "ISO.BOT"
+repo = "https://wikifactory.com/@nebinasharaf/isobot"
+version = "20200818032152"
+spdx-license = "N/A"
+licensor = "nebinasharaf"
+documentation-language = "en"
+function = "Doctors assistant"

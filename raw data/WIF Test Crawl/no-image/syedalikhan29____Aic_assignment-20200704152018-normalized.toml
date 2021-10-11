@@ -1,0 +1,17 @@
+name = "Aic assignment"
+repo = "https://wikifactory.com/@syedalikhan29/aic-assignment"
+version = "20200704152018"
+spdx-license = "N/A"
+licensor = "Syed Ashhad Ali"
+documentation-language = "en"
+function = "Simulation of class a power smplifirr"
+[[files]]
+name = "/REPORT ON CLASS A POWER AMPLIFIER.docx"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDE2MjQ="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/SIMULATION OF CLASS A POWER AMPLIFIER.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozOTUyMzU="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+

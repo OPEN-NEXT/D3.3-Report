@@ -1,0 +1,13 @@
+name = "Prosthetic Limb"
+repo = "https://wikifactory.com/@abreumec/prosthetic-limb"
+version = "20191028102214"
+spdx-license = "N/A"
+licensor = "abreumec"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzY0OTc="
+function = "Prosthetic Limb Concept"
+[[files]]
+name = "/Prosthethic Limb v35.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY0ODk="
+mimetype = "text/plain"
+

@@ -1,0 +1,28 @@
+name = "Turbine Lamp"
+repo = "https://wikifactory.com/@pachek/turbine-lamp"
+version = "20180807115148"
+spdx-license = "CC-BY-4.0"
+licensor = "pachek "
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo3MzQ0"
+function = "This unique 3D-printed lamp, with its small and innovative appearance, brings your present environment all the way to the future!"
+[[files]]
+name = "3D Design Files/TURBINE_LOWER_BODY.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo3Nzkz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/TURBINE_UPPER_BODY.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo3Nzk0"
+mimetype = ""
+
+[[files]]
+name = "License/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo3Nzg4"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo4NDk3"
+mimetype = "text/markdown"
+

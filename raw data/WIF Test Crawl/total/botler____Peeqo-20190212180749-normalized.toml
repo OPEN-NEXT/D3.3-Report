@@ -1,0 +1,173 @@
+name = "Peeqo"
+repo = "https://wikifactory.com/@botler/peeqo"
+version = "20190212180749"
+spdx-license = "GPL-3.0"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDgxMA=="
+function = "The highest rated DIY project ever on Reddit. Peeqo is a robot that responds entirely through videos & GIFs. A one of a kind personal robot that responds only through videos and GIFs that you can build. The project is made by Abhishek Singh."
+[[files]]
+name = "3D Design/peeqo_design.iges"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc1OQ=="
+mimetype = "model/iges"
+
+[[files]]
+name = "Eagle Files/arduino breakout/mini_breakout_with_chip_100kx2.brd"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc2MQ=="
+mimetype = "application/xml"
+
+[[files]]
+name = "Eagle Files/arduino breakout/mini_breakout_with_chip_100kx2.sch"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc2Mg=="
+mimetype = "application/xml"
+
+[[files]]
+name = "Eagle Files/library/abhishek.lbr"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc2NA=="
+mimetype = "application/xml"
+
+[[files]]
+name = "Eagle Files/library/new-pca9306.lbr"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc2NQ=="
+mimetype = "application/xml"
+
+[[files]]
+name = "Eagle Files/mics/knowles_mic.brd"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc2Nw=="
+mimetype = "application/xml"
+
+[[files]]
+name = "Eagle Files/mics/knowles_mic.sch"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc2OA=="
+mimetype = "application/xml"
+
+[[files]]
+name = "Eagle Files/neopixel ring/ring.brd"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc3MA=="
+mimetype = "application/xml"
+
+[[files]]
+name = "Eagle Files/neopixel ring/ring.sch"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc3MQ=="
+mimetype = "application/xml"
+
+[[files]]
+name = "Eagle Files/servos/servo.brd"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc3NQ=="
+mimetype = "application/xml"
+
+[[files]]
+name = "Eagle Files/servos/servo.brd.lck"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc3Mw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Eagle Files/servos/servo.sch"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc3Ng=="
+mimetype = "application/xml"
+
+[[files]]
+name = "Eagle Files/servos/servo.sch.lck"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc3NA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDY1NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc1Nw=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "STL Files/3mmspacerx12.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc3OA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/base_feetx1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc3OQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/base_ringx1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5Mw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/camera_mount-blackx1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5Nw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/circuit_holderx2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5OA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/head_capx1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5OQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/headx1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5NQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/led_ringx1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc4Nw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/power_inlet_holderx1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDgwMA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/sabrent_sound_card_coverx1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc4OA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/servo_holderx3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDgwMQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/servo_slide_clamp_mirrowx3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDgwMg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/servo_slide_clampx3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc4MQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/speaker_clampx1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc4OQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/stewart_basex1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc4Ng=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/stewart_top.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc4Mw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/stewart_topx1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDgwNA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/wire_organizerx1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc4NQ=="
+mimetype = "application/sla"
+

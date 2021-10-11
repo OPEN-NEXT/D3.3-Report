@@ -1,0 +1,12 @@
+name = "PlantBrick"
+repo = "https://wikifactory.com/@camad/plantbrick"
+version = "20200416111124"
+spdx-license = "N/A"
+licensor = "Colin Manasse"
+documentation-language = "en"
+function = "They are like legos for real life, and enable the integration of plants into low-cost architecture to enable the ecosystem services to continue and even increase (area cooling and air cleaning)."
+[[files]]
+name = "/LifeBrik.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzc1NTk="
+mimetype = "image/jpeg"
+

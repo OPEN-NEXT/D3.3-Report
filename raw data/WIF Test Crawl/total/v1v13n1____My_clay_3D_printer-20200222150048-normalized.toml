@@ -1,0 +1,18 @@
+name = "My clay 3D printer"
+repo = "https://wikifactory.com/@v1v13n1/ceramic-3d-printng-test"
+version = "20200222150048"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "vivien roussel"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODUyODU="
+function = "Just for moment all  i had found on the ceramic/ clay 3Dprint.<br /> I have order an Anycubic Delta's kossel (for 300 € the both !), and now i begin convert them. <br />I'm not yet fixing on one method, else I try to understand the impact of different methods on the price and possibilities."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODQzMjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTAzMjk="
+mimetype = "text/markdown"
+

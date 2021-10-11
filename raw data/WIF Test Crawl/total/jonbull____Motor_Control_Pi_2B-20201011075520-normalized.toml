@@ -1,0 +1,28 @@
+name = "Motor Control Pi 2B"
+repo = "https://wikifactory.com/@jonbull/video-motion-control"
+version = "20201011075520"
+spdx-license = "N/A"
+licensor = "Jonathan Bull"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MjI5MDQ="
+function = "Starting with a basic camera slider & developing to control camera movement initially on 3 axis aiming for 6 axis control in the future using Raspberry Pi 2B, TB6600 Stepper Motor Drivers and Nema 17 Stepper Motors"
+[[files]]
+name = "/2 motor DIY rig setup.m4v"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjIzODg="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Camera movement 1.mov"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjIzOTA="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "/concept trick shots.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjIzODk="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTA0Nzk="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Gloman"
+repo = "https://wikifactory.com/@manuel-ajingo/gloman"
+version = "20200528012741"
+spdx-license = "N/A"
+licensor = "Ajingo Manuel"
+documentation-language = "en"
+function = "An app to do online marketing across the world"

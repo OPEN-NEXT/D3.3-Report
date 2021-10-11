@@ -1,0 +1,7 @@
+name = "CNC"
+repo = "https://wikifactory.com/@robertfullmetal84/cnc"
+version = "20200603233155"
+spdx-license = "N/A"
+licensor = "Robert Barahona"
+documentation-language = "en"
+function = "Diy CNC"

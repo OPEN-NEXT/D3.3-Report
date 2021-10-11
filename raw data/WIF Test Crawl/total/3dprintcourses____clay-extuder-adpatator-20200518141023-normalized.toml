@@ -1,0 +1,53 @@
+name = "clay-extuder-adpatator"
+repo = "https://wikifactory.com/@v1v13n1/clay-extuder-adpatator"
+version = "20200518141023"
+spdx-license = "N/A"
+licensor = "vivien roussel"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTozMzMxNjU="
+function = "ENG////////// Just a simple 3D print piece for adapted the <a href=\"https://www.stoneflower3d.com/\">Stone Flower</a> extruder on <a href=\"https://www.anycubic.com/collections/kossel-series\">Anycubi Kossel plu</a>s plus.... \nFR////////// Juste un simple adaptateur imprimé en 3D pour l'extruder de Stone Flower 3D que je voulais utiliser sur une Anycubic Kossel plus."
+[[files]]
+name = "/baseEv3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzMxNjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/baseEv4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQ0ODY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/extruder1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQ0NDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/extruder2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQ0NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/extruder3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQ0NDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/extruder4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQ0Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/extruder5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQ0Mzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQ1NzE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/supportMoteur_v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzMxNjY="
+mimetype = "application/sla"
+

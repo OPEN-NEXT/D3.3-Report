@@ -1,0 +1,28 @@
+name = "Banco Vet"
+repo = "https://wikifactory.com/@ritacaraujo/banco-vet"
+version = "20200605222712"
+spdx-license = "N/A"
+licensor = "Rita Correia de Araujo"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTozNzQyMjI="
+function = "Projeto banco de Benfica, Eselx"
+[[files]]
+name = "/Banco VET Step.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM0MzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/BancoVet_MªRitaA.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzQyMzc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/DXF-Vet.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM0NTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzQyMjc="
+mimetype = "text/markdown"
+

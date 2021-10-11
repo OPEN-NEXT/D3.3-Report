@@ -1,0 +1,43 @@
+name = "Forge Modifications"
+repo = "https://wikifactory.com/@joemilton/forge-modifications"
+version = "20200117153635"
+spdx-license = "N/A"
+licensor = "Joe Milton"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyOTcxMDI="
+function = "University work for Brief 03"
+[[files]]
+name = "/Assem1.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3MzI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Brief 03 video.drp"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2MTY="
+mimetype = "application/zip"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTkwNjA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/The Finished Burner.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3MzA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/The Finshed Burner Round.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3MjY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/The Finshed Burner V2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3Mjg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/The Finshed Burner V3.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyODY3Mjc="
+mimetype = "application/octet-stream"
+

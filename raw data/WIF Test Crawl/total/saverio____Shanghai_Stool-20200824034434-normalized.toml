@@ -1,0 +1,33 @@
+name = "Shanghai Stool"
+repo = "https://wikifactory.com/@saverio/shanghai-stool"
+version = "20200824034434"
+spdx-license = "CC-BY-4.0"
+licensor = "Saverio Silli"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MjU4ODQ="
+function = "A high stool with a feet rest and maximum material use efficiency. Cut with 1/4\" endmill on 18mm plywood"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjU5MDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjU5MDY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/shanghai high stool.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjU4ODY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/shanghai stool assembly.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjU4ODU="
+mimetype = "image/png"
+
+[[files]]
+name = "/shanghai stool plan+model.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjU4ODc="
+mimetype = "application/octet-stream"
+

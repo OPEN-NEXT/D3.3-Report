@@ -1,0 +1,7 @@
+name = "slow-machines"
+repo = "https://wikifactory.com/@bsmirnov/slow-machines"
+version = "20190422172148"
+spdx-license = "N/A"
+licensor = "Boris Smirnov"
+documentation-language = "en"
+function = "Idea is to create machines that perform tasks like lawn mowing, plowing slowly.\nThis way the machines are less intrusive and more quiet. They can blend into environment. \n\nExample:\nBug like machine that is powered by the sun that mows the loan but does so slowly. Maybe it takes a week to mow 1 acre."

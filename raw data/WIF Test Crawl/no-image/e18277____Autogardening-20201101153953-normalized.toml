@@ -1,0 +1,7 @@
+name = "Autogardening"
+repo = "https://wikifactory.com/@e18277/autogardening"
+version = "20201101153953"
+spdx-license = "N/A"
+licensor = "e18277"
+documentation-language = "en"
+function = "Auto watering system through arduino"

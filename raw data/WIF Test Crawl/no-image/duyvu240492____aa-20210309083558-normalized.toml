@@ -1,0 +1,12 @@
+name = "aa"
+repo = "https://wikifactory.com/@duyvu240492/aa"
+version = "20210309083558"
+spdx-license = "N/A"
+licensor = "duyvu240492"
+documentation-language = "af"
+function = "modeling building envelopment"
+[[files]]
+name = "/v06_typical_210308.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM2Njk="
+mimetype = "text/plain"
+

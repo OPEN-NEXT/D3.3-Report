@@ -1,0 +1,7 @@
+name = "Houssam"
+repo = "https://wikifactory.com/@houssamberri13/houssam"
+version = "20201028101121"
+spdx-license = "N/A"
+licensor = "houssamberri13"
+documentation-language = "en"
+function = "An electronic card that controls the motors of automatic doors"

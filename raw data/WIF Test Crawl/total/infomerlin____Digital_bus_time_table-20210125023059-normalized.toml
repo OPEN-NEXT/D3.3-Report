@@ -1,0 +1,7 @@
+name = "Digital bus time table"
+repo = "https://wikifactory.com/@infomerlin/digital-bus-time-table"
+version = "20210125023059"
+spdx-license = "N/A"
+licensor = "S Merlin Gilbert Raj"
+documentation-language = "en"
+function = "Real time bus prediction and passenger information system"

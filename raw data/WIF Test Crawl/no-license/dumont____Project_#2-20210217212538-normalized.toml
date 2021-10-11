@@ -1,0 +1,7 @@
+name = "Project #2"
+repo = "https://wikifactory.com/@dumont/project-2"
+version = "20210217212538"
+spdx-license = "N/A"
+licensor = "Luc Dumont"
+documentation-language = "en"
+function = "try try try"

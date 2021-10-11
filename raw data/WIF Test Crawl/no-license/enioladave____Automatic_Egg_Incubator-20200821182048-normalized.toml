@@ -1,0 +1,7 @@
+name = "Automatic Egg Incubator"
+repo = "https://wikifactory.com/@enioladave/automatic-egg-incubator"
+version = "20200821182048"
+spdx-license = "N/A"
+licensor = "Adebayo Eniola David"
+documentation-language = "en"
+function = "The project is an egg incubator for hatching eggs of chickens, turkeys and so on. It is designed to regulate and maintain temperature and humidity to the optimal point needed to hatch the eggs."

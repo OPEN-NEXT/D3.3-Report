@@ -1,0 +1,13 @@
+name = "Leather Supply Chain"
+repo = "https://wikifactory.com/@lukekelly/leather-supply-chain"
+version = "20191126213142"
+spdx-license = "N/A"
+licensor = "Luke Kelly"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzg4NDY="
+function = "A supply chain for a DIY leather wallet  as if it would be made in industry"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2MDI="
+mimetype = "text/markdown"
+

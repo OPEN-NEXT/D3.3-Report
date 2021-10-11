@@ -1,0 +1,7 @@
+name = "OpenFoam CFD project"
+repo = "https://wikifactory.com/@shauryaa/openfoam-cfd-project"
+version = "20210106060755"
+spdx-license = "N/A"
+licensor = "SAURABH KUMAR SHARMA"
+documentation-language = "en"
+function = "working on channel flow in OpenFoam"

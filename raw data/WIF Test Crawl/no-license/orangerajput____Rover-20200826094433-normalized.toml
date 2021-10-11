@@ -1,0 +1,13 @@
+name = "Rover"
+repo = "https://wikifactory.com/@orangerajput/rover"
+version = "20200826094433"
+spdx-license = "N/A"
+licensor = "Harnish Rajput"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MjY2NzE="
+function = "A robot made for mars excavation."
+[[files]]
+name = "3D models/stroke.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjY2NjU="
+mimetype = "text/plain"
+

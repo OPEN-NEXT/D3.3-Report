@@ -1,0 +1,7 @@
+name = "Covid-19 Youth Task Force"
+repo = "https://wikifactory.com/@david-naboare/covid-19-youth-task-force"
+version = "20200505080426"
+spdx-license = "N/A"
+licensor = "David Naboare"
+documentation-language = "en"
+function = "Covid-19 Youth Task Force is a project to get young people between the ages of 13-35 years get involve in the campaign against covid-19.\nThe following shall be the categories\n<ol><li>Teen Task Force</li><li>Young adult Task force</li></ol>"

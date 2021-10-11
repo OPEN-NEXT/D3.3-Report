@@ -1,0 +1,12 @@
+name = "telefactory"
+repo = "https://wikifactory.com/@shiba77/telefactory"
+version = "20200828120714"
+spdx-license = "N/A"
+licensor = "shiba77"
+documentation-language = "en"
+function = "industrial platform that has configurable assembly line/lines ,molding makers (via 3d printing -metal, fdm-sla) ,rented or bought to produce.\nplatform is mobile and ready to assemble,sent anywhere via traditional transportation expandable (add on) based on products /and /or quantities needed."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mjc0NjA="
+mimetype = "text/markdown"
+

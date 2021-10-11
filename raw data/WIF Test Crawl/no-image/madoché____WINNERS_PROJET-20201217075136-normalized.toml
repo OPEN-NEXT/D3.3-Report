@@ -1,0 +1,7 @@
+name = "WINNERS PROJET"
+repo = "https://wikifactory.com/@madoché/winners-projet"
+version = "20201217075136"
+spdx-license = "N/A"
+licensor = "Adjovi Madoché Epiphane"
+documentation-language = "fr"
+function = "C'est un projet concernant la fabrication des outils technologiques"

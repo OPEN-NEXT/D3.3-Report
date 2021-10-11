@@ -1,0 +1,12 @@
+name = "cnc home made"
+repo = "https://wikifactory.com/@djemalilogbi/cnc-home-made"
+version = "20210428210836"
+spdx-license = "N/A"
+licensor = "djemalilogbi"
+documentation-language = "en"
+function = "cnc machine made from recycling epson printer"
+[[files]]
+name = "/My Movie principale.wmv"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTIzNjk="
+mimetype = "video/x-ms-wmv"
+

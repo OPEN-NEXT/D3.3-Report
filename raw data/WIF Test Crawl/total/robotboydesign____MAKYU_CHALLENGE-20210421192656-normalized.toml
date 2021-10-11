@@ -1,0 +1,33 @@
+name = "MAKYU CHALLENGE"
+repo = "https://wikifactory.com/@robotboydesign/makyu-challenge"
+version = "20210421192656"
+spdx-license = "N/A"
+licensor = "Francisco Javier Padial"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODk1NzI="
+function = "A template that will help you develop a great project for the Mayku design challenge.\n\ufeff\nFork this project and use the existing sections to document your own project."
+[[files]]
+name = "CAD Files/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk1NjY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Firmware + Software/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk1Njc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk1NjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Photos + Videos/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk1NjU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk1Njk="
+mimetype = "text/markdown"
+

@@ -1,0 +1,13 @@
+name = "Onanomask"
+repo = "https://wikifactory.com/@amiras/onanomask"
+version = "20200509155457"
+spdx-license = "N/A"
+licensor = "topsonics-amiras"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTE4NzE="
+function = "Nowadays respiratory mask become a world problem, an open source mask machine would be a real solution for that, we want to modify mask in concept and size then develop an innovative mask machine.\nPlease collaborate to develop this machine faster for the world."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDgwOTg="
+mimetype = "text/markdown"
+

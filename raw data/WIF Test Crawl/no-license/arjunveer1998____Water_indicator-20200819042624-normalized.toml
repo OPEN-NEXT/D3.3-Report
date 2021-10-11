@@ -1,0 +1,7 @@
+name = "Water indicator "
+repo = "https://wikifactory.com/@arjunveer1998/water-indicator"
+version = "20200819042624"
+spdx-license = "N/A"
+licensor = "arjunveer1998"
+documentation-language = "en"
+function = "We can know i water tank is full"

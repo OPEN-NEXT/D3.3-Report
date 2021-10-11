@@ -1,0 +1,7 @@
+name = "Contrôler le betail"
+repo = "https://wikifactory.com/@colincalin/contrôler-le-betail"
+version = "20200521162514"
+spdx-license = "N/A"
+licensor = "colincalin"
+documentation-language = "fr"
+function = "Je désire concevoir une sorte de gps mais pour les bovins et camelin. L'objectif est de leur faire ingurgiter l'appareil et en cas vol on pourrait les retracé facilement."

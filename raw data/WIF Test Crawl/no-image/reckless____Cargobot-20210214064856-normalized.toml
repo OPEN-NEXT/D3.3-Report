@@ -1,0 +1,7 @@
+name = "Cargobot"
+repo = "https://wikifactory.com/@reckless/cargobot"
+version = "20210214064856"
+spdx-license = "N/A"
+licensor = "emrah yirik"
+documentation-language = "ro"
+function = "A cargo robot project"

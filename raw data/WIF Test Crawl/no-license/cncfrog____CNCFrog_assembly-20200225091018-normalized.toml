@@ -1,0 +1,13 @@
+name = "CNCFrog assembly"
+repo = "https://wikifactory.com/@cncfrog/cncfrog-assembly"
+version = "20200225091018"
+spdx-license = "N/A"
+licensor = "CNC Frog"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDk4MTY="
+function = "CNCFrog will help you create a real detail based on a computer model. Using a suitable drawing program, create your model and using CNCJS software (https://cnc.js.org) send it to a milling machine whose GRBL firmware will mill the finished element."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk4MTM="
+mimetype = "text/markdown"
+

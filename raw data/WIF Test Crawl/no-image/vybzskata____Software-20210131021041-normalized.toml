@@ -1,0 +1,7 @@
+name = "Software "
+repo = "https://wikifactory.com/@vybzskata/software"
+version = "20210131021041"
+spdx-license = "N/A"
+licensor = "Abubakar Abdul Basit"
+documentation-language = "en"
+function = "Software for games"

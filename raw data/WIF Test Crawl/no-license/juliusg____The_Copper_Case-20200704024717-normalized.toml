@@ -1,0 +1,113 @@
+name = "The Copper Case"
+repo = "https://wikifactory.com/@juliusg/the-copper-case"
+version = "20200704024717"
+spdx-license = "N/A"
+licensor = "Julius Goldberg"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTcxNjQ="
+function = "The Copper Case is a virus-resistant and stylish folding phone case for the iPhoneX. The case has a copper-plated folding front cover, which adds convenience, storage, and protection to the screen.\n\nThe case is no panacea! Remember to still constantly wash your hands.\n\n<em>see Copper Case Report for details</em>"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgzMjE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Animations/iPhone X with Copper Case Closed Rotation.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDEwNzc="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Animations/iPhone X with Copper Case Folded Rotation.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDEwODQ="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Animations/iPhone X with Copper Case Open Rotation.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDEwODU="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/iPhone X with Copper Case Drawings.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozOTcyMDI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Pictures/Case Propped Up.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozOTcxOTg="
+mimetype = "image/png"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Pictures/Closed Case Render.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozOTcxNzA="
+mimetype = "image/png"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Pictures/Open Case Outside Snip.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozOTcxNjk="
+mimetype = "image/png"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Pictures/Opened Case Inside Render.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozOTcxNjg="
+mimetype = "image/png"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Planning/Sheet 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTcxOTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Planning/Sheet 2 Side 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTcxNjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Planning/Sheet 2 Side 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTcxNjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Stl Files/Copper Case Assembled.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgwNjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Stl Files/Copper Piece 1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgxMTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Stl Files/Copper Piece 2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgxMTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Stl Files/Copper Piece 3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgxMTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Stl Files/Copper Piece 4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgwNjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Stl Files/Magnet 1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgxMTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Stl Files/Pocket Cover.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgwNjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Stl Files/Print 1 - Inner Case.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgwNTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "Snapmaker Competition Copper Case/Stl Files/Print 2 - TPU Folding Back.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgxMDc="
+mimetype = "application/sla"
+

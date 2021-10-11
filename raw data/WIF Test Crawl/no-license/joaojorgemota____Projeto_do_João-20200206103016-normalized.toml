@@ -1,0 +1,7 @@
+name = "Projeto do João"
+repo = "https://wikifactory.com/@joaojorgemota/projeto-do-joão"
+version = "20200206103016"
+spdx-license = "N/A"
+licensor = "joaojorgemota"
+documentation-language = "pt"
+function = "O projeto é basicamente um comedouro automatizado para animais como cães, gatos etc ."

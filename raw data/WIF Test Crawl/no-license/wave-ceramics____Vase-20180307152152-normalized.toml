@@ -1,0 +1,8 @@
+name = "Vase"
+repo = "https://wikifactory.com/@juan/vase"
+version = "20180307152152"
+spdx-license = "N/A"
+licensor = "Juan Mazzuchelli"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNTMy"
+function = "Ceramic vase imitating woven texture"

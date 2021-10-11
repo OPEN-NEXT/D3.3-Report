@@ -1,0 +1,18 @@
+name = "Cork"
+repo = "https://wikifactory.com/@mungochambers/corked"
+version = "20210121165015"
+spdx-license = "N/A"
+licensor = "Mungo Chambers"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjMzNTM="
+function = "What can be produced from old wine corks? \nThis project looks at re-purposing corks into a versatile sheet material."
+[[files]]
+name = "/README (1).md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODUxMDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQ1MTY="
+mimetype = "text/markdown"
+

@@ -1,0 +1,73 @@
+name = "3d spherical mouse"
+repo = "https://wikifactory.com/@mauroalfieri/3d-sphere-mouse"
+version = "20180526170809"
+spdx-license = "BAD"
+licensor = "Mauro Alfieri"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjU5MQ=="
+function = "3d spherical mouse is an project idea of \u200b\u200bcreating an ergonomic mouse with Arduino that enhances the user experience in the 3D design."
+[[files]]
+name = "/3Dmouse_back.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMjYwNA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/3Dmouse_back_micro.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMjU5NQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/3Dmouse_joymount.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMjYwMw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/3Dmouse_joytop.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMjYwMQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/3Dmouse_micro.scad"
+permalink = "https://wikifactory.com/files/RmlsZToxMjU5Ng=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/3Dmouse_middle.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMjU5OQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/3Dmouse_sphere_left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMjU5OA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/3Dmouse_sphere_right.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMjU5Nw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/3Dmouse_supp_left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMjYwMA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/3Dmouse_supp_right.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMjYwMg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODMy"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMjg4Ng=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Schema_Arduino_Micro.png"
+permalink = "https://wikifactory.com/files/RmlsZToxMjU5NA=="
+mimetype = "image/png"
+

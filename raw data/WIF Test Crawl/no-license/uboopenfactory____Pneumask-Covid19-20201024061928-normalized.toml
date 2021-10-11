@@ -1,0 +1,418 @@
+name = "Pneumask-Covid19"
+repo = "https://wikifactory.com/@uboopenfactory/pneumask-covid19"
+version = "20201024061928"
+spdx-license = "N/A"
+licensor = "uboopenfactory"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTozMzU0ODY="
+function = "Covid-19. Une équipe de makers contribue au projet de Pneumask de Stanford en prototypant des équipements qui peuvent être utiles à l'usage du masque en milieu hospitalier comme des filtres ou des supports pour les lunettes. Licensed under CC BY-NC-SA 4.0"
+[[files]]
+name = "Documents_References/Avis-conjoint-SF2S-SF2H_Confection-Masques_23.03.2020_10h03.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1MjQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Documents_References/image19.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2MDM="
+mimetype = "image/png"
+
+[[files]]
+name = "Documents_References/MAINTAIN Presentation.pptx"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2MDQ="
+mimetype = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+
+[[files]]
+name = "Documents_References/Suivi_des_Tests(1).xlsx"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1MzU="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "Documents_References/White-Paper-EN-Surgical Guide Resin-Application Guide.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2MDE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Fichiers_Impression_3D_Adaptateurs_Lunettes_Vue/suction cup glasses support v3.step"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2MzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fichiers_Impression_3D_Adaptateurs_Lunettes_Vue/support lunettes grd ventouse.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2Mzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "Fichiers_Impression_3D_Adaptateurs_Lunettes_Vue/support lunettes petite ventouse.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2MjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Fichiers_Impression_3D_Adaptateurs_Lunettes_Vue/support_aimant_insidepart.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2MjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Fichiers_Impression_3D_Adaptateurs_Lunettes_Vue/support_aimant_outsidepart.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2MzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PDG-3DP-003/PDG-3DP-003.step"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU3MTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PDG-3DP-003/PDG-3DP-003_x10.form"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2OTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PDG-3DP-005/PDG-3DP-005.step"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2OTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PDG-3DP-009/PDG-3DP-009.step"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PDG-3DP-009/PDG-3DP-009.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PDG-3DP-009/PGD-3DP-0009_x4_Black_Form3.form"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PDG-3DP-010/PDG-3DP-010.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PDG-3DP-010/PDG-3DP-010_PLA.ufp"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NzA="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PDG-3DP-011/PDG-3DP-011.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2ODk="
+mimetype = "application/sla"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PDG-3DP-011/PDG-3DP-011_ABS.ufp"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2ODY="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PDG-3DP-011/PDG-3DP-011_x4_ABS.ufp"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2ODc="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PDG-3DP-012/PGD-3DP-0012_x4_Clear_Form3.form"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-001/PGD-3DP-001 v5.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2Njg="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-001/PGD-3DP-001.form"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2Njk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-001/PGD-3DP-001.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2Njc="
+mimetype = "application/sla"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-002/PGD-3DP-002.3mf"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NTM="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-002/PGD-3DP-002.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-004/PGD-3DP-004.form"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-004/PGD-3DP-004.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-006/PGD-3DP-006.3mf"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NzY="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-006/PGD-3DP-006.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NzQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-006/PGD-3DP-006.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-007/PGD-3DP-007.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2ODQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-007/PGD-3DP-007.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2ODA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-008/PGD-3DP-008.form"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NjQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-014/PGD-3DP-014.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2OTQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-016/PGD-3DP-016.step"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-016/PGD-3DP-016.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Fichiers_Impression_3D_Connecteur_Masque_Soignant/PGD-3DP-016/PGD-3DP-016_x14.form"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2NjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Fichiers_Impression_3D_Filtres/PorteFiltre_CollierSerrage_GC_05-04-2020.step"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2MTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fichiers_Impression_3D_Filtres/PorteFiltre_Standard22mmFemelle_GC_07-04-2020.step"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2MTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Fichiers_Impression_3D_Filtres/PorteFiltre_Standard22mmMale_GC_07-04-2020.step"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2MTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "FIchiers_Interphone/Capture d’écran 2020-05-11 à 16.57.12.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNDkzNzU="
+mimetype = "image/png"
+
+[[files]]
+name = "FIchiers_Interphone/schémafonctionnel.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNDkzNjk="
+mimetype = "image/png"
+
+[[files]]
+name = "FIchiers_Interphone/Version1.1/Bottom.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcwNDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "FIchiers_Interphone/Version1.1/contour.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcwMzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "FIchiers_Interphone/Version1.1/main_v1.1.brd"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcwMzc="
+mimetype = "application/xml"
+
+[[files]]
+name = "FIchiers_Interphone/Version1.1/main_v1.1.sch"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcwMzU="
+mimetype = "application/xml"
+
+[[files]]
+name = "FIchiers_Interphone/Version1.1/perçage.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTozNTcwNDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNDAwMTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Modele_Injection/Modele3D_Reference_Stanford_31032020.stp"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU2MDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Photos-videos/20200412_151300.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/20200412_153223.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/20200413_154432.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU4NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/20200413_154642.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU4NzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/architecture.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ4MTA="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos-videos/cablagefilaire.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ4MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/cablageRN52.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ4MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/Capture d’écran 2020-04-09 à 18.29.31.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1NTA="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos-videos/Capture d’écran 2020-04-09 à 23.20.11.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1OTI="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos-videos/DSCF5639.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/DSCF5640.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/DSCF5642.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1NDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/DSCF5645.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1NDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/DSCF5646.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/DSCF5647.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1NTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/DSCF5648.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1NjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/DSCF5649.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/Fichier d’iOS.MOV"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1NjU="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "Photos-videos/image21.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/Image d’iOS (9).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1NDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/Image d’iOS (11).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/Image d’iOS (12).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1NjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/Image d’iOS (13).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/Image d’iOS (14).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1Njg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/Image d’iOS (15).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/Image d’iOS (16).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzU1NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos-videos/InterphoneFilaire1et2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3OTA="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos-videos/interphonefilaire3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3OTk="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos-videos/interphonefilaire4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3OTg="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos-videos/schemaBluetoothRN_52.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ4MTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTU5MjE="
+mimetype = "text/markdown"
+

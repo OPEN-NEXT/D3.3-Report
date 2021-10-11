@@ -1,0 +1,7 @@
+name = "Robotic "
+repo = "https://wikifactory.com/@jaybatheja6/robotic"
+version = "20200721075318"
+spdx-license = "N/A"
+licensor = "jay batheja"
+documentation-language = "en"
+function = "Sensor automovements"

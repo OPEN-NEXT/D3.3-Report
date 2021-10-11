@@ -1,0 +1,7 @@
+name = "power supply"
+repo = "https://wikifactory.com/@amit13/power-supply"
+version = "20210116114758"
+spdx-license = "N/A"
+licensor = "amit kumar"
+documentation-language = "en"
+function = "220V to 3V power supply"

@@ -1,0 +1,7 @@
+name = "MHSafiSword"
+repo = "https://wikifactory.com/@aetherion/mhsafisword"
+version = "20210117000432"
+spdx-license = "N/A"
+licensor = "Archie Raneses"
+documentation-language = "en"
+function = "SafiSword"

@@ -1,0 +1,7 @@
+name = "Mechanical Design"
+repo = "https://wikifactory.com/@kumarravi007/mechanical-design"
+version = "20210226042920"
+spdx-license = "N/A"
+licensor = "Ravi Shankar Kumar"
+documentation-language = "en"
+function = "Mechanism"

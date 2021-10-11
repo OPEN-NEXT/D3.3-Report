@@ -1,0 +1,7 @@
+name = "Oddy"
+repo = "https://wikifactory.com/@qqdman/oddy"
+version = "20210210014742"
+spdx-license = "N/A"
+licensor = "qqdman"
+documentation-language = "en"
+function = "Energy synthesis for go with out air or any object.primary input with battery."

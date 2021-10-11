@@ -1,0 +1,38 @@
+name = "Otto REMIX Template"
+repo = "https://wikifactory.com/@carolportugal/ottodiy-remix-template"
+version = "20210404121102"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Carolina Alves Portugal"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjYwNzA="
+function = "This is the template to help create +OttoDIY Remix and properly document the projects. Here it goes a little intro about your project.\nWelcome to the #ottoremixchallenge https://www.ottodiy.com/blog/challenge"
+[[files]]
+name = "3Dprint/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU0MDA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "CAD/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU0MDE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Codes/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU0MDI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Instruction Manual/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU0MDM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYyMzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU0MDU="
+mimetype = "text/markdown"
+

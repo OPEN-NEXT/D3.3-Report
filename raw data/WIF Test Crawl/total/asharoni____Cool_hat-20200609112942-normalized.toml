@@ -1,0 +1,7 @@
+name = "Cool hat"
+repo = "https://wikifactory.com/@asharoni/cool-hat"
+version = "20200609112942"
+spdx-license = "N/A"
+licensor = "Ashraf Sharoni "
+documentation-language = "en"
+function = "Specially designed to relief heat"

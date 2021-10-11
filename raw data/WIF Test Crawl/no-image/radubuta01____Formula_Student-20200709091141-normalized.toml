@@ -1,0 +1,22 @@
+name = "Formula Student"
+repo = "https://wikifactory.com/@radubuta01/formula-student"
+version = "20200709091141"
+spdx-license = "N/A"
+licensor = "radubuta01"
+documentation-language = "ro"
+function = "Design and produce a formula student car"
+[[files]]
+name = "Body/LEFT_SIDEPOD.CATProduct"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDczOTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Body/RIGHT_SIDEPOD.CATProduct"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDczODk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Body/SIDEPODS.CATProduct"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDczODg="
+mimetype = "application/octet-stream"
+

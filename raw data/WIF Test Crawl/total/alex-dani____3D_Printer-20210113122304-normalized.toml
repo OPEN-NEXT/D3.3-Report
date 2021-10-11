@@ -1,0 +1,7 @@
+name = "3D Printer"
+repo = "https://wikifactory.com/@alex-dani/3d-printer"
+version = "20210113122304"
+spdx-license = "N/A"
+licensor = "Alex Dani Amaral Santana"
+documentation-language = "pt"
+function = "Projeto de filmagem"

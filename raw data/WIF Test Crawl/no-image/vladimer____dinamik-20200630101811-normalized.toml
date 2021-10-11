@@ -1,0 +1,7 @@
+name = "dinamik"
+repo = "https://wikifactory.com/@vladimer/dinamik"
+version = "20200630101811"
+spdx-license = "N/A"
+licensor = "lebanidze"
+documentation-language = "en"
+function = "box"

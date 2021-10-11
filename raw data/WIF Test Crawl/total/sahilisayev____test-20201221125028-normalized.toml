@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@sahilisayev/test"
+version = "20201221125028"
+spdx-license = "N/A"
+licensor = "sahilisayev"
+documentation-language = "en"
+function = "AgroSensor"

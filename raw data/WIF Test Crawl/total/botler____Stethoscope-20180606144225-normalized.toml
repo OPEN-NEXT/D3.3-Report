@@ -1,0 +1,158 @@
+name = "Stethoscope"
+repo = "https://wikifactory.com/@botler/stethoscope"
+version = "20180606144225"
+spdx-license = "BAD"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNjY4"
+function = "A research-validated stethoscope whose plans are available freely and openly. The cost of the entire stethoscope is between $2.5 to $5 to produce."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY3"
+mimetype = "text/plain"
+
+[[files]]
+name = "manual/box-insert_bottom-print.xcf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA1"
+mimetype = "application/x-xcf"
+
+[[files]]
+name = "manual/box-insert_bottom.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA2"
+mimetype = "image/png"
+
+[[files]]
+name = "manual/box-insert_bottom.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA5"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "manual/box-insert_top-print.xcf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA3"
+mimetype = "application/x-xcf"
+
+[[files]]
+name = "manual/box-insert_top.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzA4"
+mimetype = "image/png"
+
+[[files]]
+name = "manual/box-insert_top.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzEw"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "manual/head_with_ring.scad"
+permalink = "https://wikifactory.com/files/RmlsZTozNzEx"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTMy"
+mimetype = "text/markdown"
+
+[[files]]
+name = "source-files/stethoscope_eartube.scad"
+permalink = "https://wikifactory.com/files/RmlsZTozNjgy"
+mimetype = "text/plain"
+
+[[files]]
+name = "source-files/stethoscope_head.scad"
+permalink = "https://wikifactory.com/files/RmlsZTozNjc5"
+mimetype = "text/plain"
+
+[[files]]
+name = "source-files/stethoscope_head/lib/assemblies/printable_stethoscope_head1_assembly.rb"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg4"
+mimetype = "text/x-ruby-script"
+
+[[files]]
+name = "source-files/stethoscope_head/lib/assemblies/stethoscope_head_assembly.rb"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg5"
+mimetype = "text/x-ruby-script"
+
+[[files]]
+name = "source-files/stethoscope_head/lib/assemblies/upper_harness_assembly.rb"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg3"
+mimetype = "text/x-ruby-script"
+
+[[files]]
+name = "source-files/stethoscope_head/lib/printed/connector.rb"
+permalink = "https://wikifactory.com/files/RmlsZTozNjky"
+mimetype = "text/x-ruby-script"
+
+[[files]]
+name = "source-files/stethoscope_head/lib/printed/earplug.rb"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkw"
+mimetype = "text/x-ruby-script"
+
+[[files]]
+name = "source-files/stethoscope_head/lib/printed/earplug_mold.rb"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkz"
+mimetype = "text/x-ruby-script"
+
+[[files]]
+name = "source-files/stethoscope_head/lib/printed/eartube.rb"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkx"
+mimetype = "text/x-ruby-script"
+
+[[files]]
+name = "source-files/stethoscope_head/lib/printed/stethoscope_head.rb"
+permalink = "https://wikifactory.com/files/RmlsZTozNjk0"
+mimetype = "text/x-ruby-script"
+
+[[files]]
+name = "source-files/stethoscope_head/stethoscope_head.observr"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg1"
+mimetype = "text/plain"
+
+[[files]]
+name = "source-files/stethoscope_head/stethoscope_head.rb"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg2"
+mimetype = "text/x-ruby-script"
+
+[[files]]
+name = "source-files/stethoscope_metallic_spring_holder.scad"
+permalink = "https://wikifactory.com/files/RmlsZTozNjgx"
+mimetype = "text/plain"
+
+[[files]]
+name = "source-files/stethoscope_ring.scad"
+permalink = "https://wikifactory.com/files/RmlsZTozNjgz"
+mimetype = "text/plain"
+
+[[files]]
+name = "source-files/stethoscope_spring.scad"
+permalink = "https://wikifactory.com/files/RmlsZTozNjgw"
+mimetype = "text/plain"
+
+[[files]]
+name = "source-files/stethoscope_y-piece.scad"
+permalink = "https://wikifactory.com/files/RmlsZTozNjg0"
+mimetype = "text/plain"
+
+[[files]]
+name = "stl-files/eartube.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNjc0"
+mimetype = "application/sla"
+
+[[files]]
+name = "stl-files/head.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNjc1"
+mimetype = "application/sla"
+
+[[files]]
+name = "stl-files/ring.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNjc2"
+mimetype = "application/sla"
+
+[[files]]
+name = "stl-files/spring.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNjc3"
+mimetype = "application/sla"
+
+[[files]]
+name = "stl-files/y_piece.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNjc4"
+mimetype = "application/sla"
+

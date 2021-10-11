@@ -1,0 +1,7 @@
+name = "Ibusem rc builds"
+repo = "https://wikifactory.com/@shadrachblessing0/ibusem-rc-builds"
+version = "20200916163124"
+spdx-license = "N/A"
+licensor = "shadrachblessing0"
+documentation-language = "en"
+function = "I am remote control cars maker"

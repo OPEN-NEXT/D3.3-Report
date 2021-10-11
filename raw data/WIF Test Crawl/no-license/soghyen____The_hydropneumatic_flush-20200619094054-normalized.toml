@@ -1,0 +1,7 @@
+name = "The hydropneumatic flush"
+repo = "https://wikifactory.com/@soghyen/the-hydropneumatic-flush"
+version = "20200619094054"
+spdx-license = "N/A"
+licensor = "soghyen"
+documentation-language = "en"
+function = "Our project is the hydropneupatic flushing system. it is remote controlled, robust, do not generate leaks, operation is simple and maintenance cost is very low. The configuration of our flushes eliminates any direct contact which greatly reduces failures due to mishandling and improves hygiene."

@@ -1,0 +1,7 @@
+name = "Hole"
+repo = "https://wikifactory.com/@gizmobreaker/hole"
+version = "20210202202025"
+spdx-license = "N/A"
+licensor = "Marty Chafkin"
+documentation-language = "en"
+function = "Hole in plywood with adjustable tilt"

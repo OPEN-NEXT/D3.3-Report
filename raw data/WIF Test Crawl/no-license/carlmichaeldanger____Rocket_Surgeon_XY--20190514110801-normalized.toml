@@ -1,0 +1,13 @@
+name = "Rocket Surgeon XY-"
+repo = "https://wikifactory.com/@carlmichaeldanger/rocket-surgeon-xy"
+version = "20190514110801"
+spdx-license = "N/A"
+licensor = "Carl P-Conquilla"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDkyMjI="
+function = "Medium format portable cartesian CNC Machine designed to be foldable into the size of a 4U cubesat."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkyMTk="
+mimetype = "text/markdown"
+

@@ -1,0 +1,17 @@
+name = "Авиастар"
+repo = "https://wikifactory.com/@sashka200291/авиастар"
+version = "20200114075756"
+spdx-license = "N/A"
+licensor = "Арнаутов Александр Дмитриевич"
+documentation-language = "en"
+function = "Эстакада"
+[[files]]
+name = "/2544.01.00.00.000 Площадка 1.x_t"
+permalink = "https://wikifactory.com/files/RmlsZToyOTc4NjA="
+mimetype = ""
+
+[[files]]
+name = "/PTCH_0015_0100_0000_000_EP_A.jt"
+permalink = "https://wikifactory.com/files/RmlsZToyOTc4NjM="
+mimetype = "application/octet-stream"
+

@@ -1,0 +1,7 @@
+name = "Torque"
+repo = "https://wikifactory.com/@amitsharmadhn/torque"
+version = "20210412060254"
+spdx-license = "N/A"
+licensor = "Amit Sharma"
+documentation-language = "en"
+function = "Machinery"

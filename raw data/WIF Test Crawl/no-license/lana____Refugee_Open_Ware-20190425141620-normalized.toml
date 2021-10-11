@@ -1,0 +1,18 @@
+name = "Refugee Open Ware"
+repo = "https://wikifactory.com/@lana/refugee-open-ware"
+version = "20190425141620"
+spdx-license = "N/A"
+licensor = "Lana Awad"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTYzNzk="
+function = "This project shows possibilities of digitally fabricated prosthetics on user acceptance through investigations ranging from the aesthetics, to technical feasibility and understanding of the cultural context."
+[[files]]
+name = "images/resize.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTYzNzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTYzNzc="
+mimetype = "text/plain"
+

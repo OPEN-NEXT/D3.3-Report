@@ -1,0 +1,7 @@
+name = "cyrille"
+repo = "https://wikifactory.com/@niguita-migbamna/cyrille"
+version = "20200706143656"
+spdx-license = "N/A"
+licensor = "NIGUITA MIGBAMNA "
+documentation-language = "fr"
+function = "plate forme pour la gestion des ventes de pieces detachés via la plate forme mobile"

@@ -1,0 +1,23 @@
+name = "Aove Bottle"
+repo = "https://wikifactory.com/@rafagonzgarc/aove-project"
+version = "20180210100512"
+spdx-license = "N/A"
+licensor = "Rafael"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo5MjY="
+function = "Aove bottle is an olive oil vessel made with 3D printed clay. Now in prototyping phase."
+[[files]]
+name = "/AOVE BOTTLE.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo3MjM="
+mimetype = "application/3dm"
+
+[[files]]
+name = "High temperature clay models/rafa_botella_v1.2.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo5NzU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/rafa_botella_v1.1.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo3MzE="
+mimetype = "application/octet-stream"
+

@@ -1,0 +1,13 @@
+name = "Shield w/o fixing on face"
+repo = "https://wikifactory.com/@mtec/shield-wo-fixing-on-face"
+version = "20200705142623"
+spdx-license = "N/A"
+licensor = "MTEC"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDMzNzQ="
+function = "A face shield is fixed back side of neck and upper chest.\nIt is possible to use comfortably and safely than general face shield."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM3MjQ="
+mimetype = "text/markdown"
+

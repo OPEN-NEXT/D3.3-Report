@@ -1,0 +1,58 @@
+name = "DIY Learn Electronics Kit"
+repo = "https://wikifactory.com/@ahmedmo2nis/diy-learn-electronics-kit"
+version = "20190522050038"
+spdx-license = "CC0-1.0"
+licensor = "Ahmed Mo'nis"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTAwMDg="
+function = "I wanted to make an electronics learning kit suitable for ages 12 and above. Nothing fancy like Elenco's kits but It can be done at home."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTAwMDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Tools You will need/F1FJQBBJI4UA85O.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTAwMjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Tools You will need/F7Z4RYPJI4UA869.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTAwMTk="
+mimetype = "image/png"
+
+[[files]]
+name = "Tools You will need/FAPCKXNJI4UA86D.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTAwMTY="
+mimetype = "image/png"
+
+[[files]]
+name = "Tools You will need/FOQC2PTJI4UA86A.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTAwMTg="
+mimetype = "image/png"
+
+[[files]]
+name = "Tools You will need/FPYJXJ9JI4UA868.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTAwMjA="
+mimetype = "image/png"
+
+[[files]]
+name = "Tools You will need/FRYPGISJI4UA86C.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTAwMTc="
+mimetype = "image/png"
+
+[[files]]
+name = "Tools You will need/FVS3C62JI4UA85L.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTAwMjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Tools You will need/FXJ2Q66JI4UA85M.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTAwMjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Tools You will need/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTAwMjQ="
+mimetype = "text/markdown"
+

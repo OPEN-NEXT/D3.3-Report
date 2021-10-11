@@ -1,0 +1,203 @@
+name = "OttoDIY head extension"
+repo = "https://wikifactory.com/@prusalab/ottodiy-head-extension"
+version = "20200304112634"
+spdx-license = "N/A"
+licensor = "Prusalab"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzY4MjM="
+function = "Upgrade the original Ottobot design with a slick 3D printed add-on allowing it to twist its head around."
+[[files]]
+name = "/Headextension video.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4MTc="
+mimetype = "video/mp4"
+
+[[files]]
+name = "OttoDIY_headExtension/3dprint/Inlet_neck_V1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY3NTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoDIY_headExtension/3dprint/Inlet_shoulder_V1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY3NTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoDIY_headExtension/3dprint/Print instructions.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY3NTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "OttoDIY_headExtension/3dprint/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4Mjc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NTQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/js/OttoV.js"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NzM="
+mimetype = "text/javascript"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/OttoDiy_HeadExtension.s2e"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/BatReader.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NzE="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/BatReader.h"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NzA="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/MaxMatrix.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2Njk="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/MaxMatrix.h"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2Njg="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/Oscillator.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2Njc="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/Oscillator.h"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NjY="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/Otto.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NjU="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/Otto.h"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NjQ="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/Otto_gestures.h"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NjE="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/Otto_mouths.h"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NjA="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/Otto_sounds.h"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NTk="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/OttoSerialCommand.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NjM="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/OttoSerialCommand.h"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NjI="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/SoftSerialCommand.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NTg="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/SoftSerialCommand.h"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NTc="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/US.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NTY="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/OttoDiy_HeadExtension/src/US.h"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY2NTU="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "OttoDIY_headExtension/OttoDiy_HeadExtension/OttoDiy_HeadExtension Mblock library/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4MzE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "OttoDIY_headExtension/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4MjU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "OttoDIY_headExtension/TutorialPics/allpins.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY3NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "OttoDIY_headExtension/TutorialPics/finished.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY3NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "OttoDIY_headExtension/TutorialPics/open.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY3NDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "OttoDIY_headExtension/TutorialPics/ottobot.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY3NDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "OttoDIY_headExtension/TutorialPics/pinsetup.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY3NDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "OttoDIY_headExtension/TutorialPics/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4Mjg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "OttoDIY_headExtension/TutorialPics/step1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY3NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "OttoDIY_headExtension/TutorialPics/step2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY3NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "OttoDIY_headExtension/TutorialPics/step3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY3NDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "OttoDIY_headExtension/TutorialPics/step4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY3NDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "OttoDIY_headExtension/TutorialPics/step5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY3NDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzY4MjI="
+mimetype = "text/markdown"
+

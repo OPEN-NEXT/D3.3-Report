@@ -1,0 +1,7 @@
+name = "Social game"
+repo = "https://wikifactory.com/@tigor1306/social-game"
+version = "20200421070934"
+spdx-license = "N/A"
+licensor = "tigor1306"
+documentation-language = "en"
+function = "puzzle"

@@ -1,0 +1,18 @@
+name = "rain catcher"
+repo = "https://wikifactory.com/@mrjay/rain-catcher"
+version = "20200812223318"
+spdx-license = "CC0-1.0"
+licensor = "Brian Ingudi Juma"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MjE1NDg="
+function = "This is a bulk rain water harvesting system"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjE1NDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjE1NDQ="
+mimetype = "text/markdown"
+

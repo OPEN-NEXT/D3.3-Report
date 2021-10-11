@@ -1,0 +1,7 @@
+name = "Vernacular Cookbook"
+repo = "https://wikifactory.com/@sorashin/vernacular-cookbook"
+version = "20201210163307"
+spdx-license = "N/A"
+licensor = "Shintaro Nakajima"
+documentation-language = "en"
+function = "A little note for LDM 3D Printer. (Liquid Deposition Manufacturing)"

@@ -1,0 +1,7 @@
+name = "serrecontrle "
+repo = "https://wikifactory.com/@hajbi-samir/serrecontrle"
+version = "20200515231600"
+spdx-license = "N/A"
+licensor = "samir hajbi "
+documentation-language = "fr"
+function = "le projet consiste a créé une plate forme de commande de serre a distannce \ntel que l'irrigation \nl'ouverture et la fermeture des porte \nl'ajout des fertilisant \ndes angrais et des pestcide \ncontrole de l'umidité \ndes caméra de surveillances pour surveiller a distances"

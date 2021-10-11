@@ -1,0 +1,7 @@
+name = "Drone"
+repo = "https://wikifactory.com/@iftizz123/drone"
+version = "20201224150505"
+spdx-license = "N/A"
+licensor = "iftizz123"
+documentation-language = "hr"
+function = "Just make a drone"

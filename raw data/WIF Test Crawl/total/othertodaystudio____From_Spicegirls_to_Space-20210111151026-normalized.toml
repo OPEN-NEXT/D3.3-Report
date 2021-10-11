@@ -1,0 +1,13 @@
+name = "From Spicegirls to Space"
+repo = "https://wikifactory.com/@kylewitheydesign/pechakucha"
+version = "20210111151026"
+spdx-license = "N/A"
+licensor = "Kyle Dean Withey"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTk4ODY="
+function = "In this presentation, I use loose association to delve into different topics from Spice girls to Space."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY2OTQ="
+mimetype = "text/markdown"
+

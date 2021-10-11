@@ -1,0 +1,12 @@
+name = "Rotary IC engine"
+repo = "https://wikifactory.com/@sigmaengineers2019/rotary-ic-engine"
+version = "20200729041159"
+spdx-license = "N/A"
+licensor = "Parashuram G"
+documentation-language = "en"
+function = "The invention tries to eliminate reciprocating parts in a conventional IC and generates power directly through rotary motion by means of an eccentrically located shaft with a compound vane along the axis of a cylinder . It is covered under patent 322704 by the Government of India."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTY3MDA="
+mimetype = "text/markdown"
+

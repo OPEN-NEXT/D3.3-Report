@@ -1,0 +1,7 @@
+name = "Test wikifactory"
+repo = "https://wikifactory.com/@wimmeul/test-wikifactory"
+version = "20210421185750"
+spdx-license = "N/A"
+licensor = "Wim Meulders"
+documentation-language = "en"
+function = "Want to see if I can find product designers and engineers for some innovations on WF"

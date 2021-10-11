@@ -1,0 +1,23 @@
+name = "Parametric Stadium "
+repo = "https://wikifactory.com/@adolfo/parametric-stadium"
+version = "20180713171311"
+spdx-license = "N/A"
+licensor = "Adolfo Nadal Serrano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2Njc0"
+function = "This is an exercise to explain briefly how to parametrise the design of a building (a stadium) with Grasshopper plugin for Rhinoceros"
+[[files]]
+name = "/Parametric Stadium.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo2Njc1"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Parametric Stadium.gh"
+permalink = "https://wikifactory.com/files/RmlsZTo2Njc2"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo2NjY5"
+mimetype = "text/markdown"
+

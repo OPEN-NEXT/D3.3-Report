@@ -1,0 +1,7 @@
+name = "Covid hand washer"
+repo = "https://wikifactory.com/@shekharmhaskar/covid-hand-washer"
+version = "20201216065736"
+spdx-license = "N/A"
+licensor = "Shekhar Mhaskar"
+documentation-language = "en"
+function = "On-the-go portable handwasher for 100% hygienic cleaning."

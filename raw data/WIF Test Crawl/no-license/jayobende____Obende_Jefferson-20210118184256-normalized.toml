@@ -1,0 +1,7 @@
+name = "Obende Jefferson"
+repo = "https://wikifactory.com/@jayobende/obende-jefferson"
+version = "20210118184256"
+spdx-license = "N/A"
+licensor = "jayobende"
+documentation-language = "en"
+function = "A mobil App that helps you manage two major part of your shopping Groceries, and Restaurants, with location service to ensure you get what you need from the closest store or restaurants to you so you can get your item in super fast time."

@@ -1,0 +1,7 @@
+name = "RF Microwave Filters "
+repo = "https://wikifactory.com/@raptent9/rf-microwave-filters"
+version = "20210426092045"
+spdx-license = "N/A"
+licensor = "Pradeep Gidwani"
+documentation-language = "en"
+function = "Project on High quality RF, microwave filters for commercial, defense and space applications where superior performance in the smallest footprint possible is required.  Designs, operating at frequencies from 1 MHz to 18GHz, including cavity, lumped, coaxial, micro-strip and suspended substrate"

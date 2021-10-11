@@ -1,0 +1,13 @@
+name = "Speaker Stand"
+repo = "https://wikifactory.com/@josephlyons/speaker-stand"
+version = "20191210124752"
+spdx-license = "N/A"
+licensor = "Joseph Lyons"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODgxMDA="
+function = "Response to the One Sheet design brief.<br />\nPostable flat pack monitor stand project."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODgxMDY="
+mimetype = "text/markdown"
+

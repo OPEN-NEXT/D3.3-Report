@@ -1,0 +1,7 @@
+name = "robo"
+repo = "https://wikifactory.com/@vikaskhullar/robo-74b0b"
+version = "20201214172145"
+spdx-license = "N/A"
+licensor = "vikaskhullar"
+documentation-language = "en"
+function = "robo"

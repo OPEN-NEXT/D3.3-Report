@@ -1,0 +1,7 @@
+name = "C-wc "
+repo = "https://wikifactory.com/@biessissa/c-wc"
+version = "20201110090508"
+spdx-license = "N/A"
+licensor = "Biesisa JC"
+documentation-language = "en"
+function = "My project is about mechanical wc self-clean"

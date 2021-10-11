@@ -1,0 +1,28 @@
+name = "ModuLack"
+repo = "https://wikifactory.com/@essenlive/popup-table"
+version = "20190321145008"
+spdx-license = "GPL-3.0"
+licensor = "Quentin Perchais"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDg2OTM="
+function = "Small footprint popup table that transform from coffee table to desk or dining table !"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDY0NDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/preview.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDg2OTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDg2ODk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/TABLE.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyMDg2ODg="
+mimetype = "application/octet-stream"
+

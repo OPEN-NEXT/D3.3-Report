@@ -1,0 +1,33 @@
+name = "DS010 Wheelchair Cushion "
+repo = "https://wikifactory.com/@mayaroman/ds010-wheelchair-cushion"
+version = "20200507155015"
+spdx-license = "BAD"
+licensor = "Maya Roman"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDcxNjA="
+function = "Provided additional storage and comfort"
+[[files]]
+name = "CAD Data/DS010_CAD.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxNTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Drawing Pack/DS010_Eng_Dwg.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxNTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/DS010_Eng_Dwg.slddrw"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxNTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxNjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxNzc="
+mimetype = "text/markdown"
+

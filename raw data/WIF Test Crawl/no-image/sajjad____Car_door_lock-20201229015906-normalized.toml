@@ -1,0 +1,7 @@
+name = "Car door lock "
+repo = "https://wikifactory.com/@sajjad/car-door-lock"
+version = "20201229015906"
+spdx-license = "N/A"
+licensor = "Sajjad  Hunerker"
+documentation-language = "en"
+function = "I’m looking out for a finger based biometric door lock for a car . But the data can be verified through a car phone lock  For validation purpose ."

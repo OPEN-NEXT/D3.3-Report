@@ -1,0 +1,7 @@
+name = "Agriculture bot"
+repo = "https://wikifactory.com/@balu9100bcl/agriculture-bot"
+version = "20200323111543"
+spdx-license = "N/A"
+licensor = "balu9100bcl"
+documentation-language = "en"
+function = "With the help of iot and ml .I want find the disease of the plant\ufeff"

@@ -1,0 +1,7 @@
+name = "Roof sculpture"
+repo = "https://wikifactory.com/@gerdbolt/roof-sculpture"
+version = "20191229185121"
+spdx-license = "N/A"
+licensor = "gerdbolt"
+documentation-language = "ro"
+function = "Modular structure for a small residence"

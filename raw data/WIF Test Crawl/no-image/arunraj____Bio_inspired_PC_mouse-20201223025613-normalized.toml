@@ -1,0 +1,7 @@
+name = "Bio inspired PC mouse"
+repo = "https://wikifactory.com/@arunraj/bio-inspired-pc-mouse"
+version = "20201223025613"
+spdx-license = "N/A"
+licensor = "Arun Raj Shanmugam"
+documentation-language = "en"
+function = "PC mouse inspired from Biological animals that can provide better and easy operational experience for the consumers. Additional options can be provided in addition to the conventional mouse that can provide added benefits."

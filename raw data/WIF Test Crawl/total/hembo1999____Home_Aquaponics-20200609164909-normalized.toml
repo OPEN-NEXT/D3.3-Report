@@ -1,0 +1,7 @@
+name = "Home Aquaponics"
+repo = "https://wikifactory.com/@hembo1999/home-aquaponics"
+version = "20200609164909"
+spdx-license = "N/A"
+licensor = "Hemanta Kumar Borah"
+documentation-language = "en"
+function = "Establish an indoor home aquaponics"

@@ -1,0 +1,7 @@
+name = "DIY CNC Router"
+repo = "https://wikifactory.com/@alexandrefilemon/diy-cnc-router"
+version = "20210421070355"
+spdx-license = "N/A"
+licensor = "Alexandre FILEMON"
+documentation-language = "en"
+function = "As a truly amateur handyman, I wanted for a while to build my own 3D CNC Rooter. After searching on the net, I decided to fully get into it and have no regrets ! It was a lot o fun to build, to program and now to use !"

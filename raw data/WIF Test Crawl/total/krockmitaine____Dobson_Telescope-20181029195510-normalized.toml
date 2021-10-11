@@ -1,0 +1,12 @@
+name = "Dobson Telescope"
+repo = "https://wikifactory.com/@krockmitaine/dobson-telescope"
+version = "20181029195510"
+spdx-license = "CC-BY-4.0"
+licensor = "Marc Lemaire"
+documentation-language = "en"
+function = "A project that cover the design and contruction of a Dobson telescope."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDExNw=="
+mimetype = "{text/plain,NULL}"
+

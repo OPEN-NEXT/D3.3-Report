@@ -1,0 +1,12 @@
+name = "rajesh"
+repo = "https://wikifactory.com/@rajeshkumawatrk60/rajesh"
+version = "20210225125003"
+spdx-license = "N/A"
+licensor = "rajeshkumawatrk60"
+documentation-language = "en"
+function = "this is a good"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTg2MTY="
+mimetype = "text/markdown"
+

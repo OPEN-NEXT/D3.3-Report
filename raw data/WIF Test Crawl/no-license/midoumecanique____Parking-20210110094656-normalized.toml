@@ -1,0 +1,8 @@
+name = "Parking"
+repo = "https://wikifactory.com/@midoumecanique/parking"
+version = "20210110094656"
+spdx-license = "N/A"
+licensor = "midoumecanique"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1MTU4MTY="
+function = "Parking  auto simple pour une siége d'administration;  il est résisté la vitesse de vent 120km/h ."

@@ -1,0 +1,13 @@
+name = "Monte sua Franzininho DIY"
+repo = "https://wikifactory.com/@dianasantosip/monte-sua-franzininho"
+version = "20200116101026"
+spdx-license = "N/A"
+licensor = "Diana"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZToyOTg0NzY="
+function = "Tutorial do passo a passo de como soldar sua Franzininho uma placa eletrônica brasileira, open source e similar ao Arduino."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTg0OTY="
+mimetype = "text/markdown"
+

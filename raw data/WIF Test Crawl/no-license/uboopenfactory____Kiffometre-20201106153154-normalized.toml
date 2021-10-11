@@ -1,0 +1,83 @@
+name = "Kiffometre"
+repo = "https://wikifactory.com/@yquere/kiffometre"
+version = "20201106153154"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0NDkxNDE="
+function = "Ce jeu permet à partir des 6 émotions de base décrites par Paul EKMAN, que sont la joie, la tristesse, la surprise, la colère, la peur et le dégoût, de développer sa finesse lexicale autour de 36 émotions courantes inspirées des travaux de Robert PLUTCHIK"
+[[files]]
+name = "Laser_cutting/Boite du Kif Boite sans image Nouvelle police.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1NTk="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Laser_cutting/Boite du kiff.gcode"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1NTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Laser_cutting/Grenouille.gcode"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1NTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Laser_cutting/Grenouille.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Laser_cutting/Grenouille.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1NTU="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos/20201009_094635.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkxNDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20201009_110346.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTE5MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20201009_120106.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTE5MzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20201029_160242.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI0NDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20201029_160253.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI0NDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20201104_172332.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njc1MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20201104_172420.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njc1MzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20201104_172428.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njc1Mjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/20201104_172506.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njc1Mjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0Njc1Mzk="
+mimetype = "text/markdown"
+

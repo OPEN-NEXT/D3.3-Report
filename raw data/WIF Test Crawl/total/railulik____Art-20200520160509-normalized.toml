@@ -1,0 +1,7 @@
+name = "Art"
+repo = "https://wikifactory.com/@railulik/art"
+version = "20200520160509"
+spdx-license = "N/A"
+licensor = "Gil Mauberismo Mauberismo"
+documentation-language = "en"
+function = "creating paintings"

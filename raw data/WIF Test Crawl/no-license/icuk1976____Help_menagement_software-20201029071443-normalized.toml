@@ -1,0 +1,12 @@
+name = "Help menagement software"
+repo = "https://wikifactory.com/@icuk1976/help-menagement-software"
+version = "20201029071443"
+spdx-license = "N/A"
+licensor = "Igor Cuk"
+documentation-language = "en"
+function = "Software for automation and calculation of optimal/market price"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjAxOTU="
+mimetype = "text/markdown"
+

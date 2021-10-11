@@ -1,0 +1,7 @@
+name = "Project N1"
+repo = "https://wikifactory.com/@eldarjabrailov/project-n1"
+version = "20210131090905"
+spdx-license = "N/A"
+licensor = "Eldar Jabrailov"
+documentation-language = "en"
+function = "i look"

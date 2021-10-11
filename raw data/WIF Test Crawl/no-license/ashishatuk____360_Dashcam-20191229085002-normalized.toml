@@ -1,0 +1,7 @@
+name = "360 Dashcam"
+repo = "https://wikifactory.com/@ashishatuk/360-dashcam"
+version = "20191229085002"
+spdx-license = "N/A"
+licensor = "ashishatuk"
+documentation-language = "en"
+function = "Dashcam should\n1. Record video at high speed , angle and in dim light\n2. Record audio and video of the car\ufeff\n3. Record video fof behind and on the side\n4. Easy transfer of data with cloud support\n5. Sensors to record images when in parking\ufeff"

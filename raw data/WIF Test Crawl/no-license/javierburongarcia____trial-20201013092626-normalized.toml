@@ -1,0 +1,7 @@
+name = "trial"
+repo = "https://wikifactory.com/@javierburongarcia/trial"
+version = "20201013092626"
+spdx-license = "N/A"
+licensor = "Javier Buron"
+documentation-language = "en"
+function = "ee"

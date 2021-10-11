@@ -1,0 +1,38 @@
+name = "Grabb-It"
+repo = "https://wikifactory.com/@limonket/grabb-it"
+version = "20200705093217"
+spdx-license = "N/A"
+licensor = "Limon Ket"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDMxNTU="
+function = "This product keeps the viruses and bacterias away from you on the public transportation."
+[[files]]
+name = "/copper.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIxNTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/grabbit.sat"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIxNTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "pictures/in-action.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIxNjE="
+mimetype = "image/png"
+
+[[files]]
+name = "pictures/not-in-action.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIxNjA="
+mimetype = "image/png"
+
+[[files]]
+name = "/plastic.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIxNTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMxNzE="
+mimetype = "text/markdown"
+

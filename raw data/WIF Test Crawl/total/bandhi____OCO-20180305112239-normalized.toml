@@ -1,0 +1,13 @@
+name = "OCO"
+repo = "https://wikifactory.com/@bandhi/oco"
+version = "20180305112239"
+spdx-license = "CC-BY-4.0"
+licensor = "Gonzalo Badiola Ramos"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo5NTE="
+function = "Sustainable organic air conditioning system"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo5NDg="
+mimetype = "text/plain"
+

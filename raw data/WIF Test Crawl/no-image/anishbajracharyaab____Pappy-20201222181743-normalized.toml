@@ -1,0 +1,7 @@
+name = "Pappy"
+repo = "https://wikifactory.com/@anishbajracharyaab/pappy"
+version = "20201222181743"
+spdx-license = "N/A"
+licensor = "anishbajracharyaab"
+documentation-language = "ca"
+function = "Its a lamp made from paper pulp"

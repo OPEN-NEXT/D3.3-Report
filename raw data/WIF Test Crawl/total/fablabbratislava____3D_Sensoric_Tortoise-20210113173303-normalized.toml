@@ -1,0 +1,37 @@
+name = "3D Sensoric Tortoise"
+repo = "https://wikifactory.com/@cergina/3d-sensoric-tortoise"
+version = "20210113173303"
+spdx-license = "N/A"
+licensor = "Maros Cerget"
+documentation-language = "en"
+function = "Project created for  SMVIT subject at FIIT."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTgyODc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/tortoise_head.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTgyNzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/tortoise_holder.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTgyNzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/tortoise_karapax.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTgyNjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/tortoise_legs.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTgyNjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/tortoise_plastron.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTgyNzI="
+mimetype = "application/sla"
+

@@ -1,0 +1,7 @@
+name = "tool development"
+repo = "https://wikifactory.com/@gobinath/tool-development"
+version = "20210405063652"
+spdx-license = "N/A"
+licensor = "gobinath"
+documentation-language = "en"
+function = "tooling for sheetmetal bending for SS 304 material with thickness of 2 mm"

@@ -1,0 +1,48 @@
+name = "BoBotto"
+repo = "https://wikifactory.com/@kevbiagini/bobotto"
+version = "20190805144535"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "kevbiagini"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjg2Mjg="
+function = "A remix of the remix, BoB is back!"
+[[files]]
+name = "/bobottoarm.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg2MzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/bobottobody.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg2Mjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/bobottoFootL.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg2MzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/bobottoHead.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg2MzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/bobottoHeadv0.2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg2MzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/bobottoleg.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg2MzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg2Mzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA5NDM="
+mimetype = "text/markdown"
+

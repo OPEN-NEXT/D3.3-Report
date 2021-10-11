@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@jcalfonso/test"
+version = "20210312151950"
+spdx-license = "N/A"
+licensor = "Juan Carlos Alfonso Pacheco"
+documentation-language = "en"
+function = "Prueba"

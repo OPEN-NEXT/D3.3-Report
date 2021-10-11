@@ -1,0 +1,8 @@
+name = "Test @#1"
+repo = "https://wikifactory.com/@dumont/test-1"
+version = "20210217211546"
+spdx-license = "N/A"
+licensor = "Luc Dumont"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NTQ4MjQ="
+function = "hello world"

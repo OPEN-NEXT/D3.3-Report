@@ -1,0 +1,7 @@
+name = "2020 - Forecasting "
+repo = "https://wikifactory.com/@abuazharahmed/2020-forecasting"
+version = "20200116152912"
+spdx-license = "N/A"
+licensor = "Azhar Ahmed"
+documentation-language = "en"
+function = "Forecasting."

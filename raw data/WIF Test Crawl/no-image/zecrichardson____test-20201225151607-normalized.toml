@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@zecrichardson/test"
+version = "20201225151607"
+spdx-license = "N/A"
+licensor = "zecrichardson"
+documentation-language = "en"
+function = "test"

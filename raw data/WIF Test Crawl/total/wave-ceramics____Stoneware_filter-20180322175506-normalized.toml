@@ -1,0 +1,8 @@
+name = "Stoneware filter"
+repo = "https://wikifactory.com/@juan/stoneware-filter"
+version = "20180322175506"
+spdx-license = "N/A"
+licensor = "Juan Mazzuchelli"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMTIw"
+function = "Test of a stoneware filter designed using FDM clay deposition in semi-random patterns to generate an irregular coverage of around 99% of a surface but letting water or air flow through it. Non fully functional."

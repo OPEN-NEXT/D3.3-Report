@@ -1,0 +1,7 @@
+name = "Waffer producer "
+repo = "https://wikifactory.com/@jasonowoko17/waffer-producer"
+version = "20200917223011"
+spdx-license = "N/A"
+licensor = "jasonowoko17"
+documentation-language = "en"
+function = "This project is about creating a large scale toaster with a smooth surface"

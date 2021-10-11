@@ -1,0 +1,12 @@
+name = "BarrelCooler"
+repo = "https://wikifactory.com/@florentin/barrelcooler"
+version = "20200224132129"
+spdx-license = "N/A"
+licensor = "Florentin"
+documentation-language = "en"
+function = "-"
+[[files]]
+name = "/01.100.1015-00-01.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTozMDkzMDY="
+mimetype = "text/plain"
+

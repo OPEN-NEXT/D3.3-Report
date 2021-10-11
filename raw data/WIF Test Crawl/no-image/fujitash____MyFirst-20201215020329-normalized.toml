@@ -1,0 +1,7 @@
+name = "MyFirst"
+repo = "https://wikifactory.com/@fujitash/myfirst"
+version = "20201215020329"
+spdx-license = "N/A"
+licensor = "Sho Fujita"
+documentation-language = "en"
+function = "It is my first project."

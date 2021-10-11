@@ -1,0 +1,5073 @@
+name = "JPL Rover Project"
+repo = "https://wikifactory.com/@carolportugal/jpl-rover-project"
+version = "20210421093124"
+spdx-license = "N/A"
+licensor = "Carolina Alves Portugal"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODgyOTM="
+function = "The JPL Open Source Rover is an open source, build it yourself, scaled down version of the 6 wheel rover design that JPL uses to explore the surface of Mars. \nProject imported from https://github.com/nasa-jpl/open-source-rover"
+[[files]]
+name = "/.gitattributes"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NDk="
+mimetype = "application/x-empty"
+
+[[files]]
+name = "/.gitignore"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/.gitmodules"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "bill_of_materials/Digikey_BOM.csv"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/DISCLAIMER.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/calibration.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/electrical_build.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/latex_docs/calibration/Calibration.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NTk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "electrical/latex_docs/calibration/Calibration.tex"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NjA="
+mimetype = "text/x-tex"
+
+[[files]]
+name = "electrical/latex_docs/electrical_assembly/Electrical Build.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NjE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "electrical/latex_docs/electrical_assembly/Electrical Build.tex"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NjI="
+mimetype = "text/x-tex"
+
+[[files]]
+name = "electrical/latex_docs/electrical_assembly/run_pdflatex.sh"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/Arduino_uno_sheild.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NjQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/Arduino_uno_sheild-cache.lib"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/Arduino_uno_sheild-rescue.bck"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5Njc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/Arduino_uno_sheild-rescue.lib"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5Njk="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/Arduino_uno_sheild.bak"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/Arduino_uno_sheild.drl"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/Arduino_uno_sheild.kicad_pcb"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/Arduino_uno_sheild.kicad_pcb-bak"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/Arduino_uno_sheild.net"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/Arduino_uno_sheild.pro"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/Arduino_uno_sheild.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/fp-info-cache"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5Nzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_b/Arduino_uno_sheild-B.Cu.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5Nzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_b/Arduino_uno_sheild-B.Mask.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5ODA="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_b/Arduino_uno_sheild-B.Paste.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5ODE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_b/Arduino_uno_sheild-B.SilkS.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5ODI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_b/Arduino_uno_sheild-Edge.Cuts.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5ODM="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_b/Arduino_uno_sheild-F.Cu.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5ODQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_b/Arduino_uno_sheild-F.Mask.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5ODU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_b/Arduino_uno_sheild-F.Paste.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5ODY="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_b/Arduino_uno_sheild-F.SilkS.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5ODc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_b/Arduino_uno_sheild.drl"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5ODg="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_c/Arduino_uno_sheild rev-C.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5ODk="
+mimetype = "application/zip"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_c/Arduino_uno_sheild-B.Cu.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5OTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_c/Arduino_uno_sheild-B.Mask.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5OTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_c/Arduino_uno_sheild-B.Paste.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5OTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_c/Arduino_uno_sheild-B.SilkS.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5OTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_c/Arduino_uno_sheild-Edge.Cuts.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5OTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_c/Arduino_uno_sheild-F.Cu.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5OTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_c/Arduino_uno_sheild-F.Mask.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5OTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_c/Arduino_uno_sheild-F.Paste.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5OTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_c/Arduino_uno_sheild-F.SilkS.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5OTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_c/Arduino_uno_sheild.drl"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5OTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_d/Arduino_uno_sheild-B.Cu.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_d/Arduino_uno_sheild-B.Mask.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_d/Arduino_uno_sheild-B.Paste.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_d/Arduino_uno_sheild-B.SilkS.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_d/Arduino_uno_sheild-Edge.Cuts.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_d/Arduino_uno_sheild-F.Cu.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_d/Arduino_uno_sheild-F.Mask.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_d/Arduino_uno_sheild-F.Paste.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_d/Arduino_uno_sheild-F.SilkS.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/gerbers/rev_d/Arduino_uno_sheild.drl"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/4 POS 0.1 Pitch header.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/6 POS 0.1 Pitch header.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/6 pos header pin.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/6x1 Header Pin 0.1 Pitch.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/10 pos 3M connector.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/16 pos 3M connector.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/20 pin DIP socket.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/455-1708-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/497-2738-5-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/507-1937-1-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/732-5958-2-ND-top.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/732-5958-2-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/#6THRU-HOLE.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/AE9986-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/Arduino Uno Sheild.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/D24V22F12 Regulator.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/ED1501-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/ED2580-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMjg="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/ED2627-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMjk="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/ED2744-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/ED2989-ND USB Conn.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/PB1264-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/Raspberry pi footprint.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/Roboclaw Mount.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/rover image.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/rover_image.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/rover_image_scaled.mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/rpi zero mounting.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/S7008-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/S7038-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/S9175-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwMzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/jpl_robotics.pretty/test_point.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/arduino_uno_sheild/sym-lib-table"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5Nzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/Control Board.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NjU="
+mimetype = "application/zip"
+
+[[files]]
+name = "electrical/pcb/control_board/Control Board-cache.lib"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/Control Board-rescue.lib"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/Control Board.bak"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/Control Board.kicad_pcb"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/Control Board.kicad_pcb-bak"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/Control Board.net"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/Control Board.pro"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/Control Board.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/fp-info-cache"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/fp-lib-table"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_d/Monolithic Board Rev_D.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNjY="
+mimetype = "application/zip"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_d/Monolithic Board-B.Cu.gbl"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_d/Monolithic Board-B.Mask.gbs"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNjg="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_d/Monolithic Board-B.Paste.gbp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNjk="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_d/Monolithic Board-B.SilkS.gbo"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_d/Monolithic Board-Edge.Cuts.gm1"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_d/Monolithic Board-F.Cu.gtl"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_d/Monolithic Board-F.Mask.gts"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_d/Monolithic Board-F.Paste.gtp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_d/Monolithic Board-F.SilkS.gto"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_d/Monolithic Board.drl"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Control Board-B.Cu.gbl"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Control Board-B.Mask.gbs"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Control Board-B.Paste.gbp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Control Board-B.SilkS.gbo"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwODA="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Control Board-Edge.Cuts.gm1"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwODE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Control Board-F.Cu.gtl"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwODI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Control Board-F.Mask.gts"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwODM="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Control Board-F.Paste.gtp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwODQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Control Board-F.SilkS.gto"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwODU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Control Board.drl"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwODY="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Monolithic Board-B.Cu.gbl"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwODg="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Monolithic Board-B.Mask.gbs"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwODk="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Monolithic Board-B.Paste.gbp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwOTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Monolithic Board-B.SilkS.gbo"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwOTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Monolithic Board-Edge.Cuts.gm1"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwOTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Monolithic Board-F.Cu.gtl"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwOTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Monolithic Board-F.Mask.gts"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwOTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Monolithic Board-F.Paste.gtp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwOTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Monolithic Board-F.SilkS.gto"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwOTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Monolithic Board.drl"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwOTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/gerbers/rev_e/Monolithic Board.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwOTg="
+mimetype = "application/zip"
+
+[[files]]
+name = "electrical/pcb/control_board/JPL Robotics Lib.lib"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/jpl_robotics.pretty/16 pos 3M connector.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxMDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/jpl_robotics.pretty/455-1708-ND - Copy.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxMDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/jpl_robotics.pretty/#6THRU-HOLE.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwOTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/jpl_robotics.pretty/D24V22F12 Regulator.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxMTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/jpl_robotics.pretty/ED1501-ND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxMTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/Monolithic Board.bak"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/Monolithic Board.kicad_pcb-bak"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/Monolithic Board.pro"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/schematics/Monolithic Board.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxMzM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "electrical/pcb/control_board/schematics/Monolithic Board.plt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxMzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb/control_board/sym-lib-table"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUwNjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/pcb_assembly/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxMzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "electrical/schematics/Arduino Sheild.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxMzY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "electrical/schematics/Control Board.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxMzc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "examples/README_example.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxMzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "images/body/9x12_Plate_cut2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNDc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/9x12_Plate_cut.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNDY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/battery_holder_a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/battery_holder_b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNTg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/battery_install_a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/battery_install_b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNjA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNjE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNjU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNjY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNjc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNjg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNjk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNzA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_7A.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNzE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNzI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_8a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNzM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_9.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_10.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNjI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_12.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNjM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_13.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_bottom.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNzU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_bottom_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNzY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_bottom_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNzc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_dif_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNzg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_dif_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNzk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_pvc_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxODA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/body_pvc_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxODE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/Body_title.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNDg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/Dual_Side_mounts.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNDk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/Dual_side_mounts_3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/finished_body_a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxODI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/finished_body_b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxODM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/Step_5_a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNTM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/Step_5_b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/Step_6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNTU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/Step_7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNTY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/Step_11a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNTE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/Step_11b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNTI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/voltmeter_switch.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxODQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/body/voltmeter_switch_b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxODU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/calibration/calibration.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxODY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/calibration/ion_sutudio_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxODc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/calibration/is2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxOTE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/calibration/is4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxOTM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/calibration/is5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxOTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/calibration/is6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxOTU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/calibration/is7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxOTY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/calibration/is8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxOTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/calibration/is9.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxOTg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/calibration/is10.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxODg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/calibration/is11.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxODk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/calibration/is12.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxOTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/communication.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxMzk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxOTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMjI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMzM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNDU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNDY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E10.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMDA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E11.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMDE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E12.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMDI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E13.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMDM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E14.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E15.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMDU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E16.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMDY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E17.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMDc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E18.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMDg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E19.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMDk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E20.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMTE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E21.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMTI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E22.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E23.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMTU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E24.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMTY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E25.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E26.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMTg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E27.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E28.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMjA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E29.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMjE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E30.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMjM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E31.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E32.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMjU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E33.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMjY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E34.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMjc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E35.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMjg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E36.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMjk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E37.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMzA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E38.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMzE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E39.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMzI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E40.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E41.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMzU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E42.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMzY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E43.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMzc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E44.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMzg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E45.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyMzk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E46.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNDE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E47.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNDI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E48.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNDM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/electronics/E49.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/inserts/I1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNTY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNjM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNjU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNjY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNjc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNjg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNjk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B9.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNzA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B10.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B11.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNTg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B12.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B13.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNjA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B14.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNjE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/screws/B15.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNjI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/standoffs/standoff.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyODI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/standoffs/T1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNzE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/standoffs/T2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/standoffs/T3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNzU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/standoffs/T4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNzY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/standoffs/T5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNzc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/standoffs/T8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyODA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/standoffs/T9.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/components/standoffs/T10.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyNzI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyODM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyOTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S2A.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMDk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMjI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMzU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMzY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMzc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S9.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMzg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S10.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyODQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S11.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyODU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S12.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyODY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S13.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyODc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S14A.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyODk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S15.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyOTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S16.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyOTE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S16A.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyOTI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S16B.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyOTM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S17.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyOTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S18A.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyOTY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S18B.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyOTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S19.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUyOTg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S20.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMDA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S21.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMDE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S22.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMDI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S23.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMDM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S24.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S25.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMDU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S26.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMDY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S27.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMDc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S29.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMDg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S30.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMTE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S31.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMTI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S32.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMTM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S34.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S35.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMTY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S35A.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S36.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMTg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S37.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S38.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMjA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S39.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMjE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S40.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMjM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S41.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S42.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMjU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S43.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMjY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S44.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMjc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S45.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMjg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S46.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMjk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S47.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMzA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S48.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMzE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/structural/S49.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMzI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/tools/D1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzMzk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/tools/D2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNDA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/tools/D3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNDE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/tools/D4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNDI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/tools/D5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNDM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/tools/D6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/tools/D7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNDU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/tools/D8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNDY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/washers/W1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNDc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/washers/W2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNDg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/washers/W3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNDk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/wiring/wire.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNTY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/wiring/X1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/wiring/X2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNTE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/wiring/X3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNTI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/wiring/X4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNTM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/wiring/X5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/components/wiring/X6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNTU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/Corner_Motor_mount_f.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNjY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/Corner_St_Motor_mount_f.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNjc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/Corner_Title.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNjg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/CornerSt_Final.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/CornerSt_Step_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNTg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/CornerSt_Step_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/CornerSt_Step_3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNjA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/CornerSt_Step_4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNjE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/CornerSt_Step_5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNjI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/CornerSt_Step_6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNjM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/CornerSt_Step_6b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/CornerSt_Step_7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNjU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/JPL_logo.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNjk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/Shaft_Coupler_Cut.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNzA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/corner_steering/Shaft_Coupler_Cut_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNzE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/differential_pivot/3inch_cut.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNzM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/differential_pivot/15inch_cut.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNzI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/differential_pivot/Diff_Step_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/differential_pivot/Diff_Step_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNzU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/differential_pivot/Diff_Step_3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNzY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/differential_pivot/Diff_Step_4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNzc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/differential_pivot/Diff_Step_5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNzg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/differential_pivot/Diff_Step_6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzNzk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/differential_pivot/Diff_Step_7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzODA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/differential_pivot/Differential_Align.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzODE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/differential_pivot/Differential_Pivot.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzODI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/differential_pivot/Differential_Pivot_Cut.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzODM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/differential_pivot/Differential_Standoff_Cut.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzODQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/3_pin_connector.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzODY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/3_pin_encoder.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzODc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/battery_wiring.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzODg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/data_comm_diagram.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzODk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/data_voltage_diagram.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzOTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/electronics_title.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzOTE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/front_right_corner.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzOTI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/motor_id.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzOTM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/motor_pinout.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzOTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/power_diagram.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzOTU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/route1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzOTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/route2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzOTg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/route3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUzOTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/route4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MDA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/route5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MDE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/tools/heat_gun.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/tools/multimeter.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MDU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/tools/power_supply.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MDY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/tools/solder.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MDc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/tools/solder_wick.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MDg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/tools/soldering_iron.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MDk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/usb_ttl_serial.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MDI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/electronics/wire_labels.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MDM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/folders.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNDA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/finala.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/finalb.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MTU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-1a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MTY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-1b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-2a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MTg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-2b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-3a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MjA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-3b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MjE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-4a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MjI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-4b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MjM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-5a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-6a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MjU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-6b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MjY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-7a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0Mjc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-7b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0Mjg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-8a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0Mjk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/head/step-8b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MzA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/diff_step_5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MzM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/diff_step_6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/diff_step_7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0MzY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/diff_step_8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0Mzc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/final.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NDA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/final_title.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NDE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/finished_body.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NDI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/head_final.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NDM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/mech_roadmap.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NDU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/rb_final_3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NDY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/rb_step_19.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NDc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/rocker_bogie_title.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NDg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/step_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NDk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/step_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/step_3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NTU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/step_4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NTY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/step_5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/step_6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NTg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/step_7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/step_8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NjA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/step_9.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NjE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/step_10.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/step_11.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NTE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/step_13.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NTI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/step_14.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NTM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mechanical_integration/wheels_title.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NjI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/onshape/pcb.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/onshape/rocker-bogie.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NjU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/onshape/rover.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NjY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/patch.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNDE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/01_pitch_above.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0Njc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/01_pitch_under.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0Njg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/2x8_above.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0Njk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/arduino_shield_bottom.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NzA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/arduino_shield_top.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NzE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/assembly_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NzI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/assembly_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NzU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/assembly_3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NzY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/assembly_5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0Nzc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/assembly_6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0Nzg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/assembly_7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0Nzk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/assembly_8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0ODA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/assembly_9.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0ODE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/assembly_10.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NzM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/assembly_15.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0NzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/bottom_term.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0ODI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/caps_res.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0ODM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/dip_socket.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0ODQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/fuse.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0ODU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/fuse_diode.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0ODY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/gpio.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0ODc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/jst.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0ODg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/jst_top.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0ODk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/op_amp.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0OTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/power_term.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0OTE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/rc_header.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0OTI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/regs_header.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0OTM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/standoff_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0OTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/standoff_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0OTU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/standoff_3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0OTY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/standoff_4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0OTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/standoff_5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0OTg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/standoffs.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU0OTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/term_block.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MDA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/top_term.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MDE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/assembly/usb.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MDI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/testing/arduino_mounted.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MDM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/testing/rc_wires.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/testing/rc_wires_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MDU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/testing/rpi_gpio.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MDY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/testing/rpi_power.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MDc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/testing/test_pads_t5_t6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MDg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/testing/testing_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MDk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/testing/testing_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/testing/testing_3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MTE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/testing/testing_7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MTI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/pcb_assembly/testing/testing_8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MTM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/roadmap.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNDI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/channel_cut.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MTU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/final_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MTY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/final_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/final_3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MTg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/rb_final.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/rod_cut.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MjE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MjI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_1a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MzM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MzU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MzY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1Mzc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_5a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1Mzg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1Mzk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_6a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NDA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NDE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_9.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NDI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_9b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NDM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_10.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MjM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_11.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_12.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MjU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_13.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MjY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_14.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1Mjc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_15.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1Mjg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_16.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1Mjk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_17.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MzA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_18.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MzE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rocker_bogie/step_19.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1MzI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rover-climbing.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/rover-silver.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/rover.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODUxNDU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/Ackerman.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/drive_straight.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NDk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/drive_turn.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/Folder_heirarchy.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NDU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/rover1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NTE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/rover2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NTY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/rover3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NTc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/rover4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NTg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/rover5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NTk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/rover6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NjA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/rover7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NjE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/rover8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NjI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/rover9.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NjM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/rover10.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NTI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/rover11.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NTM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/rover12.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/rover13.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NTU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/software.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/Software_Architecture.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NDc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/software_title.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NjU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_controls/User_Software_Architecture.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NDg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_steps/autorun.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1Njg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_steps/bluetooth service.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1Njk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_steps/console.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NzA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_steps/control.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NzE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_steps/devicename.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NzI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_steps/init.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NzM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_steps/mainconf.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_steps/ROS_architecture.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1Njc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/software_steps/rpi pins.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1NzU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/step_1a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1Nzc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/step_1b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1Nzg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/step_1c.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1Nzk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/step_1d.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1ODA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/step_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1ODE="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/step_3a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1ODI="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/step_3b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1ODM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/step_4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1ODQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/step_5a.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1ODU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/step_5b.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1ODY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/step_6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1ODc="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/wheel.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1ODg="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/wheel_aligned.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1ODk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/wheel_drill.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1OTA="
+mimetype = "image/png"
+
+[[files]]
+name = "images/wheels/wheels_title.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1OTE="
+mimetype = "image/png"
+
+[[files]]
+name = "/LICENSE.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ5NTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/body_assembly/cad/3d_printed/Battery holder_5_2mAH.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1OTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/3d_printed/battery holder_5_2maH.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MDA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/3d_printed/battery holder_5_2maH.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MDE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/Body Assembly.IGS..zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1OTU="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/body_assembly/cad/Body Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1OTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/Body Assembly.STEP..zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1OTc="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/body_assembly/cad/Control Board PCB.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1OTg="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/body_assembly/cad/control_board/91255A077_ALLOY STEEL BUTTON-HEAD SOCKET CAP SCREW.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/control_board/91780A032_ALUM FEM THRDED HEX STANDOFF.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/control_board/91780A131_ALUM FEM THRDED HEX STANDOFF.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/control_board/91780A164_ALUM FEM THRDED HEX STANDOFF.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/control_board/92095A458_18-8 SS BUTTON-HEAD SOCKET CAP SCREW.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/control_board/92949A106_18-8 SS BUTTON-HEAD SOCKET CAP SCREW.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/control_board/92949A146_18-8 SS BUTTON-HEAD SOCKET CAP SCREW.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MDg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/control_board/95947A005_ALUM FEM THRDED HEX STANDOFF.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MDk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/control_board/Control Board PCB.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MTA="
+mimetype = "application/x-dosexec"
+
+[[files]]
+name = "mechanical/body_assembly/cad/control_board/Control Board PCB.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/5V regulator.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/404-1004-1-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/587-3248-1-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/609-4618-1-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/620-1319-1-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/90442128-7-c3900ba/c3900ba.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MzQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/90442128-7-c3900ba/c3900ba.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/ATXMEGA32A4U-AU-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/d24v22fx-step-down-voltage-regulator.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2Mjk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/d24v22fx-step-down-voltage-regulator.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/d24v50f5-step-down-voltage-regulator.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/d24v50f5-step-down-voltage-regulator.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/DB2W40200LCT-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/ED2636-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/IRF7351TRPBFCT-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/MC5A-PCB.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/P15369TB-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MjI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/PBC05SAAN.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MjM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/PBC10DAAN.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MjQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/RASPBERRY PI 3.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MjU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/Roboclaw.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MjY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/SRN5040-220MCT-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2Mjc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/SW1020CT-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2Mjg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/electronics/voltmeter.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MzM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/0.5 Bearing Block.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2Mzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/0.5 Bearing.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2Mzg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/0.5 Bore Bottom Tapped Clamping Mount.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2Mzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/0.5 Bore Side Tapped Clamping Hub.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NDA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/0.5 Nylon Plastic Washer.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NDE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/0.5 Pillow Bearing Block.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/1 Hole Pattern Bracket.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/1.5 Aluminum Channel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/1.7in Aluminum Rod.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/2-56 STandoff.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/4-40 Standoff.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/4.5 x 12 Aluminum Pattern Plate.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NDg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/6-32 Washer.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/6-32_L0_25 Spacer.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/6-32_SHCS.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/9 x 12 Aluminum Pattern Plate.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/93365A130_HEAT-SET INSERTS FOR PLASTICS.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/545600.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NDk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/585546.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/.5in Collared Clamp.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2MzY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/back_panel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/Dual side mount A.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/front_panel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/hex_nut.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/cad/servocity_mcmaster_parts/PVC Clamping Hub.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/body_assembly/laser_cut_parts/back_plate.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NjI="
+mimetype = "application/x-dxf"
+
+[[files]]
+name = "mechanical/body_assembly/laser_cut_parts/front_plate.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NjM="
+mimetype = "application/x-dxf"
+
+[[files]]
+name = "mechanical/body_assembly/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1OTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/corner_steering/3d_printed_parts/cap_base.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2Njc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/3d_printed_parts/cap_with_jpl.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2Njg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/3d_printed_parts/Encoder mount.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NjY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/3d_printed_parts/cap_base.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NzY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/3d_printed_parts/cap_with_jpl.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2Nzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/3d_printed_parts/cap_without_jpl.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2Nzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/3d_printed_parts/Encoder mount.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NzQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/3d_printed_parts/Encoder mount.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NzU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/Corner Steering Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2Njk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/Corner Steering Assembly_IGS.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NzE="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/corner_steering/cad/Corner Steering Assembly_STEP.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NzI="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/corner_steering/cad/electrical_parts/25mm Motor.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2ODA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/electrical_parts/638270 Planetary Motor.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2ODI="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/corner_steering/cad/electrical_parts/Absolute Encoder.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2ODM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/0.25 Beaing Block.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2ODY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/0.25 Bearing.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2OTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/0.25 Pillow Bearing Block.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2OTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/0.25 to 6mm Clamping Coupler.err"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2OTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/0.25 to 6mm Clamping Coupler.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2OTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/0.25 to 6mm Clamping Coupler.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2OTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/0.125in Bore 32 Pitch Shaft Mount Pinion Gear.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2ODU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/1_25 threaded standoff.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2OTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/3 Aluminum Channel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2OTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/4mm - 0.25in Clamping Shaft Coupler.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2OTg="
+mimetype = "application/x-dosexec"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/6-32_SHCS.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/6_32 standoff.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/6_32 standoff.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/555104 screw (M2.6)_92005A056.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2OTk="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/555104 screw (M3)_92005A112.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MDA="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/555104.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MDE="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/555174 motor mount.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/555174 screw_92005A116.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MDM="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/555174.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MDQ="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/625100.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MDc="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/632112_90128A121.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MDg="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/638270_Planetary-Motor.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/.25 D Shaft.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2ODQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/B1 Buttton-Head Screw v1.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/B5 Buttton-Head Screw v1.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/Motor mount f.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/cad/mechanical_parts/motor mount.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/corner_steering/Corner Steering Parts List.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NjQ="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "mechanical/corner_steering/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU2NjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/Diff Pivot Bottom.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MjI="
+mimetype = "application/x-dosexec"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/Diff Pivot Swivel.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MjM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/Diff Pivot Top.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MjU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/Differential Pivot Assembly.IGS.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MjY="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/Differential Pivot Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3Mjc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/Differential Pivot Assembly.STEP.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3Mjk="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/mechanical_parts/0.5 Bore Bottom Tapped Clamping Mount.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MzA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/mechanical_parts/0.5 Bore Side Tapped Clamping Hub.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/mechanical_parts/3 inch Aluminum Rod.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3Mzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/mechanical_parts/4-40 Washer.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3Mzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/mechanical_parts/4-40_SHCS.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NDA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/mechanical_parts/5 Hole Aluminum Beam.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NDE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/mechanical_parts/13.5 Inch Aluminum Rod.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MzU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/mechanical_parts/Ball bearing.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/mechanical_parts/Turnbuckle Eyes.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/mechanical_parts/Turnbuckle screw.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NDk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/cad/mechanical_parts/Turnbuckle.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/differential_pivot/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3MjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/head_assembly/3d_printed_parts/head base.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/3d_printed_parts/head base.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NjI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/2pin_header__02.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NzI="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/6 PORT HEADER.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NzU="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/8 PORT HEADER.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3ODA="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/10 PORT HEADER.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NjQ="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/16mhz crystal - measured.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3Njg="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/47uf CAP Dcase.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NzM="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/102 RESISTOR PACK.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NjU="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/103 RESISTOR PACK.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3Njc="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/220 RESISTOR PACK.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NzA="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/603 cap on pad.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NzY="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/603 resistor.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3Nzk="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/Arduino Sheild Hat.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3ODM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/arduino uno.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/arduino-uno-r3-1.snapshot.3/arduino11.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/arduino-uno-r3-1.snapshot.3/arduino II.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MzU="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/arduino-uno-r3-1.snapshot.3/arduino uno.IGS"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/arduino-uno-r3-1.snapshot.3/arduino uno.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4Mzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/arduino-uno-r3-1.snapshot.3/arduino uno.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NDA="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/arduino-uno-r3-1.snapshot.3/arduino_Uno_Rev3-02 blue bottom.bmp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NDI="
+mimetype = "image/x-ms-bmp"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/arduino-uno-r3-1.snapshot.3/arduino_Uno_RevG-MUa4.bmp"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NDQ="
+mimetype = "image/x-ms-bmp"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/arduino-uno-r3-1.snapshot.3/Renderings/ptabel_svdm.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/arduino-uno-r3-1.snapshot.3/uno1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/arduino-uno-r3-1.snapshot.3/unotop.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/arduino_uno_board.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/atmega16u2.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MDQ="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/ATMEL328P.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3ODE="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/blm21.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MDU="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/cd1206 diode.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MDY="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/crystal.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MDc="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/dip28.sldasm"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/dip28.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MTM="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/dip socket pin.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MTE="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/LED Matrix.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3ODU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/led.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MTQ="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/lmv358.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MTY="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/Logic Shifter Board w components.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3ODc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/logic shifter board.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/lp2985dgkr.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MjE="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/m7 diode.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MjI="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/mf-msmf050-2.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MjQ="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/MLC0603.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3ODk="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/nano - reg.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MjU="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/PADS001.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3OTA="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/Pin Header 1x2 TH Pitch 2.54mm.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3OTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/Pin Header 1x4 TH Pitch 2.54mm.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3OTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/power jack.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4Mjg="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/RESET BUTTON.sldasm"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3OTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/RESET CORE.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3OTY="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/RESET.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3OTc="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/ssot3.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4Mjk="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/unoboard blue.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MzE="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/usb btm contact.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MzI="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/USB core.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MDA="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/USB SHELL.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3OTk="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/usb top contact.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MzM="
+mimetype = "application/CDFV2"
+
+[[files]]
+name = "mechanical/head_assembly/cad/electrical_parts/USB type b.SLDPRT.sldasm"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4MDE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/Head Assembly.IGS.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NTc="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/head_assembly/cad/Head Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/Head Assembly.STEP.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NTk="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/head_assembly/cad/Head Rework.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/laser_cut_parts/arduino plate.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NDk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/laser_cut_parts/head back plate.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/mechanical_parts/3in PVC Pipe.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/mechanical_parts/4-40_SHCS.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/mechanical_parts/6-32_SHCS.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/mechanical_parts/90751A110_METRIC FINE-THREAD 18-18 SS SOCKET HEAD SCREW.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/mechanical_parts/91292A112_TYPE 18-8 SS SOCKET HEAD CAP SCREW.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NjA="
+mimetype = "application/vnd.ms-excel"
+
+[[files]]
+name = "mechanical/head_assembly/cad/mechanical_parts/92095A458_18-8 SS BUTTON-HEAD SOCKET CAP SCREW.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NjI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/mechanical_parts/92949A106_18-8 SS BUTTON HEAD HEX DRIVE SCREW.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NjM="
+mimetype = "application/vnd.ms-office"
+
+[[files]]
+name = "mechanical/head_assembly/cad/mechanical_parts/93365A120_HEAT-SET INSERTS FOR PLASTICS.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NjU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/mechanical_parts/95947A005_ALUM FEM THRDED HEX STANDOFF.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NjY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/cad/mechanical_parts/PVC Clamping Hub.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4Njc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/head_assembly/laser_cut_files/arduino plate.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4Njk="
+mimetype = "application/x-dxf"
+
+[[files]]
+name = "mechanical/head_assembly/laser_cut_files/head back plate.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NzE="
+mimetype = "application/x-dxf"
+
+[[files]]
+name = "mechanical/head_assembly/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU3NTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/images/mech_folders.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NzI="
+mimetype = "image/png"
+
+[[files]]
+name = "mechanical/images/rover.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NzU="
+mimetype = "image/png"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/3d_printed_parts/Head Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4ODM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/3d_printed_parts/Head left back.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4ODU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/3d_printed_parts/Head left side.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4ODc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/3d_printed_parts/Head right back.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4ODg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/3d_printed_parts/Head right side.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4ODk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/3d_printed_parts/Low Poly Head Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4OTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/3d_printed_parts/Low Poly Head Assembly.SLDASM .STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4OTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/3d_printed_parts/Low Poly Head Assembly.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4OTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/electrical_parts/LED Matrix.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4OTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/electrical_parts/logic shifter board.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4OTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/gobilda-threaded-plate-2803.step.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4ODI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/0.5 Bore Bottom Tapped Clamping Mount.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/0.5 Bore Side Tapped Clamping Hub.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/0.5 Pillow Bearing Block.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/1 Hole Pattern Bracket.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MDg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/3 inch Aluminum Rod.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/3by7-gobilda-bracket-1139-0024-0056.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/3in PVC Pipe.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/4-40 Washer.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/4-40_SHCS.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/5 Hole Aluminum Beam.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MjI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/13.5 Inch Aluminum Rod.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/15inch Aluminum Rod.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/585546.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5Mjg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/#6-32 0_5 Bolt.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4OTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/Ball bearing.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MzA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/Channel Connector.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/PVC Clamping Hub.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5MzU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/Turnbuckle Eyes.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5Mzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/Turnbuckle screw.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5Mzg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/mechanical_parts/Turnbuckle.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5Mzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/Rover.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4Nzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/Body Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/Diff Pivot Swivel.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/5V Buck Boost Converter.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/12V Buck Boost Converter.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NDg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/404-1004-1-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NDk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/587-3248-1-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/609-4618-1-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/620-1319-1-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/ATXMEGA32A4U-AU-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/DB2W40200LCT-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NTU="
+mimetype = "audio/x-mp4a-latm"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/ED2636-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/Encoder Board.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/IRF7351TRPBFCT-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/MC5A-PCB.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/P15369TB-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NjM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/PBC05SAAN.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NjQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/PBC10DAAN.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NjY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/RASPBERRY PI 3.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5Njc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/Read_Write Board.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5Njg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/Roboclaw.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NzA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/SRN5040-220MCT-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/electrical_components/SW1020CT-ND.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NzM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/Electronics Board Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/0.5 Bearing Block.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NzY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/0.5 Bearing.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5Nzg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/0.5 Bore Bottom Tapped Clamping Mount.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5ODA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/0.5 Bore Side Tapped Clamping Hub.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5ODI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/0.5 Nylon Plastic Washer.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5ODM="
+mimetype = "application/x-dosexec"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/0.5 Pillow Bearing Block.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5ODU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/1.5 Aluminum Channel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5ODc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/1.7in Aluminum Rod.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5ODk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/4-40 Standoff.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5OTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/4.5 x 12 Alumin Pattern Plate Mod x2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5OTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/4.5 x 12 Aluminum Pattern Plate Mod.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5OTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/4.5 x 12 Aluminum Pattern Plate.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5OTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/6-32 Washer.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5OTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/6-32_L0_25 Spacer.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/6-32_SHCS.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/9 x 12 Aluminum Pattern Plate.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/545600.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5OTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/.5in Collared Clamp.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU5NzU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/Custom AL sheet.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/Dual side mount A.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMDk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/Front & Back body plate.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/hex_nut.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/body/mechanical_parts/PVC Clamping Hub.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/corner_steering/3d_printed_parts/Encoder mount.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/corner_steering/Corner Steering Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/corner_steering/electrical_parts/25mm Motor.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/corner_steering/electrical_parts/Absolute Encoder.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/corner_steering/mechanical_parts/0.25 Beaing Block.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMjM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/corner_steering/mechanical_parts/0.25 Bearing.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMjU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/corner_steering/mechanical_parts/0.25 Pillow Bearing Block.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMjk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/corner_steering/mechanical_parts/0.125in Bore 32 Pitch Shaft Mount Pinion Gear.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMjI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/corner_steering/mechanical_parts/4mm - 0.25in Clamping Shaft Coupler.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMzM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/corner_steering/mechanical_parts/.25 D Shaft.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/corner_steering/mechanical_parts/Motor mount f.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwMzg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/differential_pivot/Diff Pivot Bottom.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNDA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/differential_pivot/Diff Pivot Swivel.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNDE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/differential_pivot/Diff Pivot Top.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/rocker_bogie/mechanical_parts/0.5 Bore Side Tapped Clamping Hub.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNDg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/rocker_bogie/mechanical_parts/0.5 Pillow Bearing Block.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/rocker_bogie/mechanical_parts/3 Aluminum Channel Mod.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/rocker_bogie/mechanical_parts/3.75 Aluminum Channel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/rocker_bogie/mechanical_parts/3inch Aluminum Rod.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/rocker_bogie/mechanical_parts/9 Aluminum Channel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNjQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/rocker_bogie/mechanical_parts/545600.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/rocker_bogie/mechanical_parts/Pattern F Bracket.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNjc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/rocker_bogie/Rocker-Bogie Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/Corner Wheel Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNjk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/electrical_parts/25mm Motor and Encoder.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNzM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/0.25 Face Tapped Clamping Hub.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNzY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/3 Aluminum Channel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwOTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/4.5 Aluminum channel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwOTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/4mm Face Tapped Clamping Hub.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwOTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/6-32_SHCS.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMDE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/6_32 standoff.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/25m Bore Side Tapped Clamping Mount.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwODE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/25m Bore Side Tapped Clamping Mount.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwODU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/48 Tooth 32 Pitch Gear.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwOTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/1206-0016-0004.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNzg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/1401-0043-0032.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/2800-0004-0008_90128A207.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwODc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/2800-0004-0014_90128A207.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwODk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/Channel Connector.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/Channel Connector.step.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/gobilda-1hole-channel-1120-0001-0048.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/gobilda-2hole-channel-1120-0002-0072.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/gobilda-32mm-motor-clamp-1401-0043-0032.sldasm"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/gobilda-flat-2-hole-bracket-1123-0048-0072.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMjI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/gobilda-to-actobotics-bracket-1206-0016-0004.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMjY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/Wheel Rim.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/wheel shell.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMjg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/Wheel Tire.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/mechanical_parts/Wheel.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/cad/subassemblies/wheel_assembly/Wheel Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYwNzI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/mechanical_integration/latex_docs/Mechanical Integration Build Doc.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMzA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "mechanical/mechanical_integration/latex_docs/Mechanical Integration Build Doc.tex"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMzI="
+mimetype = "text/x-tex"
+
+[[files]]
+name = "mechanical/mechanical_integration/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU4NzY="
+mimetype = "text/html"
+
+[[files]]
+name = "mechanical/README TEMPLATE.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1OTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODU1OTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/rocker_bogie/cad/mechanical_parts/0.5 Bore Side Tapped Clamping Hub.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/rocker_bogie/cad/mechanical_parts/0.5 Pillow Bearing Block.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/rocker_bogie/cad/mechanical_parts/3 Aluminum Channel Mod.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/rocker_bogie/cad/mechanical_parts/3.75 Aluminum Channel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/rocker_bogie/cad/mechanical_parts/3inch Aluminum Rod.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/rocker_bogie/cad/mechanical_parts/9 Aluminum Channel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/rocker_bogie/cad/mechanical_parts/Pattern F Bracket.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/rocker_bogie/cad/Rocker-Bogie Assembly.IGS.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMzQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/rocker_bogie/cad/Rocker-Bogie Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMzY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/rocker_bogie/cad/Rocker-Bogie Assembly.STEP.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMzg="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/rocker_bogie/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxMzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/Corner Wheel Assembly.IGS.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNjc="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/Corner Wheel Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/Corner Wheel Assembly.STEP.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNzM="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/electrical_parts/25mm Motor and Encoder.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxODA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/mechanical_parts/4.5 Aluminum channel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxODc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/mechanical_parts/25m Bore Side Tapped Clamping Mount.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxODM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/mechanical_parts/48 Tooth 32 Pitch Gear.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxODg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/mechanical_parts/545619.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxODk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/mechanical_parts/632110_90128A121.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxOTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/mechanical_parts/Channel Connector.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxOTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/mechanical_parts/gobilda-7hole-1120series-channel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/mechanical_parts/gobilda-435rpm-planetary-gearmotor.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/mechanical_parts/servocity-hub-545619assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/mechanical_parts/Wheel Rim.sldprt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxOTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/mechanical_parts/Wheel Tire.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxOTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/mechanical_parts/Wheel.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMDA="
+mimetype = "application/x-dosexec"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/Wheel Assembly.IGS.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNzU="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/Wheel Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "mechanical/wheel_assembly/cad/Wheel Assembly.STEP.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNzk="
+mimetype = "application/zip"
+
+[[files]]
+name = "mechanical/wheel_assembly/Corner Wheel Assembly 3D View.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNjM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "mechanical/wheel_assembly/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYxNjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/dxf/arduino plate.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMDc="
+mimetype = "application/x-dxf"
+
+[[files]]
+name = "optional_cad_parts/dxf/back_panel.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMDg="
+mimetype = "application/x-dxf"
+
+[[files]]
+name = "optional_cad_parts/dxf/front_panel.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMTI="
+mimetype = "application/x-dxf"
+
+[[files]]
+name = "optional_cad_parts/dxf/head back plate.DXF"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMTM="
+mimetype = "application/x-dxf"
+
+[[files]]
+name = "optional_cad_parts/README.MD"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/solidworks/arduino plate.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/back_panel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/battery holder.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/battery holder_5_2maH.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMjI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/bearing block.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMjM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/cap_base.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMjQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/cap_with_jpl.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMjY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/cap_without_jpl.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMjc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/custom_drive_motor_mount.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMjk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/diff-piv mounting block.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMzA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/Drive_motor_Assem.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/drive_motor_cap.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/drive_motor_mount.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMzM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/drive_motor_mount_v2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/front_panel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyMzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/head back plate.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNDA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/head base.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNDE="
+mimetype = "application/x-dosexec"
+
+[[files]]
+name = "optional_cad_parts/solidworks/motor_count_base_v2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/motor_mount_base_v2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/motor_mount_cap_v2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/sub-d-female bottom.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/sub-d-male-top.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/turnbuckle_holder.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/usb hub 4pos lid.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/usb hub 4pos.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/solidworks/usb hub 7 pos.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/step/arduino plate.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/back_panel.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/battery holder.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/bearing block.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/cap_base.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/cap_with_jpl.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/cap_without_jpl.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNjg="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/diff-piv mounting block.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/front_panel.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/head back plate.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/head base.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/sub-d-female bottom.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/sub-d-male-top.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyNzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/turnbuckle_holder.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyODA="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/usb hub 4pos lid.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyODM="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/usb hub 4pos.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyODQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/step/usb hub 7 pos.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyODU="
+mimetype = "text/plain"
+
+[[files]]
+name = "optional_cad_parts/stl/battery holder.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyODc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/bearing block.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyODk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/cap_base.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyOTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/cap_with_jpl.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyOTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/cap_without_jpl.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyOTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/custom_drive_motor_mount.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyOTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/diff-piv mounting block.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYyOTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/drive_motor_cap.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMDA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/drive_motor_mount_v2.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMDE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/head base.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/motor_mount_base_v2.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/motor_mount_cap_v2.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/sub-d-female bottom.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/sub-d-male-top.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/turnbuckle_holder.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/usb hub 4pos lid.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/usb hub 4pos.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "optional_cad_parts/stl/usb hub 7 pos.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "parts_list/master_parts_list_raw.csv"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "parts_list/README.MD"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODgzMDU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "software/images/rpi3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMjc="
+mimetype = "image/png"
+
+[[files]]
+name = "software/latex_docs/software_controls/Software Controls.tex"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMzA="
+mimetype = "text/x-tex"
+
+[[files]]
+name = "software/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "software/Software Controls.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODYzMjU="
+mimetype = "application/pdf"
+

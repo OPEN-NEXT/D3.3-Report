@@ -1,0 +1,12 @@
+name = "SondriersUBO"
+repo = "https://wikifactory.com/@yquere/sondriersubo"
+version = "20210420143119"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "en"
+function = "En construction"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQ4OTU="
+mimetype = "text/markdown"
+

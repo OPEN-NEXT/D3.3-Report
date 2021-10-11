@@ -1,0 +1,33 @@
+name = "Efficient Cookstove"
+repo = "https://wikifactory.com/@emihearty/efficient-cookstove"
+version = "20200512044319"
+spdx-license = "BAD"
+licensor = "Emily Hearty"
+documentation-language = "no"
+image = "https://wikifactory.com/files/RmlsZTozNDk3MDM="
+function = "Cookstove design patented by Madhukar KC"
+[[files]]
+name = "/EE006_Image.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDk3MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/EE006_Image_CAD.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDk2OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/EE006_Image_Use.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNDk2OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNDk3MDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDk2OTc="
+mimetype = "text/markdown"
+

@@ -1,0 +1,18 @@
+name = "Ocean Dress"
+repo = "https://wikifactory.com/@lukasmaximus89/ocean-dress"
+version = "20180528054203"
+spdx-license = "N/A"
+licensor = "Luke Henderson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyOTAw"
+function = "Upcycled plastic and thule dress that aims to raise awareness about plastic pollution in the ocean"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTU1"
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Readme.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTQ5"
+mimetype = "text/plain"
+

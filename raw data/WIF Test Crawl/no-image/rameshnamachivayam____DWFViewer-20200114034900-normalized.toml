@@ -1,0 +1,12 @@
+name = "DWFViewer"
+repo = "https://wikifactory.com/@rameshnamachivayam/dwfviewer"
+version = "20200114034900"
+spdx-license = "N/A"
+licensor = "Ramesh Namachivayam"
+documentation-language = "en"
+function = "View the DWF file in web"
+[[files]]
+name = "/2Link2Layer2Namedview.dwf"
+permalink = "https://wikifactory.com/files/RmlsZToyOTc4NDM="
+mimetype = "application/octet-stream"
+

@@ -1,0 +1,7 @@
+name = "CP001 - Upcycled Toys"
+repo = "https://wikifactory.com/@sarakron/cp001-upcycled-toys"
+version = "20200408132607"
+spdx-license = "N/A"
+licensor = "Sara Kron"
+documentation-language = "en"
+function = "Provides adolescents in under resourced settings locally made educational toys"

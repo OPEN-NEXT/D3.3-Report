@@ -1,0 +1,7 @@
+name = "OttoJon"
+repo = "https://wikifactory.com/@raul/ottojon"
+version = "20200801171209"
+spdx-license = "N/A"
+licensor = "Raul Sierro"
+documentation-language = "en"
+function = "Otto"

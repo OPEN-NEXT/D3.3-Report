@@ -1,0 +1,7 @@
+name = "Design House"
+repo = "https://wikifactory.com/@millijarul/design-house"
+version = "20200621183321"
+spdx-license = "N/A"
+licensor = "Million Daniel"
+documentation-language = "en"
+function = "Creating different types of house and office decorating equipments buy using laser cutting machine."

@@ -1,0 +1,13 @@
+name = " kinetic art"
+repo = "https://wikifactory.com/@momani/kinetic-art"
+version = "20180921143426"
+spdx-license = "MIT"
+licensor = "moath momani"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjM5MA=="
+function = "In general, my project is a kind of kinetic art. It has a strong audio amplifier 5W and Arduino board to control the motion of the system by a stepper motor, and both are made from scratch."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMjM3Nw=="
+mimetype = "{text/plain,NULL}"
+

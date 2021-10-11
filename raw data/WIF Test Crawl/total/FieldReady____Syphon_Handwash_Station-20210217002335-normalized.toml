@@ -1,0 +1,12 @@
+name = "Syphon Handwash Station"
+repo = "https://wikifactory.com/@charlesbarrete/syphon-handwash-station"
+version = "20210217002335"
+spdx-license = "N/A"
+licensor = "Charles Barrete"
+documentation-language = "en"
+function = "Foot-operated portable handwash unit. It is a simple bucket syphon system."
+[[files]]
+name = "/README (1).md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTQ1OTc="
+mimetype = "text/plain"
+

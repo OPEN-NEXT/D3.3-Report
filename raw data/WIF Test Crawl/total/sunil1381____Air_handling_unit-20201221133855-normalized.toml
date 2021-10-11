@@ -1,0 +1,7 @@
+name = "Air handling unit"
+repo = "https://wikifactory.com/@sunil1381/air-handling-unit"
+version = "20201221133855"
+spdx-license = "N/A"
+licensor = "Sunil "
+documentation-language = "en"
+function = "Air handling unit with parametric options"

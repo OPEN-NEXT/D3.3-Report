@@ -1,0 +1,18 @@
+name = "Pedal Operated Flour mill"
+repo = "https://wikifactory.com/@apeksha/pedal-operated-flour-mill"
+version = "20190425141905"
+spdx-license = "N/A"
+licensor = "Apeksha Bochare"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDU5MDY="
+function = "Many villages in India lives without reliable power supply.Pedal power is transfer of energy from human source through the use of foot pedal and chain drive,In India people has already worked on pedal operated flour mill and designed separate bicycle for that."
+[[files]]
+name = "images/Pedal_Operated_Flour_Mill3.png"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2NTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY2NTM="
+mimetype = "text/plain"
+

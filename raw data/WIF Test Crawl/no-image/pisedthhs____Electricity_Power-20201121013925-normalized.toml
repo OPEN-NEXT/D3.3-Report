@@ -1,0 +1,7 @@
+name = "Electricity Power"
+repo = "https://wikifactory.com/@pisedthhs/electricity-power"
+version = "20201121013925"
+spdx-license = "N/A"
+licensor = "Chhem Pisedthhs"
+documentation-language = "en"
+function = "Free energy"

@@ -1,0 +1,7 @@
+name = "Lector Media"
+repo = "https://wikifactory.com/@aussiesta/lector-media"
+version = "20191018162837"
+spdx-license = "N/A"
+licensor = "aussiesta"
+documentation-language = "en"
+function = "Ebook reader on Android, iOS apps"

@@ -1,0 +1,7 @@
+name = "Manipulator"
+repo = "https://wikifactory.com/@firdavsrustamov1994/manipulator"
+version = "20201101100020"
+spdx-license = "N/A"
+licensor = "firdavsrustamov1994"
+documentation-language = "en"
+function = "Rotate all around"

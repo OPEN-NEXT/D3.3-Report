@@ -1,0 +1,7 @@
+name = "A Sensorizar C3A"
+repo = "https://wikifactory.com/@javierburongarcia/a-sensorizar-c3a"
+version = "20191125085352"
+spdx-license = "N/A"
+licensor = "Javier Buron"
+documentation-language = "es"
+function = "Repositorio del taller ¡A Sensorizar! por Fab Lab Córdoba en colaboración con el C3A. Córdoba, Noviembre 2019"

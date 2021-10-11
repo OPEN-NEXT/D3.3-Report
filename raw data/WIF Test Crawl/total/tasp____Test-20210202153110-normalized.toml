@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@tasp/test"
+version = "20210202153110"
+spdx-license = "N/A"
+licensor = "T S"
+documentation-language = "en"
+function = "testing"

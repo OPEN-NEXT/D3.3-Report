@@ -1,0 +1,13 @@
+name = "foodpictures"
+repo = "https://wikifactory.com/@ndubo/food-pictures"
+version = "20210310091104"
+spdx-license = "N/A"
+licensor = "Nicolas Decourcelle"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NjI1NjU="
+function = "The aim of this project is to obtain foodstuffs  as 3D objects or pictures to share various interactive activities to young people and more. Project under CC-BY-NC-ND 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjI1ODc="
+mimetype = "text/markdown"
+

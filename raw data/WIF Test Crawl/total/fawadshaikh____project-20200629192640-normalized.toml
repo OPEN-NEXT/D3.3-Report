@@ -1,0 +1,12 @@
+name = "project"
+repo = "https://wikifactory.com/@fawadshaikh/project"
+version = "20200629192640"
+spdx-license = "N/A"
+licensor = "Muhammad"
+documentation-language = "en"
+function = "power amplifier"
+[[files]]
+name = "/1024X600_02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTUwMTA="
+mimetype = "image/jpeg"
+

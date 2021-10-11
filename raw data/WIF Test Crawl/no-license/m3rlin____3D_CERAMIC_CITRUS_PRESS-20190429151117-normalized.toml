@@ -1,0 +1,13 @@
+name = "3D CERAMIC CITRUS PRESS"
+repo = "https://wikifactory.com/@joana/3d-ceramic-citrus-press"
+version = "20190429151117"
+spdx-license = "N/A"
+licensor = "Joana Schmitz"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDY3NTA="
+function = "How can the material qualities of 3D printed ceramics be utilised in functional ways? Unlike traditional slip casting, 3D printed ceramics allows for non-realising forms and create extremely fine and accurate structures. Let's develop products that take advantage of that!"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDY3NDg="
+mimetype = "text/markdown"
+

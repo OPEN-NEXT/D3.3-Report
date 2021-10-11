@@ -1,0 +1,13 @@
+name = "VegAid"
+repo = "https://wikifactory.com/@sammayhew314/00-brief-02"
+version = "20201116094747"
+spdx-license = "N/A"
+licensor = "Sam Mayhew"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0ODQxNzM="
+function = "Sam Mayhew: VegAid - Vegetation kit for gardening beginners during COVID-19 lockdown made out of used wood that would otherwise been thrown away.\nINSTAGRAM\nDesigner: @sammayhew314"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODUwNDM="
+mimetype = "text/markdown"
+

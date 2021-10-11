@@ -1,0 +1,7 @@
+name = "Janky Barge 3d"
+repo = "https://wikifactory.com/@drallen/janky-barge-3d"
+version = "20190731200735"
+spdx-license = "N/A"
+licensor = "David Allen"
+documentation-language = "nl"
+function = "View Janky Barge 3d rhino renders"

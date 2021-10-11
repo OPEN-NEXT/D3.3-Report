@@ -1,0 +1,23 @@
+name = "Bench Sit"
+repo = "https://wikifactory.com/@soprasotto/bench-sit"
+version = "20180622101212"
+spdx-license = "N/A"
+licensor = "SopraSotto"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NDk2"
+function = "<a href=\"https://alpha.wikifactory.com/@soprasotto\"><b>kindearten furniture kit</b></a> <b>-</b> The <b>bench sit</b> is a stretched version of the <a href=\"https://alpha.wikifactory.com/@soprasotto/cube-sit\">cube sit</a>."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NDg4"
+mimetype = "text/markdown"
+
+[[files]]
+name = "/SopraSotto_Bench Sit.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mjgw"
+mimetype = "text/plain"
+
+[[files]]
+name = "/SopraSotto_Bench Sit_Assembly instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mjgy"
+mimetype = "application/pdf"
+

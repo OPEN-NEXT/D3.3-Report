@@ -1,0 +1,7 @@
+name = "1st"
+repo = "https://wikifactory.com/@ipnet/1st"
+version = "20201214011342"
+spdx-license = "N/A"
+licensor = "Fb Gao"
+documentation-language = "en"
+function = "hello world"

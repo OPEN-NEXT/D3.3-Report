@@ -1,0 +1,13 @@
+name = "Pecha kulcha+supply chain"
+repo = "https://wikifactory.com/@amirtod/pecha-kulchasupply-chain"
+version = "20191209112003"
+spdx-license = "N/A"
+licensor = "Amir Todorovac"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODkyODg="
+function = "here you will find my pecha kucha and my suppy chain"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODkyODM="
+mimetype = "text/markdown"
+

@@ -1,0 +1,268 @@
+name = "DistributeurGel"
+repo = "https://wikifactory.com/@uboopenfactory/distributeurgel"
+version = "20201119094304"
+spdx-license = "N/A"
+licensor = "uboopenfactory"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTozNjU5NzU="
+function = "Développement d'un distributeur « sans contact » de gel hydro-alcoolique à pédale. Ce distributeur est développé à base de plastiques recyclés et de produits détournés. Ce modèle est déployé en économie circulaire avec des entreprises de Brest Métropole. Licensed under CC BY SA 4.0"
+[[files]]
+name = "/developpé du tube.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkzNzg="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/découpe laser 3 mm allongee.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODY4NDA="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/découpe laser 3 mm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjkwNzM="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/découpe laser 6 mm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjkwNzQ="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "DistAutoV2/découpe 3 mm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM1NjQ="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "DistAutoV2/découpe 6 mm.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM1NjU="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "DistAutoV2/Distributeur V2.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM1NTg="
+mimetype = "application/zip"
+
+[[files]]
+name = "DistAutoV2/V2.0_detection_action.ino"
+permalink = "https://wikifactory.com/files/RmlsZTozNzM1ODU="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/Distributeur_gel_auto_V1.0_detection_action.ino"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkwNDg="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Distributeur_Pedale_Files/AssemblyTemplates/PedalAssTemplate.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MzA="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Distributeur_Pedale_Files/AssemblyTemplates/PedalAssTemplate.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MzE="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Distributeur_Pedale_Files/AssemblyTemplates/TwoCirclesTemplate.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0NjU="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/BasePlate.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MjY="
+mimetype = "application/zip"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/BasePlate.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MjM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/BasePlate.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/InsideTower.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MDc="
+mimetype = "application/zip"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/InsideTower.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MDk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/InsideTower.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/Mounting Screws.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MjI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/MountingScrewsScheme.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MTM="
+mimetype = "image/png"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/PedalExternal.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0Mjg="
+mimetype = "application/zip"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/PedalExternal.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0OTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/PedalExternal.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/PedalInternal.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MTk="
+mimetype = "application/zip"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/PedalInternal.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MjE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/PedalInternal.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/PedalSupport.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MTI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/PedalSupports_verticals.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MTc="
+mimetype = "application/zip"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/PedalSupports_verticals.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/PVCTower_external.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MTE="
+mimetype = "application/zip"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/PVCTower_external.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0OTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/PVCTower_external.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/TopBlock.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MTg="
+mimetype = "application/zip"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/TopBlock.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0OTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/TopBlock.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0OTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Components/WoodScrews.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Distributeur_Pedale_Files/DistributeurGel_FINAL Drawing.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0Mzk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Distributeur_Pedale_Files/DistributeurGel_FINAL.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0NDk="
+mimetype = "application/zip"
+
+[[files]]
+name = "Distributeur_Pedale_Files/DistributeurGel_FINAL.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0Mzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Distributeur_Pedale_Files/DistributeurGel_VideoPresentation.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0NTk="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Distributeur_Pedale_Files/FastPresentation.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0NTU="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Distributeur_Pedale_Files/FastPresentation.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MzQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Laser files/CalleRondeInterne.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MDQ="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Laser files/PedalLaserV4.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MDM="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Laser files/PedalLaserV4_X32.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MDU="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Logos/logo_CHU.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MDI="
+mimetype = "image/png"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Logos/logo_UOF_eco_eva_elli_x2.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MDE="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Logos/logo_UOF_eco_eva_elli_x2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc1Mzk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Distributeur_Pedale_Files/Screenshot - 08_06_2020 , 10_54_30.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNzc0MzM="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODY4Mjg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Sous-coupe v6.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDAxOTI="
+mimetype = "application/fusion"
+
+[[files]]
+name = "/SousCoupeV6.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDAxOTQ="
+mimetype = "application/sla"
+

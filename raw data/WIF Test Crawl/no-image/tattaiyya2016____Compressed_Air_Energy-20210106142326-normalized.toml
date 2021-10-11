@@ -1,0 +1,7 @@
+name = "Compressed Air Energy  "
+repo = "https://wikifactory.com/@tattaiyya2016/compressed-air-energy"
+version = "20210106142326"
+spdx-license = "N/A"
+licensor = "TATTAIYYA BHATTACHARJEE"
+documentation-language = "en"
+function = "This is somewhat old topic, but the main idea is to innovate the existing mechanism. \n\nSince the wind the turbines are the only existing mechanism to harness energy out of thin air, we shall store the air, and then use it for electricity generation."

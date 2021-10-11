@@ -1,0 +1,43 @@
+name = "2020 Autumn Semester"
+repo = "https://wikifactory.com/@gavindunne/face-mask-cleaning-pod"
+version = "20201217132728"
+spdx-license = "N/A"
+licensor = "2020Autumn-Gavin Dunne"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTc5MjE="
+function = "Bamboo jointing prototype to create a lightweight structure for application in rural Ireland."
+[[files]]
+name = "Drawing files/Bamboo 2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjE4ODg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing files/Bamboo Joint.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjE4OTM="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Drawing files/Bamboo joint.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjE4ODk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing files/Washing Pod.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjE4OTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Initial Design sketch"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDM2MzM="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDIxMDA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Sketch"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDM4NzY="
+mimetype = "image/png"
+

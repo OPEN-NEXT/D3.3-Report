@@ -1,0 +1,7 @@
+name = "Hell Cat"
+repo = "https://wikifactory.com/@nicebug/hell-cat"
+version = "20210318131516"
+spdx-license = "N/A"
+licensor = "Duke Kim"
+documentation-language = "nl"
+function = "use Open Otto bot"

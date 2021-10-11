@@ -1,0 +1,13 @@
+name = "Deskin"
+repo = "https://wikifactory.com/@uboopenfactory/deskin"
+version = "20201209090717"
+spdx-license = "N/A"
+licensor = "uboopenfactory"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0ODg1ODg="
+function = "Deskin est une plateforme d'échanges de compétences de professionnel à particulier"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTU0NDQ="
+mimetype = "text/markdown"
+

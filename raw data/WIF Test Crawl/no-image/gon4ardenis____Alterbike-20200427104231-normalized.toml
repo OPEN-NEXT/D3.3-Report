@@ -1,0 +1,7 @@
+name = "Alterbike"
+repo = "https://wikifactory.com/@gon4ardenis/alterbike"
+version = "20200427104231"
+spdx-license = "N/A"
+licensor = "gon4ardenis"
+documentation-language = "en"
+function = "This project about the stationary bike with the alternator, creating a cheap generator."

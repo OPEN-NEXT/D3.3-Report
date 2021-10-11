@@ -1,0 +1,7 @@
+name = "FutureLink"
+repo = "https://wikifactory.com/@anothershinyday/futurelink"
+version = "20210121063022"
+spdx-license = "N/A"
+licensor = "Tony Chen"
+documentation-language = "en"
+function = "Global"

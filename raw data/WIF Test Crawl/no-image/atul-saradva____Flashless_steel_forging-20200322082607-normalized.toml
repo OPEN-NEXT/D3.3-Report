@@ -1,0 +1,7 @@
+name = "Flashless steel forging"
+repo = "https://wikifactory.com/@atul-saradva/flashless-steel-forging"
+version = "20200322082607"
+spdx-license = "N/A"
+licensor = "ATUL SARADVA"
+documentation-language = "en"
+function = "Flash less forging for stai\ufeffnless steel components."

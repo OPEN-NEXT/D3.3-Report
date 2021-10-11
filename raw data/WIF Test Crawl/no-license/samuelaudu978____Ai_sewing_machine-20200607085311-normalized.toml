@@ -1,0 +1,7 @@
+name = "Ai sewing machine"
+repo = "https://wikifactory.com/@samuelaudu978/ai-sewing-machine"
+version = "20200607085311"
+spdx-license = "N/A"
+licensor = "samuelaudu978"
+documentation-language = "en"
+function = "It can sew clothes without human interactions    just design need are been uploaded to the computer connected to the system"

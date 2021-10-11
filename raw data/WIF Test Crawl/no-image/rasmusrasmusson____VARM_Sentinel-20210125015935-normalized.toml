@@ -1,0 +1,7 @@
+name = "VARM Sentinel"
+repo = "https://wikifactory.com/@rasmusrasmusson/varm-sentinel"
+version = "20210125015935"
+spdx-license = "N/A"
+licensor = "Rasmus Rasmusson"
+documentation-language = "en"
+function = "Cloud based Covid-19 command center with custom made thermometer scanners, that can also scan id cards."

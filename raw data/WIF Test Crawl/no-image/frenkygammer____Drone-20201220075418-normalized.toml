@@ -1,0 +1,7 @@
+name = "Drone"
+repo = "https://wikifactory.com/@frenkygammer/drone"
+version = "20201220075418"
+spdx-license = "N/A"
+licensor = "frenkygammer"
+documentation-language = "en"
+function = "fly"

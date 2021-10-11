@@ -1,0 +1,8 @@
+name = "Large Format print "
+repo = "https://wikifactory.com/@macprocr/large-format-print"
+version = "20190509223252"
+spdx-license = "N/A"
+licensor = "timothy murray"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDc5ODI="
+function = "I have a client in Costa Rica that needs a larger format arm then what my Makerbot printer can print. He is a full grown adult and my printer can not print the correct size."

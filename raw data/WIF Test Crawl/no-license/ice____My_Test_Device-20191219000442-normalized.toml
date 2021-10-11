@@ -1,0 +1,7 @@
+name = "My Test Device"
+repo = "https://wikifactory.com/@ice/my-test-device"
+version = "20191219000442"
+spdx-license = "N/A"
+licensor = "Ricardo Resendes"
+documentation-language = "en"
+function = "This is my first hand assembly. I opted to build the Phoenix Unlimbited Hand at 125%."

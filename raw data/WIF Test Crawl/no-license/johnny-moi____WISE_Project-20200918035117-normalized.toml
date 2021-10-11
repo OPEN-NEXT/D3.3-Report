@@ -1,0 +1,12 @@
+name = "WISE Project"
+repo = "https://wikifactory.com/@johnny-moi/wise-project"
+version = "20200918035117"
+spdx-license = "N/A"
+licensor = "Johnny Moi"
+documentation-language = "en"
+function = "World's Integrated Stock Exchange"
+[[files]]
+name = "/V3 wise 4 ALIBABA.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzU0NTg="
+mimetype = "application/pdf"
+

@@ -1,0 +1,7 @@
+name = "bolsos tacticos"
+repo = "https://wikifactory.com/@axlalvarado/bolsos-tacticos"
+version = "20210125031508"
+spdx-license = "N/A"
+licensor = "Alvarado O Jose M"
+documentation-language = "tl"
+function = "tactical bag smart bag"

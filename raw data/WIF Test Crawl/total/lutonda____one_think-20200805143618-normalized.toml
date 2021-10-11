@@ -1,0 +1,7 @@
+name = "one think"
+repo = "https://wikifactory.com/@lutonda/one-think"
+version = "20200805143618"
+spdx-license = "N/A"
+licensor = "Lutonda Samuel"
+documentation-language = "en"
+function = "first project"

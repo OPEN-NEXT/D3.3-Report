@@ -1,0 +1,7 @@
+name = "auto farm"
+repo = "https://wikifactory.com/@davogejuma/auto-farm"
+version = "20210119063252"
+spdx-license = "N/A"
+licensor = "david ogejuma"
+documentation-language = "en"
+function = "A farm that can run it self with little observation from humans"

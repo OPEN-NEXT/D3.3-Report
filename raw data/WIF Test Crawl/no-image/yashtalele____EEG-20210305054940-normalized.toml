@@ -1,0 +1,7 @@
+name = "EEG"
+repo = "https://wikifactory.com/@yashtalele/eeg"
+version = "20210305054940"
+spdx-license = "N/A"
+licensor = "Yash  Talele"
+documentation-language = "en"
+function = "EEG based Brain Computer Interface"

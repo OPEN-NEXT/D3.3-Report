@@ -1,0 +1,13 @@
+name = "Software overview"
+repo = "https://wikifactory.com/@cubespawn/software-overview"
+version = "20200515111933"
+spdx-license = "N/A"
+licensor = "CubeSpawn"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDIxNzI="
+function = "The Software architecture \nSystem design assumptions &\nPhases of development"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTE4NDY="
+mimetype = "text/markdown"
+

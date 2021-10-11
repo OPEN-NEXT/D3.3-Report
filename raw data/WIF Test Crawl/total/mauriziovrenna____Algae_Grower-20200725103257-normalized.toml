@@ -1,0 +1,23 @@
+name = "Algae Grower"
+repo = "https://wikifactory.com/@mauriziovrenna/algae-grower"
+version = "20200725103257"
+spdx-license = "CC-BY-4.0"
+licensor = "Maurizio Vrenna"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDMyMzI="
+function = "A device to harvest fresh Spirulina at home"
+[[files]]
+name = "/Algae Grower - Final model.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMzNzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDMyMzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTUxNDc="
+mimetype = "text/markdown"
+

@@ -1,0 +1,123 @@
+name = "3D Scan Data"
+repo = "https://wikifactory.com/@jeremy/3d-scan-data"
+version = "20190527131205"
+spdx-license = "N/A"
+licensor = "Jeremy Simon"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTA4MTU="
+function = "Here's a place where we can centrally store all of the 3D scans we have of various limbs. This scan data can be very useful for people working on new designs who need samples of limb dimensions, shapes, etc."
+[[files]]
+name = "3D Scans/Carlos, adult male, right, EWC#137"
+permalink = "https://wikifactory.com/files/RmlsZToyMTIxOTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/handy_male_adult_bones.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTMwNDA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/handy_male_adult_surface.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTMwMzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Kacper_male_age_9_left1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Kacper_male_age_9_left2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Marcin_male_adult_left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Marian_male_adult_left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Marian_male_adult_right.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Patrycja_femal_adult_left1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Patrycja_femal_adult_left2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Patrycja_femal_adult_right1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Patrycja_femal_adult_right2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Piotr_male_adult_left1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Piotr_male_adult_left2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Piotr_male_age_4_left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Ralph, adult male, left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTA4MTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Ralph, adult male, right.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTA4MTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Tomasz_male_adult_right_1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Tomasz_male_adult_right_2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Tomasz_male_adult_right_3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Wojtek_male_age_4_left1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Scans/Wojtek_male_age_4_left2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3NjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU1NjQ="
+mimetype = "text/markdown"
+

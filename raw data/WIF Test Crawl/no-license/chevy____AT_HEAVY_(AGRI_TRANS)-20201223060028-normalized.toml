@@ -1,0 +1,7 @@
+name = "AT HEAVY (AGRI TRANS)"
+repo = "https://wikifactory.com/@chevy/at-heavy-agri-trans"
+version = "20201223060028"
+spdx-license = "N/A"
+licensor = "Chevaughn Beecher"
+documentation-language = "en"
+function = "This came about due to the World infrastructure in mine native country and food Supply became an issue. So I intended to make a drone that can handle the transport ofcargo carrier drones designed for large payloads (up to 800 lbs.)"

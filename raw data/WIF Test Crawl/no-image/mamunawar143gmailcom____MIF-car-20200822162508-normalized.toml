@@ -1,0 +1,7 @@
+name = "MIF-car"
+repo = "https://wikifactory.com/@mamunawar143/mif-car"
+version = "20200822162508"
+spdx-license = "N/A"
+licensor = "IMUDABBIR"
+documentation-language = "en"
+function = "flying car"

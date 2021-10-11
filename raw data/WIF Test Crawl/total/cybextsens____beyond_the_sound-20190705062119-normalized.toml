@@ -1,0 +1,8 @@
+name = "beyond the sound"
+repo = "https://wikifactory.com/@diego/beyond-the-sound"
+version = "20190705062119"
+spdx-license = "N/A"
+licensor = "Diego Rasero"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjM3MTQ="
+function = "Ultrasounds and infrasounds modulated with a filter to be able to listen it or feel it training the neuroreceptors of a little portion of skin."

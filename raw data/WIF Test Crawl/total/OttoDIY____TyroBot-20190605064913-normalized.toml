@@ -1,0 +1,208 @@
+name = "TyroBot"
+repo = "https://wikifactory.com/@cparrapa/tyrobot"
+version = "20190605064913"
+spdx-license = "N/A"
+licensor = "Camilo Parra Palacio"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTE3NDg="
+function = "Meet TyroBot. The dictionary defines \"Tyro\" as \"a beginner or novice.\" TyroBot aims to get people started building and programming robots!\nmade by Tyro Electronics."
+[[files]]
+name = "3D/back-of-board.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D/CAD/back-of-board.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3Nzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/head-bracket.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NzU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/head-plate.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NzQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/head-plateV2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NzM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/head.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NzY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/left-arm.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NzI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/left-foot.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3OTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/left-foot.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3ODk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/left-leg.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3ODg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/pelvis.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3ODc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/right-arm.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3ODY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/right-foot.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3ODU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/right-leg.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3ODQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/right-leg.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3ODM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/screen.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3ODI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/servo TOWER PRO 9g SG90.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3ODE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/test-jig.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3ODA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/torso.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3Nzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/CAD/tyrobot.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3Nzg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D/head-bracket.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D/head-plate.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D/head-plateV2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D/head.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D/left-arm.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D/left-foot.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D/left-leg.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3Njk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D/pelvis.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3Njg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D/right-arm.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3Njc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D/right-foot.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D/right-leg.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D/test-jig.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D/torso.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Firmware/background.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NTY="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Firmware/TyroBot/original-firmware/original-firmware.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NTU="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Firmware/TyroBot/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/TyroBot/TyroBot.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NTM="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "Firmware/TyroBot/TyroBot.h"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NTI="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Firmware/wifi/wifi.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NTE="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3NTA="
+mimetype = "text/markdown"
+

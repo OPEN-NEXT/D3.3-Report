@@ -1,0 +1,7 @@
+name = "ash"
+repo = "https://wikifactory.com/@vira1943/ash"
+version = "20210208065826"
+spdx-license = "N/A"
+licensor = "Ashish Mishra"
+documentation-language = "en"
+function = "ashish"

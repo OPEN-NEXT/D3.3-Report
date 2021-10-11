@@ -1,0 +1,28 @@
+name = "Fundraising Materials"
+repo = "https://wikifactory.com/@bobrieg/fundraising-materials"
+version = "20190622010237"
+spdx-license = "N/A"
+licensor = "Bob Rieger"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTQ2ODY="
+function = "This project contains various collataral materials for your fundraising effort.  Documents include simple brochures and requests, all the way to complex proposals for more significant sums.  Feel free to edit to suit your needs."
+[[files]]
+name = "/8.5x11inchcolortrifoldenglish.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ2ODQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/e-NABLE Logo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ2ODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Funding Request to the Howard and Abby Milstein Foundation.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ2Nzg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Rochester E-Nable 2017 form 990.PDF"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ2ODI="
+mimetype = "application/pdf"
+

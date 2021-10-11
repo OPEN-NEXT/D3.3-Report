@@ -1,0 +1,23 @@
+name = "KaravaneOcean"
+repo = "https://wikifactory.com/@yquere/karavaneocean"
+version = "20201029162355"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0NjA3NDY="
+function = "La Karavane des Océans est un outil de médiation dédié à tous les publics éloignés de la mer intégrant des modules interactifs pour découvrir les différentes facettes du milieu marin : sciences participatives, bibliothèques, films et podcast, micro-laboratoires d'analyse, arts créatifs..."
+[[files]]
+name = "/Maquette caravane v1.7z"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk2NTY="
+mimetype = "application/x-7z-compressed"
+
+[[files]]
+name = "/Présentation Aquathon Brest.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk1NzI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjA3NDM="
+mimetype = "text/markdown"
+

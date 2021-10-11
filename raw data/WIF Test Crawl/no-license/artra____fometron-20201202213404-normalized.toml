@@ -1,0 +1,8 @@
+name = "fometron"
+repo = "https://wikifactory.com/@artra/fometron"
+version = "20201202213404"
+spdx-license = "N/A"
+licensor = "orhan ersonmez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0OTIzOTg="
+function = "OPTICAL RADAR\nWorking by infrared laser"

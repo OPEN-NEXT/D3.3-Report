@@ -1,0 +1,13 @@
+name = "Regulon"
+repo = "https://wikifactory.com/@toman/regulon"
+version = "20201119090639"
+spdx-license = "N/A"
+licensor = "Tochukwu Emelogu"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0ODAyNjc="
+function = "Regulon is a low cost intravenous fluid monitor designed especially for pediatric patients. It should help monitor and regulate the administration of intravenous fluid in such patients. Regulon is designed for places where more expensive fluid pumps are not affordable."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODY4MDk="
+mimetype = "text/markdown"
+

@@ -1,0 +1,57 @@
+name = "CrushTube"
+repo = "https://wikifactory.com/@aco319sign/crushtube"
+version = "20200202044330"
+spdx-license = "N/A"
+licensor = "James Resoldier"
+documentation-language = "en"
+function = "Automated Soda Can Crusher"
+[[files]]
+name = "/3inABS_EndCaps.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDI4MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/anvilEndCap_3inABS.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDI3NTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/carriageCoreCollar.iam"
+permalink = "https://wikifactory.com/files/RmlsZTozMDI4MDc="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "/carriageCoreToPiston_2inABS.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDI3ODY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/clamshellDcMotorMount_3inABS.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDI3NDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Collar1_3inABS.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDI3NTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Collar2_3inABS.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDI3NTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/DC Motor Mount Assembly.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDI3OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/DW953_5.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMDI3OTI="
+mimetype = "image/png"
+
+[[files]]
+name = "/guideCollar_2inABS.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDI3NTE="
+mimetype = "application/sla"
+

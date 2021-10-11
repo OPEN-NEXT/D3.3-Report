@@ -1,0 +1,7 @@
+name = "Steelmatefastrac"
+repo = "https://wikifactory.com/@steelmatefastrac/steelmatefastrac"
+version = "20200720003903"
+spdx-license = "N/A"
+licensor = "Rinufastrac"
+documentation-language = "en"
+function = "This project is to develop a programmable logic controller for my product"

@@ -1,0 +1,7 @@
+name = "Flying vehicle"
+repo = "https://wikifactory.com/@entrepreneur089/flying-vehicle"
+version = "20210211011940"
+spdx-license = "N/A"
+licensor = "Harsh"
+documentation-language = "en"
+function = "1. A flying vehicle for inner city use that has capability to lift vertically while having the acceleration & speed of a jet engine (if possible, high bypass engine)\n\n2. A flying vehicle with thrusters & engine inside, not exposed outside, possibly using aerodynamics for thrust & lift"

@@ -1,0 +1,12 @@
+name = "Some project"
+repo = "https://wikifactory.com/@fibasile/some-project"
+version = "20190408141202"
+spdx-license = "CC-BY-4.0"
+licensor = "Fiore Basile"
+documentation-language = "en"
+function = "Some descro[topm"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxOTQ2MjY="
+mimetype = "text/plain"
+

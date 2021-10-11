@@ -1,0 +1,7 @@
+name = "Inverter"
+repo = "https://wikifactory.com/@tolhseen/inverter"
+version = "20200624152334"
+spdx-license = "N/A"
+licensor = "Aiyesa tosin"
+documentation-language = "af"
+function = "3kw sine wave inverter"

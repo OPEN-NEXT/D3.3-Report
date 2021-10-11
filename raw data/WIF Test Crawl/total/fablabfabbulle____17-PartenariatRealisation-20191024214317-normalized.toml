@@ -1,0 +1,68 @@
+name = "17-PartenariatRealisation"
+repo = "https://wikifactory.com/@burcadus/17-partenariatrealisation"
+version = "20191024214317"
+spdx-license = "CC-BY-4.0"
+licensor = "Jérôme Frédéric Bouchard"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZToyNDI2OTI="
+function = "Rencontrer les objectifs de développement durable nécessitera des changements d’habitudes et des partenariats. Il faudra être collaborer en s’inspirant / adhérant au mouvement Fab City et Fab Région. Comment pourrions-nous rallier le milieu au développement durable et  bâtir un plan d’action?"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI2OTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/ODD17.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYxMjI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Posters/20191010_092529.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Posters/20191010_092535.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Posters/20191010_092542.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Posters/20191010_092556.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Posters/20191010_092600.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Posters/20191010_092603.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2MTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Posters/20191010_092610.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Posters/20191010_092624.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Posters/20191010_092628.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2MDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Posters/20191010_092632.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2MDg="
+mimetype = "image/jpeg"
+

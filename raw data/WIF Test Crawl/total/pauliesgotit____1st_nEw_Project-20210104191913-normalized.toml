@@ -1,0 +1,7 @@
+name = "1st nEw Project"
+repo = "https://wikifactory.com/@pauliesgotit/1st-new-project"
+version = "20210104191913"
+spdx-license = "N/A"
+licensor = "Paul Sharpe"
+documentation-language = "ro"
+function = "Test 1"

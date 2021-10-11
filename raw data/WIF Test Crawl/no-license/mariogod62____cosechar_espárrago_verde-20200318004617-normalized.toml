@@ -1,0 +1,7 @@
+name = "cosechar espárrago verde"
+repo = "https://wikifactory.com/@mariogod62/cosechar-espárrago-verde"
+version = "20200318004617"
+spdx-license = "N/A"
+licensor = "Mario Gonzales"
+documentation-language = "es"
+function = "Construir un vehículo autopropulsado con energía solar, que recorra una ruta según la base de datos alimentada por el vehículo, se involucra IA, DATA, energía solar, autopropulsión, visión inteligente, brazos articulados, puertos de recarga solar, puertos de cambio de contenedor con producto."

@@ -1,0 +1,7 @@
+name = "sample"
+repo = "https://wikifactory.com/@sajaltiwari05/sample"
+version = "20210417150531"
+spdx-license = "N/A"
+licensor = "SAJAL TIWARI"
+documentation-language = "en"
+function = "sample project"

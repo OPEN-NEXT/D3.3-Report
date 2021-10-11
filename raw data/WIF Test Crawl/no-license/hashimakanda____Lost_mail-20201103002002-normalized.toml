@@ -1,0 +1,7 @@
+name = "Lost mail"
+repo = "https://wikifactory.com/@hashimakanda/lost-mail"
+version = "20201103002002"
+spdx-license = "N/A"
+licensor = "HashimAkanda"
+documentation-language = "en"
+function = "Sub gmail recover from the main gmail."

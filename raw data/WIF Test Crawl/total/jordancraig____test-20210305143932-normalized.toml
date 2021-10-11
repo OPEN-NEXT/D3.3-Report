@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@jordancraig/test"
+version = "20210305143932"
+spdx-license = "N/A"
+licensor = "Jordan Craig"
+documentation-language = "en"
+function = "testing wf"

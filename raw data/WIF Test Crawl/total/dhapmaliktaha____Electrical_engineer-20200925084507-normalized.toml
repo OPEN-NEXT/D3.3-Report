@@ -1,0 +1,7 @@
+name = "Electrical engineer"
+repo = "https://wikifactory.com/@dhapmaliktaha/electrical-engineer"
+version = "20200925084507"
+spdx-license = "N/A"
+licensor = "dhapmaliktaha"
+documentation-language = "en"
+function = "Add me"

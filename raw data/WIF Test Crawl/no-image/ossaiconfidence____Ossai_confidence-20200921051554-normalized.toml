@@ -1,0 +1,7 @@
+name = "Ossai confidence "
+repo = "https://wikifactory.com/@ossaiconfidence/ossai-confidence"
+version = "20200921051554"
+spdx-license = "N/A"
+licensor = "ossai confidence"
+documentation-language = "en"
+function = "Engine assembly"

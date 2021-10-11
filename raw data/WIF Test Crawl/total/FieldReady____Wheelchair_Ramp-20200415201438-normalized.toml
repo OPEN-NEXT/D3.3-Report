@@ -1,0 +1,33 @@
+name = "Wheelchair Ramp"
+repo = "https://wikifactory.com/@ekt17/wheelchair-ramp"
+version = "20200415201438"
+spdx-license = "BAD"
+licensor = "Ellen Troyanosky"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzQ1MzM="
+function = "An incline plane to improve accessibility"
+[[files]]
+name = "/DS001_Image_CAD.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ1Mjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/DS001_Image_Use (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ1MzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/DS001_Manual.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ1Mjg="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMzQ1MzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcxNjk="
+mimetype = "text/markdown"
+

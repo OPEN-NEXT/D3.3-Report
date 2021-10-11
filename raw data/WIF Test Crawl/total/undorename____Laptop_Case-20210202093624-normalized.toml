@@ -1,0 +1,7 @@
+name = "Laptop Case"
+repo = "https://wikifactory.com/@undorename/laptop-case"
+version = "20210202093624"
+spdx-license = "N/A"
+licensor = "Charlie Velado"
+documentation-language = "en"
+function = "Will try to build a laptop case"

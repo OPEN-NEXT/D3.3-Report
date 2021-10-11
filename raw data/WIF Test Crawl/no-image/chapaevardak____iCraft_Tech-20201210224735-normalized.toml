@@ -1,0 +1,7 @@
+name = "iCraft Tech"
+repo = "https://wikifactory.com/@chapaevardak/icraft-tech"
+version = "20201210224735"
+spdx-license = "N/A"
+licensor = "Ardak Chapaev"
+documentation-language = "ru"
+function = "Проект создания производственных станков для малых предприятий"

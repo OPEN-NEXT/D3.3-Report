@@ -1,0 +1,13 @@
+name = "M4G proyect  template"
+repo = "https://wikifactory.com/@gerardo-cordero/m4g-proyect-template"
+version = "20201028160929"
+spdx-license = "N/A"
+licensor = "gerardo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTU4NTk="
+function = "demo proyect for reference for documenting your proyect"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk1Nzg="
+mimetype = "text/markdown"
+

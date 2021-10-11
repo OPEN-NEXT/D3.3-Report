@@ -1,0 +1,18 @@
+name = "Loose Associations"
+repo = "https://wikifactory.com/@ewanbrammall/loose-associations"
+version = "20191209024303"
+spdx-license = "N/A"
+licensor = "Ewan Brammall"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODkwMjY="
+function = "The Petcha Kutcha an supply chain for the Loose Associations brief."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODkwMjk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Supply chain Ewan Brammall.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzkxMDU="
+mimetype = "application/pdf"
+

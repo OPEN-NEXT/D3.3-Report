@@ -1,0 +1,13 @@
+name = "My smiling neti jar"
+repo = "https://wikifactory.com/@niko11/my-smiling-neti-jar"
+version = "20200624171915"
+spdx-license = "N/A"
+licensor = "Niko"
+documentation-language = "ro"
+image = "https://wikifactory.com/files/RmlsZTozOTAxNDI="
+function = "A 3D printable neti teapot"
+[[files]]
+name = "/Neti.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozOTAxNDM="
+mimetype = "application/octet-stream"
+

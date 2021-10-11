@@ -1,0 +1,7 @@
+name = "First project"
+repo = "https://wikifactory.com/@julianf/first-project"
+version = "20210325231348"
+spdx-license = "N/A"
+licensor = "Julian Foley"
+documentation-language = "en"
+function = "Test"

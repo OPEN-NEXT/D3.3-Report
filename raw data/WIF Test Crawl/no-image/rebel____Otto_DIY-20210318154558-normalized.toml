@@ -1,0 +1,7 @@
+name = "Otto DIY"
+repo = "https://wikifactory.com/@rebel/otto-diy"
+version = "20210318154558"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Christina Rebel"
+documentation-language = "en"
+function = "An interactive robot that anyone can make! Otto can walk, dance, make sounds and avoid obstacles. Easy to assemble with <a href=\"https://www.ottodiy.com/store/products/49452\">our builder kit</a> or 3D print then build with <a href=\"https://www.ottodiy.com/store/products/445077\">our maker kit</a>"

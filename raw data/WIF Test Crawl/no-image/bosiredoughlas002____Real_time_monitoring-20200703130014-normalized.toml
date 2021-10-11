@@ -1,0 +1,7 @@
+name = "Real time monitoring "
+repo = "https://wikifactory.com/@bosiredoughlas002/real-time-monitoring"
+version = "20200703130014"
+spdx-license = "N/A"
+licensor = "bosiredoughlas002"
+documentation-language = "en"
+function = "Aimed to cater for ICU breakegaes and real time monitoring and calibration of biomedical equipments"

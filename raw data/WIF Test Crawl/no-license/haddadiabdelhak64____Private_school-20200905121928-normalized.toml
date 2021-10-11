@@ -1,0 +1,7 @@
+name = "Private school "
+repo = "https://wikifactory.com/@haddadiabdelhak64/private-school"
+version = "20200905121928"
+spdx-license = "N/A"
+licensor = "Haddadi abdelhak"
+documentation-language = "en"
+function = "Content management of private school"

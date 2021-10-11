@@ -1,0 +1,7 @@
+name = "Green tower"
+repo = "https://wikifactory.com/@ronculvera/green-tower"
+version = "20210416203303"
+spdx-license = "N/A"
+licensor = "ronculvera"
+documentation-language = "en"
+function = "An agricultural structure in residential areas that utilizes sustainable ways of producing food."

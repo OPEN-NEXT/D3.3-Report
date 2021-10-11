@@ -1,0 +1,7 @@
+name = " Integrated PPE Shield "
+repo = "https://wikifactory.com/@sobey/integrated-ppe-shield"
+version = "20201231140507"
+spdx-license = "N/A"
+licensor = "Daniel L Sobey"
+documentation-language = "en"
+function = "Update PPE Shield to include Filter, hat and balaclava.  \nProvides protection of both mask and shield.\nExposes mouth for improved communication,\nDoes not contact face for comfort,  hat band provides the fixturing and supports the device's weight."

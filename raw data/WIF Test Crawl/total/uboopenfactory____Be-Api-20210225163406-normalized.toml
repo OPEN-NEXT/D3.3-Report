@@ -1,0 +1,13 @@
+name = "Be-Api"
+repo = "https://wikifactory.com/@uboopenfactory/be-api"
+version = "20210225163406"
+spdx-license = "N/A"
+licensor = "uboopenfactory"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTozNzYwMDg="
+function = "Protocole d'analyse 3D du mouvement des membres supérieurs dans un scénario de jeu d'avion pour les enfants avec une atteinte motrice"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTg4NjM="
+mimetype = "text/markdown"
+

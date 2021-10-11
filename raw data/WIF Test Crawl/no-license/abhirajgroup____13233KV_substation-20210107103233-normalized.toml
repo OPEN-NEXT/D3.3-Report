@@ -1,0 +1,7 @@
+name = "132/33KV substation"
+repo = "https://wikifactory.com/@abhirajgroup/13233kv-substation"
+version = "20210107103233"
+spdx-license = "N/A"
+licensor = "Amit Raj Chitravanshi"
+documentation-language = "en"
+function = "Required Layout"

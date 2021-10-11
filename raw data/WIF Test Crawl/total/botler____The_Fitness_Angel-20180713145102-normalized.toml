@@ -1,0 +1,98 @@
+name = "The Fitness Angel"
+repo = "https://wikifactory.com/@botler/the-fitness-angel"
+version = "20180713145102"
+spdx-license = "CC-BY-4.0"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2NzY2"
+function = "Your new angel in fitness! It's a wearable device that could be attached on any t-shirt or cap. It will collect the values of Heart Rate (HR) and change the color of an LED array as a visual feedback, thus keeping you safe and sound when you're exercising!"
+[[files]]
+name = "Arduino Sketch/sketchserial8ok.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDgw"
+mimetype = "text/x-c"
+
+[[files]]
+name = "Building the FabECG Files/FabECG_v6.brd"
+permalink = "https://wikifactory.com/files/RmlsZTo2Mjg4"
+mimetype = "application/xml"
+
+[[files]]
+name = "Building the FabECG Files/FabECG_v6.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo2Mjg5"
+mimetype = "application/xml"
+
+[[files]]
+name = "Building the FabECG Files/v6m.top.traces.adolfo1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo2Mjkw"
+mimetype = "image/png"
+
+[[files]]
+name = "Case Design Files/t12izquierda01.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDgy"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Case Design Files/t12primera_planta03.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDg2"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Case Design Files/t12segunda_planta02.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDg0"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Case Design Files/test12.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDgz"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Case Design Files/test12solo_cut.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDg1"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "License/license_3.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo3NDA3"
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB Design Files/Final LED Array Codes/led2.c"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDg5"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "PCB Design Files/Final LED Array Codes/led.array.hr.v5.cad"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDkw"
+mimetype = "text/x-python"
+
+[[files]]
+name = "PCB Design Files/Final LED Array Codes/Makefile"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDg4"
+mimetype = "text/x-makefile"
+
+[[files]]
+name = "PCB Design Files/Final_PCB_Design_Codes.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo2MzQx"
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB Design Files/Header_Signal_Class_Codes .txt"
+permalink = "https://wikifactory.com/files/RmlsZTo2MzQy"
+mimetype = "text/x-python"
+
+[[files]]
+name = "PCB Design Files/Initial LED Array Codes/led2.c"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDk0"
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "PCB Design Files/Initial LED Array Codes/led.array.hr.v5.cad"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDk1"
+mimetype = "text/x-python"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo3NDA4"
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "cy"
+repo = "https://wikifactory.com/@norbertmichlo/cy"
+version = "20200508150726"
+spdx-license = "N/A"
+licensor = "norbertmichlo"
+documentation-language = "en"
+function = "cy"

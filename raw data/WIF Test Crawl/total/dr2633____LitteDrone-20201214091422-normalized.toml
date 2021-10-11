@@ -1,0 +1,7 @@
+name = "LitteDrone"
+repo = "https://wikifactory.com/@dr2633/littedrone"
+version = "20201214091422"
+spdx-license = "N/A"
+licensor = "Aneesh Bharath"
+documentation-language = "en"
+function = "A small raspberry pi based drone system"

@@ -1,0 +1,12 @@
+name = "Experimentations diverses"
+repo = "https://wikifactory.com/@sîta/experimentations-diverses"
+version = "20200508194956"
+spdx-license = "N/A"
+licensor = "Sîta Subias"
+documentation-language = "fr"
+function = "Experimentations sur le biofilm de kombucha et sa production."
+[[files]]
+name = "/CAHIER D'EXPERIMENTATION.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc4NDU="
+mimetype = "application/pdf"
+

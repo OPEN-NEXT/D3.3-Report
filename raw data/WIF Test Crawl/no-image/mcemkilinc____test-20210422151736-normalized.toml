@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@mcemkilinc/test"
+version = "20210422151736"
+spdx-license = "N/A"
+licensor = "mcemkilinc"
+documentation-language = "en"
+function = "test"

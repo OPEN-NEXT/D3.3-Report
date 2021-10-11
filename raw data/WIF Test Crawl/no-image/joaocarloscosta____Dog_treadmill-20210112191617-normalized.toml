@@ -1,0 +1,7 @@
+name = "Dog treadmill"
+repo = "https://wikifactory.com/@joaocarloscosta/dog-treadmill"
+version = "20210112191617"
+spdx-license = "N/A"
+licensor = "Joao Costa"
+documentation-language = "en"
+function = "The ability to walk the dog indoors"

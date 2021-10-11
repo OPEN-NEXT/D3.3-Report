@@ -1,0 +1,13 @@
+name = "Disinfector Bot"
+repo = "https://wikifactory.com/@chance/disinfectorbot"
+version = "20201015003720"
+spdx-license = "N/A"
+licensor = "Chance Chang"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTA4Njc="
+function = "[Project is suspended because C++ programming is required by <a href=\"http://mindplus.cc/download.html\">Mind+</a> and not enough Scratch-to-bot compatibility.]\nDisinfectorBot is a track-following disinfectant spraying robot for disinfecting classroom and corridors.\nDisinfectorBot是一款跟踪式消毒剂喷洒机器人，用于教室和走廊的消毒。"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM2Mjc="
+mimetype = "text/markdown"
+

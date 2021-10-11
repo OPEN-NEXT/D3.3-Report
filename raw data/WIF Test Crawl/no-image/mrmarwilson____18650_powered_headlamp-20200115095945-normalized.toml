@@ -1,0 +1,7 @@
+name = "18650 powered headlamp"
+repo = "https://wikifactory.com/@mrmarwilson/18650-powered-headlamp"
+version = "20200115095945"
+spdx-license = "N/A"
+licensor = "mrmarwilson"
+documentation-language = "en"
+function = "The \ufeffgoal is to design and make a headlamp that uses rechargeable technology (18650 batteries) that's better than current AAA/AA rechargeable batteries"

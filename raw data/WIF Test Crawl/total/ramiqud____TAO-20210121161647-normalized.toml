@@ -1,0 +1,7 @@
+name = "TAO"
+repo = "https://wikifactory.com/@ramiqud/tao"
+version = "20210121161647"
+spdx-license = "N/A"
+licensor = "Rami Qudahe"
+documentation-language = "da"
+function = "New programmed system"

@@ -1,0 +1,7 @@
+name = "Watering drone"
+repo = "https://wikifactory.com/@ag-raka/watering-drone"
+version = "20210131063926"
+spdx-license = "N/A"
+licensor = "Auwal gambo raka"
+documentation-language = "en"
+function = "I want to construct a drone that will be used in  watering on farm"

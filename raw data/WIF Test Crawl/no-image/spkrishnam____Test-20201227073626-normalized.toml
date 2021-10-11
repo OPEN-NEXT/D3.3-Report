@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@spkrishnam/test"
+version = "20201227073626"
+spdx-license = "N/A"
+licensor = "Krishna Prasad Sharma"
+documentation-language = "en"
+function = "This is only a test project!"

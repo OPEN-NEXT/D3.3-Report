@@ -1,0 +1,48 @@
+name = "Incubator"
+repo = "https://wikifactory.com/@atia/incubator"
+version = "20200619100231"
+spdx-license = "BAD"
+licensor = "Isaac Atia-Abugbilla"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDM2Njg="
+function = "Incubators are useful piece of equipment, however, most of them are expensive to get in biohacking/diybio labs. The MboaLab in Cameroon through the Building Free Open Science Hardware by Andre Chagas built the first incubator  which was adopted and built for use in Ghana."
+[[files]]
+name = "biolab_incubator/biolab_incubator.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyNDIwMTE="
+mimetype = "text/x-arduino"
+
+[[files]]
+name = "biolab_incubator/Laser cut parts/Incubator.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDE1NDg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "biolab_incubator/Laser cut parts/Incubator.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDE1NDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/BOM-incubator.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZTozODQ4MTk="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "/incubator.fzz"
+permalink = "https://wikifactory.com/files/RmlsZToyNDIyNjM="
+mimetype = "application/zip"
+
+[[files]]
+name = "/incubator_bb.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDE0MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM2Njk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM3OTQ="
+mimetype = "text/markdown"
+

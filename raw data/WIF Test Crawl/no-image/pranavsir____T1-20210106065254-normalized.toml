@@ -1,0 +1,7 @@
+name = "T1"
+repo = "https://wikifactory.com/@pranavsir/t1"
+version = "20210106065254"
+spdx-license = "N/A"
+licensor = "Pranav"
+documentation-language = "en"
+function = "Trial 1"

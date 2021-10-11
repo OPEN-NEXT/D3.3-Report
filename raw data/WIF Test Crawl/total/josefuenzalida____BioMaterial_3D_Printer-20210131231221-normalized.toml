@@ -1,0 +1,17 @@
+name = "BioMaterial 3D Printer"
+repo = "https://wikifactory.com/@josefuenzalida/biomaterial-3d-printer"
+version = "20210131231221"
+spdx-license = "MIT"
+licensor = "José Tomás Domínguez"
+documentation-language = "en"
+function = "A complete mechanical extrusion system that allow any open 3D printer to be transformed into a viscous material 3D printer."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMwNDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMwNDg="
+mimetype = "text/markdown"
+

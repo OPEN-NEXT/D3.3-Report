@@ -1,0 +1,7 @@
+name = "Velocar prototype"
+repo = "https://wikifactory.com/@richardvelocar/velocar-prototype"
+version = "20210202142851"
+spdx-license = "N/A"
+licensor = "Richard Jirsak"
+documentation-language = "en"
+function = "four wheeled pedelec and cargo \"bike\""

@@ -1,0 +1,13 @@
+name = "Envision Hands project"
+repo = "https://wikifactory.com/@growwithjoe/envision-hands-project"
+version = "20190401073434"
+spdx-license = "N/A"
+licensor = "joe "
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTMzMTc="
+function = "This is our hand that was sent to Gujarat India .\nWe are a dedicated Australian group of volunteers with , Engineering , Electronics and 3D printing back grounds who are looking to help people within the E-Nable community ."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTMzMTg="
+mimetype = "text/markdown"
+

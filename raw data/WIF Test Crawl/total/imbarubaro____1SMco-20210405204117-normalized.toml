@@ -1,0 +1,27 @@
+name = "1SMco"
+repo = "https://wikifactory.com/@imbarubaro/1smco"
+version = "20210405204117"
+spdx-license = "N/A"
+licensor = "barubaro"
+documentation-language = "en"
+function = "Id&Branding"
+[[files]]
+name = "/1SM_BNW"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU4Njc="
+mimetype = "image/png"
+
+[[files]]
+name = "/1SM_FONT_BLACK"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU4NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/1SM_FONT_YELLOW"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU4NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/1SM_WNB"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU4NjQ="
+mimetype = "image/png"
+

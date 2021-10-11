@@ -1,0 +1,13 @@
+name = "Woodland"
+repo = "https://wikifactory.com/@mungochambers/woodland"
+version = "20210122140625"
+spdx-license = "N/A"
+licensor = "Mungo Chambers"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTY0MTM="
+function = "How might we utilise local woodland resources to stimulate sustainable economic activity? This project looks at the effect of ash dieback, the role of tree surgery and re-wilding."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjUyNzg="
+mimetype = "text/markdown"
+

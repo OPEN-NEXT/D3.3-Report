@@ -1,0 +1,8 @@
+name = "DIY Weather Station"
+repo = "https://wikifactory.com/@dfrobotsummer/diy-weather-station"
+version = "20201127063827"
+spdx-license = "N/A"
+licensor = "DFRobot_Summer"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0OTA0OTU="
+function = "A Weather Station Which simulate the real-time weather of your location by changing the colors of the showpiece.The Weather Station is made using a Node MCU(ESP8266) , Connected to 25 WS2812B LEDs (16 for pot walls 4 LEDs for each wall, 7 LEDs in cloud, 2 LEDs in Sun/Moon)"

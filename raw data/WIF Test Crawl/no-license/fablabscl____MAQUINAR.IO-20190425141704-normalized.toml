@@ -1,0 +1,58 @@
+name = "MAQUINAR.IO "
+repo = "https://wikifactory.com/@tvivanco/maquinario"
+version = "20190425141704"
+spdx-license = "N/A"
+licensor = "Tomas Vivanco Larrain"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTY0Njk="
+function = "Digital manufacturing Bazaar. \u200b \u200b Online store where you can find developed products by a creative community using new digital manufacturing technologies."
+[[files]]
+name = "images/Captura_de_pantalla_2015-07-28_13.53.51.png"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0NjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/image.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/mane1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0NjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/mq1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0NjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/mq2.png"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0NjU="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mq3.png"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0NjM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/mq4.png"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0NjY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/presentacion_1_bazar_(2_of_5).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0NTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/presentacion_1_bazar_(3_of_5).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0NTc="
+mimetype = "text/plain"
+

@@ -1,0 +1,7 @@
+name = "Sainadh Galvanising "
+repo = "https://wikifactory.com/@mkishoregupta/sainadh-galvanising"
+version = "20200922010734"
+spdx-license = "N/A"
+licensor = "mkishoregupta"
+documentation-language = "en"
+function = "Hot dip Galvanising of Iron Angles, Beams and Channels."

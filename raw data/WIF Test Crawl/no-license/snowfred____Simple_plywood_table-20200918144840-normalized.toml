@@ -1,0 +1,43 @@
+name = "Simple plywood table"
+repo = "https://wikifactory.com/@snowfred/simple-plywood-table"
+version = "20200918144840"
+spdx-license = "N/A"
+licensor = "Fred Snow"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzQyOTU="
+function = "Simple one-sheet plywood table.\n1060x1060 mm shelf, 1380x1060 mm top plate.\n4 legs holding shelf on 498 mm height and top plate on 740 mm.\nLegs connected to the plates with at least 2 cable ties or rope pieces per leg = 8 cable ties."
+[[files]]
+name = "Drawings/simple table 2 assembly v4.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzQyNzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Drawings/simple table 2 v3.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzQyNzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Pictures/simple table 2 18mm black ties.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzQyNzA="
+mimetype = "image/png"
+
+[[files]]
+name = "Pictures/simple table 2 18mm rope.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzQyNzM="
+mimetype = "image/png"
+
+[[files]]
+name = "Pictures/simple table 2 18mm ties.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzQyNzI="
+mimetype = "image/png"
+
+[[files]]
+name = "Pictures/simple table 2 material layout 1220x2440x18.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzQyNzE="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzQyNjg="
+mimetype = "text/markdown"
+

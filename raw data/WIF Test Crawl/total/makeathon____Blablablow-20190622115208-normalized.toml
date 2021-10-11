@@ -1,0 +1,123 @@
+name = "Blablablow"
+repo = "https://wikifactory.com/@tauan/blablablow"
+version = "20190622115208"
+spdx-license = "N/A"
+licensor = "Tauan Bernardo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTU4MTI="
+function = "A board game played in teams to learn languages and make new friends."
+[[files]]
+name = "/Blablablow - instructions.docx"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzMzc="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/BODY_BUtton_1.05.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzOTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/BUTTON_push.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzODY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/cards guessing side.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNDY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/cards instructional side.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNDU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/envelope 1 and 4.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/envelope 2 and 3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/foto1.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzOTE="
+mimetype = "image/png"
+
+[[files]]
+name = "/gamecode.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU0MDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/moving pin.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/prototipo4.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU0MTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/prototipo6_3.blend"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU0MTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/prototipo6_3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU0MTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/PrototipoWithButton6_9-Button_pin_001.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzODg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/PrototipoWithButton6_9.blend"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzODc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/PrototipoWithButton6_12.blend"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzOTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Protótipos/Envelope1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ5ODA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Protótipos/Envelope2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ5Nzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "Protótipos/Envelope3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ5Nzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Protótipos/Envelope4.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ5Nzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "Protótipos/PI3_prototipo5.gcode"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ5ODE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU4MTU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/revolve.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzODk="
+mimetype = "application/sla"
+

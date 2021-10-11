@@ -1,0 +1,7 @@
+name = "drone"
+repo = "https://wikifactory.com/@mbkshatriya/drone"
+version = "20210423133915"
+spdx-license = "N/A"
+licensor = "mbkshatriya"
+documentation-language = "en"
+function = "novel method"

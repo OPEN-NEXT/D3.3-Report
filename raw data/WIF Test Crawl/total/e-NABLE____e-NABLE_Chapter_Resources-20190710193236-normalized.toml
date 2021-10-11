@@ -1,0 +1,23 @@
+name = "e-NABLE Chapter Resources"
+repo = "https://wikifactory.com/@jeremy/e-nable-chapter-resources"
+version = "20190710193236"
+spdx-license = "N/A"
+licensor = "Jeremy Simon"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjU1NjA="
+function = "This project serves as a central place for storing resources for e-NABLE chapters, including documents, templates, presentations, etc. Discussion of ideas and issues is also available in the Issues section."
+[[files]]
+name = "Documentation/e-NABLE Chapters Business Case ENG.docx"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU1NjQ="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "Presentations/e-NABLE Chapters Strategic Plan_v01.pptx"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU1Njc="
+mimetype = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU1NzQ="
+mimetype = "text/markdown"
+

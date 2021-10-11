@@ -1,0 +1,43 @@
+name = "04-éducation de qualité"
+repo = "https://wikifactory.com/@burcadus/04-éducation-de-qualité"
+version = "20191009200747"
+spdx-license = "CC-BY-4.0"
+licensor = "Jérôme Frédéric Bouchard"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZToyNDI1NDg="
+function = "Comment pourrions-nous créer une synergie qui favorise le plein potentiel des étudiants entre les organismes et les institutions sur le Campus de la Cité?"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI1NDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Panneaux/20191009_160329.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_160332.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_160339.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_160342.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_160345.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_160349.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1MTY="
+mimetype = "image/jpeg"
+

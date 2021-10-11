@@ -1,0 +1,7 @@
+name = "Huerto Modular"
+repo = "https://wikifactory.com/@sclerolobium/huerto-modular"
+version = "20200618123130"
+spdx-license = "N/A"
+licensor = "Juan Carlos Corrales Arce"
+documentation-language = "es"
+function = "Estructura modular para diseñar huerto urbano según la necesidad de la planta."

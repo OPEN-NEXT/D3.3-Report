@@ -1,0 +1,7 @@
+name = "portable diagnostic lab"
+repo = "https://wikifactory.com/@atchut/portable-diagnostic-lab"
+version = "20210207162637"
+spdx-license = "N/A"
+licensor = "venkata atchuta rao"
+documentation-language = "en"
+function = "this lab includes micro fluidics powered instant diagnostic process to bring down complex labs in to the hands of students and researchers who wish for DIY experiments"

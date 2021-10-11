@@ -1,0 +1,13 @@
+name = "Interactive Water"
+repo = "https://wikifactory.com/@littlechoirboy/interactive-water"
+version = "20200213153311"
+spdx-license = "N/A"
+licensor = "Christopher Rauser"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDIxMjM="
+function = "Creative project which aimed on making water interactive by touch."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDIxNDQ="
+mimetype = "text/markdown"
+

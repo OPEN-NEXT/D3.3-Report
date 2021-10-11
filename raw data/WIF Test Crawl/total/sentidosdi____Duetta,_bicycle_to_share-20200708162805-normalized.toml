@@ -1,0 +1,278 @@
+name = "Duetta, bicycle to share"
+repo = "https://wikifactory.com/@sentidosdi/duetta-bicycle-to-share"
+version = "20200708162805"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Indalecio Sabbioni"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzM2NTg="
+function = "A tandem bicycle, with practically the same size, weight, and cost of a standard bicycle.\nNow you can say to your friends: “I’ll give you a ride!”<br />- Smaller and easier to maneuver than a conventional tandem.<br />- Safely ride with disabled people.<br />- It is easy to adapt the bicycle for different uses."
+[[files]]
+name = "3D/Duetta20.igs"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3ODc="
+mimetype = "model/iges"
+
+[[files]]
+name = "3D/Duetta24.igs"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2ODU="
+mimetype = "model/iges"
+
+[[files]]
+name = "Drawings_Plans/Duetta 20_real size_English.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2ODg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Drawings_Plans/Duetta 20_tamaño real_Español.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2ODc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Drawings_Plans/Duetta 24_real size_English.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2ODk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Drawings_Plans/Duetta+Decals.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDY5MTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Images_Photos/2013-12-12_19-18-50_993.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/2016_09_25_07271.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/9342_02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/29388556_10213055868945060_8013601490419580928_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/background image_Duetta3 - copia.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/background image_Duetta5 - copia.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/background image_Duetta6 - copia.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/background image_Duetta13 - copia.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/background image_Duetta22.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/background image_Roden logo applied.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/background_Duetta6_.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/background_Duetta7_.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/comparación-con-tandem.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/cuadro.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/DSC02451.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/DSC_0027-3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Duetta.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Duetta_features_01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Duetta_features_02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Duetta_features_03.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Duetta_features_04.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/free innovative design.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/IMG_20181110_084948.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/IMG_20190215_235220_749.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/IMG_20190323_184537.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/IMG_20190701_163344.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3Mjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Pedals/DSC02458.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Pedals/DSC03395.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Pedals/DSC05771.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Pedals/DSC_0073-2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Pedals/DSC_1654b.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3Mzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Pedals/DSC_1719c.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Pedals/DSC_1721 (2).JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Pedals/DSC_1731.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Pedals/DSCF3805.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3NDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Pedals/IMG_20190216_190719.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Pedals/vigurvant.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3Mjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Pedals/WhatsApp Image 2019-08-20 at 11.09.05.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/roden.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Roden_Social_Square_3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/tandem 244.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/tandem 246.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Web_actions_plans.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Web_actions_social_share.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/Web_actions_use.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3MTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images_Photos/WhatsApp Image 2019-02-18.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM3Mjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2NTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTM0NTk="
+mimetype = "text/markdown"
+

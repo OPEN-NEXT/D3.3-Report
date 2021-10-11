@@ -1,0 +1,7 @@
+name = "Energy Transfer"
+repo = "https://wikifactory.com/@aurangzaib/energy-transfer"
+version = "20200827232702"
+spdx-license = "N/A"
+licensor = "aurangzaibexcelworld"
+documentation-language = "en"
+function = "Download or upload electric energy"

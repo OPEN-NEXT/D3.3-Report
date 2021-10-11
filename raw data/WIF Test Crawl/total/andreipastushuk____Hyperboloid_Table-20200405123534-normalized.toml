@@ -1,0 +1,7 @@
+name = "Hyperboloid Table"
+repo = "https://wikifactory.com/@andreipastushuk/hyperboloid-table"
+version = "20200405123534"
+spdx-license = "N/A"
+licensor = "Andrei Pastushuk"
+documentation-language = "ca"
+function = "\ufeffAccent table design."

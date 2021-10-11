@@ -1,0 +1,173 @@
+name = "Prosthetic Arm Prototype"
+repo = "https://wikifactory.com/@rebel/prosthetic-arm-prototype"
+version = "20180412150757"
+spdx-license = "N/A"
+licensor = "Christina Rebel"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzY3MjE="
+function = "Speaking to organisations helping the disabled in China, it became clear that the majority of children who could benefit from prosthetics need arms over hands. This led to the exploration and prototyping of a prosthetic arm from <a href=\"http://www.teamunlimbited.org/\">Team Unlimbited,</a> the <a href=\"http://www.teamunlimbited.org/the-unlimbited-arm/\">Isabella Arm</a> + <a href=\"http://enablingthefuture.org/phoenix-hand/\">e-NABLE Pheonix Hand</a>."
+[[files]]
+name = "3D Files/Arm Component/Cuff Forming Jig.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzU1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Arm Component/Cuff.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzU2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Arm Component/Elbow Cap x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzYx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Arm Component/Elbow Pin x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzU3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Arm Component/Forearm.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzU4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Arm Component/Tensioner Block.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzU5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Arm Component/Tensioner Pin x3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzYw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/finger_phalanx.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzYy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/fingertip_long_v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzYz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/fingertip_pin.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/fingertip_short_v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/gripper_box_left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/gripper_box_right.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/knuckle_pin_long.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/knuckle_pin_short.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/palm_left_new_supports.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzcw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/palm_mesh_right_thick.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzcx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/palm_mesh_right_thin.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzcy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/palm_right_new_supports.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzcz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/Phoenix_Left_Demo_Bar_V1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzc0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/Phoenix_Right_Demo_Bar_V1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzc1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/retention_clip.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzc2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/swivel_pin_left_JD1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzc3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/swivel_pin_right_JD1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzc4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/thumb_knuckle_pin.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzgw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/thumb_phalanx.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzgx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/thumbtip_pin.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzgz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/thumbtip_v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzg0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Hand Component/wrist_pin_cap.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMzg2"
+mimetype = "application/sla"
+
+[[files]]
+name = "Guides/Phoenix_v2_assembly_guide.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxMzg4"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Guides/UnLimbited_Arm_Sizing_Guide.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZToxMzg5"
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMzQw"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo3MTkw"
+mimetype = "text/markdown"
+

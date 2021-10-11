@@ -1,0 +1,7 @@
+name = "gilgamesh"
+repo = "https://wikifactory.com/@daniezzz/gilgamesh"
+version = "20210213133104"
+spdx-license = "N/A"
+licensor = "Daniel Alejandro Scaravilli"
+documentation-language = "es"
+function = "Robot experimental para manejo de explosivos y material contaminado."

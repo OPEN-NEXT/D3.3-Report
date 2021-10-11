@@ -1,0 +1,13 @@
+name = "Kosmos"
+repo = "https://wikifactory.com/@yquere/kosmos"
+version = "20201028163123"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0NTU2NzY="
+function = "L'objectif, est de concevoir un système de caméra rotative sous-marine pour la recherche en écologie marine (IFREMER, KonkarLab)"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk2Mzg="
+mimetype = "text/markdown"
+

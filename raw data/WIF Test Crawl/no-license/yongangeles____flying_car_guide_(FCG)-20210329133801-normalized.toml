@@ -1,0 +1,7 @@
+name = "flying car guide (FCG)"
+repo = "https://wikifactory.com/@yongangeles/flying-car-guide-fcg"
+version = "20210329133801"
+spdx-license = "N/A"
+licensor = "Jose A. Angeles Jr."
+documentation-language = "en"
+function = "useful during traffic, head on collision predicter,"

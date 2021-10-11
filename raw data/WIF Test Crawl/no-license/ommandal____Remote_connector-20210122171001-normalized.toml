@@ -1,0 +1,7 @@
+name = "Remote connector"
+repo = "https://wikifactory.com/@ommandal/remote-connector"
+version = "20210122171001"
+spdx-license = "N/A"
+licensor = "Sujeet Mandal"
+documentation-language = "en"
+function = "My device will be connected between a wire of the electronic item and the item can be controlled using mobile phone."

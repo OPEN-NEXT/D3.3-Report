@@ -1,0 +1,148 @@
+name = "Open Tiko"
+repo = "https://wikifactory.com/@chancejiang/open-tiko"
+version = "20200724104824"
+spdx-license = "N/A"
+licensor = "Chance Jiang"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTA1MDc="
+function = "OpenTiko is an open source IoT kit for enabling next generation sensor apps designed with the blockchain-first data sharing principle."
+[[files]]
+name = "enclosures/Acrylic-cover-for-camera.stp"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "enclosures/power-plug.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "enclosures/power-plug.stp"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "enclosures/tiko-base.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "enclosures/tiko-base.stp"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "enclosures/tiko-body-upper.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "enclosures/tiko-body-upper.stp"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "enclosures/tiko-camera-frame.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "enclosures/tiko-camera-frame.stp"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5Njc="
+mimetype = "text/plain"
+
+[[files]]
+name = "enclosures/tiko-led-indicator.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "enclosures/tiko-led-indicator.stp"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "enclosures/tiko-pad.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "enclosures/tiko-pad.stp"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5Njk="
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB/Gerber.json"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NDM="
+mimetype = "application/json"
+
+[[files]]
+name = "PCB/Gerber/Gerber_BoardOutline.gko"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5Mzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB/Gerber/Gerber_BottomLayer.gbl"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB/Gerber/Gerber_BottomPasteMaskLayer.gbp"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5MzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB/Gerber/Gerber_BottomSilkLayer.gbo"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5MzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB/Gerber/Gerber_BottomSolderMaskLayer.gbs"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5Mzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB/Gerber/Gerber_Drill_PTH.drl"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5Mzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB/Gerber/Gerber_TopLayer.gtl"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5MzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB/Gerber/Gerber_TopSilkLayer.gto"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5MzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB/Gerber/Gerber_TopSolderMaskLayer.gts"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5MzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB/Schematic.json"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NDQ="
+mimetype = "application/json"
+
+[[files]]
+name = "PCB/Schematic.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM5NDE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTQ3Nzk="
+mimetype = "text/markdown"
+

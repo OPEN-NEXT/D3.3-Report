@@ -1,0 +1,53 @@
+name = "Laser cutter phone holder"
+repo = "https://wikifactory.com/@tauan/laser-cutter-phone-holder"
+version = "20210210112320"
+spdx-license = "CC-BY-4.0"
+licensor = "Tauan Bernardo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1Mzg5ODY="
+function = "Laser cutter phone holder - A low cost studio kit  made by digital fabrication, so that anyone may have adequate equipment to make internet content."
+[[files]]
+name = "/IMG-20210128-WA0007.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg5NzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG-20210128-WA0008.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg5NzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG-20210128-WA0009.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg5NzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG-20210128-WA0010.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg5Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG-20210128-WA0012.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg5Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/InShot_20210203_141253476.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg5Njg="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg5Nzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/phone holder laser.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg5NDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzkwNDI="
+mimetype = "text/markdown"
+

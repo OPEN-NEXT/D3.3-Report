@@ -1,0 +1,7 @@
+name = "RTR"
+repo = "https://wikifactory.com/@muraliinline/rtr"
+version = "20200912131802"
+spdx-license = "N/A"
+licensor = "Rlmurali"
+documentation-language = "en"
+function = "RTR V.0.15.19"

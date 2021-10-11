@@ -1,0 +1,7 @@
+name = "Autodrone x.1"
+repo = "https://wikifactory.com/@kosasih/autodrone-x1"
+version = "20210110153007"
+spdx-license = "N/A"
+licensor = "KOSASIH"
+documentation-language = "it"
+function = "Smart moto drone."

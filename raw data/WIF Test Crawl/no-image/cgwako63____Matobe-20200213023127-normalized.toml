@@ -1,0 +1,7 @@
+name = "Matobe"
+repo = "https://wikifactory.com/@cgwako63/matobe"
+version = "20200213023127"
+spdx-license = "N/A"
+licensor = "cgwako63"
+documentation-language = "en"
+function = "Briefly describe what your project is about, what technologies it is based on etc...\nTo make any body learn from me how to make a good"

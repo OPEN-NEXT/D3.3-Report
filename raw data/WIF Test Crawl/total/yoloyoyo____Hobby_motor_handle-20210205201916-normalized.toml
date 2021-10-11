@@ -1,0 +1,12 @@
+name = "Hobby motor handle"
+repo = "https://wikifactory.com/@yoloyoyo/hobby-motor-handle"
+version = "20210205201916"
+spdx-license = "N/A"
+licensor = "Zachary Hwang"
+documentation-language = "en"
+function = "Hobby motors turned into generators by adding a handle"
+[[files]]
+name = "/Hobby Motor Handles_expanded hole.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY3ODA="
+mimetype = "application/sla"
+

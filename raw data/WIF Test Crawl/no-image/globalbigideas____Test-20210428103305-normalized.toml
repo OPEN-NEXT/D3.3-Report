@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@globalbigideas/test"
+version = "20210428103305"
+spdx-license = "N/A"
+licensor = "George Bekiaris"
+documentation-language = "en"
+function = "Test to learn how to work"

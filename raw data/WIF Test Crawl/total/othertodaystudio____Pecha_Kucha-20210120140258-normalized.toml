@@ -1,0 +1,13 @@
+name = "Pecha Kucha"
+repo = "https://wikifactory.com/@eyoungdesign/pecha-kucha-5ce41"
+version = "20210120140258"
+spdx-license = "N/A"
+licensor = "Emily Young"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTI5MjE="
+function = "A 'Loose Associations' Pecha Kucha.\nStarting with the 6th Duke of Portland, ending with one of the first documented waterslides, and a wild ride in between."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjMyMjI="
+mimetype = "text/markdown"
+

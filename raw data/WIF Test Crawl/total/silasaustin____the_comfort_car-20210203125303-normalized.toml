@@ -1,0 +1,7 @@
+name = "the comfort car "
+repo = "https://wikifactory.com/@silasaustin/the-comfort-car"
+version = "20210203125303"
+spdx-license = "N/A"
+licensor = "silas ndubueze"
+documentation-language = "en"
+function = "building a car basically for comfort"

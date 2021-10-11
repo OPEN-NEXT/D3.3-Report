@@ -1,0 +1,43 @@
+name = "14-Vie Aquatique"
+repo = "https://wikifactory.com/@burcadus/14-vie-aquatique"
+version = "20191010132836"
+spdx-license = "CC-BY-4.0"
+licensor = "Jérôme Frédéric Bouchard"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZToyNDI1OTc="
+function = "Comment pourrions-nous prendre soin de la faune et de la flore riveraines de nos lacs et rivières ?"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI1OTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Photos des panneaux/20191010_085724.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM2MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos des panneaux/20191010_085728.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos des panneaux/20191010_085733.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos des panneaux/20191010_085737.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos des panneaux/20191010_085741.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos des panneaux/20191010_085744.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM1OTU="
+mimetype = "image/jpeg"
+

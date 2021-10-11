@@ -1,0 +1,17 @@
+name = "TestProject"
+repo = "https://wikifactory.com/@andreacasella/testproject"
+version = "20210302090417"
+spdx-license = "N/A"
+licensor = "Andrea Casella"
+documentation-language = "en"
+function = "This project is a test"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjA4OTE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/TestDoc.docx"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjA4ODc="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+

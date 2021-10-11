@@ -1,0 +1,7 @@
+name = "MONITOREO GERIATRICO"
+repo = "https://wikifactory.com/@recojiesan/monitoreo-geriatrico"
+version = "20200422011437"
+spdx-license = "N/A"
+licensor = "recoji"
+documentation-language = "es"
+function = "MONITOREO DE PARAMETROS DE SALUD GERIATRICOS/ PEDRIATICOS via Arduino, u otro Hw similar"

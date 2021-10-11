@@ -1,0 +1,168 @@
+name = "Fab City Brest"
+repo = "https://wikifactory.com/@uboopenfactory/fabcity-brest"
+version = "20210330150504"
+spdx-license = "N/A"
+licensor = "uboopenfactory"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1NzM4OTY="
+function = "L'objectif de Fab City Brest est de rendre la ville résiliente dans des domaines comme la mer, la santé, la donnée ou l'agroalimentaire à hauteur de 50% d'ici 2054 en suivant des valeurs comme le partage, l'open source, ou l'innovation."
+[[files]]
+name = "/Manifesto.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTU0MzQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Photos/Fabcity_Brest_cover.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTUzODg="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos/imageonline-co-merged-image (1).png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MjY="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos/imageonline-co-merged-image.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MjU="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos/IMG_0666.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ3MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/nuage de mots avec noms.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/nuage-de-mots.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc2NTI="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos/page 1 plaquette fab city brest.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/page 2 plaquette fab city brest.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/page 3 plaquette fab city brest.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/page 4 plaquette fab city brest.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/page 5 plaquette fab city brest.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/page 6 plaquette fab city brest.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/page 7 plaquette fab city brest.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/page 8 plaquette fab city brest.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/page 9 plaquette fab city brest.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/pascal-bernardon-pQPYQmVufhw-unsplash.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ2OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Pitch Fab City Brest_page-0001.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Pitch Fab City Brest_page-0002.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Pitch Fab City Brest_page-0003.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Pitch Fab City Brest_page-0004.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Pitch Fab City Brest_page-0005.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Pitch Fab City Brest_page-0006.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Pitch Fab City Brest_page-0007.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Pitch Fab City Brest_page-0008.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Pitch Fab City Brest_page-0009.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Pitch Fab City Brest_page-0010.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzI1NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Pitch Fab City Brest.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzE5ODQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Plaquette de communication Fab City Brest.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM4MjA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzQwMTM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Scénario d'usage.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjUyMTM="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Texte pitch présentation Fab City Brest.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzE5ODk="
+mimetype = "application/pdf"
+

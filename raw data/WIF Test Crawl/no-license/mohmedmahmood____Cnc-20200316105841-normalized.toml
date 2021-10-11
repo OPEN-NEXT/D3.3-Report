@@ -1,0 +1,7 @@
+name = "Cnc"
+repo = "https://wikifactory.com/@mohmedmahmood/cnc"
+version = "20200316105841"
+spdx-license = "N/A"
+licensor = "Mohmed Mahmood"
+documentation-language = "en"
+function = "grbl\ufeff"

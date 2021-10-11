@@ -1,0 +1,7 @@
+name = "Condition Monitoring"
+repo = "https://wikifactory.com/@ryuhokann/condition-monitoring"
+version = "20210310171134"
+spdx-license = "N/A"
+licensor = "ryuhokann"
+documentation-language = "en"
+function = "There is a need of an add-on for monitoring the status of the gearbox including vibration, oil temperature, rpm and torque. With those information, it is expected to predict the timing to maintain the gearbox. That saves the total cost of ownership comparing with routine maintain activities."

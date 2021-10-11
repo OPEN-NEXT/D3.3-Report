@@ -1,0 +1,7 @@
+name = "moodboards"
+repo = "https://wikifactory.com/@jochemvanberne/moodboards"
+version = "20191027164949"
+spdx-license = "N/A"
+licensor = "Jochem van berne"
+documentation-language = "en"
+function = "collecting moodboards and deliverables"

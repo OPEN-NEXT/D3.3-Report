@@ -1,0 +1,17 @@
+name = "JIMGO"
+repo = "https://wikifactory.com/@v1v13n1/jimgo"
+version = "20190628165000"
+spdx-license = "N/A"
+licensor = "vivien roussel"
+documentation-language = "en"
+function = "a simple adding to trailer (cargo) for bike with Precious plastic sheets and beams."
+[[files]]
+name = "/20190628_174546.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY4NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcxNDU="
+mimetype = "text/markdown"
+

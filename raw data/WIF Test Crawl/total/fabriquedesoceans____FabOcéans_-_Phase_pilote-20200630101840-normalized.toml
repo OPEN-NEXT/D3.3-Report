@@ -1,0 +1,32 @@
+name = "FabOcéans - Phase pilote"
+repo = "https://wikifactory.com/@fabriquedesoceans/fabocéans-phase-pilote"
+version = "20200630101840"
+spdx-license = "N/A"
+licensor = "Fabrique des Océans"
+documentation-language = "fr"
+function = "Documentation de la phase pilote du projet de Fabrique des Océans de mai 2020 à mai 2021."
+[[files]]
+name = "Horizon 2020 - GreenDeal/gdc_stakeholder_engagement_topic_09-2_end-user_products_and_services.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozODM4MTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Horizon 2020 - GreenDeal/gdc_stakeholder_engagement_topic_09-3_digital_ocean.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozODM4MTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Horizon 2020 - GreenDeal/gdc_stakeholder_engagement_topic_10-3_civic_involvement.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozODM4MDY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Horizon 2020 - GreenDeal/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODM4MjA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTYxMjk="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "r"
+repo = "https://wikifactory.com/@rmznvd/r"
+version = "20210405140802"
+spdx-license = "N/A"
+licensor = "RAMAZAN VADI"
+documentation-language = "en"
+function = "cnc"

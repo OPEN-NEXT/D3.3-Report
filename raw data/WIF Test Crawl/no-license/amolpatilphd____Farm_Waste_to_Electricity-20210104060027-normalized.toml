@@ -1,0 +1,7 @@
+name = "Farm Waste to Electricity"
+repo = "https://wikifactory.com/@amolpatilphd/farm-waste-to-electricity"
+version = "20210104060027"
+spdx-license = "N/A"
+licensor = "amolpatilphd"
+documentation-language = "en"
+function = "I intend to build a sustainable green energy system where farm wastes will be Pyrolysed to run engines and to, possibly, get electricity from it. Collaborators are welcome."

@@ -1,0 +1,7 @@
+name = "CN_Ldq_OTTO"
+repo = "https://wikifactory.com/@linqvicky/cnldqotto"
+version = "20200322025753"
+spdx-license = "N/A"
+licensor = "linqvicky"
+documentation-language = "en"
+function = "OTTO test"

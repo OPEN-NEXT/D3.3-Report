@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@jgnehc/test"
+version = "20201130123540"
+spdx-license = "N/A"
+licensor = "jgnehc"
+documentation-language = "ca"
+function = "a test"

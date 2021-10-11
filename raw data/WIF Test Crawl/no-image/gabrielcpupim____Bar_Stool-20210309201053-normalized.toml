@@ -1,0 +1,7 @@
+name = "Bar Stool"
+repo = "https://wikifactory.com/@gabrielcpupim/bar-stool"
+version = "20210309201053"
+spdx-license = "N/A"
+licensor = "Gabriel Castilho Pupim"
+documentation-language = "en"
+function = "Use of surplus material for the construction of a bar stool"

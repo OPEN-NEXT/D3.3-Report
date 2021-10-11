@@ -1,0 +1,7 @@
+name = "Solar Panel Layout Boards"
+repo = "https://wikifactory.com/@siftar/solar-panel-layout-boards"
+version = "20191018164640"
+spdx-license = "N/A"
+licensor = "Tim Siftar"
+documentation-language = "en"
+function = "Base files for creating templates of urban flat roofs on which solar panel options are being considered.  For use as a physical laser-etched plywood board for training and workshop scenario, as a conceptual work space."

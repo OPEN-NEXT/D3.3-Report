@@ -1,0 +1,58 @@
+name = "Dispensador de álcool gel"
+repo = "https://wikifactory.com/@paulafreire/dispensador-de-álcool-gel"
+version = "20201017200524"
+spdx-license = "N/A"
+licensor = "Paula Isabel Mestre Freire"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo0NTQzODQ="
+function = "Projeto de dispensador de álcool gel contactless\nContactless gel dispenser"
+[[files]]
+name = "Photos/box.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQzOTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201017_151033.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQzOTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201017_151142.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQzOTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201017_183737.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQzOTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201017_183804.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQzOTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201017_183816.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQzOTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201017_183830.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQzOTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201017_184947.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQzOTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/IMG_20201017_185114.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQzODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQzODg="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Investment Proposal"
+repo = "https://wikifactory.com/@davidfaeram/investment-proposal"
+version = "20200701051026"
+spdx-license = "N/A"
+licensor = "davidfaeram"
+documentation-language = "en"
+function = "Construction"

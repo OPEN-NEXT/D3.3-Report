@@ -1,0 +1,12 @@
+name = "water"
+repo = "https://wikifactory.com/@latamerica/water"
+version = "20210427143724"
+spdx-license = "N/A"
+licensor = "José Antonio Mclauchlan"
+documentation-language = "af"
+function = "desalinate sea water"
+[[files]]
+name = "/Desalination-präsentation-03-03-2021-.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTE5NjE="
+mimetype = "application/pdf"
+

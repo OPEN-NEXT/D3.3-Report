@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@arktechhk/test"
+version = "20191023011436"
+spdx-license = "N/A"
+licensor = "arktechhk"
+documentation-language = "en"
+function = "test"

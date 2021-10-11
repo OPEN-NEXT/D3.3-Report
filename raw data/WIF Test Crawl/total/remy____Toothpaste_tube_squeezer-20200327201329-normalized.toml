@@ -1,0 +1,33 @@
+name = "Toothpaste tube squeezer"
+repo = "https://wikifactory.com/@remy/toothpaste-tube-squeezer"
+version = "20200327201329"
+spdx-license = "CC-BY-4.0"
+licensor = "Remy Ducros"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjUwMzA="
+function = "A solution to efficiently remove all the toothpaste from the tube."
+[[files]]
+name = "/Holder(x2).stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjQ5ODk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwMjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjUwMjg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Roller(x2).stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjQ5OTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Tube squeezer.step"
+permalink = "https://wikifactory.com/files/RmlsZTozMjQ5OTI="
+mimetype = "text/plain"
+

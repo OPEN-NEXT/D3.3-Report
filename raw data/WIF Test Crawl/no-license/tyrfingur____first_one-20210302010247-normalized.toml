@@ -1,0 +1,7 @@
+name = "first_one"
+repo = "https://wikifactory.com/@tyrfingur/firstone"
+version = "20210302010247"
+spdx-license = "N/A"
+licensor = "Tyrfingur Tyrfngsson"
+documentation-language = "en"
+function = "whatever I can think of."

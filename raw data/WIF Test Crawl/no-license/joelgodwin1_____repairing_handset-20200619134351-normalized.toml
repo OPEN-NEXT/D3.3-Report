@@ -1,0 +1,7 @@
+name = " repairing handset"
+repo = "https://wikifactory.com/@joelgodwin1/repairing-handset"
+version = "20200619134351"
+spdx-license = "N/A"
+licensor = "joelgodwin1"
+documentation-language = "en"
+function = "I will need to repair all kind of GSM handsets"

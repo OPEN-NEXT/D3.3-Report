@@ -1,0 +1,13 @@
+name = "A motor fan "
+repo = "https://wikifactory.com/@dfrobotsummer/a-motor-fan"
+version = "20200918065944"
+spdx-license = "N/A"
+licensor = "DFRobot_Summer"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzU1OTE="
+function = "Fetching real-time weather data and controlling the speed of a motor fan with Raspberry Pi"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzU1ODU="
+mimetype = "text/markdown"
+

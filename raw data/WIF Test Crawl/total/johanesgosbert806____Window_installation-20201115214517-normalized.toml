@@ -1,0 +1,7 @@
+name = "Window installation"
+repo = "https://wikifactory.com/@johanesgosbert806/window-installation"
+version = "20201115214517"
+spdx-license = "N/A"
+licensor = "johanesgosbert806"
+documentation-language = "en"
+function = "Window installation"

@@ -1,0 +1,7 @@
+name = "vending machine"
+repo = "https://wikifactory.com/@chrisler/vending-machine"
+version = "20210114215222"
+spdx-license = "N/A"
+licensor = "chrisler b cana"
+documentation-language = "en"
+function = "development project of my canned food vending machine"

@@ -1,0 +1,88 @@
+name = "Ruhmkorff Coil Model"
+repo = "https://wikifactory.com/@diego/ruhmkorff-coil-model"
+version = "20190704071812"
+spdx-license = "CC0-1.0"
+licensor = "Diego Rasero"
+documentation-language = "ca"
+image = "https://wikifactory.com/files/RmlsZToyMTc4ODE="
+function = "Just a 3D model."
+[[files]]
+name = "/1.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4NjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/2.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4NjM="
+mimetype = "image/png"
+
+[[files]]
+name = "/3.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4NjI="
+mimetype = "image/png"
+
+[[files]]
+name = "/4.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4NjE="
+mimetype = "image/png"
+
+[[files]]
+name = "lib/HelicalCoil.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4NzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "lib/Screw_Library/LeadNut-Cut.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4NzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "lib/Screw_Library/LeadNut_fixed.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4Njg="
+mimetype = "application/sla"
+
+[[files]]
+name = "lib/Screw_Library/LeadScrew-Cut.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4Njc="
+mimetype = "application/sla"
+
+[[files]]
+name = "lib/Screw_Library/LeadScrew_fixed.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4NjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "lib/Screw_Library/Thread_Library.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4Njk="
+mimetype = "text/plain"
+
+[[files]]
+name = "lib/Screw_Library/Tread_Test.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4NzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "lib/Spring.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4NzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "lib/spring.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4NzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "lib/Thread_Library.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4NzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4ODI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/ruhmkorff.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc4NjA="
+mimetype = "application/x-openscad"
+

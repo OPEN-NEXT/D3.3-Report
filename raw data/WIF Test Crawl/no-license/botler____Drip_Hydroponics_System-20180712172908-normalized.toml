@@ -1,0 +1,153 @@
+name = "Drip Hydroponics System"
+repo = "https://wikifactory.com/@botler/drip-hydroponics-system"
+version = "20180712172908"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2MTQ4"
+function = "Drip hydroponics system by <a href=\"https://www.3dponics.com/\">3DPonics initiative</a> is a vertical cultivation system that relies in gravity to circulate water throughout the plants. An air pump collects a nutrient solution from a reservoir through a 3D-printed conduit and pushes it through the tubing to the top of the system."
+[[files]]
+name = "3D printed parts/3Dponics-Air-Lock.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTc3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Bottle-Connector-large.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTY1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Bottle-Connector-small.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTY2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Bottle-Sleeve.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTgw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Conduit-with-Hole.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTg3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Conduit.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTg4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Drain-Cap.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTY3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Drip-Nozzle-3_4-inch-3-holes.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTgz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Drip-Nozzle-3_4-inch-4-holes.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTgy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Drip-Nozzle-3_8-inch-3-holes.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTg1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Drip-Nozzle-3_8-inch-4-holes.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTg0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Grow-Media-Basket-V1.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTc5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Grow-Media-Basket-V2.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTc4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Inner-Clip.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTYx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Outer-Clip.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTYz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Pump-Connector.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTY0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Root-Sprinkler-3_4-inch.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTcw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Root-Sprinkler-3_8-inch.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTcx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Round-Support-Rod.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTY5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Silencer.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTgx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Spacer.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTYy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Sprinkler-Head-3_4-inch.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTcy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Sprinkler-Head-3_8-inch.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTcz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Square-Support-Rod.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTY4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Tube-Separator.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTc2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Venturi.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTg2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Y-Splitter-V2.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTc0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed parts/3Dponics-Y-Splitter.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo2MTc1"
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo3MTY1"
+mimetype = "text/markdown"
+

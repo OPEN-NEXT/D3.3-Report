@@ -1,0 +1,9 @@
+name = "Copper Keychain"
+repo = "https://wikifactory.com/@ankitpatil4101/copper-keychain"
+version = "20200620112413"
+spdx-license = "N/A"
+licensor = "ankitpatil4101"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTkxNTA="
+function = "Easy to print Copper Key-chain to avoid touching contaminated surfaces like door handles, Elevators and ATM buttons, bottle cap openers, Faucets, Carry bags, etc to adjust to new normal."
+files = []

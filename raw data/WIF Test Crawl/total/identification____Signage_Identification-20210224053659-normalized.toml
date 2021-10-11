@@ -1,0 +1,7 @@
+name = "Signage Identification"
+repo = "https://wikifactory.com/@identification/signage-identification"
+version = "20210224053659"
+spdx-license = "N/A"
+licensor = "Om M Alreja"
+documentation-language = "en"
+function = "Help cater to identification needs of members with signages"

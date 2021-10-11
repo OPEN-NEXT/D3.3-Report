@@ -1,0 +1,12 @@
+name = "pc security "
+repo = "https://wikifactory.com/@gmeleygeorge/pc-security"
+version = "20201105070608"
+spdx-license = "N/A"
+licensor = "Meley George"
+documentation-language = "en"
+function = "Technologies used to secure PCs, laptops and other personal devices on a network . PC security deals with both private and public computer networks.<a href=\"http://nortors.com/\">Norton.com/Setup</a>"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjY0Njg="
+mimetype = "text/markdown"
+

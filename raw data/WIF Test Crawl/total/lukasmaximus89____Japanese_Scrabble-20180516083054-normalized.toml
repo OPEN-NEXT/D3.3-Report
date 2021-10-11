@@ -1,0 +1,13 @@
+name = "Japanese Scrabble"
+repo = "https://wikifactory.com/@lukasmaximus89/japanese-scrabble"
+version = "20180516083054"
+spdx-license = "CC-BY-4.0"
+licensor = "Luke Henderson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTU4"
+function = "In my quest to teach friends japanese I thought of this game which I thought would make it fun and easy to learn hiragana and japanese vocabulary"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxOTU1"
+mimetype = "text/plain"
+

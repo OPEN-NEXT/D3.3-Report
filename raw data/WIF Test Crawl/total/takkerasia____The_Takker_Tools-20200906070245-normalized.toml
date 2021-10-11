@@ -1,0 +1,13 @@
+name = "The Takker Tools"
+repo = "https://wikifactory.com/@takkerasia/the-takker-tools"
+version = "20200906070245"
+spdx-license = "GPL-3.0"
+licensor = "Takker Asia"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzAxNDA="
+function = "These unique and versatile <b>DIY Takker Tools</b> promise to make any items you wish to hang on any wall/surface, (up to 12kg or 27lbs) the easiest and most hassle-free task.   \nForget the need for any other tools when you have the Takkers!   See more at https://takkerasia.com"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzAxMzY="
+mimetype = "text/plain"
+

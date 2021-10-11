@@ -1,0 +1,7 @@
+name = "ENERGIA ALTERNATIVA"
+repo = "https://wikifactory.com/@romulo77padilla/energia-alternativa"
+version = "20210427201236"
+spdx-license = "N/A"
+licensor = "Romulo Alberto Padilla Olarte"
+documentation-language = "en"
+function = "Biomasa,Heolica,Solar,Mareas"

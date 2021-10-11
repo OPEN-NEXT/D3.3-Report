@@ -1,0 +1,18 @@
+name = "Programming ATtiny45 "
+repo = "https://wikifactory.com/@sdgsolutionspace/programming-attiny45"
+version = "20200624154927"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "DURNEY Jean-Marie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTAwNTc="
+function = "Howto use and program an ATtiny45 using an Arduino UNO"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozOTAwNTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTAwNzE="
+mimetype = "text/markdown"
+

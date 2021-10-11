@@ -1,0 +1,13 @@
+name = "Automated tendering"
+repo = "https://wikifactory.com/@garogaryvoskorian/automated-tendering"
+version = "20210310111021"
+spdx-license = "N/A"
+licensor = "garogaryvoskorian"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NjM3NTM="
+function = "Project aim to tender projects automatically thus to cut the wasted time of pricing process and with more compatibility"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjM3NTQ="
+mimetype = "text/markdown"
+

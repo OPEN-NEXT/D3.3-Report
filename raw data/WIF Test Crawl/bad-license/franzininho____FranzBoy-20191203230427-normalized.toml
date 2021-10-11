@@ -1,0 +1,418 @@
+name = "FranzBoy"
+repo = "https://wikifactory.com/@fabiosouza/franzboy"
+version = "20191203230427"
+spdx-license = "BAD"
+licensor = "Fabio Souza"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZToyMTQ0Nzc="
+function = "A placa FranzBoy veio para integrar a família de placas Franzininho em uma nova abordagem. Com o formato de game retro, procura incentivar o desenvolvimento de jogos, e hacks diversos. Você pode se divertir e aprender muito com eletrônica e programação."
+[[files]]
+name = "hardware/cern_ohl_v_1_2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2ODg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "hardware/cern_ohl_v_1_2_howto.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2OTA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "hardware/CHANGES.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2OTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/COPYRIGHT.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2OTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/101096_Suporte_CR2032_SMD.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2OTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "hardware/FranzBoy/bom/ibom.html"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MjQ="
+mimetype = "text/html"
+
+[[files]]
+name = "hardware/FranzBoy/fp-info-cache"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2OTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/fp-lib-table"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FranzBoy"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FranzBoy-cache.lib"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FranzBoy.bak"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2OTU="
+mimetype = "application/x-trash"
+
+[[files]]
+name = "hardware/FranzBoy/FranzBoy.csv"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MTk="
+mimetype = "text/csv"
+
+[[files]]
+name = "hardware/FranzBoy/FranzBoy.kicad_pcb"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FranzBoy.kicad_pcb-bak"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FranzBoy.net"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FranzBoy.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MDU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "hardware/FranzBoy/FranzBoy.pro"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2OTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FranzBoy.sch"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FranzBoy.xml"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2OTc="
+mimetype = "text/xml"
+
+[[files]]
+name = "hardware/FranzBoy/FRANZboyGerbers.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NDI="
+mimetype = "application/zip"
+
+[[files]]
+name = "hardware/FranzBoy/FRANZboyGerbers/FranzBoy-B.Cu.gbl"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FRANZboyGerbers/FranzBoy-B.Mask.gbs"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FRANZboyGerbers/FranzBoy-B.Paste.gbp"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FRANZboyGerbers/FranzBoy-B.SilkS.gbo"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FRANZboyGerbers/FranzBoy-Edge.Cuts.gm1"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FRANZboyGerbers/FranzBoy-F.Cu.gtl"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FRANZboyGerbers/FranzBoy-F.Mask.gts"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FRANZboyGerbers/FranzBoy-F.Paste.gtp"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FRANZboyGerbers/FranzBoy-F.SilkS.gto"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FRANZboyGerbers/FranzBoy-NPTH.drl"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/FRANZboyGerbers/FranzBoy-PTH.drl"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/Graphics.pretty/bandeiraBrasil.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/Graphics.pretty/ferrodesolda7x7.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/Graphics.pretty/ferrodesolda9x9.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/Graphics.pretty/FRANZININHO.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/Graphics.pretty/FRANZININHO_16x2.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/Graphics.pretty/GND2.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/Graphics.pretty/GND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3Mjk="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/Graphics.pretty/invaders2.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/Graphics.pretty/invaders.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3Mzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/Graphics.pretty/logo-franzininho10_6.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3Mjg="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/Graphics.pretty/logo-franzininho12_7.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/Graphics.pretty/logo-franzininho.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3Mzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/Graphics.pretty/LUCHTEC-7X7.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3Mzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/hole_15x3.pretty/MountingHole_15x3mm.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2OTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/library.pretty/CR2032_HOLDER.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2OTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/library.pretty/SW_HH_SS12D07-G4-2.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/library.pretty/SW_HH_SS12D07-G4.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/library.pretty/USB_Micro-B-LCSC-C10418-and-C40946-C319167.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/oled.pretty/0.96_I2C_OLED.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/oled.pretty/Oled96.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/oled.pretty/oled96.lib"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3Mjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/sym-lib-table"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/tp4056_breakout/tp4056_breakout.dcm"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MjA="
+mimetype = "application/dicom"
+
+[[files]]
+name = "hardware/FranzBoy/tp4056_breakout/TP4056_BREAKOUT.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/FranzBoy/tp4056_breakout/tp4056_breakout.lib"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3MjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/LICENSE"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2ODk="
+mimetype = "text/plain"
+
+[[files]]
+name = "hardware/PRODUCT.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODU2ODc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODYyNTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODc2NDY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "software/doom-nano/.gitattributes"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3Njc="
+mimetype = "text/plain"
+
+[[files]]
+name = "software/doom-nano/.gitignore"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "software/doom-nano/constants.h"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NTQ="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "software/doom-nano/display.h"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NTg="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "software/doom-nano/doom-nano.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3Njg="
+mimetype = "text/x-c"
+
+[[files]]
+name = "software/doom-nano/entities.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NTA="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "software/doom-nano/entities.h"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NTc="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "software/doom-nano/images/screen-1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "software/doom-nano/images/screen-2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "software/doom-nano/images/screen-3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "software/doom-nano/images/screen-4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "software/doom-nano/images/screen-5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "software/doom-nano/images/screen-6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "software/doom-nano/images/screen-7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "software/doom-nano/input.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NTE="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "software/doom-nano/input.h"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NzA="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "software/doom-nano/level.h"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3Njk="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "software/doom-nano/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "software/doom-nano/sprites.h"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NTI="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "software/doom-nano/types.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NTY="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "software/doom-nano/types.h"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NDk="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "software/spaceInvaders/spaceInvaders.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyODU3NDc="
+mimetype = "text/x-c"
+

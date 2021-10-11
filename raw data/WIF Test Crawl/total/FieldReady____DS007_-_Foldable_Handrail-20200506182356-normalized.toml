@@ -1,0 +1,38 @@
+name = "DS007 - Foldable Handrail"
+repo = "https://wikifactory.com/@mayaroman/ds007-foldable-handrail"
+version = "20200506182356"
+spdx-license = "BAD"
+licensor = "Maya Roman"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDY3ODM="
+function = "To assist in bathing and toileting. Foldable rail is to be used if space is limited"
+[[files]]
+name = "CAD Data/DS007_CAD.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY3NjY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Drawing Pack/DS007_Eng_Dwg.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY3Njk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/DS007_Eng_Dwg.slddrw"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY3Nzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/DS007_Manual.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY3Nzg="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY3ODA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY3ODQ="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Electromagnetic generator"
+repo = "https://wikifactory.com/@kobusm/electromagnetic-generator"
+version = "20200920125326"
+spdx-license = "N/A"
+licensor = "Kobus Malan "
+documentation-language = "en"
+function = "Bifillar coils driven by magnets while producing electricity"

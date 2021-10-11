@@ -1,0 +1,18 @@
+name = "Big Yellow Donut"
+repo = "https://wikifactory.com/@serialscraper/big-yellow-donut"
+version = "20200918101632"
+spdx-license = "N/A"
+licensor = "serialscraper"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzU3NDk="
+function = "Exactly what the title say's. A big yellow donut designed in solidworks by the <a href=\"https://serialscraper.com\">SerialScraper</a>\nSearch the web to find where I'm hiding :)"
+[[files]]
+name = "/donut.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzU3Mzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/donut.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzU3Mzk="
+mimetype = "application/sla"
+

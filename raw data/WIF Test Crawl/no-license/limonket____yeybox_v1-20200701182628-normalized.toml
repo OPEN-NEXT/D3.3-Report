@@ -1,0 +1,28 @@
+name = "yeybox v1"
+repo = "https://wikifactory.com/@limonket/test-project-dna-sample"
+version = "20200701182628"
+spdx-license = "N/A"
+licensor = "Limon Ket"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTk1MzY="
+function = "this is a test!"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg0MDE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/sasasa.mtl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgzMDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/sasasa.obj"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgzMDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/snapm.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgzODk="
+mimetype = "application/sla"
+

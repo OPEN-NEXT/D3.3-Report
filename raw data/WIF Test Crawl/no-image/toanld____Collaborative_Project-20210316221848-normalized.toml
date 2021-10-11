@@ -1,0 +1,12 @@
+name = "Collaborative Project"
+repo = "https://wikifactory.com/@toanld/collaborative-project"
+version = "20210316221848"
+spdx-license = "N/A"
+licensor = "Le Duc Toan"
+documentation-language = "en"
+function = "Thesis"
+[[files]]
+name = "/9659c904212e8b7995b23bf9ecec5592.jpg_720x720q80.jpg_.webp"
+permalink = "https://wikifactory.com/files/RmlsZTo1Njg5MTg="
+mimetype = "image/webp"
+

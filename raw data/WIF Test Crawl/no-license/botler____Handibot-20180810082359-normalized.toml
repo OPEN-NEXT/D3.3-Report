@@ -1,0 +1,148 @@
+name = "Handibot"
+repo = "https://wikifactory.com/@botler/handibot"
+version = "20180810082359"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo3Njc1"
+function = "Handibot is an open-source portable CNC milling machine and runs from any Wifi enabled device. It can be carried by just one person. This project corresponds to version 2.0. By ShopBot tools Inc."
+[[files]]
+name = "3D Model/Handibot_Adventure_Edition.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODgw"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Bill Of Materials/HandibotV2.00.00_BOM.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODgx"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/004766_001.crv"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODg0"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cut files/004766_001_CUT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3OTAw"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/004766_001_ROUNDING.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODk3"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/004766_002.crv"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODgy"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cut files/004766_002_CUT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODgz"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/004766_002_ROUNDING.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODg1"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/004766_003.crv"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODg3"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cut files/004766_003_CUT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODg2"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/004766_004.crv"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODg5"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cut files/004766_004_CUT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODg4"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/004766_005.crv"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODkx"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cut files/004766_005_CUT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODkw"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/004766_005_ROUNDING.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3OTAx"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/004766_006.crv"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODkz"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cut files/004766_006_CUT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODky"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/004766_007.crv"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODk0"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cut files/004766_007_CUT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3OTAy"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/004766_008.crv"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODk1"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cut files/004766_008_CUT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3OTAz"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/004766_009.crv"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODk2"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cut files/004766_010.crv"
+permalink = "https://wikifactory.com/files/RmlsZTo3OTA0"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cut files/004766_010_CUT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODk4"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/004766_011.crv"
+permalink = "https://wikifactory.com/files/RmlsZTo3ODk5"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cut files/004766_011_CUT.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo3OTA1"
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cut files/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo3OTA3"
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo3OTA5"
+mimetype = "text/markdown"
+

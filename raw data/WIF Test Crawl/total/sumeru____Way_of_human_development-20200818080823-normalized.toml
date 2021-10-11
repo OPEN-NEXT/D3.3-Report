@@ -1,0 +1,22 @@
+name = "Way of human development"
+repo = "https://wikifactory.com/@sumeru/way-of-human-development"
+version = "20200818080823"
+spdx-license = "N/A"
+licensor = "Sumeru Ray"
+documentation-language = "en"
+function = "MahaManan : An Essential Education For True Human Development and peace."
+[[files]]
+name = "/An Essential Education For True Human Development.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjIxMTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/MahaManan-pdf.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjM2NDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/MahaManan.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjIxMjE="
+mimetype = "image/jpeg"
+

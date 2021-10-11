@@ -1,0 +1,13 @@
+name = "Drinking Shield"
+repo = "https://wikifactory.com/@stevensnpa/drinking-shield"
+version = "20200705015905"
+spdx-license = "N/A"
+licensor = "Stevens Nelson Peña Alcántara"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDI2MTQ="
+function = "This protector is intended for people who drink a cup of coffee or tea. Perfect for the easy placement and shelter when you are enjoying the company of other people. Just place the protection part in front of the partner and enjoy.<br /> #safetoplay"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2Mzg="
+mimetype = "text/markdown"
+

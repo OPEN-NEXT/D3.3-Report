@@ -1,0 +1,18 @@
+name = "Xícara lab.au/fab lab"
+repo = "https://wikifactory.com/@labau/xícara-labaufab-lab"
+version = "20190618154719"
+spdx-license = "CC-BY-4.0"
+licensor = "Mauricio Guimaraes de Oliveira"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZToyMTM2NjM="
+function = "Xícara que presenteamos os labs pelos quais passamos!"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2NjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/xicara_labau_estampado.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM2NjA="
+mimetype = "application/vnd.ms-pki.stl"
+

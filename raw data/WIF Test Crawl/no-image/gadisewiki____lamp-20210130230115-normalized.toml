@@ -1,0 +1,7 @@
+name = "lamp"
+repo = "https://wikifactory.com/@gadisewiki/lamp"
+version = "20210130230115"
+spdx-license = "N/A"
+licensor = "Mike Gadise"
+documentation-language = "en"
+function = "A design of a lamp which I intend to use in my bedroom"

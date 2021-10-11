@@ -1,0 +1,13 @@
+name = "Open HoLu "
+repo = "https://wikifactory.com/@tiwaneewaag/open-holu"
+version = "20201013084627"
+spdx-license = "N/A"
+licensor = "Tiwanee"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTIzMzQ="
+function = "Air quality sensor developed as a collaborative effort of concerned citizens without technical skills, community of sensor makers and company providing product production and implementation. A collaboration of SODAQ and Waag's Hollandse Luchten.\nhollandseluchten.waag.org\nsodaq.com/sodaq-snifferbike/"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTIzMzg="
+mimetype = "text/markdown"
+

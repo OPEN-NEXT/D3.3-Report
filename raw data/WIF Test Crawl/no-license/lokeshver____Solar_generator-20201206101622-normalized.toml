@@ -1,0 +1,7 @@
+name = "Solar generator "
+repo = "https://wikifactory.com/@lokeshver/solar-generator"
+version = "20201206101622"
+spdx-license = "N/A"
+licensor = "Lokesh Kumar Verma"
+documentation-language = "en"
+function = "It's just a solar + generator.....\nDesign in a Solar plate is charging a battery and is connected to D. C motor having magnetic, which is revolving in diyanomo circuit... To power.... Free energy with power of A. C."

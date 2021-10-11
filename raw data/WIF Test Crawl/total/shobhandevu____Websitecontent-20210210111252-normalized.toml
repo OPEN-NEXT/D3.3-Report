@@ -1,0 +1,7 @@
+name = "Websitecontent"
+repo = "https://wikifactory.com/@shobhandevu/websitecontent"
+version = "20210210111252"
+spdx-license = "N/A"
+licensor = "shobhan"
+documentation-language = "en"
+function = "FECCI portals content document ...central doc for continuous evolution of website"

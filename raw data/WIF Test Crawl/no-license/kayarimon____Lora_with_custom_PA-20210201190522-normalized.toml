@@ -1,0 +1,7 @@
+name = "Lora with custom PA"
+repo = "https://wikifactory.com/@kayarimon/lora-with-custom-pa"
+version = "20210201190522"
+spdx-license = "N/A"
+licensor = "Langga Rimon"
+documentation-language = "pt"
+function = "Custom Lora PA"

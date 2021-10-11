@@ -1,0 +1,28 @@
+name = "Label Templates, SAULDF19"
+repo = "https://wikifactory.com/@ger/label-templates-sauldf19"
+version = "20190221154829"
+spdx-license = "CC0-1.0"
+licensor = "Gerard Walsh"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNjQxNw=="
+function = "Laser engraving names/attributions onto your 9\"x3\" test pieces."
+[[files]]
+name = "/9x3template-01.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjQwOQ=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/9x3template.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyNjQxMA=="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNjM5Mw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNjQxNg=="
+mimetype = "text/markdown"
+

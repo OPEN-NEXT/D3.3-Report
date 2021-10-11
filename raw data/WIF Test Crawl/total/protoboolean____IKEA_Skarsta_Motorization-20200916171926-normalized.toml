@@ -1,0 +1,23 @@
+name = "IKEA Skarsta Motorization"
+repo = "https://wikifactory.com/@protoboolean/ikea-skarsta-motorization"
+version = "20200916171926"
+spdx-license = "N/A"
+licensor = "Alessandro Mecca"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzQwNDY="
+function = "IKEA sells the height adjustable SKARSTA desk, which can be as tall as a standing desk.\nThe adjustment mechanism consists in an hexagonal rod terminated by a handle on one side goes through the desk frame.\nThe goal is to find/manufacture a kit to motorise the mechanism."
+[[files]]
+name = "SKARSKA Pictures and Videos/skarska - demo video.webm"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzQwNDM="
+mimetype = "video/webm"
+
+[[files]]
+name = "SKARSKA Pictures and Videos/skarska - overview.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzQwMzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "SKARSKA Pictures and Videos/skarska - rod.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzQwNDI="
+mimetype = "image/jpeg"
+

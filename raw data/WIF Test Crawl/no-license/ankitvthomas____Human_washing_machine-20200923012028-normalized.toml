@@ -1,0 +1,7 @@
+name = "Human washing machine"
+repo = "https://wikifactory.com/@ankitvthomas/human-washing-machine"
+version = "20200923012028"
+spdx-license = "N/A"
+licensor = "ankitvthomas"
+documentation-language = "en"
+function = "An idea that can change all the styles of taking a bath ( bathtub,sauna,jakuzee etc). As this machine will wash you in a while you are only standing."

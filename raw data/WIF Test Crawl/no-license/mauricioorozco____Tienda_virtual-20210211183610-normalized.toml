@@ -1,0 +1,7 @@
+name = "Tienda virtual"
+repo = "https://wikifactory.com/@mauricioorozco/tienda-virtual"
+version = "20210211183610"
+spdx-license = "N/A"
+licensor = "Alex Mauricio Orozco Espinoza"
+documentation-language = "es"
+function = "Cobros de valores"

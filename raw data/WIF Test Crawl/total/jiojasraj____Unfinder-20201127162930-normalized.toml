@@ -1,0 +1,7 @@
+name = "Unfinder"
+repo = "https://wikifactory.com/@jiojasraj/unfinder"
+version = "20201127162930"
+spdx-license = "N/A"
+licensor = "Jasraj Nagal"
+documentation-language = "en"
+function = "Find the things which is unreachable condition find out and reach them on real time"

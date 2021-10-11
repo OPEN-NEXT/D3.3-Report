@@ -1,0 +1,58 @@
+name = "BioGun"
+repo = "https://wikifactory.com/@markos/biogun"
+version = "20210203084255"
+spdx-license = "N/A"
+licensor = "Markos Georgiou"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNjgxNDE="
+function = "A handheld bio-extruder that can be made anywhere by anyone."
+[[files]]
+name = "Biogun 3D Files/Barrel Conn 3 (1).stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM4ODM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Biogun 3D Files/Bot Main Mount.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTM5MzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Biogun 3D Files/Magazine Holder(1).stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTM5NTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "Biogun 3D Files/Nozzle D3  (1).stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTM5NDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Biogun 3D Files/Nozzle d5 *.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTM5NDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Biogun 3D Files/Nozzle D8  **.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTM5NDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Biogun 3D Files/NozzleBarrelThreads**.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTM5MzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Biogun 3D Files/Reloader Lid x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTM5MzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Biogun 3D Files/Top Main Mount.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTM5MzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTM5Mjk="
+mimetype = "text/markdown"
+

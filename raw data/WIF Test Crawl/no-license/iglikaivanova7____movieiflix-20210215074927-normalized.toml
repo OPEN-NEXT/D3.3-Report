@@ -1,0 +1,7 @@
+name = "movieiflix"
+repo = "https://wikifactory.com/@iglikaivanova7/movieiflix"
+version = "20210215074927"
+spdx-license = "N/A"
+licensor = "iglika ivanova"
+documentation-language = "en"
+function = "movieiflix"

@@ -1,0 +1,13 @@
+name = "Vee-O-Gee"
+repo = "https://wikifactory.com/@jpbqt/vee-o-gee"
+version = "20190523021248"
+spdx-license = "N/A"
+licensor = "Jules Perrin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTI5MzE="
+function = "The Versatile Elbow Operated Gripper VEOG (Pronounced: Vee-O-Gee) is a gripper with attributes such as 90 degree rotation, ambidextrous and printable on small 3D printers.  Go to www.julesworkshop.net for additional details."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUwMTA="
+mimetype = "text/markdown"
+

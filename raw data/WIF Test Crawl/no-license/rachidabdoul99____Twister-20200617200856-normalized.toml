@@ -1,0 +1,7 @@
+name = "Twister"
+repo = "https://wikifactory.com/@rachidabdoul99/twister"
+version = "20200617200856"
+spdx-license = "N/A"
+licensor = "rachidabdoul99"
+documentation-language = "en"
+function = "Using a twist robot in the place of a human being"

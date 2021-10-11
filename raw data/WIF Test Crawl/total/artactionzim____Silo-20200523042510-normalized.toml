@@ -1,0 +1,7 @@
+name = "Silo "
+repo = "https://wikifactory.com/@artactionzim/silo"
+version = "20200523042510"
+spdx-license = "N/A"
+licensor = "artactionzim"
+documentation-language = "en"
+function = "Silo"

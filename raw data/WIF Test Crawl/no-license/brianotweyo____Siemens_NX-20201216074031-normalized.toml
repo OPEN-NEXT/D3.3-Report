@@ -1,0 +1,17 @@
+name = "Siemens NX "
+repo = "https://wikifactory.com/@brianotweyo/siemens-nx"
+version = "20201216074031"
+spdx-license = "N/A"
+licensor = "brianotweyo"
+documentation-language = "en"
+function = "All my siemens NX parts that range from machinery to just solid protrusions , all parts are 3d printable as well"
+[[files]]
+name = "/base-support.prt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDEzMDg="
+mimetype = "chemical/x-ncbi-asn1-ascii"
+
+[[files]]
+name = "/pressure-plate.prt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDEzMDk="
+mimetype = "chemical/x-ncbi-asn1-ascii"
+

@@ -1,0 +1,7 @@
+name = "Rarm"
+repo = "https://wikifactory.com/@ashgnasher/rarm"
+version = "20210115163932"
+spdx-license = "N/A"
+licensor = "ashgnasher"
+documentation-language = "en"
+function = "Building a functioning armoured arm with flamethrower."

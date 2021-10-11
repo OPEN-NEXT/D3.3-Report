@@ -1,0 +1,63 @@
+name = "Filtre Audio Parametrique"
+repo = "https://wikifactory.com/@mcariou/filtre-audio-parametrique"
+version = "20210122141340"
+spdx-license = "N/A"
+licensor = "Mathieu Cariou"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0NzM0MDU="
+function = "Réalisation d'un filtre audio paramétrique"
+[[files]]
+name = "Fichier de conception eagle/main.brd"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjUwMTI="
+mimetype = "application/xml"
+
+[[files]]
+name = "Fichier de conception eagle/main.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjUwMTE="
+mimetype = "application/xml"
+
+[[files]]
+name = "Gerber/bottom.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjUwMDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Gerber/contourCarte.gbr"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjUwMDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Gerber/percage.xln"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjUwMDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "illustration-photo/illustrationPCB.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzM0MDI="
+mimetype = "image/png"
+
+[[files]]
+name = "InformationCarte/dimensions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQ5OTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "InformationCarte/implantation des composants.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQ5OTk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "InformationCarte/schematic.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQ5OTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "InformationCarte/vue d'ensemble.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQ5OTg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjUyOTI="
+mimetype = "text/markdown"
+

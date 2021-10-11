@@ -1,0 +1,8 @@
+name = "Dynamic skylight "
+repo = "https://wikifactory.com/@rafagonzgarc/dynamic-skylight"
+version = "20180404160047"
+spdx-license = "N/A"
+licensor = "Rafael"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjMz"
+function = "This projects is part of r&amp;d subject at uni. In order to create a interactive roof that control the sunlight, this element works with diferents wood and traslucent elements and arduino."

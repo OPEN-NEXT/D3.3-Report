@@ -1,0 +1,7 @@
+name = "News Headlines App"
+repo = "https://wikifactory.com/@bayiviellamwininuma/news-headlines-app"
+version = "20200817172425"
+spdx-license = "N/A"
+licensor = "bayiviellamwininuma12"
+documentation-language = "en"
+function = "App gives you updates on international news headlines"

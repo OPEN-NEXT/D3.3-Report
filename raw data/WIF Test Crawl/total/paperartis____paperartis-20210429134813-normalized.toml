@@ -1,0 +1,7 @@
+name = "paperartis"
+repo = "https://wikifactory.com/@paperartis/paperartis"
+version = "20210429134813"
+spdx-license = "N/A"
+licensor = "Fernando Rui Gonçalves"
+documentation-language = "pt"
+function = "Oficina de reutilização de materiais"

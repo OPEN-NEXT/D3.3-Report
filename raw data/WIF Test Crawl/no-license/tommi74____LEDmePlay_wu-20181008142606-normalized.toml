@@ -1,0 +1,208 @@
+name = "LEDmePlay w/u"
+repo = "https://wikifactory.com/@tommi74/ledmeplay-wu"
+version = "20181008142606"
+spdx-license = "N/A"
+licensor = "Thomas Laubach"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMzI2Ng=="
+function = "I build a microcontroller-aided electromechanical game ( 2D games and Joysticks) that showcases the possibilities of a FabLab."
+[[files]]
+name = "Design/Arkade_Game.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY2Nw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Body.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY1OQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Buton.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY1Mw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/DS_Store"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY3OA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/EinAus.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY1Ng=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Halter_LED.AI"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY3Nw=="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Design/Halter_LED.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY2NA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Joystick.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY1Nw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Kartenleser.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY2Mw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Lautsprecherabdeckung.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY2MQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Lautsprecherabdeckung.STL"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY2Mg=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/LED_Panel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY2NQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Part_002.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY3MQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Part_003.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY2OA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Part_004.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY3MA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Part_005.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY3NA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Part_006.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY2Ng=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Part_007.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY2OQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Poti.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY2MA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Seitenwange.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY3Mg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Seitenwange_01.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY3Mw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Speaker.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY1NA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Taster.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY1NQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/usb.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY1OA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Zeichnungen_alle_Teile.DXF"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY3NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Design/Zeichnungen_alle_Teile.SLDDRW"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY3Ng=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/board_cut.png"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY5NA=="
+mimetype = "image/png"
+
+[[files]]
+name = "Electronics/board_cut.xcf"
+permalink = "https://wikifactory.com/files/RmlsZToxMzcwMA=="
+mimetype = "application/x-xcf"
+
+[[files]]
+name = "Electronics/board_internalTraces.png"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY5OQ=="
+mimetype = "image/png"
+
+[[files]]
+name = "Electronics/board_internalTraces.xcf"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY5Ng=="
+mimetype = "application/x-xcf"
+
+[[files]]
+name = "Electronics/board_layouted.png"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY5Nw=="
+mimetype = "image/png"
+
+[[files]]
+name = "Electronics/finalProject_manual3.brd"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY5NQ=="
+mimetype = "application/xml"
+
+[[files]]
+name = "Electronics/finalProject_manual3.sch"
+permalink = "https://wikifactory.com/files/RmlsZToxMzY5OA=="
+mimetype = "application/xml"
+
+[[files]]
+name = "Programming/ArduinoISP.ino"
+permalink = "https://wikifactory.com/files/RmlsZToxMzcwMg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Programming/avrdude.conf"
+permalink = "https://wikifactory.com/files/RmlsZToxMzcwNA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Programming/boards.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMzcwMw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Programming/LEDMatrixConnections_ATmega1284p.rtf"
+permalink = "https://wikifactory.com/files/RmlsZToxMzcwNw=="
+mimetype = "application/rtf"
+
+[[files]]
+name = "Programming/maniacbug-mighty-1284p-68ed99c.zip"
+permalink = "https://wikifactory.com/files/RmlsZToxMzcwNQ=="
+mimetype = "application/zip"
+
+[[files]]
+name = "Programming/pins_arduino.h"
+permalink = "https://wikifactory.com/files/RmlsZToxMzcwNg=="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMzUyOA=="
+mimetype = "text/markdown"
+

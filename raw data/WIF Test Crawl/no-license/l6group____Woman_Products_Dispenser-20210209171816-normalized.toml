@@ -1,0 +1,13 @@
+name = "Woman Products Dispenser"
+repo = "https://wikifactory.com/@joana-barros/women-products-dispenser"
+version = "20210209171816"
+spdx-license = "N/A"
+licensor = "Joana Barros"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MzUyMTk="
+function = "A four compartment dispenser with four different types of feminine hygiene products. \nWho never forgot to put pads inside the bag or had a small emergency? It happens to all of us and with this dispenser in all public and school bathrooms, we will always have a guardian angel."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg5MzM="
+mimetype = "text/markdown"
+

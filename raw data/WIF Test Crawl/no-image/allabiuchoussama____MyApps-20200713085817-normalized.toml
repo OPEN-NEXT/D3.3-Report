@@ -1,0 +1,7 @@
+name = "MyApps"
+repo = "https://wikifactory.com/@allabiuchoussama/myapps"
+version = "20200713085817"
+spdx-license = "N/A"
+licensor = "Allabouch Oussama"
+documentation-language = "da"
+function = "Apps for kids"

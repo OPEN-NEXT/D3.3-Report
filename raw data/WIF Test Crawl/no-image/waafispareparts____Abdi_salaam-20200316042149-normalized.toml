@@ -1,0 +1,7 @@
+name = "Abdi salaam"
+repo = "https://wikifactory.com/@waafispareparts/abdi-salaam"
+version = "20200316042149"
+spdx-license = "N/A"
+licensor = "waafispareparts"
+documentation-language = "en"
+function = "Briefly describe what your project is about, what technologies it is based on etc..."

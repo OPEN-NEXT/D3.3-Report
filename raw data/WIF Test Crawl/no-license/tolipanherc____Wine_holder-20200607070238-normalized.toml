@@ -1,0 +1,7 @@
+name = "Wine holder"
+repo = "https://wikifactory.com/@tolipanherc/wine-holder"
+version = "20200607070238"
+spdx-license = "N/A"
+licensor = "エリック パイロット"
+documentation-language = "en"
+function = "Laser etc"

@@ -1,0 +1,7 @@
+name = "Drywall ceiling designs"
+repo = "https://wikifactory.com/@ceilcorn/drywall-ceiling-designs"
+version = "20200320160727"
+spdx-license = "N/A"
+licensor = "Mvuyo Kapa"
+documentation-language = "en"
+function = "Installation of drywall ceiling designs and plaster moulded cornices."

@@ -1,0 +1,8 @@
+name = "Our Book"
+repo = "https://wikifactory.com/@jcchavez/our-book"
+version = "20210221070337"
+spdx-license = "N/A"
+licensor = "Juan Carlos Chavez Colmenares"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NTcwNzg="
+function = "Design Engineering Methodology"

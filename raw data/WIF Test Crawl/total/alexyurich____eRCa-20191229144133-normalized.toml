@@ -1,0 +1,8 @@
+name = "eRCa"
+repo = "https://wikifactory.com/@alexyurich/erca"
+version = "20191229144133"
+spdx-license = "N/A"
+licensor = "Алексей Кретов"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzU3OTU="
+function = "megaproject\ufeff"

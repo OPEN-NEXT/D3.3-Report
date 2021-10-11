@@ -1,0 +1,7 @@
+name = "new"
+repo = "https://wikifactory.com/@vikram02/new"
+version = "20210318081924"
+spdx-license = "N/A"
+licensor = "vikram"
+documentation-language = "en"
+function = "new"

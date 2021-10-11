@@ -1,0 +1,13 @@
+name = "ValoPlast"
+repo = "https://wikifactory.com/@uboopenfactory/valoplast"
+version = "20210205085309"
+spdx-license = "N/A"
+licensor = "uboopenfactory"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0NDc5MDk="
+function = "Projet Financé par la Région Bretagne pour accompagner une démarche de valorisation des déchets plastiques industriels. Un partenariat UBO Open Factory et Eco Action Plus"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY2MDI="
+mimetype = "text/markdown"
+

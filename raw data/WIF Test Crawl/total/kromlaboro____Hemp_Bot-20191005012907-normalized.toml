@@ -1,0 +1,63 @@
+name = "Hemp Bot"
+repo = "https://wikifactory.com/@michele-turco/hemp-bot"
+version = "20191005012907"
+spdx-license = "N/A"
+licensor = "Michele Turco"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDU3MzI="
+function = "HempBot is an educational car kit for kids from 8 to 16, designed to learn the basics electronics and coding. HempBot is designed to have a minimum use of metal parts and screws and the project have two versions:"
+[[files]]
+name = "/LICENSE"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3NjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3NjY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "V1 Wood/Shassis-Def.AI"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3MzY="
+mimetype = "application/postscript"
+
+[[files]]
+name = "V2-3d Printed/hempbot - coperchio.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3NTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "V2-3d Printed/hempbot shassis.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3NDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "V2-3d Printed/hempbot-coperchio2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3NDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "V2-3d Printed/master_wheel.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3NDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "V2-3d Printed/mechanical_track.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3NDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "V2-3d Printed/slave_wheel.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3NDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "V2-3d Printed/ultrasound1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3NDA="
+mimetype = "application/sla"
+
+[[files]]
+name = "V2-3d Printed/ultrasound2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU3Mzk="
+mimetype = "application/sla"
+

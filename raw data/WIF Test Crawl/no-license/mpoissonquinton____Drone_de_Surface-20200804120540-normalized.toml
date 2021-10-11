@@ -1,0 +1,13 @@
+name = "Drone de Surface "
+repo = "https://wikifactory.com/@mpoissonquinton/drone-de-surface"
+version = "20200804120540"
+spdx-license = "N/A"
+licensor = "Emmanuel Poisson-Quinton"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0MTQ4MzQ="
+function = "Construction d'un drone de surface lowcost et open source pour l'imagerie sous-marine en zone subtidale"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTg2MzA="
+mimetype = "text/markdown"
+

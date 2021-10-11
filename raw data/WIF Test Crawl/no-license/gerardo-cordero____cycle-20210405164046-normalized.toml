@@ -1,0 +1,13 @@
+name = "cycle"
+repo = "https://wikifactory.com/@gerardo-cordero/cycle"
+version = "20210405164046"
+spdx-license = "N/A"
+licensor = "gerardo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTc5MjQ="
+function = "a new way to recycle your organic waste"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzU4MDE="
+mimetype = "text/markdown"
+

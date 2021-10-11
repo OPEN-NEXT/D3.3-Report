@@ -1,0 +1,23 @@
+name = "OpenSCAD gear library"
+repo = "https://wikifactory.com/@robotix/openscad-gear-library"
+version = "20210305224845"
+spdx-license = "CC0-1.0"
+licensor = "roberto hamm"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NjIzMjU="
+function = "Here is a library for OpenSCAD to easily create gears. \n\n<b>include lib-gear-dh.scad</b>\n\nuse the following commands to create the gears:\n\n<b>gear(teeth,thick,scale);</b>\n<ul><li><b>teeth</b> : number of teeth\n</li><li><b>thick</b>: thickness of the gearing\n</li><li><em><b>scale</b></em>: scale value to adjust the gear to the correct size in the system in which it functions.\n</li></ul>"
+[[files]]
+name = "/gears.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIzMzk="
+mimetype = "application/zip"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTE3OTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjIzMzY="
+mimetype = "text/markdown"
+

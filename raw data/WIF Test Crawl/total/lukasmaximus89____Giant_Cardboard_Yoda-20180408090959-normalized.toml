@@ -1,0 +1,13 @@
+name = "Giant Cardboard Yoda  "
+repo = "https://wikifactory.com/@lukasmaximus89/giant-cardboard-yoda"
+version = "20180408090959"
+spdx-license = "CC0-1.0"
+licensor = "Luke Henderson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjcx"
+function = "Heres a bust of Yoda I made from cardboard as a decoration for a maker space I used to run. It was made by manipulating a 3D model I found of Yoda on thingiverse with the Autodesk software 123dDesign. I then cut all the pieces out on a large scale laser cutter and assembled the pieces one by one."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMjY4"
+mimetype = "text/plain"
+

@@ -1,0 +1,7 @@
+name = "Sistema de Navegacion "
+repo = "https://wikifactory.com/@santiagochp/sistema-de-navegacion"
+version = "20210404222237"
+spdx-license = "N/A"
+licensor = "Santiago Ivan Chavez Piñon "
+documentation-language = "es"
+function = "Desarrollar un sistema de navegacion utilizando ROS, Arduino y sensores US-100."

@@ -1,0 +1,98 @@
+name = "06-EauPropreEtAssainiss"
+repo = "https://wikifactory.com/@burcadus/06-eaupropreetassainiss"
+version = "20191024153746"
+spdx-license = "N/A"
+licensor = "Jérôme Frédéric Bouchard"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZToyNDI1NjA="
+function = "Considérant que nous utilisons des produits contenant des ingrédients toxiques qui se retrouvent dans notre eau agissant comme  perturbateurs de notre santé et de notre chimie du corps… Comment pourrions-nous éliminer ces produits de nos habitudes et diminuer leur présence dans nos eaux?"
+[[files]]
+name = "/1.mov"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwNDA="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "/2.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwNDM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/3.mov"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwNDg="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "/4.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwNTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/5.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwNTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/6.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwNTc="
+mimetype = "image/png"
+
+[[files]]
+name = "/7.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwNTg="
+mimetype = "image/png"
+
+[[files]]
+name = "Panneaux/20191009_142636.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0NDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_142643.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0NDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_142647.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_142650.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_142704.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0NDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_142710.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0NDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_142716.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0NDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_142719.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0NDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_142724.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0NDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Panneaux/20191009_142737.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzM0Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc1NTU="
+mimetype = "text/markdown"
+

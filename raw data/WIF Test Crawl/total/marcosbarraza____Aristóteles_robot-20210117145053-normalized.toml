@@ -1,0 +1,8 @@
+name = "Aristóteles robot"
+repo = "https://wikifactory.com/@marcosbarraza/aristóteles-robot"
+version = "20210117145053"
+spdx-license = "N/A"
+licensor = "Marcos Barraza"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo1MjA1ODM="
+function = "El proyecto es hacerle una mente artificial a un robot humanoide"

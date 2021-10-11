@@ -1,0 +1,23 @@
+name = "LK - Final Project"
+repo = "https://wikifactory.com/@lukekelly/lk-final-project"
+version = "20200530183650"
+spdx-license = "N/A"
+licensor = "Luke Kelly"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjI0MjQ="
+function = "How might we reduce single use items and maintain hygiene in a cafe environment?"
+[[files]]
+name = "/Display2small.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjI0NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Displaysmall.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjI0NzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjk3Nzg="
+mimetype = "text/markdown"
+

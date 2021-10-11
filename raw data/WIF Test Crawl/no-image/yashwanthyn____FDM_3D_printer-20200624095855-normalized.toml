@@ -1,0 +1,7 @@
+name = "FDM 3D printer"
+repo = "https://wikifactory.com/@yashwanthyn/fdm-3d-printer"
+version = "20200624095855"
+spdx-license = "N/A"
+licensor = "Yashwanthkumar Y N"
+documentation-language = "en"
+function = "Design and development of fused deposition modelling based 3d printer"

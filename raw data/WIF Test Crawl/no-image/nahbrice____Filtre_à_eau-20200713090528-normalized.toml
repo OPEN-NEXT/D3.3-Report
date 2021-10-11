@@ -1,0 +1,7 @@
+name = "Filtre à eau"
+repo = "https://wikifactory.com/@nahbrice/filtre-à-eau"
+version = "20200713090528"
+spdx-license = "N/A"
+licensor = "nahbrice"
+documentation-language = "fr"
+function = "Eau potable pour tous"

@@ -1,0 +1,7 @@
+name = " whater engine "
+repo = "https://wikifactory.com/@mohsanr552/whater-engine"
+version = "20200828100027"
+spdx-license = "N/A"
+licensor = "mohsanr552"
+documentation-language = "en"
+function = "Water engine powers to generate electricity without fuel of any kind"

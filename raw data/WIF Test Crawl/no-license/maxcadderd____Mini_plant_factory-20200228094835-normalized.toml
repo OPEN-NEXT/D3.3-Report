@@ -1,0 +1,7 @@
+name = "Mini plant factory"
+repo = "https://wikifactory.com/@maxcadderd/mini-plant-factory"
+version = "20200228094835"
+spdx-license = "N/A"
+licensor = "maxcadderd"
+documentation-language = "en"
+function = "Very Low Cost and effective Mini Plant Factory for nutritious green leaf food\n\nBy Up cycling products found around.\n\nRequired \n1. Carton Box\n2. Red, Blue LED strip\n3. Power Supply\n4. Tray ( as available)\n5. Mud / Cocopeat / foam\n6. Rice washed water\n7. Seeds (Fenugrek Seeds - I used)"

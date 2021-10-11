@@ -1,0 +1,7 @@
+name = "LOLA"
+repo = "https://wikifactory.com/@ndelmas/lola"
+version = "20201108010125"
+spdx-license = "N/A"
+licensor = "noufack delmas"
+documentation-language = "en"
+function = "Medical care"

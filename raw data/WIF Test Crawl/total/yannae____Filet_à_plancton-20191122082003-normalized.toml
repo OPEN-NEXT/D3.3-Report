@@ -1,0 +1,8 @@
+name = "Filet à plancton "
+repo = "https://wikifactory.com/@yannae/filet-à-plancton"
+version = "20191122082003"
+spdx-license = "N/A"
+licensor = "Yann Louault "
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZToyODQ4MDI="
+function = "Construction d'un filet de collecte du plancton"

@@ -1,0 +1,13 @@
+name = "Sunny Green House. "
+repo = "https://wikifactory.com/@alexmundt/sunny-green-house"
+version = "20210209114008"
+spdx-license = "N/A"
+licensor = "Oleksii Mundt"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1Mzg2MDA="
+function = "Concept development, design and creation\nresidential building prototypes with special properties:\nenergy independence, environmental friendliness,\n  resource efficiency, availability."
+[[files]]
+name = "/dome_v2_02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg0ODY="
+mimetype = "image/jpeg"
+

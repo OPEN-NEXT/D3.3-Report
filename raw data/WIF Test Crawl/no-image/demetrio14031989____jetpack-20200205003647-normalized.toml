@@ -1,0 +1,7 @@
+name = "jetpack"
+repo = "https://wikifactory.com/@demetrio14031989/jetpack"
+version = "20200205003647"
+spdx-license = "N/A"
+licensor = "Dem Mar"
+documentation-language = "en"
+function = "impulsor"

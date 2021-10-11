@@ -1,0 +1,22 @@
+name = "Super Project LOL"
+repo = "https://wikifactory.com/@markel/superproject"
+version = "20200727161808"
+spdx-license = "N/A"
+licensor = "Markel Arizaga"
+documentation-language = "en"
+function = "Supa project"
+[[files]]
+name = "/camera-mount.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDgzNjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/H2Organic_v7.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTYwMjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "myfiles/Menger_sponge_sample.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTQ4MDU="
+mimetype = "application/sla"
+

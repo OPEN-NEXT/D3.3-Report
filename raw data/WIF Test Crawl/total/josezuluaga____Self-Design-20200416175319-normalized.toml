@@ -1,0 +1,33 @@
+name = "Self-Design?"
+repo = "https://wikifactory.com/@josezuluaga/self-design"
+version = "20200416175319"
+spdx-license = "CC-BY-4.0"
+licensor = "Jose  Zuluaga "
+documentation-language = "it"
+image = "https://wikifactory.com/files/RmlsZTozMzc1NjI="
+function = "\"Proposta per un´autoprogettazione\" Enzo Mari.\nLa Sedia CNC"
+[[files]]
+name = "ESPAÑOL/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzc5MTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/La-Sedia-CNC.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMzc2OTA="
+mimetype = "application/3dm"
+
+[[files]]
+name = "/La-sedia-cnc.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMzc2OTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMzc1Njg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzc5Mjc="
+mimetype = "text/markdown"
+

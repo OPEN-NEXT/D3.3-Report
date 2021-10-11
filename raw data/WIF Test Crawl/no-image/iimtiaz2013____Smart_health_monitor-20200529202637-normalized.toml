@@ -1,0 +1,7 @@
+name = "Smart health monitor"
+repo = "https://wikifactory.com/@iimtiaz2013/smart-health-monitor"
+version = "20200529202637"
+spdx-license = "N/A"
+licensor = "Isher Imtiaz"
+documentation-language = "en"
+function = "A computer vision enabled smartwear loaded with the users entire medical history allowing it to monitor what the user does and how it might impact their health condition"

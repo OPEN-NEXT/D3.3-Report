@@ -1,0 +1,368 @@
+name = "Aqua Tube - Blop"
+repo = "https://wikifactory.com/@xanacarvalho15/aqua-tube-blop"
+version = "20200606173834"
+spdx-license = "N/A"
+licensor = "xanacarvalho15"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzQ1NTc="
+function = "Aqua Tube, the future accessory to beach trips. Composed of a buoy at the top and the lower part has a spring steel strap there  are connected by a fishing net cylinder with a diameter of 4 centimetres, in order to keep away pollution or marine debris."
+[[files]]
+name = "3D Animation Link/3D Animation.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozNjMyOTY="
+mimetype = "video/mp4"
+
+[[files]]
+name = "3D Animation Link/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjMyOTc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Allusive Images/ABRIGO IMAGEM ALUSIVA.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjMyNDg="
+mimetype = "image/png"
+
+[[files]]
+name = "Allusive Images/comparação2.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjMyNDc="
+mimetype = "image/png"
+
+[[files]]
+name = "Carrying bag/carrying bag_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY2MDA="
+mimetype = "image/png"
+
+[[files]]
+name = "Carrying bag/Fusion documents/CARRYING BAG DOCUMENTS.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY1ODk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Carrying bag/Fusion documents/CARRYING BAG.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY1NzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Concept/Design de Produto - Abrigo - Alexandra,Beatriz e Gonçalo.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY5MDE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Draws /1/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjAwODQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Draws /1/WhatsApp_Image_2020-05-12_at_16.53.18.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3NzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Draws /1/WhatsApp_Image_2020-05-12_at_16.53.19.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNTkwNzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Draws /1/WhatsApp_Image_2020-05-12_at_16.53.21.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Draws /1/WhatsApp_Image_2020-05-12_at_16.53.22.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNTkwODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Draws /2/1"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc4MDE="
+mimetype = "image/png"
+
+[[files]]
+name = "Draws /2/2"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3ODY="
+mimetype = "image/png"
+
+[[files]]
+name = "Draws /2/3"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Draws /2/4"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc4MDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Draws /2/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjAwODc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Draws /3/1"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc4MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Draws /3/2"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc4MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Draws /3/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjAwOTA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Draws /README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTg2NTQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Material characteristics/Belt and Ribbons.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3MjE="
+mimetype = "image/png"
+
+[[files]]
+name = "Material characteristics/Floater.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3MDI="
+mimetype = "image/png"
+
+[[files]]
+name = "Material characteristics/Net.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc2Njk="
+mimetype = "image/png"
+
+[[files]]
+name = "Material characteristics/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTg2NTA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Material characteristics/Snap closure and Regulator"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3MjU="
+mimetype = "image/png"
+
+[[files]]
+name = "Material characteristics/Spring Steel"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3MTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Models/Final Models/ULTIMA MAQUETE.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNTg2NjI="
+mimetype = "image/png"
+
+[[files]]
+name = "Models/Final Models/ULTIMA MAQUETE_1.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNTg2NzM="
+mimetype = "image/png"
+
+[[files]]
+name = "Models/Final Models/ULTIMA MAQUETE_2.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNTg2Njg="
+mimetype = "image/png"
+
+[[files]]
+name = "Models/Models Process/A.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgwNDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Models/Models Process/A_1.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgwNDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Models/Models Process/B.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgwMzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Models/Models Process/B_1.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgwMzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Models/Models Process/C.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgwMjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Models/Models Process/D.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgwMjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Models/Models Process/E.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgwMTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Models/Models Process/E_1.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgwMTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Models/Models Process/F.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgwMTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Models/Models Process/F_1.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgwMDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Models/Models Process/F_2.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgwMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Models/Models Process/F_4.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgwMDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Models/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTg2NDA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Packaging/packaging boia kids.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Packaging/packaging boia_adultos.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Price List/PRICE LIST.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjY3ODM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Prototype documents/Fusion documents/BLOP - Aqua Tube.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjAxMzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Prototype documents/Materials.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc2NTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Prototype documents/Process prototype (renders)/1.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjAxMDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype documents/Process prototype (renders)/2.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjAxMDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype documents/Process prototype (renders)/3.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjAxMDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype documents/Process prototype (renders)/4.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjAxMDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype documents/Process prototype (renders)/5.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjAxMDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype documents/Prototype.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc2NjE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Prototype documents/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTg2NDU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Prototype documents/Renders/1"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3NDE="
+mimetype = "image/png"
+
+[[files]]
+name = "Prototype documents/Renders/2"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype documents/Renders/3"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3Mzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype documents/Renders/4"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3Mzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype documents/Renders/5"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3NDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prototype documents/Renders/6"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3NDA="
+mimetype = "image/png"
+
+[[files]]
+name = "Prototype documents/Renders/7"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3NTI="
+mimetype = "image/png"
+
+[[files]]
+name = "Prototype documents/Renders/8"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3NTE="
+mimetype = "image/png"
+
+[[files]]
+name = "Prototype documents/Renders/9"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3NTA="
+mimetype = "image/png"
+
+[[files]]
+name = "Prototype documents/Renders/10"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3NDg="
+mimetype = "image/png"
+
+[[files]]
+name = "Prototype documents/Renders/11"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3NDc="
+mimetype = "image/png"
+
+[[files]]
+name = "Prototype documents/Renders/12"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3NDY="
+mimetype = "image/png"
+
+[[files]]
+name = "Prototype documents/Renders/13"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3NDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Prototype documents/Renders/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc3NTY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Prototype documents/Video/abrigo v4.avi"
+permalink = "https://wikifactory.com/files/RmlsZTozNjAxNDg="
+mimetype = "video/x-msvideo"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzQ1NjY="
+mimetype = "text/markdown"
+

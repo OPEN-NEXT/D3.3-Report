@@ -1,0 +1,173 @@
+name = "Aquapioneers"
+repo = "https://wikifactory.com/@aquapioneers/aquapioneers"
+version = "20190213084625"
+spdx-license = "N/A"
+licensor = "Loïc Le Goueff"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDcwMQ=="
+function = "The Ecosystem uses a natural process called Aquaponics, which harnesses the relationships between beneficial microorganisms, fish, and plants to grow fresh & delicious produce."
+[[files]]
+name = "Cad Files/Version 1 for 50L Aquarium/Aquapioneers_Kit_v1.6_18mm_3D.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcxMg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cad Files/Version 1 for 50L Aquarium/Aquapioneers_Kit_v1.6_18mm_Nesting-2.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcxMw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cad Files/Version 1 for 50L Aquarium/Aquapioneers_Kit_v1.6_18mm_Nesting-2.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcxNA=="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Cad Files/Version 1 for 50L Aquarium/Aquapioneers_Kit_v1.6_18mm_Nesting.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcxNQ=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cad Files/Version 2 for 50 L Aquarium/Aquapioneers_Kit_v2_18mm_3D.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcyMg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cad Files/Version 2 for 50 L Aquarium/Aquapioneers_Kit_v2_18mm_3D.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcyMw=="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Cad Files/Version 2 for 50 L Aquarium/Aquapioneers_Kit_v2_18mm_Nesting.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcyNA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cad Files/Version 2 for 50 L Aquarium/Aquapioneers_Kit_v2_18mm_Nesting.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcyNQ=="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Cad Files/Version 2 for 50 L Aquarium/Aquapioneers_Kit_v2_18mm_Nesting.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcyNg=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Cad Files/Version 2 for 180 L Aquarium/Aquapioneers_Kit_v2_18mm_180L_Nesting"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcxOA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cad Files/Version 2 for 180 L Aquarium/Aquapioneers_Kit_v2_18mm_180L_Nesting.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcxOQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Cad Files/Version 2 for 180 L Aquarium/Aquapioneers_Kit_v2_18mm_180L_Nesting.DWG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcyMA=="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Construction - Operation manuals/Aquapioneers_Kit_-_User_Manual_-_Part_I-_The_Body.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDcyOA=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Construction - Operation manuals/Aquapioneers_Kit_-_User_Manual_-_Part_II-_The_Blood.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDczMA=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Construction - Operation manuals/Aquapioneers_Kit_-_User_Manual_-_Part_III_-_The_nervous_system.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDczMQ=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Monitoring-kit-hardware/3D printed ultrasonic sensor case/Assembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyNDczMw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Monitoring-kit-hardware/3D printed ultrasonic sensor case/Bottom.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyNDczNA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Monitoring-kit-hardware/3D printed ultrasonic sensor case/Bottom.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyNDczNQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Monitoring-kit-hardware/3D printed ultrasonic sensor case/Top.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyNDczNg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Monitoring-kit-hardware/3D printed ultrasonic sensor case/Top.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyNDczNw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "Monitoring-kit-hardware/Board case/Nesting_Board_Case.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDczOQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Monitoring-kit-hardware/Board case/Rhino_Nesting_Board_Case.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc0MA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Monitoring-kit-hardware/PCB layout/Aquapioneers_Board-Back.Cu.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc0Mg=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Monitoring-kit-hardware/PCB layout/Aquapioneers_Board-Edge.Cuts.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc0Mw=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Monitoring-kit-hardware/PCB layout/Aquapioneers_Board-Front.Cu.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc0NA=="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Monitoring-kit-hardware/PCB layout/Aquapioneers_PCB_-_Edge_Cuts_-_Front.Cu.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc0NQ=="
+mimetype = "image/png"
+
+[[files]]
+name = "Monitoring-kit-hardware/PCB layout/Aquapioneers_PCB_-Pins_-_Front.Cu.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc0Ng=="
+mimetype = "image/png"
+
+[[files]]
+name = "Monitoring-kit-hardware/PCB layout/Aquapioneers_PCB_-Traces_-_Back.Cu.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc0Nw=="
+mimetype = "image/png"
+
+[[files]]
+name = "Monitoring-kit-hardware/PCB layout/Aquapioneers_PCB_-Traces_-_Front.Cu.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc0OA=="
+mimetype = "image/png"
+
+[[files]]
+name = "Monitoring-kit-hardware/SHT-31 and Light sensor/Nesting_SHT-31_and_Light_sensor.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc1MA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Monitoring-kit-hardware/SHT-31 and Light sensor/Nesting_SHT-31_and_Light_sensor.DXF"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc1MQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "Monitoring-kit-hardware/SHT-31 and Light sensor/test"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc1Mg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNjExNA=="
+mimetype = "text/markdown"
+

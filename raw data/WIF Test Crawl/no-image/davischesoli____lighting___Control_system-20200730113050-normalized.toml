@@ -1,0 +1,7 @@
+name = "lighting   Control system"
+repo = "https://wikifactory.com/@davischesoli/lighting-control-system"
+version = "20200730113050"
+spdx-license = "N/A"
+licensor = "Davis Chesoli"
+documentation-language = "en"
+function = "Design of an Illumination management and control  system."

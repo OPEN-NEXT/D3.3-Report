@@ -1,0 +1,13 @@
+name = "Urban Growth Simulation"
+repo = "https://wikifactory.com/@adolfo/urban-growth-simulation"
+version = "20180517072622"
+spdx-license = "N/A"
+licensor = "Adolfo Nadal Serrano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTY4"
+function = "A series of simulations  to understand the complexity of the urban growth system and feed back the process in an attempt to finally understand way through which to apprehend space, territory and communication through knowledge and technology."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTgy"
+mimetype = "text/markdown"
+

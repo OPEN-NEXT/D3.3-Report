@@ -1,0 +1,12 @@
+name = "Test Project"
+repo = "https://wikifactory.com/@okyang/test-project"
+version = "20210427035919"
+spdx-license = "N/A"
+licensor = "Owen Yang"
+documentation-language = "en"
+function = "Just a test project"
+[[files]]
+name = "/square_saucer.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTE4MTg="
+mimetype = "application/sla"
+

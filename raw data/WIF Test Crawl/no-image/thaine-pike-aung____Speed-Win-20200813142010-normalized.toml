@@ -1,0 +1,7 @@
+name = "Speed-Win"
+repo = "https://wikifactory.com/@thaine-pike-aung/speed-win"
+version = "20200813142010"
+spdx-license = "N/A"
+licensor = "Thaine Pike Aung"
+documentation-language = "en"
+function = "This system can control highspeed or overspeed drives as it can be more powerful.We usually have ordinary controlling systems And it is much upgraded now."

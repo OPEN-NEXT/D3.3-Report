@@ -1,0 +1,7 @@
+name = "Home"
+repo = "https://wikifactory.com/@flip/home"
+version = "20201217093153"
+spdx-license = "N/A"
+licensor = "Philippe Schweizer"
+documentation-language = "en"
+function = "Small house for mild climate"

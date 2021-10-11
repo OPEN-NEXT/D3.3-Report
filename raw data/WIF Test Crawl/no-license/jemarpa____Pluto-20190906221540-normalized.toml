@@ -1,0 +1,7 @@
+name = "Pluto"
+repo = "https://wikifactory.com/@jemarpa/pluto"
+version = "20190906221540"
+spdx-license = "N/A"
+licensor = "Suso"
+documentation-language = "en"
+function = "Pluto is a portable outlet to take it anywhere"

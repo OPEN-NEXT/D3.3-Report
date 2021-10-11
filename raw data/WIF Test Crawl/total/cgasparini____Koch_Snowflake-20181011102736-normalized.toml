@@ -1,0 +1,13 @@
+name = "Koch Snowflake"
+repo = "https://wikifactory.com/@cgasparini/koch-snowflake"
+version = "20181011102736"
+spdx-license = "CC-BY-4.0"
+licensor = "Claudio Gasparini"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMzQ3OA=="
+function = "The Koch Snowflake (also known as the \"Koch curve\") is a mathematical curve and one of the earliest fractal curves to have been described. It is based on the Koch curve by H. von Koch.\nThe design was at \"code.org\" portal (https://goo.gl/wbUjk7) and then converted to SVG and imported into Tinkercad"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMzQ2OQ=="
+mimetype = "{text/plain,NULL}"
+

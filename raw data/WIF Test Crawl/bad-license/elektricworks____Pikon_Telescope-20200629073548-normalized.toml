@@ -1,0 +1,63 @@
+name = "Pikon Telescope"
+repo = "https://wikifactory.com/@markwrig/pikon-telescope"
+version = "20200629073548"
+spdx-license = "BAD"
+licensor = "Mark Wrigley"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTg="
+function = "The PiKon is a 3D printed, Raspberry Pi powered astro-cam developed by <a href=\"https://mark-wrigley.com\">Mark Wrigley</a>. The design was made for Sheffield University's 'Festival of the Mind' to demonstrate what the 'citizen scientist' could do with disruptive technologies. Check out the dedicated web site <a href=\"https://Pikonic.com\">www.PiKonic.com</a> ."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDky"
+mimetype = "text/plain"
+
+[[files]]
+name = "Photos/WardHills_Saturn.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo3NDUz"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo2ODg0"
+mimetype = "text/markdown"
+
+[[files]]
+name = "STL files/camera-mount.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNTEy"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/focus-knob.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNTEx"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/mirror mount.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNTEw"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/mirror-base.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNTEz"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/raspberry-pi-mount2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNTE3"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/raspberry-pi-mount.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNTE0"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/spider.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNTE1"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/tripod-mount.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNTE2"
+mimetype = "application/sla"
+

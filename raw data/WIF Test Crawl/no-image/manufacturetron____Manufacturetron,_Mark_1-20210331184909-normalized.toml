@@ -1,0 +1,12 @@
+name = "Manufacturetron, Mark 1"
+repo = "https://wikifactory.com/@adouglas/manufacturetron-mark-1"
+version = "20210331184909"
+spdx-license = "N/A"
+licensor = "Anthony Douglas"
+documentation-language = "en"
+function = "This is the Mark 1 of the manufacturetron, a manufacturing machine to go beyond the limits of 3d printing and cnc machining for many purposes."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzQzMTk="
+mimetype = "text/markdown"
+

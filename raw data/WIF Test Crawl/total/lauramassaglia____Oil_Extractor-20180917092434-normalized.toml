@@ -1,0 +1,13 @@
+name = "Oil Extractor"
+repo = "https://wikifactory.com/@lauramassaglia/oil-extractor"
+version = "20180917092434"
+spdx-license = "N/A"
+licensor = "Laura Massaglia"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMTc2MA=="
+function = "It is system of essential oil extraction which uses steam distillation (a method for distilling compounds which are heat-sensitive). It separate the oil from the water. Usually we do it by using micropipettes once the oil floats to the top and the water sinks to the bottom."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMTc4Mg=="
+mimetype = "text/markdown"
+

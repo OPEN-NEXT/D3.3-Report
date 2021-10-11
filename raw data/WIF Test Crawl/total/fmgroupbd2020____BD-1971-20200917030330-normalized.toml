@@ -1,0 +1,7 @@
+name = "BD-1971"
+repo = "https://wikifactory.com/@fmgroupbd2020/bd-1971"
+version = "20200917030330"
+spdx-license = "N/A"
+licensor = "fmgroupbd2020"
+documentation-language = "en"
+function = "Operating System"

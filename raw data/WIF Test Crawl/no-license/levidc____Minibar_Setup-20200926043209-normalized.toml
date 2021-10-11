@@ -1,0 +1,28 @@
+name = "Minibar Setup"
+repo = "https://wikifactory.com/@levidc/minibar-setup"
+version = "20200926043209"
+spdx-license = "N/A"
+licensor = "Layne De Chi"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NDA4OTg="
+function = "Small corner minibar for living room.  Cover photo is made partially clear to display the rest of the bar in the background.  Please see other photos.\n#BuildforBeirut\n#WorldHumanitarianDay"
+[[files]]
+name = "/Minibar Setup- 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDA4OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Minibar Setup- 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDA4ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Minibar Setup- 3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDA4ODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Minibar Setup- 4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDA4ODc="
+mimetype = "image/jpeg"
+

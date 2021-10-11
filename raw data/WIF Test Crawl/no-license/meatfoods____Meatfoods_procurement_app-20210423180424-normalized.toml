@@ -1,0 +1,7 @@
+name = "Meatfoods procurement app"
+repo = "https://wikifactory.com/@meatfoods/meatfoods-procurement-app"
+version = "20210423180424"
+spdx-license = "N/A"
+licensor = "readytocookdivinefoods"
+documentation-language = "en"
+function = "Automated inventory management system for procurement and delivery"

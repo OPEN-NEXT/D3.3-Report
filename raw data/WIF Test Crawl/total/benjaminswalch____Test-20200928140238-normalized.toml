@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@benjaminswalch/test"
+version = "20200928140238"
+spdx-license = "N/A"
+licensor = "benjaminswalch"
+documentation-language = "en"
+function = "Test"

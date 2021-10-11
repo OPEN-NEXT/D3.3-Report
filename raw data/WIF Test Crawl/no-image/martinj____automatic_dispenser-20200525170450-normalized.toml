@@ -1,0 +1,7 @@
+name = "automatic dispenser"
+repo = "https://wikifactory.com/@martinj/automatic-dispenser"
+version = "20200525170450"
+spdx-license = "N/A"
+licensor = "Martin"
+documentation-language = "en"
+function = "idea is to develop an automatic dispenser. the dispenser should have a batterypack, a pump and a proximity sensor. when the sensor detecs an object it turns the pump on which pressures air into the bottle what causes the liquid to flow out. community can print different adapters for various bottles."

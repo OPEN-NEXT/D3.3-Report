@@ -1,0 +1,7 @@
+name = "Programable Water Change"
+repo = "https://wikifactory.com/@tiagoney/programable-water-change"
+version = "20201219034946"
+spdx-license = "N/A"
+licensor = "tiagoney"
+documentation-language = "en"
+function = "Water changes are vital and frequent at aquarium. And they can consume lots of time and water.\nHow to make this process work periodically, when needed and with the proper amount, with no need for lots of human interaction?"

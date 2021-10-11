@@ -1,0 +1,7 @@
+name = "The Heliosville Project"
+repo = "https://wikifactory.com/@pizzarebbe/the-heliosville-project"
+version = "20200610111235"
+spdx-license = "N/A"
+licensor = "Eliahu Gal-Or"
+documentation-language = "en"
+function = "PV fab tech, cheaper & more efficient than Perovskytes; Snapmaker  is best for proof-of-concept macro model, final product needs nanotech + femtosecond laser ablation of microprism array. https://www.linkedin.com/pulse/remedium-1-sustainable-covillage-prototype-eliahu-gal-or/"

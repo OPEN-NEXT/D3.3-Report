@@ -1,0 +1,7 @@
+name = "we"
+repo = "https://wikifactory.com/@jetboy3/we"
+version = "20201210154334"
+spdx-license = "N/A"
+licensor = "Jun Xiao"
+documentation-language = "en"
+function = "we"

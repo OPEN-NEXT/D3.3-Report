@@ -1,0 +1,313 @@
+name = "The Focal Camera"
+repo = "https://wikifactory.com/@botler/focal-camera"
+version = "20171107172719"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDM="
+function = "An open-source <b>modular camera prototyping system</b> created by <a href=\"http://v2.nl/archive/people/mathijs-van-oosterhoudt\">Mathijs van Oosterhoudt</a>. It allows for complex cameras that might seem daunting at first, such as SLRs, stereo or panoramic cameras and countless others, including even custom lens design."
+[[files]]
+name = "examples/camera-builds/example-1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzQw"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/camera-builds/example-2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzM5"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/camera-builds/example-3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzQx"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/camera-builds/example-4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzQy"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/camera-builds/example-5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzQz"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/camera-builds/example-6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzQ0"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/camera-builds/example-7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzQ1"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/camera-builds/example-8.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzQ2"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/camera-builds/example-9.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzQ4"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/camera-builds/example-10.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzQ3"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/camera-builds/example-11.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzQ5"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/photos/example-1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzUx"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/photos/example-2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzUy"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/photos/example-3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzUz"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/photos/example-4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzU0"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/photos/example-5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzU1"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/photos/example-6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzU2"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/photos/example-7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzU3"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/photos/example-8.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzU4"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/photos/example-9.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNzUw"
+mimetype = "image/jpeg"
+
+[[files]]
+name = "examples/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNTY0"
+mimetype = "text/markdown"
+
+[[files]]
+name = "modules/6x6-back/6x6-back-instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNTg3"
+mimetype = "application/pdf"
+
+[[files]]
+name = "modules/6x6-back/535x300-3mm-opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNTg4"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/base-modules/600x300-3mm-opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNTg5"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/base-modules/base-module-instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNTkw"
+mimetype = "application/pdf"
+
+[[files]]
+name = "modules/central-shutter/90x90-3mm-opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNTkx"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/film-plane/90x90-3mm-transparent.ai.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNTkz"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/film-plane/90x110-3mm-opaque.ai.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNTky"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/film-plane/film-plane-instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNTk0"
+mimetype = "application/pdf"
+
+[[files]]
+name = "modules/focus-unit/500x250_2mm_opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNTk1"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/ground-glass/190x100-3mm-transparent.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNTk2"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/ground-glass/600x300-3mm-opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNTk3"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/ground-glass/ground-glass-instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNTk4"
+mimetype = "application/pdf"
+
+[[files]]
+name = "modules/guillotine/600x300-3mm-opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjAw"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/guillotine/guillotine-instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNjAx"
+mimetype = "application/pdf"
+
+[[files]]
+name = "modules/half-modules/600x300_3mm_opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjAz"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/half-modules/half-module-instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNjAy"
+mimetype = "application/pdf"
+
+[[files]]
+name = "modules/lens-module/600x180-3mm-opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjA1"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/lens-module/lens-instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNjA0"
+mimetype = "application/pdf"
+
+[[files]]
+name = "modules/lf-lens-module/350x125-3mm-opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjA2"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/light-bender/100x100-3mm-mirror.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjA3"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/light-bender/600x300-3mm-opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjA4"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/light-bender/light-bender-instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNjA5"
+mimetype = "application/pdf"
+
+[[files]]
+name = "modules/mid-splitter/90x130_3mm_mirror.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjEx"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/mid-splitter/600x300_3mm_opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjEw"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/optical-viewfinder/300x150-3mm-opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjEz"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/optical-viewfinder/optical-viewfinder-instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNjEy"
+mimetype = "application/pdf"
+
+[[files]]
+name = "modules/pinhole/100x170-3mm-opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjE1"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/pinhole/pinhole-instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNjE0"
+mimetype = "application/pdf"
+
+[[files]]
+name = "modules/pivot-shutter/460x180_3mm_opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjE4"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/pivot-shutter/pivot-shutter-instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNjE5"
+mimetype = "application/pdf"
+
+[[files]]
+name = "modules/slr-module/100x95-3mm-mirror.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjIx"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/slr-module/600x300-3mm-opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjIy"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/slr-module/slr-instuctions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNjIz"
+mimetype = "application/pdf"
+
+[[files]]
+name = "modules/trichrome-splitter/55x100_3mm_mirror.ai.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjI0"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/trichrome-splitter/600x300_3mm_opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjI1"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/waterhouse-aperture/300x90-3mm-opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjI3"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/waterhouse-aperture/waterhouse-aperture-instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNjI2"
+mimetype = "application/pdf"
+
+[[files]]
+name = "modules/wireframe-viewfinder/400x100-3mm-opaque.svg"
+permalink = "https://wikifactory.com/files/RmlsZToyNjI4"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "modules/wireframe-viewfinder/wireframe-viewfinder-instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNjI5"
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODAy"
+mimetype = "text/markdown"
+

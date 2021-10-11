@@ -1,0 +1,7 @@
+name = "yo"
+repo = "https://wikifactory.com/@sf7pakistan/yo-2795a"
+version = "20201225120605"
+spdx-license = "N/A"
+licensor = "Sarmad Naeem"
+documentation-language = "en"
+function = "yo"

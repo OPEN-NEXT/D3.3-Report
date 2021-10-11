@@ -1,0 +1,7 @@
+name = "EDUKIT"
+repo = "https://wikifactory.com/@samiraoned/edukit"
+version = "20200928115657"
+spdx-license = "N/A"
+licensor = "samiraoned"
+documentation-language = "nl"
+function = "3D printing in schools"

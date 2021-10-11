@@ -1,0 +1,7 @@
+name = "primer proyecto"
+repo = "https://wikifactory.com/@olduveto/primer-proyecto"
+version = "20210411130912"
+spdx-license = "N/A"
+licensor = "OLFER DUVAN VELASQUEZ TORRES"
+documentation-language = "es"
+function = "conociendo como se usa esta plataforma para crear mi grupo de trabajo"

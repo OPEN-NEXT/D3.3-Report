@@ -1,0 +1,13 @@
+name = "VR workout"
+repo = "https://wikifactory.com/@garogaryvoskorian/vr-workout"
+version = "20210124191824"
+spdx-license = "N/A"
+licensor = "garogaryvoskorian"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjY1OTM="
+function = "New experience combining sports and technology"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjY1OTg="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Dishwasher machine"
+repo = "https://wikifactory.com/@dharmeshrajput192/dishwasher-machine"
+version = "20201123052529"
+spdx-license = "N/A"
+licensor = "dharmeshsinhrajput192"
+documentation-language = "en"
+function = "It is a low budget dishwasher machine which clean your dishes and vessel."

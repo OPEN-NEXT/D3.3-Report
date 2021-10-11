@@ -1,0 +1,7 @@
+name = "Water purifier"
+repo = "https://wikifactory.com/@shuhaib/water-purifier"
+version = "20201222075139"
+spdx-license = "N/A"
+licensor = "Shuhaib khan"
+documentation-language = "en"
+function = "Let's make the world's best water purifier"

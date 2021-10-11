@@ -1,0 +1,12 @@
+name = "E- bike design "
+repo = "https://wikifactory.com/@mamun2a/e-bike-design"
+version = "20210131092219"
+spdx-license = "N/A"
+licensor = "Abdullah Al Mamun "
+documentation-language = "en"
+function = "Hub motor is complecated and costly than BLDC motor. I wish to make a \"super 73\" type simple design for available rikshaw motor and paddle drive. Which will be easy to build and easy for everyone. For power i prefer Lithium ion or phosphate."
+[[files]]
+name = "/WhatsApp Image 2021-01-31 at 3.19.59 PM.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI0NjM="
+mimetype = "image/jpeg"
+

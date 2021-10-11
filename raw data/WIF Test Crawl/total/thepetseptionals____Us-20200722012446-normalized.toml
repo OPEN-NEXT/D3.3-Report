@@ -1,0 +1,7 @@
+name = "Us"
+repo = "https://wikifactory.com/@thepetseptionals/us"
+version = "20200722012446"
+spdx-license = "N/A"
+licensor = "the petseptionals"
+documentation-language = "ca"
+function = "A design project"

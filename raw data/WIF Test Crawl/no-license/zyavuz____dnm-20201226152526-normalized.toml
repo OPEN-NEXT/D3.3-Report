@@ -1,0 +1,7 @@
+name = "dnm"
+repo = "https://wikifactory.com/@zyavuz/dnm"
+version = "20201226152526"
+spdx-license = "N/A"
+licensor = "Zafer Yavuz"
+documentation-language = "en"
+function = "intro"

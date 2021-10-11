@@ -1,0 +1,7 @@
+name = "Farming"
+repo = "https://wikifactory.com/@econresearchdigest/farming"
+version = "20201114083425"
+spdx-license = "N/A"
+licensor = "econresearchdigest"
+documentation-language = "en"
+function = "Drip irrigation"

@@ -1,0 +1,7 @@
+name = "Generator"
+repo = "https://wikifactory.com/@popoolasunday21/generator"
+version = "20200801064635"
+spdx-license = "N/A"
+licensor = "popoola sunday p"
+documentation-language = "en"
+function = "Fuelless generator, a generator that doesn't require you of fueling"

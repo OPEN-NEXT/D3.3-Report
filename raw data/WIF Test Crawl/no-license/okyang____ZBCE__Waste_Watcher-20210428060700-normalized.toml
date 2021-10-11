@@ -1,0 +1,22 @@
+name = "ZBCE  Waste Watcher"
+repo = "https://wikifactory.com/@okyang/zbce-waste-watcher"
+version = "20210428060700"
+spdx-license = "N/A"
+licensor = "Owen Yang"
+documentation-language = "en"
+function = "A enclosure for a waste metrics sensor module for your trash bins."
+[[files]]
+name = "/sensor_mod_bottom_assembly.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTIxMTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/sensor_mod_handle.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTIxMTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/sensor_mod_top_assembly.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTIxMTc="
+mimetype = "application/sla"
+

@@ -1,0 +1,7 @@
+name = "Ice cream"
+repo = "https://wikifactory.com/@ankita/ice-cream"
+version = "20200531070035"
+spdx-license = "N/A"
+licensor = "ANKITA"
+documentation-language = "it"
+function = "Small scale artisan ice.cream"

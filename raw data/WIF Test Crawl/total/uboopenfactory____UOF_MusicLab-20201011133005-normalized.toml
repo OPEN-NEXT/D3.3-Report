@@ -1,0 +1,73 @@
+name = "UOF_MusicLab"
+repo = "https://wikifactory.com/@tomim/uofmusiclab"
+version = "20201011133005"
+spdx-license = "N/A"
+licensor = "Tomi Murovec"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTozMjI3MDQ="
+function = "La musique et l’art ont toujours fait partie de l’être humain et UOF souhaite maintenir cette tradition. Notre intention est de promouvoir l'innovation dans le domaine artistique et audiovisuel."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkyODA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "TheremineV1.0/Box_files/ElectronicsBox.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkyMDU="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "TheremineV1.0/PCB/EAGLE_GerberFiles.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkyMDg="
+mimetype = "application/zip"
+
+[[files]]
+name = "TheremineV1.0/PCB/EAGLE_Schematic_and_PCB.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkyMDY="
+mimetype = "application/zip"
+
+[[files]]
+name = "TheremineV1.0/PCB/Theremin.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkyNTI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "TheremineV1.0/Photos/20200923-IMG_0432.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkyMTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "TheremineV1.0/Photos/20200923-IMG_0434.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkyMTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "TheremineV1.0/Photos/20201006-IMG_0638.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkyMTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "TheremineV1.0/Photos/20201006-IMG_0640.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkyMTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "TheremineV1.0/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTA3NzU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "TheremineV1.0/Theremine_ListOfMaterials.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkyNjA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "TheremineV1.0/Theremine_ListOfMaterials.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkyNTk="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "TheremineV1.0/Videos/MVI_0645.MP4"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDkyMjA="
+mimetype = "video/mp4"
+

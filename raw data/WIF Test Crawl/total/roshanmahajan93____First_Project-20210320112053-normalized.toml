@@ -1,0 +1,7 @@
+name = "First Project"
+repo = "https://wikifactory.com/@roshanmahajan93/first-project"
+version = "20210320112053"
+spdx-license = "N/A"
+licensor = "roshanmahajan93"
+documentation-language = "en"
+function = "raspberry pi production project"

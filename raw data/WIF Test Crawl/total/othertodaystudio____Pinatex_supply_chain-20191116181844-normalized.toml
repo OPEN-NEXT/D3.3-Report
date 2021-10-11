@@ -1,0 +1,13 @@
+name = "Pinatex supply chain "
+repo = "https://wikifactory.com/@edenbunce2/pinatex-supply-chain"
+version = "20191116181844"
+spdx-license = "N/A"
+licensor = "Eden Bunce"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODEyMzQ="
+function = "A supply chain visualising the development of pinatex - an ecofriendly, vegan leather substitute, from its raw material cultivation all the way through to its disposal."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODM1NTI="
+mimetype = "text/markdown"
+

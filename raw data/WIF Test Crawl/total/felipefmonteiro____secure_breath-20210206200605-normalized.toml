@@ -1,0 +1,7 @@
+name = "secure breath"
+repo = "https://wikifactory.com/@felipefmonteiro/secure-breath"
+version = "20210206200605"
+spdx-license = "N/A"
+licensor = "Felipe Ferreira"
+documentation-language = "en"
+function = "the project consists of personal equipment for monitoring air quality. \nthe project consists of a personal equipment for monitoring air quality, with web communication, presenting results in online dashboard with alert in cases of health risk"

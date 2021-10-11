@@ -1,0 +1,7 @@
+name = "Chinese course"
+repo = "https://wikifactory.com/@azleindel/chinese-course"
+version = "20200710205028"
+spdx-license = "N/A"
+licensor = "Aze"
+documentation-language = "en"
+function = "Learn chinese language"

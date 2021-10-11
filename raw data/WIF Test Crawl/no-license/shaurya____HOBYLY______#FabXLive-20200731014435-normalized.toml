@@ -1,0 +1,18 @@
+name = "HOBYLY      #FabXLive"
+repo = "https://wikifactory.com/@shaurya/hobyly"
+version = "20200731014435"
+spdx-license = "N/A"
+licensor = "Shaurya Srivastava"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MTc0ODM="
+function = "An App with Location based services find people nearby who can motivate each other to restart or take up some hobby, sports, etc (Extra-Curricular Activities)\nVIDEO PITCH LINK : https://youtu.be/cpigYvMr6SU"
+[[files]]
+name = "/Hobyly.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0ODE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc1MDI="
+mimetype = "text/markdown"
+

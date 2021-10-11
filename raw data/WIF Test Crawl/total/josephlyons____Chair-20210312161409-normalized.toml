@@ -1,0 +1,13 @@
+name = "Chair"
+repo = "https://wikifactory.com/@josephlyons/chair"
+version = "20210312161409"
+spdx-license = "N/A"
+licensor = "Joseph Lyons"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NjQ0OTQ="
+function = "Open design for a chair that can be made anywhere with simple tools and easily to source materials."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjUzMzA="
+mimetype = "text/markdown"
+

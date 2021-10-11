@@ -1,0 +1,13 @@
+name = "The PuppetMe"
+repo = "https://wikifactory.com/@botler/the-puppetme"
+version = "20180913110159"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMTY2MA=="
+function = "Real life gaming machine in 3rd person’s view!\nMaking a head tracking back-sided mounted cameras. and virtual a reality headset."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMTY1MQ=="
+mimetype = "{text/plain,NULL}"
+

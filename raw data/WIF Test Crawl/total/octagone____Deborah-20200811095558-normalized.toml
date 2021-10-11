@@ -1,0 +1,7 @@
+name = "Deborah "
+repo = "https://wikifactory.com/@octagone/deborah"
+version = "20200811095558"
+spdx-license = "N/A"
+licensor = "Osifeso Adetola"
+documentation-language = "en"
+function = "Deborah is an application that aids Doctors and Medical students in improving the accuracy of their diagnosis by providing assessed differential diagnosis from general medical knowledge, based on the patient's symptoms."

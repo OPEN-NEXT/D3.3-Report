@@ -1,0 +1,7 @@
+name = "تحويل عمله"
+repo = "https://wikifactory.com/@salamlajnef/تحويل-عمله"
+version = "20200530085545"
+spdx-license = "N/A"
+licensor = "sallami lajnef "
+documentation-language = "en"
+function = "Create a new currency"

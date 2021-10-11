@@ -1,0 +1,7 @@
+name = "Connected tryke"
+repo = "https://wikifactory.com/@alexmen128/connected-tryke"
+version = "20201216104625"
+spdx-license = "N/A"
+licensor = "Alexis Mendoza"
+documentation-language = "en"
+function = "Online presence for tricycle drivers so they can be connected with commuters"

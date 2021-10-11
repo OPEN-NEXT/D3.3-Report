@@ -1,0 +1,48 @@
+name = "Biodegradable plant pot"
+repo = "https://wikifactory.com/@kylewitheydesign/yummypot"
+version = "20210203150824"
+spdx-license = "N/A"
+licensor = "Kyle Dean Withey"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0ODM2NTg="
+function = "A biodegradable plant pot made from recycled paper to help engage kids learn about agriculture."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzMwODY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Photos/Cad file.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzMwODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Hero Image.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzMwODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Ideation.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzMwODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Instructions.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzMwODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Prototyping.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzMwODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Supply_Chain.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzMwNzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4MTk="
+mimetype = "text/markdown"
+

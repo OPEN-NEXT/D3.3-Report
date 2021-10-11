@@ -1,0 +1,12 @@
+name = "EA tutorials"
+repo = "https://wikifactory.com/@kamilmacek39/ea-tutorials"
+version = "20210213080553"
+spdx-license = "N/A"
+licensor = "kamilmacek39"
+documentation-language = "en"
+function = "EA tutorials for beginners using ActivePresenter"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NDA4NDg="
+mimetype = "text/markdown"
+

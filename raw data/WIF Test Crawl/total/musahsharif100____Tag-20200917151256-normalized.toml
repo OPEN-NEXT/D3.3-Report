@@ -1,0 +1,7 @@
+name = "Tag"
+repo = "https://wikifactory.com/@musahsharif100/tag"
+version = "20200917151256"
+spdx-license = "N/A"
+licensor = "musahsharif100"
+documentation-language = "en"
+function = "A saving machine that you can save your documents and your security passcodes"

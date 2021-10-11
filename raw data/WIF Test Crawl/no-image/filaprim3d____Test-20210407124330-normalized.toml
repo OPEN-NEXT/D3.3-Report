@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@filaprim3d/test"
+version = "20210407124330"
+spdx-license = "N/A"
+licensor = "filaprim3d"
+documentation-language = "en"
+function = "It's a test"

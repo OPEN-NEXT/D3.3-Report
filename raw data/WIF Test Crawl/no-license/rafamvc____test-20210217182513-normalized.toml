@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@rafamvc/test"
+version = "20210217182513"
+spdx-license = "N/A"
+licensor = "Rafael Floresta"
+documentation-language = "en"
+function = "test"

@@ -1,0 +1,7 @@
+name = "Android Datting App"
+repo = "https://wikifactory.com/@arjunkp/android-datting-app"
+version = "20210131114252"
+spdx-license = "N/A"
+licensor = "Arjun "
+documentation-language = "en"
+function = "Create a dating app that works offline in crouded places and online  using swipe functionality with all necessary features.."

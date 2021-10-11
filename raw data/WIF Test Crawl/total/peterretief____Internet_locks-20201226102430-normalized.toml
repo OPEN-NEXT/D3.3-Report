@@ -1,0 +1,7 @@
+name = "Internet locks"
+repo = "https://wikifactory.com/@peterretief/internet-locks"
+version = "20201226102430"
+spdx-license = "N/A"
+licensor = "peterretief"
+documentation-language = "en"
+function = "Control solenoid gate locks from the internet connecting via GSM modem"

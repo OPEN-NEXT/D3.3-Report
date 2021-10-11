@@ -1,0 +1,7 @@
+name = "Plastic  injector"
+repo = "https://wikifactory.com/@fedybassi/plastic-injector"
+version = "20210425185035"
+spdx-license = "N/A"
+licensor = "Federico Baschuk"
+documentation-language = "ro"
+function = "A plastic manual injector"

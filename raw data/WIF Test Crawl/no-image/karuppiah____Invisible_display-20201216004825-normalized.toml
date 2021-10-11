@@ -1,0 +1,7 @@
+name = "Invisible display"
+repo = "https://wikifactory.com/@karuppiah/invisible-display"
+version = "20201216004825"
+spdx-license = "N/A"
+licensor = "Karuppiah rathnam"
+documentation-language = "en"
+function = "In cell phone display a user only can see data using wearing a eye glass"

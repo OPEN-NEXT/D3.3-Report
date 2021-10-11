@@ -1,0 +1,13 @@
+name = "power amplifier"
+repo = "https://wikifactory.com/@mazhar4130061/power-amplifier"
+version = "20200701074142"
+spdx-license = "N/A"
+licensor = "mazhar4130061"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTc0Nzg="
+function = "It is a power amplifier of Class B  two transistors one is npn and the other is pnp. the conduction angle of the power B amplifier is 180.  the device dissipates less power and hence the efficiency is improved."
+[[files]]
+name = "/aic REPORT.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc0ODQ="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+

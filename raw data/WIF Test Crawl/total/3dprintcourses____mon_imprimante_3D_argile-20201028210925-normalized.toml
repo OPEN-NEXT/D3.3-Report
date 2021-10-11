@@ -1,0 +1,38 @@
+name = "mon imprimante 3D argile"
+repo = "https://wikifactory.com/@v1v13n1/mon-imprimante-3d-argile"
+version = "20201028210925"
+spdx-license = "N/A"
+licensor = "vivien roussel"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTozMzMxNjA="
+function = "Juste pour l'instant tout ce que j'ai trouvé sur l'impression 3D céramique/ argile.<br />\nJ'ai commandé des kossel Anycubic ( 300 € les deux !). Maintenant, je commence à les convertir.<br />.. Je ne me suis pas encore fixé sur une méthode, j'essaie de comprendre les impacts sur le prix et les possibilités."
+[[files]]
+name = "/capotV1-1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzMxNTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/coupleurV1-3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzMxMzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "image/Strategie.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk4MDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "image/tableauComparatif.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk4MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk4MTg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/supportNemaV1-2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzMxNTU="
+mimetype = "application/sla"
+

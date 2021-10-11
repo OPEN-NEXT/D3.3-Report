@@ -1,0 +1,23 @@
+name = "3D Print Connector Chair"
+repo = "https://wikifactory.com/@josephlyons/3d-printed-chair-concept"
+version = "20210322162836"
+spdx-license = "N/A"
+licensor = "Joseph Lyons"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDY3MjE="
+function = "Distributed design chair made from 18mm birch ply & 3D printed connector parts."
+[[files]]
+name = "/connector 3.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzEzMTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/connector 4.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzEzMTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDY4MTE="
+mimetype = "text/markdown"
+

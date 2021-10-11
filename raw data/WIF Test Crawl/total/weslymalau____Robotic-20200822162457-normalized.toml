@@ -1,0 +1,7 @@
+name = "Robotic"
+repo = "https://wikifactory.com/@weslymalau/robotic"
+version = "20200822162457"
+spdx-license = "N/A"
+licensor = "Wesly Rotua Malau"
+documentation-language = "cs"
+function = "AI robot project"

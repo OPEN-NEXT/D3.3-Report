@@ -1,0 +1,12 @@
+name = "Dummyproject"
+repo = "https://wikifactory.com/@ivodrescher/dummyproject"
+version = "20200702130647"
+spdx-license = "N/A"
+licensor = "ivodrescher"
+documentation-language = "en"
+function = "To show the UI team how easy it is to create a project :D"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTk0NjA="
+mimetype = "text/markdown"
+

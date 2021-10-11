@@ -1,0 +1,68 @@
+name = "Italic shelf - Narrow"
+repo = "https://wikifactory.com/@ronen/italic-shelf-narrow"
+version = "20190807105357"
+spdx-license = "N/A"
+licensor = "Ronen Kadushin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMzQyOTY="
+function = "The Italic, hinting to the slanted italic typefaces, is an easy to assemble, playful shelf that can be arranged in many configurations.\nThe shelf is assembled without tools, screws or glue and can be disassembled and reassembled many times. It is stable and strong."
+[[files]]
+name = "Assembly Instructions/Italic Shelf Assembly Instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Assembly Instructions/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMDk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "CAD/FIT_Kadushin_Italic shelf 120 6x30 18mm v1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQyOTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "FIT Furniture logo/FIT Furniture logo ©All Rights Reserved-Ronen Kadushin 2019.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMTM="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Images/FIT_Italic 100 Birch 6000px_M4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Italic 100 Birch Isolated 3-4 6000px_M.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Italic 100 Birch Isolated 6000px_M.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Italic 100 OAK Isolated 3-4 6000px_M.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Italic 100 WHITE Isolated 3-4 6000px_M.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMDU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Images/Ronen Kadushin_FIT_Italic exploded1SQ.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQyOTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMzQzMTU="
+mimetype = "text/markdown"
+

@@ -1,0 +1,182 @@
+name = "Produto - Dispensador"
+repo = "https://wikifactory.com/@saradiz/produto-dispensador"
+version = "20201117160828"
+spdx-license = "N/A"
+licensor = "Sara Alhinho Diz"
+documentation-language = "pt"
+function = "Configuração e abertura de projectos no Wikifactory;\nResearch.md (bloco de notas, com referencias, esboços exploratórios e elementos de inspiração, tanto visual como técnica)"
+[[files]]
+name = " Visual Inspo /1ac6f1660e498a2bbd7e099c817e2aee.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTIwMTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = " Visual Inspo /3b6f6ef1b5f11d13ec00c553f353d6e4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTIwMTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = " Visual Inspo /8286e3f66ef2f6bc95eb0ce87a2033ca.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTIwMTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = " Visual Inspo /2499583b58724039cb9265ff31198254.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTIwMTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = " Visual Inspo / Candyman | Candy Dispenser | Marcel Wanders.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTA5NTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = " Visual Inspo /Filo | Adhesive Tape Dispenser | Marie Schenker.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTEwNTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = " Visual Inspo /Fior d`olio | Olive Oil Taster | Marta Sansoni.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTEwNzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = " Visual Inspo /Minimalist Tape Dispenser | Derk Reilink.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTExMDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = " Visual Inspo /Mr. Cold | Liquid Soap Dispenser | Massimo Giacon .jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTA5NTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = " Visual Inspo /Yeon | Air Fresh Dispenser | Sangyoon Kim.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTEwODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Dispensador de bolas para animais.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTA5NzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Dispensador de medicação.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTA5NzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Dispensador de pastilha elástica.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTA5NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Ideias iniciais.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTA5NzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODU4NTQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Referências/Dispensador automático para animais.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de água.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de café.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de cereais.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de comida para cão.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de doces.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de fita-cola 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de fita-cola.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de gel.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de gelo.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNDk="
+mimetype = "image/png"
+
+[[files]]
+name = "Referências/Dispensador de lenços.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de M&M's.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de papel-higiénico.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de pastilhas 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de pastilhas.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de senhas.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de sumos 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de sumos 3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNDE="
+mimetype = "image/png"
+
+[[files]]
+name = "Referências/Dispensador de sumos.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyNDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Referências/Dispensador de toalhas de papel.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTAyMzk="
+mimetype = "image/jpeg"
+

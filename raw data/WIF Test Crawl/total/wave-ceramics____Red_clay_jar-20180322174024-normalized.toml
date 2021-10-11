@@ -1,0 +1,8 @@
+name = "Red clay jar"
+repo = "https://wikifactory.com/@juan/red-clay-jar"
+version = "20180322174024"
+spdx-license = "N/A"
+licensor = "Juan Mazzuchelli"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMTE1"
+function = "3D printed jar made with Red Clay"

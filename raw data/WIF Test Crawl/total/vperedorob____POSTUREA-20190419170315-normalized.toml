@@ -1,0 +1,8 @@
+name = "POSTUREA"
+repo = "https://wikifactory.com/@vperedorob/posturea"
+version = "20190419170315"
+spdx-license = "N/A"
+licensor = "Victoria Peredo Robinson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTU4ODY="
+function = "<b>Posturea</b> is a posture corrector that I developed during the FabAcademy 2018.\nThis project includes sensors that measure the body position and give feedback of its position via a phone app. It also includes a vibration motor that will send a vibration output whenever it measures a bad inclination."

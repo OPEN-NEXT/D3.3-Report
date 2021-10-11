@@ -1,0 +1,43 @@
+name = "Borne arcade"
+repo = "https://wikifactory.com/@alex-brest/borne-arcade"
+version = "20210303235454"
+spdx-license = "N/A"
+licensor = "Alexandre PERETJATKO"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1NjE2MTA="
+function = "Borne d'arcade pour rétro-game."
+[[files]]
+name = "/20191016_094913.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE2MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191029_095803.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE2MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191029_095839.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE2MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20191029_151800.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE2MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Joues.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE2MjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Planche.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE2MTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE2MTI="
+mimetype = "text/markdown"
+

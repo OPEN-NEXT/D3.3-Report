@@ -1,0 +1,7 @@
+name = "Fincoy.com"
+repo = "https://wikifactory.com/@gigihpambudi/fincoycom"
+version = "20200317160644"
+spdx-license = "N/A"
+licensor = "Gigih Pambudi"
+documentation-language = "en"
+function = "software\ufeff"

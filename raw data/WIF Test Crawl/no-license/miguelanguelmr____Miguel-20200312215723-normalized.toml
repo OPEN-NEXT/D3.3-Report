@@ -1,0 +1,7 @@
+name = "Miguel"
+repo = "https://wikifactory.com/@miguelanguelmr/miguel"
+version = "20200312215723"
+spdx-license = "N/A"
+licensor = "miguelanguelmr"
+documentation-language = "en"
+function = "ndkd\ufeff"

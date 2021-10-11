@@ -1,0 +1,53 @@
+name = "Otto Alternative Body"
+repo = "https://wikifactory.com/@ariellp/otto-alternative-body"
+version = "20181112145832"
+spdx-license = "N/A"
+licensor = "Ariel Lima Perez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDYyMg=="
+function = "In some places it is difficult to make <b>3D prints</b>, and it is good to look for alternatives to some projects ... in my case ... using <b>cardboard</b>, <b>PVC</b> or <b>wood</b> for this interesting <b>Otto DIY</b> project."
+[[files]]
+name = "Big_Size/Body_OTTO_2_de_3.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxNDYzMg=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Big_Size/Leggs_OTTO_3_de_3.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxNDYzNA=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Big_Size/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDYzNg=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Big_Size/Up_Case_OTTO_1_de_3.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxNDYzMQ=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/cardboard_body.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNDYyNg=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Normal_Size/A4_Template.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA4Ng=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/PVC_Body.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNTY1OA=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/PVC_Builded.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxNjMxMg=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDYyNQ=="
+mimetype = "text/markdown"
+

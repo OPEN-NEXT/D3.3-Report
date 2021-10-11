@@ -1,0 +1,7 @@
+name = "Floating Generator"
+repo = "https://wikifactory.com/@hisamullah/floating-generator"
+version = "20191229203430"
+spdx-license = "N/A"
+licensor = "Hisamullah Beg"
+documentation-language = "en"
+function = "Generator which produces cheap and sustainable energy directly from slow moving water in man-made water channels, natural rivulets, rivers and canals throughout Pakistan (anywhere in the world)."

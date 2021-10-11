@@ -1,0 +1,7 @@
+name = "projet Test"
+repo = "https://wikifactory.com/@mcariou/projet-test"
+version = "20200326145223"
+spdx-license = "N/A"
+licensor = "Mathieu Cariou"
+documentation-language = "fr"
+function = "ceci est un test pour les image"

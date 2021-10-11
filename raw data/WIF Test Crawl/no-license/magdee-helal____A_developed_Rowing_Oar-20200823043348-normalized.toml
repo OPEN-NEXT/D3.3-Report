@@ -1,0 +1,7 @@
+name = "A developed Rowing Oar"
+repo = "https://wikifactory.com/@magdee-helal/a-developed-rowing-oar"
+version = "20200823043348"
+spdx-license = "N/A"
+licensor = "Magdee helal"
+documentation-language = "en"
+function = "Adding weight to Rowing Oar handle to make it faster in water accordingly the Rowing boat will run faster"

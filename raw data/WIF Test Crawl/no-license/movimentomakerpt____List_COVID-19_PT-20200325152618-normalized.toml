@@ -1,0 +1,18 @@
+name = "List COVID-19 PT"
+repo = "https://wikifactory.com/@3denvangelist/list-covid-19-pt"
+version = "20200325152618"
+spdx-license = "N/A"
+licensor = "Ricardo José  Pereira"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjE5OTY="
+function = "A  lot of fragmentation is happening in the  Portuguese maker community here we have a list of projects that you can help to develop!"
+[[files]]
+name = "prints/diy-paper-mask.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMjE4ODE="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjM3NDU="
+mimetype = "text/markdown"
+

@@ -1,0 +1,8 @@
+name = "IB"
+repo = "https://wikifactory.com/@elaborando/braille"
+version = "20191229010649"
+spdx-license = "N/A"
+licensor = "Hackaton De Acessibilidade "
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDk1NTg="
+function = "."

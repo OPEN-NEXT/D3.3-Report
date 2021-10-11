@@ -1,0 +1,13 @@
+name = "sensai punching bag"
+repo = "https://wikifactory.com/@yamasaraj/sensai-punching-bag"
+version = "20200225145125"
+spdx-license = "N/A"
+licensor = "Yama Saraj"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDk5MTk="
+function = "upcycle car tires and make a smart punching bag from them. Connected punching bags from old car tires. Generate data on punching power, speed, reaction time and we develop gamification."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDk5MTg="
+mimetype = "text/markdown"
+

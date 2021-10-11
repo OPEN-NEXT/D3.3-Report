@@ -1,0 +1,43 @@
+name = "Customizable Peg (small)"
+repo = "https://wikifactory.com/@jcoffelt/customizable-peg-small"
+version = "20200521175429"
+spdx-license = "BAD"
+licensor = "Jared Coffelt"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTU0NDI="
+function = "3D printed spike driven into the ground for holding an object to the ground"
+[[files]]
+name = "CAD Data/GN009_CAD.scad"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgzNDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "CAD Data/GN009_CAD_Small.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgzNDE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/GN009_CAD_Small.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgzNDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Drawing Pack/GN009_Eng_Dwg_Small.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgzNjI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/GN009_Eng_Dwg_Small.SLDDRW"
+permalink = "https://wikifactory.com/files/RmlsZTozNTgzNjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNTU0NDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTkyNzc="
+mimetype = "text/markdown"
+

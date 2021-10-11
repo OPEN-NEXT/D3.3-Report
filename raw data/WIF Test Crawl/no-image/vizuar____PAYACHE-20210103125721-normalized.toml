@@ -1,0 +1,7 @@
+name = "PAYACHE"
+repo = "https://wikifactory.com/@vizuar/payache"
+version = "20210103125721"
+spdx-license = "N/A"
+licensor = "vizuar"
+documentation-language = "ca"
+function = "Arduino spider robot"

@@ -1,0 +1,12 @@
+name = "Dechets3D"
+repo = "https://wikifactory.com/@yquere/dechets3d"
+version = "20210304160123"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+function = "Projet du Maquethon 2021. Expérimentation de représentation 3D et cartographique des typologies et flux de déchets en Bretagne"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjE4NTU="
+mimetype = "text/markdown"
+

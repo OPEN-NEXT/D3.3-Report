@@ -1,0 +1,7 @@
+name = "Lost and Found"
+repo = "https://wikifactory.com/@rogeriombuli/lost-and-found"
+version = "20210127070030"
+spdx-license = "N/A"
+licensor = "rogeriombuli"
+documentation-language = "en"
+function = "Integrated LF - innovative service provided to the citizen and seeks to enable a quick and simple search on the findings goods."

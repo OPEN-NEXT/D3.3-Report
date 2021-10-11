@@ -1,0 +1,7 @@
+name = "On the Go"
+repo = "https://wikifactory.com/@diego1223/on-the-go"
+version = "20200705232308"
+spdx-license = "N/A"
+licensor = "Diego Garcia"
+documentation-language = "en"
+function = "My project is about keeping hand sanitizer more accesible for those who don’t have pockets, and is made by a 3D printer."

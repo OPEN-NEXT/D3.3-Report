@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@rongomai/test"
+version = "20210220103615"
+spdx-license = "N/A"
+licensor = "rongomai"
+documentation-language = "en"
+function = "Test"

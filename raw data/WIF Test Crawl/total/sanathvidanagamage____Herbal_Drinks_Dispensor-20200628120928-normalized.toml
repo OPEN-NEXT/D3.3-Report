@@ -1,0 +1,7 @@
+name = "Herbal Drinks Dispensor"
+repo = "https://wikifactory.com/@sanathvidanagamage/herbal-drinks-dispensor"
+version = "20200628120928"
+spdx-license = "N/A"
+licensor = "Vimpact"
+documentation-language = "en"
+function = "This is a hot beverage dispensor thatcn serve three types of healthy, healing Ayurwedic hot drinks for Covid patients and general public."

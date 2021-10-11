@@ -1,0 +1,48 @@
+name = "Assemblable Pavilion"
+repo = "https://wikifactory.com/@innovationfablab/assemblable-pavilion"
+version = "20200522052433"
+spdx-license = "N/A"
+licensor = "Innovation FabLab"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTEwMDM="
+function = "Our mobile pavilion is a flexible structure designed to easily adopt to the needs of its surroundings. <br />It can put together into a bench for a bus stop, or transform into a bicycle rack at a busy street corner. You name it."
+[[files]]
+name = "/final model.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozNTU4Mjk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Pavilion Img/Pavilion 01.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNTEwMzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pavilion Img/Pavilion 02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTEwMzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pavilion Img/Pavilion 03.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTEwMjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pavilion Img/Pavilion 04.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTEwMzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pavilion Img/Pavilion 05.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTEwMzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Pavilion Img/Pavilion 06.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTEwMzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk3NzE="
+mimetype = "text/markdown"
+

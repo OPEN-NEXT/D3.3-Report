@@ -1,0 +1,7 @@
+name = "WIP"
+repo = "https://wikifactory.com/@jg0ch/wip"
+version = "20201228152224"
+spdx-license = "N/A"
+licensor = "JM Gochangco"
+documentation-language = "en"
+function = "Work in Progress"

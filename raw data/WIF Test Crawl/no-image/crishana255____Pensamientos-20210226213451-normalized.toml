@@ -1,0 +1,7 @@
+name = "Pensamientos"
+repo = "https://wikifactory.com/@crishana255/pensamientos"
+version = "20210226213451"
+spdx-license = "N/A"
+licensor = "Cris López"
+documentation-language = "en"
+function = "Poesía"

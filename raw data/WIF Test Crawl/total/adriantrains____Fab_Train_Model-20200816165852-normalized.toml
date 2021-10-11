@@ -1,0 +1,23 @@
+name = "Fab Train Model"
+repo = "https://wikifactory.com/@adriantrains/fab-train-model"
+version = "20200816165852"
+spdx-license = "CC-BY-4.0"
+licensor = "Adrián Torres"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MjI4OTY="
+function = "The Fab Train Model is a set of modules that are part of a model. It incorporates a train detection system that moves a level crossing. This detection system can be used for other options.\nhttp://fabacademy.org/2020/labs/leon/students/adrian-torres/"
+[[files]]
+name = "/Fab Train Model Files.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjI4OTA="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjI4OTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MjI5NjY="
+mimetype = "text/markdown"
+

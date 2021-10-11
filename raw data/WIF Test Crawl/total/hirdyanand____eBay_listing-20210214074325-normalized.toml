@@ -1,0 +1,7 @@
+name = "eBay listing"
+repo = "https://wikifactory.com/@hirdyanand/ebay-listing"
+version = "20210214074325"
+spdx-license = "N/A"
+licensor = "Hirdyanand Gour"
+documentation-language = "tl"
+function = "eBay listing portal"

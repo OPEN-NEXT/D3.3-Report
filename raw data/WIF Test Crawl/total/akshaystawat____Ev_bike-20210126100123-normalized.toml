@@ -1,0 +1,7 @@
+name = "Ev bike "
+repo = "https://wikifactory.com/@akshaystawat/ev-bike"
+version = "20210126100123"
+spdx-license = "N/A"
+licensor = "Akshay "
+documentation-language = "sl"
+function = "Ev bike 2d plan"

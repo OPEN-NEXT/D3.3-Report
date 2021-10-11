@@ -1,0 +1,12 @@
+name = "Ares  1 "
+repo = "https://wikifactory.com/@valenro/ares-1"
+version = "20210426183549"
+spdx-license = "N/A"
+licensor = "Valentin rocco "
+documentation-language = "en"
+function = "This project is based on the idea of \u200b\u200breusing rockets that can carry out experiments, reducing the cost of their production. The vehicle uses a system fins controling to secure succes of this mision. The rocket is 70 cm tall and 6 cm with."
+[[files]]
+name = "/Engein mount v1.1 v1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTE2MTE="
+mimetype = "application/sla"
+

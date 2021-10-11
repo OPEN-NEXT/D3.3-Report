@@ -1,0 +1,17 @@
+name = "Video Edition"
+repo = "https://wikifactory.com/@majitogn/video-edition"
+version = "20210407010933"
+spdx-license = "N/A"
+licensor = "Maria J Gualdron"
+documentation-language = "en"
+function = "We can create videos for you, for networks, youtube channels, ads, just contact me"
+[[files]]
+name = "/Maria J Gualdron English.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY1Mzc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/tarjeta (2).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzY1MzY="
+mimetype = "image/jpeg"
+

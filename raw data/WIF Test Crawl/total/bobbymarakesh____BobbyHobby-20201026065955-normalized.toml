@@ -1,0 +1,7 @@
+name = "BobbyHobby"
+repo = "https://wikifactory.com/@bobbymarakesh/bobbyhobby"
+version = "20201026065955"
+spdx-license = "N/A"
+licensor = "bobbymarakesh"
+documentation-language = "en"
+function = "Mix of things"

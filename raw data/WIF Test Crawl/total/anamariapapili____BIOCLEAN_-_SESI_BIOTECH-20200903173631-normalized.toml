@@ -1,0 +1,13 @@
+name = "BIOCLEAN - SESI BIOTECH"
+repo = "https://wikifactory.com/@anamariapapili/bioclean"
+version = "20200903173631"
+spdx-license = "N/A"
+licensor = "SESIBIOTECH"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTo0MTgzMzQ="
+function = "covid19 - equipamento para prevenção (portal sanitizante para embalagens e objetos).\nProjeto idealizado e produzido pela equipe de robótica SESI Biotech e disponibilizado para as pessoas que quiserem produzir seu próprio equipamento sanitizante bem como contribuir com melhorias na ideia."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mjk0NDY="
+mimetype = "text/markdown"
+

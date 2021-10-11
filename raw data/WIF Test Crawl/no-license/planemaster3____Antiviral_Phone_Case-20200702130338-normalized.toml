@@ -1,0 +1,43 @@
+name = "Antiviral Phone Case"
+repo = "https://wikifactory.com/@planemaster3/antiviral-phone-case"
+version = "20200702130338"
+spdx-license = "N/A"
+licensor = "Tom van Aaken"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTYwODI="
+function = "Our smartphones are probably among the things we touch the most every day. Therefore, they can be swarming with viruses if not cleaned properly. This design concept helps to fight this problem as viruses become ever more relevant in everyday life, while keeping it #safetoplay."
+[[files]]
+name = "3D Files/Copper phone case.step"
+permalink = "https://wikifactory.com/files/RmlsZTozOTk0NDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Files/Copper phone case.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTk0NDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Images/Assembled3.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozOTk0Mzg="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Assembled.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozOTk0Mzc="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/AttachmentHookDetail.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozOTk0MzU="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Disassembled.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTozOTk0MzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTk0NTI="
+mimetype = "text/markdown"
+

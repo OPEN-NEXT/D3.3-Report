@@ -1,0 +1,148 @@
+name = "OxiKit"
+repo = "https://wikifactory.com/@shieldmission/oxikit"
+version = "20210127233526"
+spdx-license = "BAD"
+licensor = "Nathan Parker"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NDI0ODU="
+function = "Low cost oxygen concentrator\nOxiKit.com"
+[[files]]
+name = "Analyzer notes file/o2analyser_notes.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODk2OTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Analyzer notes file/o2analyser_sjk_assembly.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODk4MzM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Analyzer notes file/o2analyser_sjk_pcb.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODk4MzI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Arduino_Code_v1.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDEzOTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/BOM w Links v2.2.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDEzOTM="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTU3OTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/OxiKit - Circuit Diagram V4.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDEzOTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/OxiKit - Zeolite Sieve Assembly Diagram.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDEzOTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/OxiKit v22.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDE1NjY="
+mimetype = "application/zip"
+
+[[files]]
+name = "/OxiKit v22.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDE1NjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDY2OTg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Renderings/OxyKit v17back.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDE1NTM="
+mimetype = "image/png"
+
+[[files]]
+name = "Renderings/OxyKit v17Bottom.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDE1NTg="
+mimetype = "image/png"
+
+[[files]]
+name = "Renderings/OxyKit v17Frame.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDE1NjA="
+mimetype = "image/png"
+
+[[files]]
+name = "Renderings/OxyKit v17Front.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDE1NTU="
+mimetype = "image/png"
+
+[[files]]
+name = "Renderings/OxyKit v17Isometric.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDE1NTY="
+mimetype = "image/png"
+
+[[files]]
+name = "Renderings/OxyKit v17SideL.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDE1NTc="
+mimetype = "image/png"
+
+[[files]]
+name = "Renderings/OxyKit v17SideR.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDE1NTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Renderings/OxyKit v17Top.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDE1NTk="
+mimetype = "image/png"
+
+[[files]]
+name = "Renderings/OxyKit v17Tubes.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDE1NjE="
+mimetype = "image/png"
+
+[[files]]
+name = "Renderings/OxyKit v17TubesTop.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDE1NjI="
+mimetype = "image/png"
+
+[[files]]
+name = "Shop Drawings/2x4 Frame Dimensions Angle.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDEzODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Shop Drawings/2x4 Frame Dimensions Base Detail.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDEzODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Shop Drawings/2x4 Frame Dimensions Fan Deck.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDEzODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Shop Drawings/2x4 Frame Dimensions Hole Detail.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDEzODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Shop Drawings/2x4 Frame Dimensions Rear Angle.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDEzODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Shop Drawings/2x4 Frame Sketchup File.skb"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDEzODk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Shop Drawings/2x4 Frame Sketchup File.skp"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDEzOTA="
+mimetype = "application/x-koan"
+

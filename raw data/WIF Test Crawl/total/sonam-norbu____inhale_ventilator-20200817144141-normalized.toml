@@ -1,0 +1,7 @@
+name = "inhale ventilator"
+repo = "https://wikifactory.com/@sonam-norbu/inhale-ventilator"
+version = "20200817144141"
+spdx-license = "N/A"
+licensor = "Sonam Norbu "
+documentation-language = "en"
+function = "My project is base on the present Covid and technical persons safety equipment innovation.\n1. Facemask will be thick plastic shaped like normal face mask.\n2. There will be pipe going along the face mask til belt.\n3. At face mask there will be two 20mm hole with filter of 100% for air flow inside"

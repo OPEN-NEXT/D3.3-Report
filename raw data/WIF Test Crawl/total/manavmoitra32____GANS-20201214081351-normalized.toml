@@ -1,0 +1,7 @@
+name = "GANS"
+repo = "https://wikifactory.com/@manavmoitra32/gans"
+version = "20201214081351"
+spdx-license = "N/A"
+licensor = "manavmoitra32"
+documentation-language = "af"
+function = "general Adverserial Networks"

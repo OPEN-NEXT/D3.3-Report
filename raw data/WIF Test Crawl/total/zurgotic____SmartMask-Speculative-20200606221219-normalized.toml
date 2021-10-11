@@ -1,0 +1,33 @@
+name = "SmartMask-Speculative"
+repo = "https://wikifactory.com/@zurgotic/smartmask"
+version = "20200606221219"
+spdx-license = "N/A"
+licensor = "Luís Filipe Rodrigues"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTI4NjU="
+function = "We restructured the concept of Mask, adding smart functions to the traditional one. Thus, our mask becomes an accessory of everyday life, a Smart Mask."
+[[files]]
+name = "/Assembly"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQwNDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Different Colors"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQwMjY="
+mimetype = "image/png"
+
+[[files]]
+name = "/Mannequin.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQwNzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Mask render.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTM4MzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzQ3Mjc="
+mimetype = "text/markdown"
+

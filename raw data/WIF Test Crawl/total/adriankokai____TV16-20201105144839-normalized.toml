@@ -1,0 +1,7 @@
+name = "TV16"
+repo = "https://wikifactory.com/@adriankokai/tv16"
+version = "20201105144839"
+spdx-license = "N/A"
+licensor = "adriankokai"
+documentation-language = "en"
+function = "This project is about reinventing networking devices to suit African or similar communities. The phone grid in Africa is messed up (I said messed up because I want to avoid using the F word), cell towers are a good effort at solving the bad phone grid but still, internet connectivity is still poor."

@@ -1,0 +1,18 @@
+name = "OS Basic Periscope"
+repo = "https://wikifactory.com/@diego/os-basic-periscope"
+version = "20190707125033"
+spdx-license = "N/A"
+licensor = "Diego Rasero"
+documentation-language = "ca"
+image = "https://wikifactory.com/files/RmlsZToyMjQ4OTg="
+function = "Just a basic periscope 3D model."
+[[files]]
+name = "/periscope.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ4OTM="
+mimetype = "image/png"
+
+[[files]]
+name = "/periscope.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ4OTI="
+mimetype = "application/x-openscad"
+

@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@fata/test"
+version = "20210314034050"
+spdx-license = "N/A"
+licensor = "daryl"
+documentation-language = "en"
+function = "figuring out what this is"

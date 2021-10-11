@@ -1,0 +1,7 @@
+name = "aj"
+repo = "https://wikifactory.com/@amitjindia/aj"
+version = "20201225072019"
+spdx-license = "N/A"
+licensor = "Amit Joshi"
+documentation-language = "en"
+function = "trial"

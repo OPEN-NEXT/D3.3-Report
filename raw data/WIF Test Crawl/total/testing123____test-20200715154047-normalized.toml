@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@testing123/test"
+version = "20200715154047"
+spdx-license = "N/A"
+licensor = "testing"
+documentation-language = "en"
+function = "test"

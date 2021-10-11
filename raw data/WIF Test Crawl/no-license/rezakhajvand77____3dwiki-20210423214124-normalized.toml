@@ -1,0 +1,38 @@
+name = "3dwiki"
+repo = "https://wikifactory.com/@rezakhajvand77/3dwiki"
+version = "20210423214124"
+spdx-license = "N/A"
+licensor = "rezakhajvand77"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1OTA1ODE="
+function = "A template that will help you develop a great project for the Mayku design challenge.\n\ufeff\nFork this project and use the existing sections to document your own project."
+[[files]]
+name = "CAD Files/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTA1OTQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Firmware + Software/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTA1OTU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTA1OTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Mold.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTA2MDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Photos + Videos/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTA1OTM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTA1OTc="
+mimetype = "text/markdown"
+

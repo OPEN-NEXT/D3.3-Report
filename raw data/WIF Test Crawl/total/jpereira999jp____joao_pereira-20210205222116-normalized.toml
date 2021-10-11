@@ -1,0 +1,12 @@
+name = "joao pereira"
+repo = "https://wikifactory.com/@jpereira999jp/joao-pereira"
+version = "20210205222116"
+spdx-license = "N/A"
+licensor = "jpereira999jp"
+documentation-language = "en"
+function = "sss"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzY4MTY="
+mimetype = "text/markdown"
+

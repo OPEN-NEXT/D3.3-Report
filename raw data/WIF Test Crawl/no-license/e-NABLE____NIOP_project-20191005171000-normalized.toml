@@ -1,0 +1,1778 @@
+name = "NIOP project "
+repo = "https://wikifactory.com/@jonschull/niop-project"
+version = "20191005171000"
+spdx-license = "N/A"
+licensor = "Jon Schull"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTMyMzE="
+function = "NIOP : No-Insurance Optimized Prosthetics\n\nWe are creating the next generation of e-NABLE prosthetics."
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/bathing arm/bath arm wrist-forearm connection.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/bathing arm/Scan_20190211 (3).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/bathing arm/Scan_20190211 (4).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/bathing arm/Scan_20190211 (6).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Battery Case Concept/HPIM5917.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Battery Case Concept/HPIM5918.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/2019-02-14 Finger Design.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/2019-02-14 WT _ Conduits.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/2019-03-10 Exo-Glove finger.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/2019-03-24 Finger Dim_s.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/2019-04-02 Drive Line Alts by Device.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/2019-04-02 palm patten.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/2019-04-11 WT Alt _ Wrist Tilt Pin.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/2019-04-18 Exo-Glove finger - red line.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/2019-04-18 finger-palm post onnectors.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/2019-04-18 thumb cover pattern.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/Concept Hand Case Study.docx"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMzY="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/FlexyHand finger divisions.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/IMG-0938.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/IMG-0939.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/IMG-0940.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/IMG-0941.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/IMG-0942.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/IMG_0551.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/IMG_20181126_205420.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/IMG_20181126_205427.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/IMG_20181126_205453.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/Living Hinge addition.docx"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMjE="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/Palm DrawingTest Concept_LI.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/printed wrist brace - flat _ assembled.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/printed wrist brace.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/Scan_20190324 (6).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Exo-Glove Hand Design/Scan_20190324 (7).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu mods/2019-02-27 Internal Printed hinges.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu mods/2019-03-01 Voluntary Opening _ Spring Configs.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu mods/Finger concept.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu mods/HPIM5982.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu mods/Kwawu finger divisions.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu mods/Kwawu forearm dimensions.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu mods/Kwawu internal palm tensioner.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu mods/Kwawu mods overview - wrist collar.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu mods/Kwawu myo hand design1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu mods/Kwawu Voluntary Opening Thumb.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu mods/Stacked Whippletree concept.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu W-D Prayer hand/2019-03-03 Kwawu W-D Prayer hand.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu W-D Prayer hand/printed wrist brace - flat _ assembled.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu W-D Prayer hand/printed wrist brace.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu W-D Prayer hand/Scan_20190324 (6).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/Kwawu W-D Prayer hand/Scan_20190324 (7).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Adapters/NIOP Hook Adapter.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Adapters/NIOP Shovel Adapter.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Adapters/Scan_20190215 (5).jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Quick-Connect Wrist/2019-02-27 NIOP Quick-Connect Wrist Connection v2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Quick-Connect Wrist/2019-03-02 NIOP Q-C v2 post assembly details.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Quick-Connect Wrist/HPIM5919.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Quick-Connect Wrist/HPIM5920.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Quick-Connect Wrist/HPIM5921.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Quick-Connect Wrist/HPIM5922.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Shoulders/NIOP Exo-Shoulder2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Shoulders/NIOP Exo-Shoulder Lock Concept1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Shoulders/NIOP Exo-Shoulder.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Shoulders/NIOP Full Shoulder - Shim.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Concept Sketches/NIOP Shoulders/NIOP Full Shoulder.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwNDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Humeral Conductor for Exo-Shoulder/Exo-Shoulder and Humeral Contuctor parts.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcyNzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Humeral Conductor for Exo-Shoulder/Exo-Shoulder Upper Arm Layout w Conductor.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Humeral Conductor for Exo-Shoulder/Humeral Conductor Socket Options.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzNzM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Humeral Conductor for Exo-Shoulder/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyODc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Humeral Conductor for Exo-Shoulder/stl files/hub x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyODM="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Humeral Conductor for Exo-Shoulder/stl files/Humeral Conductor Socket Supports.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyNzc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Humeral Conductor for Exo-Shoulder/stl files/humeral top plate for conductor.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcyNzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Humeral Conductor for Exo-Shoulder/stl files/socket - humeral conductor.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyODI="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Humeral Conductor for Exo-Shoulder/stl files/socket support x3 - cone.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyODE="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Humeral Conductor for Exo-Shoulder/stl files/socket support x3 - flat.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyODA="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Humeral Conductor for Exo-Shoulder/stl files/socket support x3 - tapered.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyNzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Humeral Conductor for Exo-Shoulder/stl files/top plate support x3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyNzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Humeral Conductor for Exo-Shoulder/video-1563380372.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcyNzQ="
+mimetype = "video/mp4"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Radial Conductor for Kwawu/Conductor Radial socket.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Radial Conductor for Kwawu/HPIM6093-CROPPED.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Radial Conductor for Kwawu/HPIM6095-CROPPED.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Radial Conductor for Kwawu/HPIM6096-cropped.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Radial Conductor for Kwawu/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcxOTU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Radial Conductor for Kwawu/Scan_20190630.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Radial Conductor for Kwawu/stl files/Forearm Support.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Radial Conductor for Kwawu/stl files/hub.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Radial Conductor for Kwawu/stl files/Humeral Conductor Socket Supports.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyOTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Radial Conductor for Kwawu/stl files/Radial Conductor Socket.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyOTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Radial Conductor for Kwawu/stl files/socket support x3 - cone.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Radial Conductor for Kwawu/stl files/socket support x3 - flat.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Conductors/Radial Conductor for Kwawu/stl files/socket support x3 - tapered.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/arm designs/marvel-Colossus.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQwMDA="
+mimetype = "image/png"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/arm designs/marvel-spiderman-ultimate-spider-man.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/dc-aquaman.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/dc-batman1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5ODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/dc-batman2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5ODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/dc-flash.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/dc-green_lantern.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5ODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/dc-robin.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5NzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/dc-superman.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5ODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/dc-wonder_woman.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/Fubu.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5Nzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/GOT-house_stark.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5NzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/GOT-house_targaryen.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/hello_kitty.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5NzA="
+mimetype = "image/png"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/lego-orbit.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/lego.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/marvel-avengers.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5OTg="
+mimetype = "image/png"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/marvel-black_panther.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/marvel-captain_america.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/marvel-deadpool.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/marvel-punisher.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5OTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/marvel-spider-man logos.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5NzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/marvel-x-men.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/spartan helmet logo.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5ODI="
+mimetype = "image/png"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/spartan_2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/star wars jedi order logo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/star wars rebel alliance logo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/star_wars-mandalorian.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5NzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/thundercats.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/transformers-autobot.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Easter Eggs/transformers-decepticon.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/HandyLite NIOP Q-C adapter/Dock Station for Quick Connect.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUzMTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/HandyLite NIOP Q-C adapter/HandyLite NIOP Q-C adapter and Palm.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUzMDg="
+mimetype = "image/png"
+
+[[files]]
+name = "NIOP Design Team/Design/HandyLite NIOP Q-C adapter/HandyLite NIOP Q-C adapter.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUzMDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/HandyLite NIOP Q-C adapter/HandyLite Palm mod for Q-C.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUzMTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/HandyLite NIOP Q-C adapter/NIOP Quick-Connect Handy Lite Adapter.f3d"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUzMTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/2018-11-30 Helix cuff can demo.mov"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5NDg="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/2018-11-30 Helix cuff fitting demo.mov"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5NDY="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/Foam Pattern for Socket.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1Nzc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/Helix cuff - rendering-Details.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/Helix cuff - rendering-Perspective.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1NzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/Helix cuff v1 - f360 xfer.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1NzQ="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/Helix cuff v1.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5NjM="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/HPIM5819.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/HPIM5949.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1NzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/jig for cuff - Shelbow humeral top plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1NzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/Shelbow v2 - assembly manual rendering-Kwawu - Perspective.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/stl files/cuff.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1OTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/stl files/Foam Pattern for Socket.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1OTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/stl files/jig for cuff - Shelbow humeral top plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1OTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/stl files/latch.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1ODk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/stl files/socket.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1ODg="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Helix Cuff/stl files/tensioner.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA1ODc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Bionic/2019-06-02 NIOP Kwawu Bionic concept.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Bionic/HandyLite wiring diagram.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgzMDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Bionic/Kwawu Bionic hand layout-Graphic.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTgyNzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Bionic/Kwawu Bionic wiring diagram-HD Graphic cropped.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ2NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Bionic/Kwawu Hand pic.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcxNjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Bionic/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ2NjA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Thermoform NIOP Remix/Kwawu Thermoform pic.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcxNjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Thermoform NIOP Remix/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzODg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Thermoform NIOP Remix/stl files/Arm1- no latch.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzODY="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Thermoform NIOP Remix/stl files/Arm1- with latch.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzODU="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Thermoform NIOP Remix/stl files/Cover1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzODQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Thermoform NIOP Remix/stl files/Cuff.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzODM="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Thermoform NIOP Remix/stl files/LatchCatch.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzODI="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Thermoform NIOP Remix/stl files/LatchHinge.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzODE="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Thermoform NIOP Remix/stl files/LatchSlider.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzODA="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Thermoform NIOP Remix/stl files/LatchTeeth.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzNzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Thermoform NIOP Remix/stl files/NIOP_WrsitArmAttach_NIOPWristPin.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzNzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Thermoform NIOP Remix/stl files/NIOP_WrsitArmAttach_StdBolt.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzNzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu Thermoform NIOP Remix/stl files/Tensioner.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzNzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu 2.2/design files/Kwawu 2.2.f3z"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4MDY="
+mimetype = "application/zip"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu 2.2/design files/Kwawu 2.2.stp"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4MDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu 2.2/Socket V2-20181105T183806Z-001.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4MDQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu 2.2/Thermoform v2-20181105T184536Z-001.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4MDU="
+mimetype = "application/zip"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/Kwawu2Socketv34.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4ODM="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/Kwawu hand - SEB.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4ODg="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/Kwawu hand.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4ODY="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/Kwawu hinges.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4ODI="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/Kwawu palm - SEB.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/Kwawu whippletrees.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4Njg="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/Kwawu wrist pin assembly.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NjY="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/latch design/Imported Components/Latch_Part_1/Latch_Part_1.htm"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NzY="
+mimetype = "text/html"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/latch design/Imported Components/Latch_Part_2/Latch_Part_2.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4Nzg="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/latch design/Imported Components/Latch_Part_2/Latch_Part_2.htm"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4Nzc="
+mimetype = "text/html"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/latch design/Latch_Part_1.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NzU="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/latch design/Latch_Part_1.STEP"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4Nzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/latch design/Latch_Part_2.bak"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4Njk="
+mimetype = "application/x-trash"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/latch design/Latch_Part_2.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NzQ="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/latch design/Latch_Part_2.STEP"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/latch design/original design/Latch_Part_1.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/latch design/original design/Latch_Part_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/2018-11-29 update/latch design/original design/Latch_Part_3.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/Kwawu 2.0 Design Files/Kwawu 2.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NjE="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/Kwawu 2.0 Design Files/Kwawu 2.stp"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu mod_s/Kwawu Modifications.docx"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MjA="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix w Std Bolt/Kwawu Forearm NIOP Std Bolt Remix screenshot.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix w Std Bolt/Kwawu forearm w Std Bolt - Scalable.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix w Std Bolt/Kwawu forearm w Std Bolt.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix w Std Bolt/Std Prosthetic Bolt.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMjc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/Assembly_of_Kwawu_Arm_2.0_-_Socket_Version.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/Kwawu_2.0_Prosthetic_Arm-_Socket_Version.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/Kwawu_Arm_2.0_-_Prosthetic_-_Socket_Version (1).zip"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4OTM="
+mimetype = "application/zip"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_Arm1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_Arm2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_Arm.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4OTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_Cuff.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4OTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_IndexFingerEnd.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MDA="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_IndexFingerPhalanx.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4OTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_Latch.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_LatchHingeHole.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4ODk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_LatchPin.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_LatchSlider.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_LatchTeeth.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_MiddleFingerEnd.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_MiddleFingerPhalanx.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_Palm.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_PalmTop.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_PinkyFingerEnd.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_PinkyFingerPhalanx.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_RingFingerEnd.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_RingFingerPhalanx.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_Tensioner.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4OTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_ThumbEnd.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_ThumbPhalanx.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_VentHoles1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4OTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_VentHoles2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4OTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_Ventholes3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4OTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_WhippleTreePrimary.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4OTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/o_WhippleTreeSecondary.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4OTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-08-23 Update/Using_OpenSCAD_to_Render_Kwawu_Arm_2.0_-_Socket_Version.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM5MTg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-11-29 update/2018-09-25 Kwawu Design Mods.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NjM="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-11-29 update/2018-09-25 Shelbow design team mtg.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NjI="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-11-29 update/Kwawu 2.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4ODc="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-11-29 update/Kwawu flex hinge stock - short.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4ODU="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-11-29 update/Kwawu flex hinge stock.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4ODQ="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-11-29 update/Kwawu flex hinge stock.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4Njc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-11-29 update/Kwawu forearm - original.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4ODE="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-11-29 update/Kwawu forearm design.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4ODA="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Kwawu NIOP Remix/2018-11-29 update/Kwawu hand - SEB - Blank.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NjQ="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Michael Campos Kwawu mod/Modified STL Files/Cuff3mmV2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Michael Campos Kwawu mod/Modified STL Files/PalmHolesV4 .stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Michael Campos Kwawu mod/Modified STL Files/PalmTopHoles.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Michael Campos Kwawu mod/Modified STL Files/Prosthetic_Arm_20190104.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Kwawu/Michael Campos Kwawu mod/Modified STL Files/WristCoverV4.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM4NTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Device Scaling/Kwawu-NIOP device sizing graphic"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUzMzA="
+mimetype = "image/png"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Device Scaling/NIOP_Sizing_Guide_-_Temporary.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUzMjE="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Hook/NIOP Hook layout.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Hook/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcyMDQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Hook/stl files/NIOP Hook Side1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Hook/stl files/NIOP Hook Side2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Hook/stl files/Q-C Sleeve - NIOP Adapter.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgzNDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Recommended Materials/NIOP_Bill_of_Materials.docx"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUzMjI="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Wrist Pin/HPIM5783.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQxMjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Wrist Pin/HPIM5785.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQxMzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Wrist Pin/HPIM5786.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQxMzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Wrist Pin/HPIM5787.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQxMzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Wrist Pin/HPIM5788.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQxMzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Wrist Pin/HPIM5790.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQxMzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Wrist Pin/HPIM5791.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQxMzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Wrist Pin/HPIM5792.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQxMzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Wrist Pin/HPIM5794.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQxMjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Wrist Pin/NIOP wrist pin assembly.dwg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQxMzg="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Wrist Pin/NIOP wrist pin.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQxMzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Wrist Pin/NIOP wrist retention ring.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQxMzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/NIOP Wrist Pin/NIOP wrist stopper.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQxMjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Prayer Hand/Exo-Glove Palm & Wrist Xsec.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcyMTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Prayer Hand/Exo-Glove Thumb Cover.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcyMTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Prayer Hand/Prayer Hand Vol-Close Gauntlet.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Prayer Hand/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcyMTI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NIOP Design Team/Design/Q-C Wrist Connection/NIOP Quick-Connect Wrist assembly w sleeve.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY0OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Q-C Wrist Connection/NIOP Quick-Connect Wrist assembly.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY0OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Q-C Wrist Connection/NIOP Quick-Connect Wrist Pin and Cap.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Q-C Wrist Connection/NIOP Quick-Connect Wrist Pin assembly.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY0OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Q-C Wrist Connection/Q-C wrist design - 2D.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Q-C Wrist Connection/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcyMDI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NIOP Design Team/Design/Q-C Wrist Connection/stl files/Q-C Button x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1MDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Q-C Wrist Connection/stl files/Q-C Pivot Plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1MDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Q-C Wrist Connection/stl files/Q-C Sleeve.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1MDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Q-C Wrist Connection/stl files/Q-C Wrist Housing1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1MDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Q-C Wrist Connection/stl files/Q-C Wrist Housing2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1MDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Q-C Wrist Connection/stl files/Q-C Wrist Pin Cap.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1MDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Q-C Wrist Connection/stl files/Q-C Wrist Pin.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY1MDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcyMDg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NIOP Design Team/Design/Scapula Plate/HPIM5904.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Scapula Plate/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcxOTM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NIOP Design Team/Design/Scapula Plate/scapula plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow Upgrades/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcyMDA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow Upgrades/Shelbow Upgrades Ratchet Gear 3D screenshot.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcwMDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow Upgrades/Shelbow Upgrades Ratchet Gear Assembly screenshot.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5OTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow Upgrades/Shelbow Upgrades Ratchet Gear Max screenshot.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow Upgrades/Shelbow Upgrades Ratchet Gear Min screenshot.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTY5OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/HPIM5902.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/HPIM5904.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/HPIM6004.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NjQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/Shelbow v2 - assembly manual rendering-Kwawu - Perspective.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/stl files/dowel - hex (6 req'd).stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/stl files/flexion latch pin with switch.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/stl files/grip lock switch.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/stl files/humeral base - center.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/stl files/humeral base - lateral.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/stl files/humeral base - medial.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/stl files/humeral bottom plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/stl files/humeral core.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/stl files/humeral latch pin.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/stl files/humeral top plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/stl files/Shelbow forearm - lateral.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/stl files/Shelbow forearm - medial.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/Shelbow/stl files/Shelbow_Assembly_Instructions.docx"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1NDM="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0NTU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/stl files/Finger Slide.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0Mzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/stl files/Finger Support.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0Mzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/stl files/Gauntlet vol-open.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0Mzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/stl files/Knuckle Plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0MzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/stl files/Palm.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0MzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/stl files/Tensioner.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0MzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/stl files/Thumb Cover.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0MzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/stl files/TPU - 1 Thumb.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0MzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/stl files/TPU - 2 Index.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0MzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/stl files/TPU - 3 Middle.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0Mjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/stl files/TPU - 4 Ring.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0Mjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/stl files/TPU - 5 Pinky.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0Mjc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/XO-Glove Assembly - w-o Knuckle Plate.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/XO-Glove Assembly with Fingers.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/XO-Glove Assembly.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0NDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Glove/XO-Glove Gauntlet - vol-open.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk0NDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTcxOTQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/stl files/Arm Wrap Regular - no vents.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyOTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/stl files/Arm Wrap Regular - with vents.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyOTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/stl files/Clavicle Plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzNjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/stl files/Scapula Plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzNTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/stl files/Shoulder Connector.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzNTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/stl files/Shoulder joint cap.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzNTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/stl files/Shoulder joint core.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzNTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/stl files/Shoulder Pad.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzNTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/stl files/Slide.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjYzNTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/stl files/Upper Arm Base Regular.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyOTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/stl files/Upper Arm Base Robusto.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUyOTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/XO-Shoulder and Humeral Conductor parts.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMjcyNzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/XO-Shoulder and Humeral Contuctor parts.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUzMzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Design/XO-Shoulder/XO-Shoulder assembled.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDUzMzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5849.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5850.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3Mjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5855.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5858.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5860.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5862.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5865.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5877.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5880.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5881.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5882.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5885.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3Mjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5891.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5892.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3Mjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5895.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5896.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5898.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5900.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5901.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5902.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "NIOP Design Team/Photos from Prototype/HPIM5904.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM3MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNTI3NzI="
+mimetype = "text/markdown"
+

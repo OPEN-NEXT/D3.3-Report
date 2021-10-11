@@ -1,0 +1,12 @@
+name = "UVC RespiratoryProtection"
+repo = "https://wikifactory.com/@davidhongjr/uvc-respiratoryprotection"
+version = "20210406105526"
+spdx-license = "N/A"
+licensor = "David Hong"
+documentation-language = "en"
+function = "An effordable open source UVC Respiratory Protection for everyone"
+[[files]]
+name = "/skizze.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzYwNDI="
+mimetype = "image/png"
+

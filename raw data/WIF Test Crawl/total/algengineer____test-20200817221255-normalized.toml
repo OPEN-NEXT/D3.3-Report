@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@algengineer/test"
+version = "20200817221255"
+spdx-license = "N/A"
+licensor = "Ham Moh"
+documentation-language = "en"
+function = "test"

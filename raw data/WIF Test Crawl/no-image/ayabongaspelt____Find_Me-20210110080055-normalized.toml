@@ -1,0 +1,7 @@
+name = "Find Me"
+repo = "https://wikifactory.com/@ayabongaspelt/find-me"
+version = "20210110080055"
+spdx-license = "N/A"
+licensor = "Ayabonga Spelt"
+documentation-language = "en"
+function = "A stylish braclet that is used to keep you in contact with your next of kin or friend. It can be only connected to 2 phones with a unique Qr code"

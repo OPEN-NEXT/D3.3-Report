@@ -1,0 +1,18 @@
+name = "Communicare"
+repo = "https://wikifactory.com/@meganjay/communicare"
+version = "20200615105751"
+spdx-license = "N/A"
+licensor = "Megan Stratford"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTQ1MzM="
+function = "Providing communication within communities and creating visual beauty during the Coronavirus."
+[[files]]
+name = "/archive_27df752.zip"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQ1MzY="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODE5NjM="
+mimetype = "text/markdown"
+

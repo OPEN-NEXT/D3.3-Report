@@ -1,0 +1,7 @@
+name = "Relatório Labirinto 3D"
+repo = "https://wikifactory.com/@gabrieltose32/relatório-labirinto-3d"
+version = "20210429150230"
+spdx-license = "N/A"
+licensor = "Gabriel Tose de Oliveira"
+documentation-language = "pt"
+function = "Neste relatório iremos mostrar como foi feito o nosso projeto sobre o Labirinto 3D, e como foi controlado remotamente."

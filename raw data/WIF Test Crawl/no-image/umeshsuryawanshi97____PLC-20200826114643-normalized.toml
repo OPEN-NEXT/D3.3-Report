@@ -1,0 +1,7 @@
+name = "PLC"
+repo = "https://wikifactory.com/@umeshsuryawanshi97/plc"
+version = "20200826114643"
+spdx-license = "N/A"
+licensor = "umesh suryawanshi"
+documentation-language = "en"
+function = "25ml 500ml etc water filling"

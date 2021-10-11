@@ -1,0 +1,7 @@
+name = "Sanitation bots "
+repo = "https://wikifactory.com/@joetorg/sanitation-bots"
+version = "20200208140313"
+spdx-license = "N/A"
+licensor = "Joseph"
+documentation-language = "en"
+function = "robots designed to aid in sanitation within deverloping contries"

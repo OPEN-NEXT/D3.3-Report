@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@andrex462/test"
+version = "20210118125516"
+spdx-license = "N/A"
+licensor = "willie andre"
+documentation-language = "en"
+function = "first project"

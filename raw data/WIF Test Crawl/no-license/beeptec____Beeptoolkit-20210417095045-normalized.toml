@@ -1,0 +1,12 @@
+name = "Beeptoolkit"
+repo = "https://wikifactory.com/@beeptec/beeptoolkit"
+version = "20210417095045"
+spdx-license = "N/A"
+licensor = "Alexander "
+documentation-language = "en"
+function = "<a href=\"https://www.beeptoolkit.com/\">NO CODE platform tooling for development of robotics, automatics and smart systems</a>"
+[[files]]
+name = "BeepToolkit trial Installer/Tutorial for installing.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI3NTY="
+mimetype = "application/pdf"
+

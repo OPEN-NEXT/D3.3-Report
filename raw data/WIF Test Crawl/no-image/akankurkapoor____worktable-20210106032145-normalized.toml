@@ -1,0 +1,7 @@
+name = "worktable"
+repo = "https://wikifactory.com/@akankurkapoor/worktable"
+version = "20210106032145"
+spdx-license = "N/A"
+licensor = "akankurkapoor"
+documentation-language = "en"
+function = "Affordable and comfortable worktables"

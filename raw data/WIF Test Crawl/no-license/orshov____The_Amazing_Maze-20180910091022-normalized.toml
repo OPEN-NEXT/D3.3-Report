@@ -1,0 +1,38 @@
+name = "The Amazing Maze"
+repo = "https://wikifactory.com/@orshov/the-amazing-maze"
+version = "20180910091022"
+spdx-license = "N/A"
+licensor = "Or Shoval"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMTMyNA=="
+function = "The Amazing Maze is an interactive game based on the original wooden maze game introduced to the US by BRIO around 1950."
+[[files]]
+name = "Design/2D_mills.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToxMTM3Nw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/3D_mill.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxMTM3OA=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Balls_Mill.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToxMTM3NQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Main_2D_file.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToxMTM3OQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Plastic_Arms.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToxMTM3Ng=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMTM3Mg=="
+mimetype = "text/markdown"
+

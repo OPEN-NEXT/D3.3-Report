@@ -1,0 +1,7 @@
+name = "Drinking water source "
+repo = "https://wikifactory.com/@mataniabdelaziz3/drinking-water-source"
+version = "20200412010136"
+spdx-license = "N/A"
+licensor = "mataniabdelaziz3"
+documentation-language = "en"
+function = "The apparatus can produce drinking water from sea water without energy input by oonly utilisation of sea pressure energy."

@@ -1,0 +1,13 @@
+name = "A Novel Soap Dispenser"
+repo = "https://wikifactory.com/@cyborgash12/a-novel-soap-dispenser"
+version = "20200706071600"
+spdx-license = "N/A"
+licensor = "Sridhar Natesan"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDQ0NDA="
+function = "Novel soap dispenser to help increase safety in cleaning hands and increase peace of mind when spending time outside."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDUwODc="
+mimetype = "text/markdown"
+

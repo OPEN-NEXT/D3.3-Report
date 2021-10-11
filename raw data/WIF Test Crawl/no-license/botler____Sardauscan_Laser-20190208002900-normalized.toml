@@ -1,0 +1,78 @@
+name = "Sardauscan Laser"
+repo = "https://wikifactory.com/@botler/sardauscan-laser"
+version = "20190208002900"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDMwNA=="
+function = "This is an open source laser scanner that costs under $30 dollars by Fabio Ferretti."
+[[files]]
+name = "General Files/arm_left.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI4Ng=="
+mimetype = ""
+
+[[files]]
+name = "General Files/box.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI5MA=="
+mimetype = ""
+
+[[files]]
+name = "General Files/box_door.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI5MQ=="
+mimetype = ""
+
+[[files]]
+name = "General Files/calibration.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI4NQ=="
+mimetype = ""
+
+[[files]]
+name = "General Files/Camera_HOLDER_UPPER_PART.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI5NA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "General Files/CORNER.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI5Mw=="
+mimetype = ""
+
+[[files]]
+name = "General Files/laser_holder.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI5Mg=="
+mimetype = ""
+
+[[files]]
+name = "General Files/M4_tslot_nut.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI4NA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "General Files/MOTOR_MOUNT.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI5Nw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "General Files/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDMwMQ=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "General Files/roller_baseV2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI5Ng=="
+mimetype = ""
+
+[[files]]
+name = "General Files/Sample_scan_kitty_at_640x480.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI5OQ=="
+mimetype = ""
+
+[[files]]
+name = "General Files/table_AXLE.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI5OA=="
+mimetype = ""
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDMwOA=="
+mimetype = "text/markdown"
+

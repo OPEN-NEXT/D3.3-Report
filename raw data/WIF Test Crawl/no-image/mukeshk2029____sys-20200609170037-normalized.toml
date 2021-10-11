@@ -1,0 +1,7 @@
+name = "sys"
+repo = "https://wikifactory.com/@mukeshk2029/sys"
+version = "20200609170037"
+spdx-license = "N/A"
+licensor = "mukeshk2029"
+documentation-language = "en"
+function = "embedded"

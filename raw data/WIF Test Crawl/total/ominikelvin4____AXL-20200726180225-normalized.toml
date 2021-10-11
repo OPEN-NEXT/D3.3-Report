@@ -1,0 +1,7 @@
+name = "AXL"
+repo = "https://wikifactory.com/@ominikelvin4/axl"
+version = "20200726180225"
+spdx-license = "N/A"
+licensor = "ominikelvin"
+documentation-language = "en"
+function = "Robotics and transportation"

@@ -1,0 +1,7 @@
+name = "cOTTOffinDance"
+repo = "https://wikifactory.com/@pykuart/cottoffindance"
+version = "20200801074540"
+spdx-license = "N/A"
+licensor = "pykuart"
+documentation-language = "en"
+function = "Initial version of coffin dance music"

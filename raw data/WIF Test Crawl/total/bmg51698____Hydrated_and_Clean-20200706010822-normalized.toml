@@ -1,0 +1,73 @@
+name = "Hydrated and Clean"
+repo = "https://wikifactory.com/@bmg51698/hydrated-and-clean"
+version = "20200706010822"
+spdx-license = "N/A"
+licensor = "Bianca Marisse Garcia"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTcyMjU="
+function = "Through CNC machining and 3D printing, we can all grab water from the same dispenser without spreading germs!"
+[[files]]
+name = "Ideation/IMG_6137.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Ideation/IMG_6138.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2Njg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2ODQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Renderings/side.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renderings/water cooler 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2MjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renderings/water cooler render.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Renderings/water cooler.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Solidworks Files/Assem1.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2NDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Solidworks Files/contours.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2MzY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Solidworks Files/cup dispenser.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2MzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Solidworks Files/lid.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2NDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Solidworks Files/nozzle.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2Mjk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Solidworks Files/water cooler base.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ2Mjg="
+mimetype = "application/octet-stream"
+

@@ -1,0 +1,13 @@
+name = "Hello World"
+repo = "https://wikifactory.com/@adrianacabrera/hello-world"
+version = "20200530132405"
+spdx-license = "N/A"
+licensor = "Adriana Cabrera"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTY1Mzc="
+function = "this is the first sketch of the course"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTc1NDE="
+mimetype = "text/markdown"
+

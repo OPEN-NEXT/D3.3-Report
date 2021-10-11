@@ -1,0 +1,7 @@
+name = "GSB project"
+repo = "https://wikifactory.com/@sambarnesgideon/gsb-project"
+version = "20200212122512"
+spdx-license = "N/A"
+licensor = "sambarnesgideon"
+documentation-language = "en"
+function = "inn"

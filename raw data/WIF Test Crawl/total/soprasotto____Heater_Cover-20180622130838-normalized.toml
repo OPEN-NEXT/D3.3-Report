@@ -1,0 +1,23 @@
+name = "Heater Cover"
+repo = "https://wikifactory.com/@soprasotto/heater-cover"
+version = "20180622130838"
+spdx-license = "N/A"
+licensor = "SopraSotto"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NDk5"
+function = "<a href=\"https://alpha.wikifactory.com/@soprasotto\"><b>kindergarten furniture kit</b></a> <b>-</b> The <b>heater cover</b> is an important addition to your safe and kid-friendly space. It is available in variable sizes. Choose the right <b>heater cover</b> drawing, according to the size of your heater."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NDc0"
+mimetype = "text/markdown"
+
+[[files]]
+name = "/SopraSotto_Heater Cover.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQx"
+mimetype = "text/plain"
+
+[[files]]
+name = "/SopraSotto_Heater Cover_Assembly instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQz"
+mimetype = "application/pdf"
+

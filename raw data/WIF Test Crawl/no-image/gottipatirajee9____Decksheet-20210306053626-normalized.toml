@@ -1,0 +1,7 @@
+name = "Decksheet"
+repo = "https://wikifactory.com/@gottipatirajee9/decksheet"
+version = "20210306053626"
+spdx-license = "N/A"
+licensor = "Rajeev Chowdary G"
+documentation-language = "en"
+function = "Rollform"

@@ -1,0 +1,12 @@
+name = "Inv. Amplifier(DESIGN)"
+repo = "https://wikifactory.com/@fawadshaikh/inv-amplifierdesign"
+version = "20200630073409"
+spdx-license = "N/A"
+licensor = "Muhammad"
+documentation-language = "en"
+function = "Inverting Amplifier is a normal OP-Amp in which the output is given as feedback to the inverted terminal of input by means of a feedback resistor."
+[[files]]
+name = "/IMG_E0356.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozOTU4OTM="
+mimetype = "image/jpeg"
+

@@ -1,0 +1,18 @@
+name = "Kosmos"
+repo = "https://wikifactory.com/@konkarlab/kosmos"
+version = "20210105135318"
+spdx-license = "N/A"
+licensor = "konkarlab"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1Mjg4NjI="
+function = "Le projet Kosmos vise à concevoir un système autonome sous-marin pour la captation d’images sous marines pour l'écologie.  \nLa documentation est disponible sur la <a href=\"https://wikifactory.com/@gheleguen/kosmos-20-r%C3%A9alisation\">page de la KOSMOS 2.0  </a>"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTM0ODc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Sous-projet 1/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTk0MTE="
+mimetype = "text/markdown"
+

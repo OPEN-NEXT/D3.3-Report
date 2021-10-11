@@ -1,0 +1,7 @@
+name = "pool"
+repo = "https://wikifactory.com/@dradityapatidaar/pool"
+version = "20210304160030"
+spdx-license = "N/A"
+licensor = "dradityapatidaar"
+documentation-language = "en"
+function = "drons and flying matchines"

@@ -1,0 +1,23 @@
+name = "Fab Academy | Table"
+repo = "https://wikifactory.com/@gabrielampsg/fab-academy-table"
+version = "20190525154305"
+spdx-license = "N/A"
+licensor = "Gabriela M P S G"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTA2ODI="
+function = "This project was developed during the assignment for Computer-Controlled Machining of the Fab Academy course. It is a table with two sets of legs - one for working with over your bed and another to stand from the floor. This first prototype was done with plywood 15mm."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTA2ODg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/w08_computer-controlled_machining_design.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTA2OTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/w08_computer-controlled_machining_design_model.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyMTA2OTk="
+mimetype = "SKP"
+

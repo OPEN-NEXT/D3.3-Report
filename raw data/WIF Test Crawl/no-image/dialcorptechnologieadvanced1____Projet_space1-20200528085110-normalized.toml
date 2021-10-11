@@ -1,0 +1,7 @@
+name = "Projet space1"
+repo = "https://wikifactory.com/@dialcorptechnologieadvanced1/projet-space1"
+version = "20200528085110"
+spdx-license = "N/A"
+licensor = "dialcorptechnologieadvanced1"
+documentation-language = "en"
+function = "Use télescope to explore the space"

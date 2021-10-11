@@ -1,0 +1,7 @@
+name = "DGC"
+repo = "https://wikifactory.com/@gabrielgonza2010/dgc"
+version = "20200529154725"
+spdx-license = "N/A"
+licensor = "Gabriel Gonzalez"
+documentation-language = "en"
+function = "plasma"

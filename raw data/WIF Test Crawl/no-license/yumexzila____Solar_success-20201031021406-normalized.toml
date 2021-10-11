@@ -1,0 +1,7 @@
+name = "Solar success"
+repo = "https://wikifactory.com/@yumexzila/solar-success"
+version = "20201031021406"
+spdx-license = "N/A"
+licensor = "yumexzila"
+documentation-language = "no"
+function = "Storing solar energy using gravel"

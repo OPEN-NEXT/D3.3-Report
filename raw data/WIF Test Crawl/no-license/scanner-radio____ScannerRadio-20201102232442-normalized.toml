@@ -1,0 +1,12 @@
+name = "ScannerRadio"
+repo = "https://wikifactory.com/@clearlyelevated1337/scannerradio"
+version = "20201102232442"
+spdx-license = "N/A"
+licensor = "clearlyelevated"
+documentation-language = "en"
+function = "Home"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjQ5NDY="
+mimetype = "text/markdown"
+

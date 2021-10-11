@@ -1,0 +1,12 @@
+name = "The Art of Strategy"
+repo = "https://wikifactory.com/@lane-li/the-art-of-strategy"
+version = "20191210022942"
+spdx-license = "N/A"
+licensor = "Lane Li"
+documentation-language = "en"
+function = "Sun Tzu and Michael Porter are the most frequently cited strategists in their respective fields of military and business, and their strategic philosophies have been widely applied to other areas beyond military and business. this course links Sun Tzu, Michael Porter with Ice hockey or Innebandy."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk4NjU="
+mimetype = "text/markdown"
+

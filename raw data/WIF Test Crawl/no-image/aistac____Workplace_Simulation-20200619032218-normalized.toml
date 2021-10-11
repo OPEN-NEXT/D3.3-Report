@@ -1,0 +1,7 @@
+name = "Workplace Simulation "
+repo = "https://wikifactory.com/@aistac/workplace-simulation"
+version = "20200619032218"
+spdx-license = "N/A"
+licensor = "Robert Respicio"
+documentation-language = "en"
+function = "We simulate workplace activities to prepare trainees on their chosen line of work"

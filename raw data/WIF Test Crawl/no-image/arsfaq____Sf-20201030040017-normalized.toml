@@ -1,0 +1,7 @@
+name = "Sf"
+repo = "https://wikifactory.com/@arsfaq/sf"
+version = "20201030040017"
+spdx-license = "N/A"
+licensor = "arsfaq"
+documentation-language = "en"
+function = "Drone"

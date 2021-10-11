@@ -1,0 +1,28 @@
+name = "VICES"
+repo = "https://wikifactory.com/@sprimontleo/vices-stool"
+version = "20210201121224"
+spdx-license = "N/A"
+licensor = "sprimontleo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDcyNDU="
+function = "furniture legs that can adapt to recycled circular or rectangular deck. \n\nphotos by Arnaud Delente"
+[[files]]
+name = "/Guide vices stool 3 LEGS .png"
+permalink = "https://wikifactory.com/files/RmlsZTozMDc1MzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzMxNTc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Vices Table_4Legs_RECT.465x430mm.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDc1MzM="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "/VicesStool_3Legs_Circular.350mm.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDc1Mzc="
+mimetype = "image/vnd.dwg"
+

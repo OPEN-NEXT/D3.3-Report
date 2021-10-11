@@ -1,0 +1,228 @@
+name = "Handheld Scanner."
+repo = "https://wikifactory.com/@jerzeek/plastic-scanner"
+version = "20210227205538"
+spdx-license = "GPL-3.0"
+licensor = "Jerry"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NTgxODU="
+function = "A handheldscanner that incorporates the breakout board together with a Raspberry Pi Zero W, all in a handheld package!"
+[[files]]
+name = "Hardware/3Dprint/bottom.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMDA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Hardware/3Dprint/button.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYxOTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "Hardware/3Dprint/middle.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYxOTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Hardware/3Dprint/TOP.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYxOTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "Hardware/BOM  handheld scanner.csv"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYxOTY="
+mimetype = "text/csv"
+
+[[files]]
+name = "Hardware/CAD/Handheld scanner v22.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYxOTU="
+mimetype = ""
+
+[[files]]
+name = "IMG/foam.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyNzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMG/handheld scanner context-min.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMG/handheld scanner underside-min.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMG/handheld scanner-min.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMG/render back.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMG/render front.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMG/scanning2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMG/wiring diagram.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyNzk="
+mimetype = "image/png"
+
+[[files]]
+name = "img/wiring diagram.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMzE="
+mimetype = "image/png"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzYxMTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTgxODE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Software/codeForMK1/__pycache__/Plastic_Sense_Config.cpython-37.pyc"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMTk="
+mimetype = "application/x-python-code"
+
+[[files]]
+name = "Software/codeForMK1/__pycache__/Plastic_Sense_Definitions.cpython-37.pyc"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMTg="
+mimetype = "application/x-python-code"
+
+[[files]]
+name = "Software/codeForMK1/__pycache__/Plastic_Sense_Functions.cpython-37.pyc"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMTc="
+mimetype = "application/x-python-code"
+
+[[files]]
+name = "Software/codeForMK1/database_collection.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMzA="
+mimetype = "text/x-python"
+
+[[files]]
+name = "Software/codeForMK1/estimation_front.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMjk="
+mimetype = "text/x-python"
+
+[[files]]
+name = "Software/codeForMK1/Plastic_Sense_Config.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMjg="
+mimetype = "text/x-python"
+
+[[files]]
+name = "Software/codeForMK1/Plastic_Sense_Definitions.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMjc="
+mimetype = "text/x-python"
+
+[[files]]
+name = "Software/codeForMK1/Plastic_Sense_Functions.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMjY="
+mimetype = "text/x-python"
+
+[[files]]
+name = "Software/codeForMK1/simulation/pwm-highpass.asc"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/codeForMK1/simulation/pwm-highpass.log"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Software/codeForMK1/simulation/pwm-highpass.op.raw"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMjM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Software/codeForMK1/simulation/pwm-highpass.plt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMjI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Software/codeForMK1/simulation/pwm-highpass.raw"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Software/codeForMK1/testresults.csv"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMjA="
+mimetype = "text/csv"
+
+[[files]]
+name = "Software/install.sh"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMTY="
+mimetype = "text/x-sh"
+
+[[files]]
+name = "Software/MachineLearningModel/model.tflite"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Software/MachineLearningModel/plastic_estimator/saved_model.pb"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Software/MachineLearningModel/plastic_estimator/variables/variables.data-00000-of-00001"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Software/MachineLearningModel/plastic_estimator/variables/variables.index"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Software/MachineLearningModel/sample_data.csv"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMDk="
+mimetype = "text/csv"
+
+[[files]]
+name = "Software/MachineLearningModel/test_data.csv"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMDg="
+mimetype = "text/csv"
+
+[[files]]
+name = "Software/MachineLearningModel/test_TFlitemodel.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMDc="
+mimetype = "text/x-python"
+
+[[files]]
+name = "Software/MachineLearningModel/test_TFmodel.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMDY="
+mimetype = "text/x-python"
+
+[[files]]
+name = "Software/MachineLearningModel/tflite_runtime-2.3.1-cp37-cp37m-linux_armv6l.whl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMDU="
+mimetype = "application/zip"
+
+[[files]]
+name = "Software/MachineLearningModel/tflite_runtime-2.5.0-cp37-cp37m-linux_armv7l.whl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMDQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "Software/MachineLearningModel/training_model.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMDM="
+mimetype = "text/x-python"
+
+[[files]]
+name = "Software/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTYyMDE="
+mimetype = "text/plain"
+

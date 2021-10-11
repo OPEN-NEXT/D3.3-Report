@@ -1,0 +1,7 @@
+name = "Orthographic Visualizer "
+repo = "https://wikifactory.com/@hearunagiri/orthographic-visualizer"
+version = "20210220141313"
+spdx-license = "N/A"
+licensor = "Arunagiri "
+documentation-language = "en"
+function = "A teaching aid for Engineering graphics. It consists of 2 camera ,5 DOF  servo operated stage and few models with UV reflective paints . based up given problem when the model  is moved with respect to Vertical and Horizontal plane using  stage the top and front view could be visualized using cameras"

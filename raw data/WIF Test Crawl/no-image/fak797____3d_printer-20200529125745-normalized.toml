@@ -1,0 +1,7 @@
+name = "3d printer "
+repo = "https://wikifactory.com/@fak797/3d-printer"
+version = "20200529125745"
+spdx-license = "N/A"
+licensor = "Faisal Amin"
+documentation-language = "en"
+function = "3d printing process and its application"

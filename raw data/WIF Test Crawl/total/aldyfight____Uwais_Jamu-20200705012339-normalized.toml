@@ -1,0 +1,298 @@
+name = "Uwais Jamu"
+repo = "https://wikifactory.com/@aldyfight/uwais-jamu"
+version = "20200705012339"
+spdx-license = "N/A"
+licensor = "Rizaldi"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDI0NTY="
+function = "this just a simple web design for me do you need help design your own i will do it for free but i can open source thats .... see my story if you need more information"
+[[files]]
+name = "css/fontawesome-free/css/all.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1Mjg="
+mimetype = "text/css"
+
+[[files]]
+name = "css/fontawesome-free/css/brands.min.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MjU="
+mimetype = "text/css"
+
+[[files]]
+name = "css/fontawesome-free/css/regular.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MjI="
+mimetype = "text/css"
+
+[[files]]
+name = "css/fontawesome-free/css/regular.min.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MjE="
+mimetype = "text/css"
+
+[[files]]
+name = "css/fontawesome-free/css/solid.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MjA="
+mimetype = "text/css"
+
+[[files]]
+name = "css/fontawesome-free/css/svg-with-js.min.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MTc="
+mimetype = "text/css"
+
+[[files]]
+name = "css/fontawesome-free/css/v4-shims.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MTY="
+mimetype = "text/css"
+
+[[files]]
+name = "css/fontawesome-free/webfonts/fa-brands-400.eot"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MTQ="
+mimetype = "application/vnd.ms-fontobject"
+
+[[files]]
+name = "css/fontawesome-free/webfonts/fa-brands-400.ttf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1NDE="
+mimetype = "application/font-sfnt"
+
+[[files]]
+name = "css/fontawesome-free/webfonts/fa-brands-400.woff"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1NDA="
+mimetype = "application/font-woff"
+
+[[files]]
+name = "css/fontawesome-free/webfonts/fa-brands-400.woff2"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "css/fontawesome-free/webfonts/fa-regular-400.eot"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1Mzg="
+mimetype = "application/vnd.ms-fontobject"
+
+[[files]]
+name = "css/fontawesome-free/webfonts/fa-regular-400.ttf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MzY="
+mimetype = "application/font-sfnt"
+
+[[files]]
+name = "css/fontawesome-free/webfonts/fa-regular-400.woff"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MDY="
+mimetype = "application/font-woff"
+
+[[files]]
+name = "css/fontawesome-free/webfonts/fa-regular-400.woff2"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "css/fontawesome-free/webfonts/fa-solid-900.eot"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MzM="
+mimetype = "application/vnd.ms-fontobject"
+
+[[files]]
+name = "css/fontawesome-free/webfonts/fa-solid-900.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MzI="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "css/fontawesome-free/webfonts/fa-solid-900.ttf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MzE="
+mimetype = "application/font-sfnt"
+
+[[files]]
+name = "css/fontawesome-free/webfonts/fa-solid-900.woff"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MDE="
+mimetype = "application/font-woff"
+
+[[files]]
+name = "css/fontawesome-free/webfonts/fa-solid-900.woff2"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1MDA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "css/style.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0Njg="
+mimetype = "text/css"
+
+[[files]]
+name = "css/stylish-portfolio.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0Njc="
+mimetype = "text/css"
+
+[[files]]
+name = "css/stylish-portfolio.min.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0NjY="
+mimetype = "text/css"
+
+[[files]]
+name = "img/brands.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0ODA="
+mimetype = "text/css"
+
+[[files]]
+name = "img/fa-brands-400.eot"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0OTg="
+mimetype = "application/vnd.ms-fontobject"
+
+[[files]]
+name = "img/fa-brands-400.ttf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0OTY="
+mimetype = "application/font-sfnt"
+
+[[files]]
+name = "img/fa-brands-400.woff"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0OTU="
+mimetype = "application/font-woff"
+
+[[files]]
+name = "img/fa-brands-400.woff2"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0OTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "img/fa-regular-400.eot"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0OTM="
+mimetype = "application/vnd.ms-fontobject"
+
+[[files]]
+name = "img/fa-regular-400.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0OTE="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "img/fa-regular-400.woff"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0OTA="
+mimetype = "application/font-woff"
+
+[[files]]
+name = "img/fa-regular-400.woff2"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0ODk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "img/fa-solid-900.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0ODU="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "img/fa-solid-900.ttf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0ODQ="
+mimetype = "application/font-sfnt"
+
+[[files]]
+name = "img/fa-solid-900.woff"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0ODM="
+mimetype = "application/font-woff"
+
+[[files]]
+name = "img/fa-solid-900.woff2"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0ODI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "img/fff.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1NTk="
+mimetype = "image/png"
+
+[[files]]
+name = "img/fontawesome.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0Nzg="
+mimetype = "text/css"
+
+[[files]]
+name = "img/fontawesome.min.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0Nzc="
+mimetype = "text/css"
+
+[[files]]
+name = "img/jahe.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1NTc="
+mimetype = "image/png"
+
+[[files]]
+name = "img/jamu.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/kencur.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1NTU="
+mimetype = "image/png"
+
+[[files]]
+name = "img/portfolio-1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/portfolio-2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/portfolio-3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1NDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/portfolio-4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1NDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/regular.min.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0NzU="
+mimetype = "text/css"
+
+[[files]]
+name = "img/solid.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0NzQ="
+mimetype = "text/css"
+
+[[files]]
+name = "img/solid.min.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0NzM="
+mimetype = "text/css"
+
+[[files]]
+name = "img/stylish-portfolio.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1NDc="
+mimetype = "text/css"
+
+[[files]]
+name = "img/stylish-portfolio.min.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1NDY="
+mimetype = "text/css"
+
+[[files]]
+name = "img/svg-with-js.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0NzI="
+mimetype = "text/css"
+
+[[files]]
+name = "img/svg-with-js.min.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0NzE="
+mimetype = "text/css"
+
+[[files]]
+name = "img/temulawak.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI1NDU="
+mimetype = "image/png"
+
+[[files]]
+name = "img/v4-shims.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0NzA="
+mimetype = "text/css"
+
+[[files]]
+name = "img/v4-shims.min.css"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0Njk="
+mimetype = "text/css"
+
+[[files]]
+name = "/index.html"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0NjQ="
+mimetype = "text/html"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI0NjU="
+mimetype = "text/plain"
+

@@ -1,0 +1,43 @@
+name = "EE003-Solar Panel Repair"
+repo = "https://wikifactory.com/@patrickflaherty/ee003-solar-panel-repair"
+version = "20200507164045"
+spdx-license = "CC-BY-4.0"
+licensor = "Patrick Flaherty"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDcyODY="
+function = "To repair damaged solar panels (Caribbean hurricane response)"
+[[files]]
+name = "/EE003-MakerManual.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyOTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/EE003_Image_CAD.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/EE003_Image_Catalogue.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/EE003_Image_Use.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/EE003_Manual.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyNzk="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyODc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyOTU="
+mimetype = "text/markdown"
+

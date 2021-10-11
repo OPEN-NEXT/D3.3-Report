@@ -1,0 +1,33 @@
+name = "mblock"
+repo = "https://wikifactory.com/@trishdavies/ottodiyottodiy-mblock"
+version = "20190502144612"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Trish Davies"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDMxMDE="
+function = "Detailed video tutorials about building OttoDIY and OttoDIY+ kits,  coding these biped robots.\nOLD GRAPHICAL PROGRAMMING\nnow with new Blockly https://www.ottodiy.com/#blockly"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMDcxNDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Otto_servo_position.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMDcxNTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/OttoDIY_programming_mblock_scratch_arduino_v01.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDMxMDU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/OttoDIY_programming_mblock_scratch_arduino_v01_Español.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDMxMDQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDMxMDg="
+mimetype = "text/markdown"
+

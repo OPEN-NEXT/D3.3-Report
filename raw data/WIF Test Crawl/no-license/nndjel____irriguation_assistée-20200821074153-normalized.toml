@@ -1,0 +1,7 @@
+name = "irriguation assistée"
+repo = "https://wikifactory.com/@nndjel/irriguation-assistée"
+version = "20200821074153"
+spdx-license = "N/A"
+licensor = "NDJEL Nicolas Dodo"
+documentation-language = "fr"
+function = "construir soi meme les drones et les equiper pour irriguer les espaces"

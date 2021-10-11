@@ -1,0 +1,13 @@
+name = "Project XCOV19"
+repo = "https://wikifactory.com/@kemohuang/project-xcov19"
+version = "20201013143041"
+spdx-license = "N/A"
+licensor = "Kemo Huang"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0Mjc5Mjg="
+function = "We are building an app that guides patients to the nearest hospital and allows them to pre-register. We are looking for partners who are working on a QR verifier machine. By integrating with our application, you can help accelerate the admission process to hospitals. \nContact: info@mycovidconnect.com"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTI1OTA="
+mimetype = "text/markdown"
+

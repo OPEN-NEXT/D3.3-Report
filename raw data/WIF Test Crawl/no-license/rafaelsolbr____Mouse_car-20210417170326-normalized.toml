@@ -1,0 +1,13 @@
+name = "Mouse car"
+repo = "https://wikifactory.com/@rafaelsolbr/mouse-car"
+version = "20210417170326"
+spdx-license = "N/A"
+licensor = "RafaelSol "
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODI4ODU="
+function = "Using vacuum forming to create racing cars"
+[[files]]
+name = "/car vacuum forming.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODI4ODI="
+mimetype = "image/png"
+

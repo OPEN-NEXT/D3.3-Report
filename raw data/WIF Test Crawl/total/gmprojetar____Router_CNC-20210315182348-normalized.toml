@@ -1,0 +1,7 @@
+name = "Router CNC"
+repo = "https://wikifactory.com/@gmprojetar/router-cnc"
+version = "20210315182348"
+spdx-license = "N/A"
+licensor = "Gilberto Miranda"
+documentation-language = "pt"
+function = "Minha primeira router CNC"

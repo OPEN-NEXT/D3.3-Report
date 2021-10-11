@@ -1,0 +1,7 @@
+name = "Pavitra"
+repo = "https://wikifactory.com/@gyanendramishra/pavitra"
+version = "20200515155701"
+spdx-license = "N/A"
+licensor = "Gyanendra Mishra"
+documentation-language = "en"
+function = "A fruit and Vegetable Processing and sanitization plant. Based multiple stage sanitization. Chlorine based liquid sanitization and Pulsed Light Based Physical Sanitization."

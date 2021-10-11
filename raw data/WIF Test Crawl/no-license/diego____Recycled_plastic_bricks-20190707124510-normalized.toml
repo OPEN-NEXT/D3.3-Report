@@ -1,0 +1,48 @@
+name = "Recycled plastic bricks"
+repo = "https://wikifactory.com/@diego/recycled-plastic-bricks"
+version = "20190707124510"
+spdx-license = "N/A"
+licensor = "Diego Rasero"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjQ4Nzg="
+function = "open source mold for recycled plastic bricks."
+[[files]]
+name = "/A.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ4ODA="
+mimetype = "image/png"
+
+[[files]]
+name = "/A.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ4ODM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/B.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ4ODE="
+mimetype = "image/png"
+
+[[files]]
+name = "/B.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ4ODQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/brick.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ4Nzk="
+mimetype = "image/png"
+
+[[files]]
+name = "/ladrillo.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ4ODU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/molde_ladrillo_plastico.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ4ODY="
+mimetype = "application/x-openscad"
+
+[[files]]
+name = "/wall.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ4ODI="
+mimetype = "image/png"
+

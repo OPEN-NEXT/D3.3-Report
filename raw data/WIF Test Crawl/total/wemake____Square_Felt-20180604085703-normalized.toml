@@ -1,0 +1,23 @@
+name = "Square Felt "
+repo = "https://wikifactory.com/@zoe/square-felt"
+version = "20180604085703"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Zoe Romano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTE1"
+function = "Rounded square felt module for interlocked seamless garments. Part of the Modular Fashion initiative at <a href=\"www.wikifactory.com/+wemake\">WeMake</a>."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMjYw"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTIw"
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Rounded Square.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjcw"
+mimetype = "image/svg+xml"
+

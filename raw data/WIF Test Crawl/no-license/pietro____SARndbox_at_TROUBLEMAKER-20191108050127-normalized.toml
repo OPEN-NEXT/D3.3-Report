@@ -1,0 +1,58 @@
+name = "SARndbox at TROUBLEMAKER"
+repo = "https://wikifactory.com/@pietro/sarndbox-at-troublemaker"
+version = "20191108050127"
+spdx-license = "N/A"
+licensor = "Pietro Mincuzzi"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzkyNDE="
+function = "This is an open project of TROUBLEMAKER made collecting all materials and information available on the SARndbox open project plus any additional component developed by TROUBLEMAKER team and other teams connecting with us."
+[[files]]
+name = "Materials/ADVANCES IN ATMOSPHERIC SCIENCES.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk5NzE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Materials/ARSandbox Workshop - Macau vr03.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk5NjI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Materials/Coastal flooding - Wikipedia.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk5NzI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Materials/flood_guidelines.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk5NzM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Materials/Oliver Kreylos' Research and Development Homepage - Augmented Reality Sandbox - SW Installation.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk5NTk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Materials/Oliver Kreylos' Research and Development Homepage - Augmented Reality Sandbox.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk5NjE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Materials/SARNdbox with hand and clouds.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk5NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Materials/Software – Augmented Reality Sandbox.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk5NjA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk5Njg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Shaping-Watersheds-AR-Sandbox-Facilitation-Guide.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzk5NjQ="
+mimetype = "application/pdf"
+

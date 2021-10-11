@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@eranilani/test"
+version = "20201210072036"
+spdx-license = "N/A"
+licensor = "eranilani"
+documentation-language = "en"
+function = "Test"

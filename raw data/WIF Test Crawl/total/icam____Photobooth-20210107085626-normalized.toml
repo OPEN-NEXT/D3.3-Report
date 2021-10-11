@@ -1,0 +1,43 @@
+name = "Photobooth"
+repo = "https://wikifactory.com/@remy/photobooth"
+version = "20210107085626"
+spdx-license = "CC-BY-4.0"
+licensor = "Remy Ducros"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTQzMzE="
+function = "We made a photobooth for our open days"
+[[files]]
+name = "3D files/Photobooth ICAM .f3z"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQxNzQ="
+mimetype = "application/zip"
+
+[[files]]
+name = "3D files/Photobooth ICAM v12.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQxNzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D printed files/Screen mounth 1.2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQxNTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printed files/Screen mounth 2.2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQxNTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Laser cut files/Photobooth lasercut.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQxNTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQxMjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQzMjU="
+mimetype = "text/markdown"
+

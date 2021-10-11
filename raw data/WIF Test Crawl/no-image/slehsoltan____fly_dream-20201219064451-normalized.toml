@@ -1,0 +1,7 @@
+name = "fly dream"
+repo = "https://wikifactory.com/@slehsoltan/fly-dream"
+version = "20201219064451"
+spdx-license = "N/A"
+licensor = "Sleh Ben Soltan"
+documentation-language = "en"
+function = "drone with camera"

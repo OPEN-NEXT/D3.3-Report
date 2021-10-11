@@ -1,0 +1,12 @@
+name = "Felice 01"
+repo = "https://wikifactory.com/@francopurini/felice-01"
+version = "20210311081422"
+spdx-license = "N/A"
+licensor = "Franco Purini"
+documentation-language = "en"
+function = "Metal roof"
+[[files]]
+name = "/MODELLO TRAVI_STEP.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjQ3Njk="
+mimetype = "text/plain"
+

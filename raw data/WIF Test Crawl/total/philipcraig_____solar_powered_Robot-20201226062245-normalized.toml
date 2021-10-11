@@ -1,0 +1,7 @@
+name = " solar powered Robot"
+repo = "https://wikifactory.com/@philipcraig/solar-powered-robot"
+version = "20201226062245"
+spdx-license = "N/A"
+licensor = "Philip Craig"
+documentation-language = "en"
+function = "This project is aimed to make a remote control solar powered Robot  that  can offer commercial advertisement for company."

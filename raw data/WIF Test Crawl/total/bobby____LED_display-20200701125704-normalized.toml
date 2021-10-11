@@ -1,0 +1,88 @@
+name = "LED display"
+repo = "https://wikifactory.com/@bobby/led-display"
+version = "20200701125704"
+spdx-license = "MIT"
+licensor = "Bobby"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTc0Mjg="
+function = "LED display"
+[[files]]
+name = "CAD/2020-06-22_14h03_46.png"
+permalink = "https://wikifactory.com/files/RmlsZTozODk4NTE="
+mimetype = "image/png"
+
+[[files]]
+name = "CAD/backboard.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozOTczODc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/backboardpluswheels.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTozOTczOTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/cable cover.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozOTczODU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/CROSS MEMBER.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozOTczODQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/floor.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozODk4NDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/hoist.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc0MDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/standoff post.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozODk4NDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/VERTICAL MEMBER.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozOTczODg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/vertical pipe.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc0MDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD/wheel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozODk4Mzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "docs/cover_photo.png"
+permalink = "https://wikifactory.com/files/RmlsZTozOTczMjE="
+mimetype = "image/png"
+
+[[files]]
+name = "docs/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc0Mjc="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozODk3OTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc0NTQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/tutorial1.sch"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc5MTE="
+mimetype = "text/plain"
+

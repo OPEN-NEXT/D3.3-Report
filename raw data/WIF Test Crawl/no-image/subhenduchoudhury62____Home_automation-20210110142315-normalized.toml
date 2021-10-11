@@ -1,0 +1,7 @@
+name = "Home automation"
+repo = "https://wikifactory.com/@subhenduchoudhury62/home-automation"
+version = "20210110142315"
+spdx-license = "N/A"
+licensor = "Subhendu Choudhury"
+documentation-language = "en"
+function = "I want to build a two way water input system which automatically detect water level and automatically fill the tank."

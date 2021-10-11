@@ -1,0 +1,12 @@
+name = "test"
+repo = "https://wikifactory.com/@rcervellione/test"
+version = "20200426141526"
+spdx-license = "N/A"
+licensor = "Robert Cervellione"
+documentation-language = "en"
+function = "test"
+[[files]]
+name = "/test.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozNDI3MDQ="
+mimetype = "application/octet-stream"
+

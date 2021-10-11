@@ -1,0 +1,183 @@
+name = "TinkerCAD"
+repo = "https://wikifactory.com/@cparrapa/tinkercad"
+version = "20200603193349"
+spdx-license = "N/A"
+licensor = "Camilo Parra Palacio"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzI0MDA="
+function = "A 3D modeling, customization  and design  exercise made with Otto by CEFIM."
+[[files]]
+name = "OttoDroid/forward_foot_2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoDroid/head.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0Mjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoDroid/IMG_0442.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0Mjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "OttoDroid/left_arm.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0Mjc="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoDroid/left_foot.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoDroid/plinth_without_socket.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoDroid/right_arm.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoDroid/right_foot.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoGrendizer/axe.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0NDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoGrendizer/helmet_parts_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0Mzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoGrendizer/Horns_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoGrendizer/Left_Hand.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "OttoGrendizer/right_hand.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottosword/arm.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottosword/body.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottosword/ear-ring.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottosword/ears.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottosword/hand.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottosword/hump.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottosword/IMG_0456.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Ottosword/nose.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottosword/shield.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottosword/sword.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottosword/teeth.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottowarrior/black_legs.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottowarrior/grey_feet.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottowarrior/grey_left_arm.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottowarrior/grey_right_arm.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottowarrior/grey_shield_mount.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottowarrior/IMG_0449.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Ottowarrior/white_arms_mount.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottowarrior/white_body.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottowarrior/white_head.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Ottowarrior/white_lollipop.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0MDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI0Njc="
+mimetype = "text/markdown"
+

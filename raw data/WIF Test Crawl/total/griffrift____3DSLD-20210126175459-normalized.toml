@@ -1,0 +1,12 @@
+name = "3DSLD"
+repo = "https://wikifactory.com/@griffrift/3dsld"
+version = "20210126175459"
+spdx-license = "N/A"
+licensor = "Griff Rift"
+documentation-language = "en"
+function = "SLDWeb"
+[[files]]
+name = "/V1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjgxMzI="
+mimetype = "application/octet-stream"
+

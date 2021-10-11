@@ -1,0 +1,7 @@
+name = "Lunex"
+repo = "https://wikifactory.com/@cjiwan/lunex"
+version = "20210426171219"
+spdx-license = "N/A"
+licensor = "cjiwan"
+documentation-language = "en"
+function = "Autonomous Rover"

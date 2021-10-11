@@ -1,0 +1,13 @@
+name = "3D Printed Surface COVID"
+repo = "https://wikifactory.com/@cyborgash12/3d-printed-surface-covid"
+version = "20200706072504"
+spdx-license = "N/A"
+licensor = "Sridhar Natesan"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDQ4MDA="
+function = "A 3D printed surface for COVID-19 which reduces contact of everyday objects and sports equipment for better playing outside."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDUwOTg="
+mimetype = "text/markdown"
+

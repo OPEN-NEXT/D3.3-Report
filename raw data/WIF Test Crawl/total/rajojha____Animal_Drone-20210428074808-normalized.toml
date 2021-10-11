@@ -1,0 +1,7 @@
+name = "Animal Drone"
+repo = "https://wikifactory.com/@rajojha/animal-drone"
+version = "20210428074808"
+spdx-license = "N/A"
+licensor = "Raj Ojha"
+documentation-language = "en"
+function = "Creating Drones with speciality of animals."

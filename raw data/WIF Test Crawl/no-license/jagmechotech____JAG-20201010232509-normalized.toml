@@ -1,0 +1,7 @@
+name = "JAG"
+repo = "https://wikifactory.com/@jagmechotech/jag"
+version = "20201010232509"
+spdx-license = "N/A"
+licensor = "jagmechotech"
+documentation-language = "en"
+function = "Mechanical projects using conventional and CNC programming ,"

@@ -1,0 +1,7 @@
+name = "Porthole Dection Robot"
+repo = "https://wikifactory.com/@projectworld/porthole-dection-robot"
+version = "20210126041839"
+spdx-license = "N/A"
+licensor = "ALEX RAJI"
+documentation-language = "en"
+function = "A robot to dectect port hole and hump"

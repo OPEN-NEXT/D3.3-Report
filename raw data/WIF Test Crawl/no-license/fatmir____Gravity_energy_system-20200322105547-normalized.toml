@@ -1,0 +1,13 @@
+name = "Gravity energy system"
+repo = "https://wikifactory.com/@fatmir/gravity-energy-system"
+version = "20200322105547"
+spdx-license = "N/A"
+licensor = "Fatmir Lushaj"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzY4MTU="
+function = "This system is unicue in the world ,he produce energy without input.The system work just with the force of gravity."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjAzNTc="
+mimetype = "text/markdown"
+

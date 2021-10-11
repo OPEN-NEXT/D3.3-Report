@@ -1,0 +1,7 @@
+name = "220V Fueless generator "
+repo = "https://wikifactory.com/@dckwilson/220v-fueless-generator"
+version = "20200721074702"
+spdx-license = "N/A"
+licensor = "dckwilson"
+documentation-language = "en"
+function = "This project is about an electric generator without fuel and pollution. Employing electromagnetic principle for primary rotatory force that excites a machanical system and by mutual exchange develop a sustainable rotatory  motion to drive alternator which finally produce electrical energy."

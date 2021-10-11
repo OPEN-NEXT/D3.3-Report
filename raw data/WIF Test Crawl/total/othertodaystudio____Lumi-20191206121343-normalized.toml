@@ -1,0 +1,38 @@
+name = "Lumi"
+repo = "https://wikifactory.com/@josephine/lumi"
+version = "20191206121343"
+spdx-license = "N/A"
+licensor = "Josephine Choy"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODEyMTc="
+function = "Lumi is a tracing light box made by using one sheet of material."
+[[files]]
+name = "/instructions.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODAzODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/lumi render.f3d"
+permalink = "https://wikifactory.com/files/RmlsZToyODAyMzU="
+mimetype = "application/zip"
+
+[[files]]
+name = "lumi render.f3d/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODAyNjY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/lumi template.f3d"
+permalink = "https://wikifactory.com/files/RmlsZToyODAyMzY="
+mimetype = "application/zip"
+
+[[files]]
+name = "lumi template.f3d/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODM2MzA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODgyNDQ="
+mimetype = "text/markdown"
+

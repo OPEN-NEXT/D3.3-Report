@@ -1,0 +1,7 @@
+name = "PortableCNC"
+repo = "https://wikifactory.com/@sarithmekkat1993/portablecnc"
+version = "20201021112759"
+spdx-license = "N/A"
+licensor = "sarithmekkat1993"
+documentation-language = "en"
+function = "Portable CNC 5 axis machine"

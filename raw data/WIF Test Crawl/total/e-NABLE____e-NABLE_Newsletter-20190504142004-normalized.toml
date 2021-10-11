@@ -1,0 +1,38 @@
+name = "e-NABLE Newsletter."
+repo = "https://wikifactory.com/@rubin/e-nable-newsletter-project"
+version = "20190504142004"
+spdx-license = "N/A"
+licensor = "B Rubin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTEzNjI="
+function = "Every quarter, a collection of stories covering the expanding horizon of the e-NABLE community will be pulled together into a newsletter. The creation process of this newsletter is open for collaboration - all suggestions and input welcome!"
+[[files]]
+name = "Issues/2019Q1/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDczMDU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Issues/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDczMDQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Newsletter Formats/Saksham - April 2019 Newsletter.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3MTA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Newsletter Formats/The Fab Foundation - 🔔Newsletter🔔.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3MTE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Newsletter Formats/Wikifactory Newsletter.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3MTI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU1ODU="
+mimetype = "text/plain"
+

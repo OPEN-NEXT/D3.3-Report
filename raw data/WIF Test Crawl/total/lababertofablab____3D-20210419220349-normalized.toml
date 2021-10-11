@@ -1,0 +1,13 @@
+name = "3D"
+repo = "https://wikifactory.com/@lababertofablab/3d"
+version = "20210419220349"
+spdx-license = "N/A"
+licensor = "LAB ABERTO FAB LAB"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTo0ODkyMDk="
+function = "Da fabricação digital ao 3D\nFrom Digital Fabrication to 3D \nfoto: © Pixabay"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODQzNjY="
+mimetype = "text/markdown"
+

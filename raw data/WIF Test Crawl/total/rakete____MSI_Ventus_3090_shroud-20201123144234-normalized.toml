@@ -1,0 +1,43 @@
+name = "MSI Ventus 3090 shroud"
+repo = "https://wikifactory.com/@rakete/msi-ventus-3090-shroud"
+version = "20201123144234"
+spdx-license = "N/A"
+licensor = "Andreas Raster"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0ODg4ODQ="
+function = "3D printed fan shroud for the MSI Ventus 3080/3090 cards which allows mounting custom 92mm fans to the cards cooler, replacing the stock fans.\n\nMade with freecad and printed on a Zortrax M200."
+[[files]]
+name = "/LowerFinal.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODg4Njk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/LowerFinal.zcode"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODg4NzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/LowerFinal.zprojx"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODg4NzA="
+mimetype = "application/gzip"
+
+[[files]]
+name = "/UpperFinal.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODg4NjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/UpperFinal.zcode"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODg4NjU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/UpperFinal.zprojx"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODg4NjQ="
+mimetype = "application/gzip"
+
+[[files]]
+name = "/Ventus12.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODg4Njg="
+mimetype = "application/x-extension-fcstd"
+

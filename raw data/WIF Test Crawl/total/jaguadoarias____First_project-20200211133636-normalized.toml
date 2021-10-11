@@ -1,0 +1,17 @@
+name = "First project"
+repo = "https://wikifactory.com/@jaguadoarias/first-project"
+version = "20200211133636"
+spdx-license = "N/A"
+licensor = "Javier Aguado Arias"
+documentation-language = "en"
+function = "This is a primary project"
+[[files]]
+name = "/Leire.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMDQ5NTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDQ2OTY="
+mimetype = "text/markdown"
+

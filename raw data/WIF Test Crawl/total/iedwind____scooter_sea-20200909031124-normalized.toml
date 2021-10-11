@@ -1,0 +1,13 @@
+name = "scooter sea "
+repo = "https://wikifactory.com/@iedwind/scooter-sea"
+version = "20200909031124"
+spdx-license = "N/A"
+licensor = "iedwind"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0Mjg4NTU="
+function = "i love the sea and i been interesting in the scooter submarine for a while but i lost interest because the price is so expensive, i want to turn this for everybody, in that way you can build your own scooter submarine in low price."
+[[files]]
+name = "/start.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0Mjg4NTQ="
+mimetype = "text/markdown"
+

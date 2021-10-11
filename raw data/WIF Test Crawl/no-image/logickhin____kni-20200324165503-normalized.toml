@@ -1,0 +1,7 @@
+name = "kni"
+repo = "https://wikifactory.com/@logickhin/kni"
+version = "20200324165503"
+spdx-license = "N/A"
+licensor = "logickhin"
+documentation-language = "en"
+function = "it is base on robote"

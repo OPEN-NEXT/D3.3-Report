@@ -1,0 +1,7 @@
+name = "Mi primer proyecto"
+repo = "https://wikifactory.com/@victorhvillanueva/mi-primer-proyecto"
+version = "20201108015224"
+spdx-license = "N/A"
+licensor = "Víctor Hugo Villanueva"
+documentation-language = "es"
+function = "Prueba de mi primer proyecto"

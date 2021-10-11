@@ -1,0 +1,33 @@
+name = "Generative Art for CNC"
+repo = "https://wikifactory.com/@roisinberg/generative-art-for-cnc-eca8a"
+version = "20190408171223"
+spdx-license = "CC-BY-4.0"
+licensor = "Roisin Berg"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDkwODA="
+function = "This project was part of the Digital Joinery elective taught at Fab Lab Limerick, School of Architecture, UL on the Spring Semester of 2019\nThis project was carried out by a group of four people, including: Róisín Berg, Simon Donnelly, John Welby, Nadia Francisca Gunawan and William Eckerstein."
+[[files]]
+name = "/Generative Art for CNC P1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkwOTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Generative Art for CNC P2.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkwOTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxOTQ2ODE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkxNTY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Sketches.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyMDkxMDA="
+mimetype = "application/zip"
+

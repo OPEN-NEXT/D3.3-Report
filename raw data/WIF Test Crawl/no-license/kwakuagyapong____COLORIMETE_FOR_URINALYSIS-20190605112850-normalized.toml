@@ -1,0 +1,7 @@
+name = "COLORIMETE FOR URINALYSIS"
+repo = "https://wikifactory.com/@kwakuagyapong/colorimete-for-urinalysis"
+version = "20190605112850"
+spdx-license = "N/A"
+licensor = "Agyapong Anim Richmond"
+documentation-language = "en"
+function = "A colorimeter to check for PH,concentration and turbidity."

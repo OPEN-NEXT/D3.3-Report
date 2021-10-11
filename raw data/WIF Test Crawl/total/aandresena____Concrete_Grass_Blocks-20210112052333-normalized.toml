@@ -1,0 +1,68 @@
+name = "Concrete Grass Blocks "
+repo = "https://wikifactory.com/@aandresena/concrete-grass-blocks"
+version = "20210112052333"
+spdx-license = "N/A"
+licensor = "aandresena"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTcyNDU="
+function = "Concrete Grass Block Formations for Economic Soil Retaining Construction"
+[[files]]
+name = "/GRASS BLOCKS.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyMDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/IMG_0881.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyMTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_0882.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyMTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_0883.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyMTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_0884.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyMTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_0887.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyMTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_9075.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyMDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_9078.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyMDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_9080.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyMDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_9082.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_9091.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyMDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTcyMDE="
+mimetype = "text/markdown"
+

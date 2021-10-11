@@ -1,0 +1,7 @@
+name = "蓝牙触摸键盘"
+repo = "https://wikifactory.com/@ssp97/蓝牙触摸键盘"
+version = "20191202115609"
+spdx-license = "N/A"
+licensor = "张元派"
+documentation-language = "en"
+function = "使用TI的CC2541的蓝牙触摸键盘"

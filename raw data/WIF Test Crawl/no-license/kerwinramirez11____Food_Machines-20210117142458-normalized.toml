@@ -1,0 +1,7 @@
+name = "Food Machines"
+repo = "https://wikifactory.com/@kerwinramirez11/food-machines"
+version = "20210117142458"
+spdx-license = "N/A"
+licensor = "Steven K. Ramírez Montilva"
+documentation-language = "en"
+function = "It is a machines what have to make food"

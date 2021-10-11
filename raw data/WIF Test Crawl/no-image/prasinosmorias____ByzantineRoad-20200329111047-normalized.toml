@@ -1,0 +1,7 @@
+name = "ByzantineRoad"
+repo = "https://wikifactory.com/@prasinosmorias/byzantineroad"
+version = "20200329111047"
+spdx-license = "N/A"
+licensor = "Takis Soukaras"
+documentation-language = "en"
+function = "a \ufeffcultural travel through byzantinemonuments in greece and turkey\n\ufeff"

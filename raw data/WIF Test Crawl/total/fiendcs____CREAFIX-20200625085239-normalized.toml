@@ -1,0 +1,13 @@
+name = "CREAFIX"
+repo = "https://wikifactory.com/@fiendcs/creafix"
+version = "20200625085239"
+spdx-license = "CC-BY-4.0"
+licensor = "Fien Nelis"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTA2NjA="
+function = "Creafix has started based on the principle that creating is for everyone, regardless of your knowledge or background.That thought led to Creafix, an open-source package of construction toys, with countless undiscovered applications.<br />"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozOTA0NjY="
+mimetype = "text/plain"
+

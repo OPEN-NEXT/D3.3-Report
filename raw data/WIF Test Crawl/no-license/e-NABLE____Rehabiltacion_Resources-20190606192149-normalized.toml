@@ -1,0 +1,13 @@
+name = "Rehabiltacion Resources"
+repo = "https://wikifactory.com/@enablemedellin-e872d/rehabiltacion-resources"
+version = "20190606192149"
+spdx-license = "N/A"
+licensor = "Enable Medellin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTQ0NjI="
+function = "Over the last year Enable Medellin has worked with at least 4 physiotherapists and occupational therapists to develop self care and prosthetic exercise guidelines.  Spanish version will soon be available https://e-nablemedellin.com/en/resources/"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ0NjM="
+mimetype = "text/markdown"
+

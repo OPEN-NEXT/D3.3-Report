@@ -1,0 +1,58 @@
+name = "Wheelchair Table xa0"
+repo = "https://wikifactory.com/@ekt17/wheelchair-table"
+version = "20200416152315"
+spdx-license = "N/A"
+licensor = "Ellen Troyanosky"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzc3NjI="
+function = "A table that attaches to the wheelchairs arms, providing a flat surface"
+[[files]]
+name = "Drawing Pack/DS005_CAD.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcyMDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Drawing Pack/DS005_Eng_Dwg.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcyMDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/DS005_Eng_Dwg.SLDDRW"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcyMDk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Drawing Pack/DS005_Image_CAD.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcyMDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/DS005_DimensionalAnalysis.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcyMzc="
+mimetype = "image/png"
+
+[[files]]
+name = "/DS005_Image_Use.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcxODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/DS005_Manual.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcyMTQ="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/DS005_Risk_Assessment.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcxODM="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/DS005_Testing.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozMzcxODQ="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzc3NjE="
+mimetype = "text/markdown"
+

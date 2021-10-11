@@ -1,0 +1,8 @@
+name = "Remote card payment"
+repo = "https://wikifactory.com/@freemindthinker/remote-card-payment"
+version = "20200811045041"
+spdx-license = "N/A"
+licensor = "Minhaj M"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MjA4ODc="
+function = "A truly peer to peer anonymous payment method without requiring any intermediaries or third party integration. It will have an offline account where users can instantly send money to each other. Users will be able to use the calculator, check balance, see transactions."

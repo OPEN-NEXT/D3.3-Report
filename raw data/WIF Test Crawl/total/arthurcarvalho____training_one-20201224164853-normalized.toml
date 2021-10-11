@@ -1,0 +1,7 @@
+name = "training one."
+repo = "https://wikifactory.com/@arthurcarvalho/training-one"
+version = "20201224164853"
+spdx-license = "N/A"
+licensor = "Arthur alves de carvalho"
+documentation-language = "en"
+function = "a trial to get aquainted with tools."

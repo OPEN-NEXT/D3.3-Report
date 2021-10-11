@@ -1,0 +1,308 @@
+name = "Wally - The 3D Printer"
+repo = "https://wikifactory.com/@botler/wally-the-3d-printer"
+version = "20180827162950"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo5Mzg2"
+function = "Wally is a wall bot that self-replicates by making a kit of itself - a kit that anyone can assemble given time and materials,.where everything is mounted on the wall!"
+[[files]]
+name = "3D Design Files/608.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjI5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/6702.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjI4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/back_board.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjMw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/basalt.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjMx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/bed.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjMy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/bed_bracket_right.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjU4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/bed_bracket_right_MIR.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjYw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/big_pulley.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjYx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/bottom.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjMz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/bowden_nut.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjYy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/build_platform.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjM1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/corner_tab.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjYz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/edge_tab.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjY1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/electronics.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjM0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/hot_bed.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjM2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/hub_screw.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjY0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/lock_nut.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjY2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/m3_nut.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjM3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/M3x10.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjM4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/M3x16.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjM5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/M3x20.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjQw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/M3x25.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjQx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/M3x35.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjQy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/m4_nut.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjQ0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/M4x12.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjQz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/M8_nut.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjQ2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/M8x35.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjQ1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/M8x60.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjQ3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/M8x70.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjQ4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/M8x85.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjQ5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/M8x100.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjUw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/plastic_washer.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjY3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/power_supply.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjUx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/rename.py"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjY4"
+mimetype = "text/x-python"
+
+[[files]]
+name = "3D Design Files/side_support1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjUz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/side_support.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjUy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/spool.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjU0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/spool_holder.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjY5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/standoff.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njcw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/stepper.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjU1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/string_tensioner.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njcy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/string_tensioner_for_tuner.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njcx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/ubis.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjU2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/UHMW_block.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjU3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/washer.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjU5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/xy_forearm.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njcz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/xy_mount.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njc0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/xy_pulley.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njc1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/xy_ubis_mount_arm.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njc2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/xy_wall_arm.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njc3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/z_arm_wall_bracket.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njc4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/z_idler.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njgw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/z_idler_insert.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njc5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/z_motor_mount.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njgx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/z_pulley.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njgz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/z_pulley_holder.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njgy"
+mimetype = "application/sla"
+
+[[files]]
+name = "Firmware/Configuration.h"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjI2"
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "License/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo5Nzc3"
+mimetype = "text/plain"
+
+[[files]]
+name = "OctoPi/2016-03-18-octopi-jessie-lite-0.13.0.img"
+permalink = "https://wikifactory.com/files/RmlsZTo5Njkx"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMDU1Nw=="
+mimetype = "text/markdown"
+

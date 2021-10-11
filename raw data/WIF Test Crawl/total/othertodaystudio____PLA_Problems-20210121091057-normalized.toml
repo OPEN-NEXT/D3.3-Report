@@ -1,0 +1,13 @@
+name = "PLA Problems"
+repo = "https://wikifactory.com/@maxmale/one-sheet-challenge"
+version = "20210121091057"
+spdx-license = "N/A"
+licensor = "Max Male"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjM5Nzk="
+function = "Exploring the potential of waste PLA plastic from 3D printing by melting it down and reusing it."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQwMzQ="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Best Buy Group Emall"
+repo = "https://wikifactory.com/@fbaden57/best-buy-group-emall"
+version = "20200628121257"
+spdx-license = "N/A"
+licensor = "frans badenhorst"
+documentation-language = "en"
+function = "Start a virtual mall that stock what you want to buy. Sell what you have to offer."

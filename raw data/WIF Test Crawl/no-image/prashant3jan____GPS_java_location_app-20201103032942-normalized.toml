@@ -1,0 +1,7 @@
+name = "GPS java location app "
+repo = "https://wikifactory.com/@prashant3jan/gps-java-location-app"
+version = "20201103032942"
+spdx-license = "N/A"
+licensor = "prashant3jan"
+documentation-language = "en"
+function = "This is java jsp-servlet based GPS tracking application which tracks the location of android mobile phones. The application has a client which is installed on a mobile phone and needs to be switched on. The web based application then shows the exact position of the client on a map."

@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@colindavisconsult/test"
+version = "20210316184639"
+spdx-license = "N/A"
+licensor = "colindavisconsult"
+documentation-language = "en"
+function = "test"

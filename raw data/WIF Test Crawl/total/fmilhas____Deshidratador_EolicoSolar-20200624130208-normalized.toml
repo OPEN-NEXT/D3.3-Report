@@ -1,0 +1,13 @@
+name = "Deshidratador EolicoSolar"
+repo = "https://wikifactory.com/@fmilhas/deshidratador-eolicosolar"
+version = "20200624130208"
+spdx-license = "N/A"
+licensor = "Francisco Milhas"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTozODk5Mjc="
+function = "Construcción de deshidratadores eólicos solares de bajo costo, con materiales reciclados, diseñados aprovechando los barriles de 200 litros de descarte de la industria de jugos y concentrados, con un sistema híbrido eólico solar, cámara de secado cilíndrica, extractor eólico y veleta colectora."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODk5NDA="
+mimetype = "text/markdown"
+

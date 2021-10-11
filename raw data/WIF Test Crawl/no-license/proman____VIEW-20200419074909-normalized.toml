@@ -1,0 +1,7 @@
+name = "VIEW"
+repo = "https://wikifactory.com/@proman/view"
+version = "20200419074909"
+spdx-license = "N/A"
+licensor = "Chan Siew Joe "
+documentation-language = "en"
+function = "VIEW is a cloud video conferencing for group to held meeting, tutorial, lesson and other."

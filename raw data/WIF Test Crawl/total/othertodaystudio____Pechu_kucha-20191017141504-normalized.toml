@@ -1,0 +1,13 @@
+name = "Pechu kucha"
+repo = "https://wikifactory.com/@abuazharahmed/pechu-kucha"
+version = "20191017141504"
+spdx-license = "N/A"
+licensor = "Azhar Ahmed"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzQ5Mzc="
+function = "A story told through Pechu kucha - By Azhar Ahmed"
+[[files]]
+name = "/File from iOS.MOV"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ1NjY="
+mimetype = "video/quicktime"
+

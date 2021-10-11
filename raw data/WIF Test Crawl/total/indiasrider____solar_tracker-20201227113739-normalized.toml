@@ -1,0 +1,7 @@
+name = "solar tracker"
+repo = "https://wikifactory.com/@indiasrider/solar-tracker"
+version = "20201227113739"
+spdx-license = "N/A"
+licensor = "indiasrider"
+documentation-language = "en"
+function = "sun tracker 2 axis sun tracker"

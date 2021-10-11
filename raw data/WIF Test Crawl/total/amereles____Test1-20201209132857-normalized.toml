@@ -1,0 +1,7 @@
+name = "Test1"
+repo = "https://wikifactory.com/@amereles/test1"
+version = "20201209132857"
+spdx-license = "N/A"
+licensor = "Aldo Mereles"
+documentation-language = "en"
+function = "Playing around with new system"

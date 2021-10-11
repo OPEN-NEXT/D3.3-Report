@@ -1,0 +1,163 @@
+name = "Rotator Mixer and Shaker"
+repo = "https://wikifactory.com/@jpearce/rotator-mixer-and-shaker"
+version = "20190226192710"
+spdx-license = "N/A"
+licensor = "Joshua Pearce"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzE4Nw=="
+function = "Laboratory sample rotator used for tumbling as well as gentle mixing. Arduino microcontroller incorporated to create shaker and custom programs. Can be built by non-specialists for under US$30 (US$50 with shaking). Open source devices technically superior, 90% cost savings vs proprietary options."
+[[files]]
+name = "/Bill_of_materials.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIxOA=="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "FreeCAD files variant 1/battery_snapcover_variant1.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIyMA=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 1/big_pillar_variant1.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIyNw=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 1/motor_cover_variant1.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIyMQ=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 1/rotisserie_medium_large_tubes_.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIyNQ=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 1/rotisserie_small_tubes.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIyNA=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 1/rubber_pad.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIyMw=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 1/shaft.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIyMg=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 1/small_pillar.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIyNg=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 2/big_pillar_variant2.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIyOA=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 2/electronics_bed_variant2.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIzMQ=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 2/motor_cover_variant2.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIzNQ=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 2/rotisserie_medium_large_tubes_.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIzMw=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 2/rotisserie_small_tubes.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIzNA=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 2/Rubber_Pad.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIzMA=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 2/shaft.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIzMg=="
+mimetype = "application/zip"
+
+[[files]]
+name = "FreeCAD files variant 2/small_pillar.FCStd"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIyOQ=="
+mimetype = "application/zip"
+
+[[files]]
+name = "/LICENSE.html"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIxMA=="
+mimetype = "text/html"
+
+[[files]]
+name = "/microcontroller_code_appendix_A.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIzNw=="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "/open-source-laboratory-sample-rotator-mixer-and-shaker-attribution.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIwOQ=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2OQ=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Rotator_mixer_and_shaker_paper.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIxMQ=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "STL files/Big_pillar_variant2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIwMQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/Electronics_BED_variant2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIwNQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/Motor_Cover_variant2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIwMg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/Rotator_Shaft.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIwNw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/Rotisserie_midsize_tubes.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIwMw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/Rotisserie_small_tubes.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIwNg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/rubberpad_ninjaflex.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIwNA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/Small_Pillar.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIwOA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Summary_of_Design_Files.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIxOQ=="
+mimetype = "application/vnd.oasis.opendocument.text"
+

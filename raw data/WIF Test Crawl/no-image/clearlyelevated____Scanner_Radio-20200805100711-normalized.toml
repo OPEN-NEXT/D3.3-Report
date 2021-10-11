@@ -1,0 +1,12 @@
+name = "Scanner Radio"
+repo = "https://wikifactory.com/@clearlyelevated/scanner-radio"
+version = "20200805100711"
+spdx-license = "N/A"
+licensor = "Nolan"
+documentation-language = "nl"
+function = "Top 50 Free On IOS/Android"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTg5NjM="
+mimetype = "text/markdown"
+

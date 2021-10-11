@@ -1,0 +1,23 @@
+name = "Dispenser / Dispensador"
+repo = "https://wikifactory.com/@monterrosocarneiro/dispenser"
+version = "20210209145033"
+spdx-license = "N/A"
+licensor = "Manuel Monterroso"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjIyNTA="
+function = "EN\nThis is a presentation about the work carried out during the lection of the subject of Product Design with Professor André Rocha, at ESELx in Portugal.\nPT\nEsta é a apresentação do trabalho desenvolvido no âmbito da disciplina de Design De Produto, pelo Professor André Rocha, na ESELx."
+[[files]]
+name = "/Microbit-Dispensor_Code.hex"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI5OTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3NjY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Research.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc5NzI="
+mimetype = "text/markdown"
+

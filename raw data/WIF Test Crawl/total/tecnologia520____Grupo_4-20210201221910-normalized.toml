@@ -1,0 +1,78 @@
+name = "Grupo 4"
+repo = "https://wikifactory.com/@nunop/grupo-4"
+version = "20210201221910"
+spdx-license = "N/A"
+licensor = "nunop"
+documentation-language = "hr"
+image = "https://wikifactory.com/files/RmlsZTo1MDQyODM="
+function = "Projeto livre da UC Tecnologia 5"
+[[files]]
+name = "/Ficheiro enviado para impressão;"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTI5OTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Peça em step;"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTI5OTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Peça final;/PEÇAS FINAIS JUNTAS DXF.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTI5OTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Peça final;/PEÇAS FINAIS JUNTAS STL.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTI5OTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Peça sem o encaixe;"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTI5NzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Peças com o encaixe;/2 Peças finalizadas.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTI5Nzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Peças com o encaixe;/2 Peças finalizadas.skp"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTI5Nzg="
+mimetype = "application/x-koan"
+
+[[files]]
+name = "/Peças juntas stl;"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTI5ODU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Primeira Abordagem Recriação da Peça/primeiras tentativas (1)"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQyNjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "Primeira Abordagem Recriação da Peça/primeiras tentativas (2)"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQyNjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Primeira Abordagem Recriação da Peça/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQyODI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/primeiros esboços da peça;"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDQyNjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM0MzQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Simulação da peça montada;"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTI5NjY="
+mimetype = "application/sla"
+

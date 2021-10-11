@@ -1,0 +1,7 @@
+name = "Renuka sagar"
+repo = "https://wikifactory.com/@renukasagar83/renuka-sagar"
+version = "20191230161955"
+spdx-license = "N/A"
+licensor = "Renuka Sagar"
+documentation-language = "id"
+function = "IOT using raspberrypi"

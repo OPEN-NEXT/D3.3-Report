@@ -1,0 +1,58 @@
+name = "Laser cutter"
+repo = "https://wikifactory.com/@steven/laser"
+version = "20200518094729"
+spdx-license = "N/A"
+licensor = "Steven Polak"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NDU3MzU="
+function = "A CO2 laser cutter, engineered and build from the ground up in our workshop in Amsterdam, NL. Bed size 1220x1220mm, auto Z-height, 130W laserpower and build in exhaust fan, controller and sheet storage.\n#lasercutting #machines #industrial-prototyping"
+[[files]]
+name = "1 IDEATION/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDQwNDE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "2 ENGINEERING/1 Mechanical/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDQwNDk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "3 BUILD/1 Mechanical/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTA0MDY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "3 BUILD/2 Housing/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxMTA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "3 BUILD/3 Electronics/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxMTE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "3 BUILD/4 Laser & Beam management/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxMTI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "3 BUILD/4 Miscellaneous/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxMTM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "3 BUILD/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxMDM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQzNDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQzMTc="
+mimetype = "text/markdown"
+

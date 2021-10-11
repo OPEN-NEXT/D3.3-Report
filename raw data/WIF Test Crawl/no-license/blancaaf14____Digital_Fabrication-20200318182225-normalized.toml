@@ -1,0 +1,13 @@
+name = "Digital Fabrication"
+repo = "https://wikifactory.com/@blancaaf14/intro"
+version = "20200318182225"
+spdx-license = "N/A"
+licensor = "Blanca ALMANDOZ"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTAzMDM="
+function = "This entire project is addressed to FABLAB DIGISCOPE course. Each entry is a different step I went though in order to reach my final design."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTAzMDA="
+mimetype = "text/markdown"
+

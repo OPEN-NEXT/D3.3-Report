@@ -1,0 +1,8 @@
+name = "Fishing Rod"
+repo = "https://wikifactory.com/@botler/fishing-rod"
+version = "20171107172719"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTA="
+function = "Print the parts with different colors, it just makes it look so much better! Good luck and happy fishin'."

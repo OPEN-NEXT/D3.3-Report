@@ -1,0 +1,23 @@
+name = "Porte Bagage"
+repo = "https://wikifactory.com/@essenlive/porte-bagage"
+version = "20200910194850"
+spdx-license = "N/A"
+licensor = "Quentin Perchais"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzE3NDU="
+function = "porteBagage"
+[[files]]
+name = "/IMG_20200902_193619.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE3MzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/PB-15.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE3MzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/porte bagages.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE3MzI="
+mimetype = "application/octet-stream"
+

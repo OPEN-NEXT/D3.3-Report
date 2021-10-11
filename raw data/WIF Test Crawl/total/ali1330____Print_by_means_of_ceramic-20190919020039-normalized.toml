@@ -1,0 +1,22 @@
+name = "Print by means of ceramic"
+repo = "https://wikifactory.com/@ali1330/print-by-means-of-ceramic"
+version = "20190919020039"
+spdx-license = "N/A"
+licensor = "ALI BAGHERI"
+documentation-language = "en"
+function = "I have tried to print cubic geometry by help of ceramic material and consider to main affected factor on Sa  improve surface roughness of printed parts."
+[[files]]
+name = "/20180416_154925.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc4ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20180423_1739512.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc4ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_0706.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc4ODA="
+mimetype = "image/jpeg"
+

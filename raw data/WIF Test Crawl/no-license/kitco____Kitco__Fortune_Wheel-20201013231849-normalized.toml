@@ -1,0 +1,8 @@
+name = "Kitco // Fortune Wheel"
+repo = "https://wikifactory.com/@kitco/kitco-fortune-wheel"
+version = "20201013231849"
+spdx-license = "N/A"
+licensor = "kitco Design"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTI5Mjk="
+function = "Create a Fortune Wheel with simple pulleys"

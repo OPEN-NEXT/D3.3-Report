@@ -1,0 +1,7 @@
+name = "Harmonic Coil Resonator"
+repo = "https://wikifactory.com/@hachedelara/harmonic-coil-resonator"
+version = "20210111235602"
+spdx-license = "N/A"
+licensor = "Héctor González Sánchez"
+documentation-language = "en"
+function = "What  happens when placing several high performance coils (rodin coil / pancake coil) gathering electromagnetic flux at the exact distance of the musical harmonic series from a emitter coil placed at the fundamental harmonic location?\n\nThis device is like tuning coils place on a huge guitar fretboard"

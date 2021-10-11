@@ -1,0 +1,43 @@
+name = "SingleUse Plastic Upcycle"
+repo = "https://wikifactory.com/@chrisblanchard/singleuse-plastic-upcycle"
+version = "20190307102719"
+spdx-license = "N/A"
+licensor = "Chris Blanchard"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDEyNzc="
+function = "Working with discarded plastic to upcycle / recycle.\nThe most common discarded plastic is PET water bottles.\nLong range objective is to upcycle these into 3D printing filament.\nShort range we are manufacturing bowls, baskets, lamp shades and furniture / lumber out of the water bottle caps (HDPE)"
+[[files]]
+name = "/01_shredding overview.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE3NTg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/02_shredding laser overview.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE3NTc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/03_shredding axe.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE3NTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/04_shredding bracket top.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE3NTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/05_shredding bracket bottom.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE3NTQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/06_shredding sieve.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxNDE3NTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTQ1MTE="
+mimetype = "text/markdown"
+

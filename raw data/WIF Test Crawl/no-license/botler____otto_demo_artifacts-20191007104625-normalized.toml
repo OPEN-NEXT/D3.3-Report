@@ -1,0 +1,372 @@
+name = "otto demo artifacts"
+repo = "https://wikifactory.com/@botler/otto-demo-artifacts"
+version = "20191007104625"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+function = "Test project"
+[[files]]
+name = "Full STEP/Batto.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NjE="
+mimetype = "image/png"
+
+[[files]]
+name = "Full STEP/Batto.STEP"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Full STEP/BlueBatto.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NTY="
+mimetype = "image/png"
+
+[[files]]
+name = "Full STEP/BlueBatto.STEP"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Full STEP/BlueOttoDIY.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Full STEP/BlueOttoDIY.STEP"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Full STEP/OttoDIY.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NjA="
+mimetype = "image/png"
+
+[[files]]
+name = "Full STEP/OttoDIY.STEP"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Images/arduin-nano.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MzE="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Arduino Nano Stage/arduin-nano-component.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NDM="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Arduino Nano Stage/arduin-nano.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NDI="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/batto-head-electronics.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MjQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/batto-head-shell.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MjY="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/batto.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MjU="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/body.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3Mzg="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/bodyWithLegs.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/HC-SR04.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MzI="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Head Stage/fdm-print.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NDc="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Head Stage/head-shell.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/Head Stage/prusa.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/Head Stage/ultimaker2.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3NDU="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/head-blue.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3Mjk="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/head-shell.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3Mjg="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/head.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3Mzc="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/io-shell.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MzY="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/leg.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MzM="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/otto-blue.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MzA="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/otto-head.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MjM="
+mimetype = "image/png"
+
+[[files]]
+name = "Images/otto.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MzU="
+mimetype = "image/png"
+
+[[files]]
+name = "Parts/BattoHead.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Parts/BattoHead.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2MzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/BattoHead.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NTE="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "Parts/BattoHead.stl.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NzM="
+mimetype = "image/png"
+
+[[files]]
+name = "Parts/BattoHeadFlipped.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/BattoHeadFlipped.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NTQ="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "Parts/BlueBattoHead.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NzE="
+mimetype = "image/png"
+
+[[files]]
+name = "Parts/BlueBattoHead.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/BlueOttoHead.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NzI="
+mimetype = "image/png"
+
+[[files]]
+name = "Parts/BlueOttoHead.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/Buzzer.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/Nano-Rev3_0.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/nano_expansion_shield.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/OttoBody.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2MzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/OttoFoot.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2MzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/OttoHC-SR04.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2Mzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/OttoHead.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NzU="
+mimetype = "image/png"
+
+[[files]]
+name = "Parts/OttoHead.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2Mzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/OttoHead.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NTA="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "Parts/OttoHead.stl.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NzA="
+mimetype = "image/png"
+
+[[files]]
+name = "Parts/OttoHeadFlipped.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/OttoHeadFlipped.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NTg="
+mimetype = "model/x.stl-binary"
+
+[[files]]
+name = "Parts/OttoLeg.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2Mzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/OttoSwitch.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Parts/PI3_BattoHeadFlipped.gcode"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NjA="
+mimetype = "text/x.gcode"
+
+[[files]]
+name = "Parts/PI3_OttoHeadFlipped.gcode"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NjI="
+mimetype = "text/x.gcode"
+
+[[files]]
+name = "Parts/UM2_BattoHeadFlipped.gcode"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NjE="
+mimetype = "text/x.gcode"
+
+[[files]]
+name = "Parts/UM2_BattoHeadFlipped.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2Njg="
+mimetype = "image/png"
+
+[[files]]
+name = "Parts/UM2_BlueBattoHeadFlipped.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2Njk="
+mimetype = "image/png"
+
+[[files]]
+name = "Parts/UM2_BlueOttoHeadFlipped.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NjY="
+mimetype = "image/png"
+
+[[files]]
+name = "Parts/UM2_OttoHeadFlipped.gcode"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2NjM="
+mimetype = "text/x.gcode"
+
+[[files]]
+name = "Parts/UM2_OttoHeadFlipped.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2Njc="
+mimetype = "image/png"
+
+[[files]]
+name = "Subassemblies/BattoHeadElectronics.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2OTE="
+mimetype = "image/png"
+
+[[files]]
+name = "Subassemblies/BattoHeadElectronics.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2OTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Subassemblies/BlueBattoHeadElectronics.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2OTA="
+mimetype = "image/png"
+
+[[files]]
+name = "Subassemblies/BlueBattoHeadElectronics.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2OTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Subassemblies/BlueOttoHeadElectronics.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2OTI="
+mimetype = "image/png"
+
+[[files]]
+name = "Subassemblies/BlueOttoHeadElectronics.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2OTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Subassemblies/OttoHeadElectronics.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2OTM="
+mimetype = "image/png"
+
+[[files]]
+name = "Subassemblies/OttoHeadElectronics.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Subassemblies/OttoMotorizedFoot.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2OTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Subassemblies/OttoMotorizedLeg.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Subassemblies/OttoPoweredBody.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI3MDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Subassemblies/OttoWalkingBody.step"
+permalink = "https://wikifactory.com/files/RmlsZToyNzI2OTc="
+mimetype = "text/plain"
+

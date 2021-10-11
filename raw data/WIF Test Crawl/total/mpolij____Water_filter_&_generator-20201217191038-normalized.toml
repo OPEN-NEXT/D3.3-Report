@@ -1,0 +1,13 @@
+name = "Water filter & generator"
+repo = "https://wikifactory.com/@mpolij/water-filter-generator"
+version = "20201217191038"
+spdx-license = "N/A"
+licensor = "mpolij"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MDIyODg="
+function = "Turbine Water Filter and Electricity Generator by Ari Greenberg, Anthony Beltran\n\nAprox build time: 15 hours \nDifficulty: Intermediate\n\nNeed clear water and cheap electricity on demand? No Problem"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDIzMTM="
+mimetype = "text/markdown"
+

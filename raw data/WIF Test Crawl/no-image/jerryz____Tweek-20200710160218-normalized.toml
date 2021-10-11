@@ -1,0 +1,7 @@
+name = "Tweek"
+repo = "https://wikifactory.com/@jerryz/tweek"
+version = "20200710160218"
+spdx-license = "N/A"
+licensor = "Jerry Zana"
+documentation-language = "en"
+function = "its a social media application that gives users access to video chats, messaging, posting pics and videos, showcasing your talent to people who follow you and even potential investors."

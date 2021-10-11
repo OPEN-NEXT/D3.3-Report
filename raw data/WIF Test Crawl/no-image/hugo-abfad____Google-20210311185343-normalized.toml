@@ -1,0 +1,7 @@
+name = "Google"
+repo = "https://wikifactory.com/@hugo-abfad/google"
+version = "20210311185343"
+spdx-license = "N/A"
+licensor = "hugo"
+documentation-language = "en"
+function = "Google Demo"

@@ -1,0 +1,7 @@
+name = "CNC exp"
+repo = "https://wikifactory.com/@alheira/cnc-exp"
+version = "20210326192649"
+spdx-license = "N/A"
+licensor = "Joan Castro"
+documentation-language = "ro"
+function = "metal CNC DIY mini machine"

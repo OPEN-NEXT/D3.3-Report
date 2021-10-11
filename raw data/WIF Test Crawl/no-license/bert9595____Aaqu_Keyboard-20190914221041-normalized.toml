@@ -1,0 +1,188 @@
+name = "Aaqu Keyboard"
+repo = "https://wikifactory.com/@bert9595/aaqu-keyboard"
+version = "20190914221041"
+spdx-license = "N/A"
+licensor = "Aaqu"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDYyNjg="
+function = "Small, programable shortcut keyboard"
+[[files]]
+name = "3D Printed Case STL/cover_bottom_v1_0.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Case STL/cover_top_v1_0.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Case STL/frame_v1_0.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Case STL/keycaps_v1_0.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Case STL/Red_Middle.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Case STL/Red_Tesla_Ring.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Case STL/Silver_Base.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Case STL/Silver_Posts.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Case STL/Silver_Stand.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Case STL/White_Side_1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Printed Case STL/White_Side_2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "aaqu_keyboard_gamepad_code/aaqu_keyboard_gamepad_code.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyMjk="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/Gerber_v1.0_20190427184337.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyMjM="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "img/0dcae85fa6280d38fba5023f46dd5409_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyOTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/0e418088a1fa2797fc4b19cbd547548d_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/1a9360177e8f4d8d0f4b1fc6cdfcc934_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/2d03a1122bafd3145b0194591c9b79a2_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/2f2f6d022531c9c1e00883abc3d60d6f_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/3e2f16acee880904814bffecf3faa922_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/8e159898b15f8edd19de236379912d06_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/50f9edf277c9be76471ecefc2f3bbca0_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/58dfddb2a5ce9f50da455ce87043b536_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/63c35672183308e09d62692a58e1c27b_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/940c6a1650a4ec749ca831cd913cacda_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/1019c0948dba486badfa03cacc7f315c_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/2696e00724a91bb91a1cdf189817326a_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/4360bfe07b046922136410fa3471ea04_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/5572ed23e004be4842f77228e71f77d9_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/14967ced0ac0166a5cc99f20b759617c_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/58015dbd6a659b9c03bd38a7c1e764e1_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNzQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/860027df8ee98769f713593417700b14_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/96509003c89ad005d427e61900a980e4_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/aa0000089206b62e3655a0720cc44dcc_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/b0e18f4b3a5a89fd0f856f340a1fd597_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "img/ba6b4659d824bcfc388001b2bf2e32b1_preview_featured.JPG"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYyNjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDYzMTY="
+mimetype = "text/markdown"
+

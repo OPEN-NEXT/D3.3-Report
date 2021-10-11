@@ -1,0 +1,7 @@
+name = "T1"
+repo = "https://wikifactory.com/@gokulprasadrs20/t1"
+version = "20200827024234"
+spdx-license = "N/A"
+licensor = "gokulprasadrs20"
+documentation-language = "en"
+function = "%@3"

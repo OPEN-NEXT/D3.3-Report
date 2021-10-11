@@ -1,0 +1,7 @@
+name = "eLearning"
+repo = "https://wikifactory.com/@bigbook/elearning"
+version = "20200828003949"
+spdx-license = "N/A"
+licensor = "BigBook Coursewares"
+documentation-language = "en"
+function = "Let's create courseware for class 9-10 (Mathematics)"

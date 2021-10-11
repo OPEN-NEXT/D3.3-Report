@@ -1,0 +1,38 @@
+name = "One"
+repo = "https://wikifactory.com/@mkampik/one"
+version = "20201005152313"
+spdx-license = "N/A"
+licensor = "Maximilian Kampik"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzQ2NjI="
+function = "Project one description here..."
+[[files]]
+name = "Phase five: Realisation/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDY5Nzg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Phase four: Specification/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDY5NzY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Phase one: Analysis/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDY5NTU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Phase three: Conception/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDY5NzA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Phase two: Indentifying Potential/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDY5NjQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDY5Nzk="
+mimetype = "text/markdown"
+

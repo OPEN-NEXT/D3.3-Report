@@ -1,0 +1,63 @@
+name = "Fixed Handrail"
+repo = "https://wikifactory.com/@ekt17/fixed-handrail"
+version = "20200507160338"
+spdx-license = "N/A"
+licensor = "Ellen Troyanosky"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDcyNTM="
+function = "To assist in bathing and toileting"
+[[files]]
+name = "Drawing Pack/DS012_CAD.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxMjk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Drawing Pack/DS012_Eng_Dwg.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxNDU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/DS012_Eng_Dwg.SLDDRW"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxMjg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/DS012_Dimensional_Analysis.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyNTA="
+mimetype = "image/png"
+
+[[files]]
+name = "/DS012_Manual.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxNDQ="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/DS012_Risk_Assessment.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxNDE="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/DS012_Testing.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxNDI="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "Images/DS012_Image.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxMzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/DS012_Image_CAD.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxMzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/DS012_Image_Use.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcxNDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyNDk="
+mimetype = "text/markdown"
+

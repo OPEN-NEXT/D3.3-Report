@@ -1,0 +1,38 @@
+name = "OTTO Windows Desktop"
+repo = "https://wikifactory.com/@s4snow/otto-windows-desktop"
+version = "20191214193014"
+spdx-license = "MIT"
+licensor = "Jason Snow"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMzI1NA=="
+function = "Windows Desktop program to control Otto and friends"
+[[files]]
+name = "/Instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToxMzkzOQ=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMzI1Mg=="
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "Otto Arduino sketch/OttoPLUS_V9_MINI.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyOTA0Njk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Otto Arduino sketch/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTA0NzA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Program/publish ver3.0.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1MDA="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "Program/publish ver3.2.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyOTA0NzM="
+mimetype = "application/x-zip-compressed"
+

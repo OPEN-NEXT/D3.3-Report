@@ -1,0 +1,7 @@
+name = "Teleprompter"
+repo = "https://wikifactory.com/@jasparossa/teleprompter"
+version = "20210307223839"
+spdx-license = "N/A"
+licensor = "Jasper Eikmeier"
+documentation-language = "en"
+function = "The plans for a diy teleprompter"

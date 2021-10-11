@@ -1,0 +1,18 @@
+name = "Safe Touch Ring"
+repo = "https://wikifactory.com/@oneshot3d/safe-touch-ring"
+version = "20200716014747"
+spdx-license = "N/A"
+licensor = "Andrew Kershaw"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTcyNzA="
+function = "The purpose of this ring is to assist restaurant and food servers, as well as the general public, with a hands-free way of using touch screens and keypads."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTcyNzE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/ring final.obj"
+permalink = "https://wikifactory.com/files/RmlsZTozOTcyMzY="
+mimetype = "text/plain"
+

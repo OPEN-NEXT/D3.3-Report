@@ -1,0 +1,13 @@
+name = "Acetone vaporizer"
+repo = "https://wikifactory.com/@sarok/acetone-vaporizer"
+version = "20190107123541"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "sarok"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxODE1Nw=="
+function = "This device to evaporate acetone will help us remove the marks of the printed layers and get the piece is smooth and shiny. The process must be carried out with pure acetone."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxODE1NA=="
+mimetype = "text/plain"
+

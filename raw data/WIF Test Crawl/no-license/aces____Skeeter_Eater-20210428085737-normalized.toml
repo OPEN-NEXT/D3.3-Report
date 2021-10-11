@@ -1,0 +1,7 @@
+name = "Skeeter Eater"
+repo = "https://wikifactory.com/@webmusher/skeeter-eater"
+version = "20210428085737"
+spdx-license = "N/A"
+licensor = "Bill Fikes"
+documentation-language = "en"
+function = "A Mosquito accumulation and compression system with potential for animal feed, fertilizer and other uses to be explored."

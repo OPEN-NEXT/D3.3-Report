@@ -1,0 +1,33 @@
+name = "µBipedino"
+repo = "https://wikifactory.com/@cparrapa/μbipedino"
+version = "20190607095939"
+spdx-license = "N/A"
+licensor = "Camilo Parra Palacio"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTIzOTY="
+function = "The µBipedino robot is a tiny biped with 2 servos per leg. With a 2x2\" custom made main board and another one for the head, this little robot can walk, turn, dance, avoid objects, sing and display a nice color show."
+[[files]]
+name = "Firmware/bipedino.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI0MDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/ServoPrimitives.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI0MDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/uBipedino.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI0MDQ="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Firmware/WalkFunctions.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI0MDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI0MDI="
+mimetype = "text/markdown"
+

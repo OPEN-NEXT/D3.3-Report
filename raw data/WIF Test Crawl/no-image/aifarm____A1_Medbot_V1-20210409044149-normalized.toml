@@ -1,0 +1,17 @@
+name = "A1 Medbot V1"
+repo = "https://wikifactory.com/@aifarm/a1-medbot-v1"
+version = "20210409044149"
+spdx-license = "N/A"
+licensor = "AI FARM ROBOTICS"
+documentation-language = "en"
+function = "A four wheel drive robot that can deliver food, medicine, hygiene, UV light, and health censor to Covid-19 quarantine centers in Cambodia"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc5NTM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Screen Shot 2564-04-09 at 11.34.35.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc5NDk="
+mimetype = "image/png"
+

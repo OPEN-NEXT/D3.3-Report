@@ -1,0 +1,108 @@
+name = "Ultimate Disc Anti-Covid"
+repo = "https://wikifactory.com/@tomas4fm/ultimate-disc-anti-covid"
+version = "20200626080420"
+spdx-license = "N/A"
+licensor = "Tomàs Farnés Montpeyó"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzkyMDk="
+function = "Ultimate Frisbee is a non-contact sport except for the disc, everyone touches it!\nThis design solves this problem, this disc is 3D printed with cooper technology that is Anti-Covid19, so it reduces a lot the Viral Load!\nOnce 3D printed Laser Engraving is used to put the logo of the team in the disc :)"
+[[files]]
+name = "DESIGN/2D Engraving.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkyMTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "DESIGN/Ultimate Disc _ with engraving.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkyMTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "DESIGN/Ultimate Disc _ without engraving.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkyMTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Disc Standards/DSWG001 - Disc Approval Process (rev Apr2020).doc"
+permalink = "https://wikifactory.com/files/RmlsZTozNzk0MDE="
+mimetype = "application/msword"
+
+[[files]]
+name = "Disc Standards/DSWG002 - Disc Testing Criteria.doc"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkzOTc="
+mimetype = "application/msword"
+
+[[files]]
+name = "Disc Standards/DSWG002-01 - Disc Technical Drawing.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzk0MDA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Disc Standards/DSWG003 - U12 Disc Testing Criteria.doc"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkzOTU="
+mimetype = "application/msword"
+
+[[files]]
+name = "Disc Standards/DSWG003-01 - U12 Disc Technical Drawing.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkzOTY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Images/Ultimate frisbee disc.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkyMjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/Untitled15.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkyMzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/Untitled16.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkyMzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/Untitled 17.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkyMjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/Untitled 18.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozNzkyMTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Printing Parameters/Cura configuration_1.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozODY0MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Printing Parameters/Cura configuration_2.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozODY0MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Printing Parameters/Cura configuration_3.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozODY0MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Printing Parameters/Cura configuration_4.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozODY0MDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Printing Parameters/Cura configuration_5.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozODY0MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Printing Parameters/Cura configuration_6.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozODY0MDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODY0MDk="
+mimetype = "text/markdown"
+

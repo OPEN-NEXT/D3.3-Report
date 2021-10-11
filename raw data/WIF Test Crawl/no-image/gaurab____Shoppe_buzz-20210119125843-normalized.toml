@@ -1,0 +1,7 @@
+name = "Shoppe buzz"
+repo = "https://wikifactory.com/@gaurab/shoppe-buzz"
+version = "20210119125843"
+spdx-license = "N/A"
+licensor = "Gaurab Deb"
+documentation-language = "en"
+function = "Here we want give an shopping mall experience in the online platform or in the shopping site..."

@@ -1,0 +1,7 @@
+name = "BUILDSCAN"
+repo = "https://wikifactory.com/@beksventures/buildscan"
+version = "20200621060959"
+spdx-license = "N/A"
+licensor = "onabekunka"
+documentation-language = "en"
+function = "AN intelligent laser to analyse a whole building"

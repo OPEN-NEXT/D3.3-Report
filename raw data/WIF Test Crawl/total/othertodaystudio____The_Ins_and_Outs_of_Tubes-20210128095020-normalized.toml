@@ -1,0 +1,18 @@
+name = "The Ins and Outs of Tubes"
+repo = "https://wikifactory.com/@ccairns/tbc"
+version = "20210128095020"
+spdx-license = "CC-BY-4.0"
+licensor = "Christy Cairns"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0OTA2ODI="
+function = "Using simple DIY techniques and materials to explore the potential of damaged bicycle inner tubes as a sheet material."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODMzNjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mjk3NzE="
+mimetype = "text/markdown"
+

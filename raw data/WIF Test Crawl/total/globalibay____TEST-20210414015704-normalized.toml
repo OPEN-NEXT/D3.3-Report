@@ -1,0 +1,7 @@
+name = "TEST"
+repo = "https://wikifactory.com/@globalibay/test"
+version = "20210414015704"
+spdx-license = "N/A"
+licensor = "gsatishgunda"
+documentation-language = "ca"
+function = "description for TEST"

@@ -1,0 +1,333 @@
+name = "OTTO Skins"
+repo = "https://wikifactory.com/@chico3d/otto-skins"
+version = "20190408085511"
+spdx-license = "N/A"
+licensor = "Gian Luigi"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTc3MzQ="
+function = "OTTO Skins are 3D printable skins/Props/Costumes, that will enable you to personalise your OTTO and create stories."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Projects/Bart-Otto/Bart-Otto.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc3MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Bart-Otto/Bart-Otto.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc3MTk="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Projects/Bart-Otto/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc3MjM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Projects/Bunny OTTO/Files/Bunny.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Bunny OTTO/Images/872f236a1abc835f1db85fae763484a0_preview_featured.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Bunny OTTO/Images/c36388168a89cfa1696611fde6d64ae9_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/d3b OTTO/Files/d3botto.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/d3b OTTO/Images/53d060cf827299573c064d98e84c380f_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/d3b OTTO/Images/f19294eb7215796518616ca69a099f55_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Daphne-OTTO/Daphne2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk3MTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Daphne-OTTO/Daphne.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk3MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Daphne-OTTO/Daphne.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk3MTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Duck OTTO/Files/Paperino.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Duck OTTO/Pictures/773e930fdb3d20465a21375b823ee0d8_preview_featured.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Duck OTTO/Pictures/f97751c3b740c23235c0350384e978f6_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Ginevr OTTA/Files/CapelliPrincipessa.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Ginevr OTTA/Pictures/0d7dcc8d66a7c930fc1b6631df2dff0a_preview_featured.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Ginevr OTTA/Pictures/073717db9c7842097a3f2de7c724dac8_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Goldorak OTTO/Files/CerchioCorna.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Goldorak OTTO/Files/CornaGoldrake.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Goldorak OTTO/Pictures/8959fe49383f2475c5463d036ca71c27_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Goldorak OTTO/Pictures/c48982eb48a952e3f1a05800a4db700f_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Goldorak OTTO/Pictures/f5d64289bf51a10e19456dd8fbd7dce2_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Lancill-OTTO/Files/PrincipeElmo.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Lancill-OTTO/Pictures/ac91f86057d19a579b9fe2f3209355e7_preview_featured.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Marge-OTTO/marge.gcode"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc3Mjg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Projects/Marge-OTTO/Marge.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc3MzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Marge-OTTO/marge.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTc3Mjc="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Projects/Omer-Otto/Omer-Otto.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTczNzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Omer-Otto/Omer-Otto.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTczNzY="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Projects/Omer-Otto/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTczNzg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Projects/OTTO-Leia/leia.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDc4MDc="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Projects/OTTO-Leia/OTTO-Leia.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDc4MDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Pink-Panther OTTO/Files/PinkPanther.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Pink-Panther OTTO/Pictures/Pink panther1.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwNDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Pink-Panther OTTO/Pictures/Pink panther2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwNDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Scooby-OTTO/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk2OTk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Projects/Scooby-OTTO/Scooby-dual1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk3MDM="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Projects/Scooby-OTTO/scooby-dual2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk3MDI="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Projects/Scooby-OTTO/Scooby-OTTO.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk3MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Scooby-OTTO/Scooby-OTTO.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk3MDE="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Projects/SHR OTTO/Files/shreck.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/SHR OTTO/Pictures/Pink panther1.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwNDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/SHR OTTO/Pictures/Pink panther2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwNDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/super-OTTO-saiyan/GOKUSAIYAN.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDgxNjU="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Projects/super-OTTO-saiyan/super-OTTO-SAIYAN.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDgxNjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Top-OTTO/Files/TopoGabbia.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5OTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Top-OTTO/Files/TopoNaso.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5OTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Top-OTTO/Files/TopoOrecchiaDX.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5OTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Top-OTTO/Files/TopoOrecchiaSX.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5OTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Top-OTTO/Pictures/4e231329b0daf29adf00de5f0d805f1e_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Top-OTTO/Pictures/837ef721c659a0be2d493fbd51e83d7c_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Top-OTTO/Pictures/236443ce9c61caad274163b3a40313f8_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Top-OTTO/Pictures/ba2f170125ad343b54faae23ef6ee197_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Top-OTTO/Pictures/f4aeaf5fa8e236d0972faa2e4661a45b_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYwMDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Velma-OTTO/Velma.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk3MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Velma-OTTO/Velma.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDk3MDk="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Projects/Yoda OTTO/Files/YODA.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Yoda OTTO/Pictures/2e8f5efdc3b844b0698824397d4f3dfe_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Yoda OTTO/Pictures/7b2096ed53a153767fb06674b33248ce_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Yosemite OTTO/Files/yosemite.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "Projects/Yosemite OTTO/Images/2dfc117df9f7aa55863d0d8bb6e0c314_preview_featured.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Projects/Yosemite OTTO/Images/f62ec86dbefd9015920e6891959414fc_preview_featured.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMDU5NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjY0ODI="
+mimetype = "text/markdown"
+

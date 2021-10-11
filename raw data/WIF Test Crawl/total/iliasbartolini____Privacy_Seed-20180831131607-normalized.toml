@@ -1,0 +1,18 @@
+name = "Privacy Seed"
+repo = "https://wikifactory.com/@iliasbartolini/privacy-seed"
+version = "20180831131607"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Ilias B"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMDIwNw=="
+function = "Privacy Seed is an interactive art installation to challenge the intersections of personal spaces and data privacy, the connection of human identity and its digital extensions."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMDIwMg=="
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMDIwOA=="
+mimetype = "text/markdown"
+

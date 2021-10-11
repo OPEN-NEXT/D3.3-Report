@@ -1,0 +1,23 @@
+name = "Otto_UCantTouchThis_Dance"
+repo = "https://wikifactory.com/@v01tage/ottoucanttouchthisdance"
+version = "20190625080651"
+spdx-license = "N/A"
+licensor = "adasarp48"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTU2NTE="
+function = "Hello guys. This is my first otto project. I made the dance moves of You Can't Touch This song. I tried my best I hope you like it."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU2NDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU2NDQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/sketch_jun21a.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU2Mzg="
+mimetype = "text/x-c"
+

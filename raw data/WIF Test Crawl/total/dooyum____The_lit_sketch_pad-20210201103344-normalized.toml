@@ -1,0 +1,7 @@
+name = "The lit sketch pad"
+repo = "https://wikifactory.com/@dooyum/the-lit-sketch-pad"
+version = "20210201103344"
+spdx-license = "N/A"
+licensor = "Dooyum Hiikyaa Raphael "
+documentation-language = "en"
+function = "A drawing pad with numerous pages and a hardback with a movable light strip attached to it."

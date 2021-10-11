@@ -1,0 +1,23 @@
+name = "Faircap"
+repo = "https://wikifactory.com/@botler/faircap"
+version = "20180606155633"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzI1"
+function = "<a href=\"http://faircap.org/\">Faircap</a> is an open source, 3D printed anti-bacterial water filter, that aims to provide clean water for everyone."
+[[files]]
+name = "/bottom-cap.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI2"
+mimetype = "application/sla"
+
+[[files]]
+name = "/large-cap-tube.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI3"
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTk2"
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "TestAF"
+repo = "https://wikifactory.com/@purbarag/testaf"
+version = "20210409050118"
+spdx-license = "N/A"
+licensor = "Purbarag Jena"
+documentation-language = "en"
+function = "Using raspberry-pi and arduino for smart sensor project."

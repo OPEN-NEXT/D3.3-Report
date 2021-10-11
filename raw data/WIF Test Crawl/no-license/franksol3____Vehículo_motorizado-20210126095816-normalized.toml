@@ -1,0 +1,13 @@
+name = "Vehículo motorizado"
+repo = "https://wikifactory.com/@franksol3/vehículo-motorizado"
+version = "20210126095816"
+spdx-license = "N/A"
+licensor = "Frank Carlos Motor"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTo1MjQ1Nzc="
+function = "Vehiculo motorizado motor 1000cc modelo todo terreno"
+[[files]]
+name = "/5f4814fc81e8cf586c6513b8.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQ1NzM="
+mimetype = "image/jpeg"
+

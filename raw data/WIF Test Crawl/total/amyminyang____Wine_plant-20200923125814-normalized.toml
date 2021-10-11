@@ -1,0 +1,7 @@
+name = "Wine plant"
+repo = "https://wikifactory.com/@amyminyang/wine-plant"
+version = "20200923125814"
+spdx-license = "N/A"
+licensor = "Amy"
+documentation-language = "en"
+function = "Plant grapes in XJ; cooperate with famouse wine factory"

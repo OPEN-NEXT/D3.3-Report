@@ -1,0 +1,7 @@
+name = "Project"
+repo = "https://wikifactory.com/@snkr/project"
+version = "20201209171135"
+spdx-license = "N/A"
+licensor = "Snkr"
+documentation-language = "en"
+function = "Description"

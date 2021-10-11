@@ -1,0 +1,48 @@
+name = "OpenSlider"
+repo = "https://wikifactory.com/@botler/openslider"
+version = "20190129124727"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMzM4Mw=="
+function = "A 3D printed camera slider project that utilizes GRBL1.1 and is made with common components.\n\nDesigned by <a href=\"https://github.com/Adamslab/OpenSlider\">Adamslab</a>."
+[[files]]
+name = "/Electronics.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM0NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/LICENSE"
+permalink = "https://wikifactory.com/files/RmlsZToyMTMwOA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDE2MQ=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README_Materials.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM0NA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "STL Files/400mm_2020_Rail.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDIzOA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/X-Axis_Roller_Carriage.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDIzNg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Y-Axis_Bearing_Mount_Tensioner.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDIzMw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Z-Axis_Mounting_Plate.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDIzNw=="
+mimetype = "application/sla"
+

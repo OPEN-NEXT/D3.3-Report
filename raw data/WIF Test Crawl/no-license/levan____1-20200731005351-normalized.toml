@@ -1,0 +1,17 @@
+name = "1"
+repo = "https://wikifactory.com/@levan/1"
+version = "20200731005351"
+spdx-license = "N/A"
+licensor = "levan"
+documentation-language = "en"
+function = "1"
+[[files]]
+name = "/1.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0MjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/20180414 3D MODEL.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0Mjk="
+mimetype = "application/3dm"
+

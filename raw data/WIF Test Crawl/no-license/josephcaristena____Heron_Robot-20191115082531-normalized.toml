@@ -1,0 +1,7 @@
+name = "Heron Robot"
+repo = "https://wikifactory.com/@josephcaristena/heron-robot"
+version = "20191115082531"
+spdx-license = "N/A"
+licensor = "Joseph Caristena"
+documentation-language = "en"
+function = "A 6 leg robot with gripper."

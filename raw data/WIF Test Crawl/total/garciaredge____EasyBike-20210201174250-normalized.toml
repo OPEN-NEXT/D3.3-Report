@@ -1,0 +1,7 @@
+name = "EasyBike"
+repo = "https://wikifactory.com/@garciaredge/easybike"
+version = "20210201174250"
+spdx-license = "N/A"
+licensor = "garciaredge"
+documentation-language = "en"
+function = "A bicycle with a twist."

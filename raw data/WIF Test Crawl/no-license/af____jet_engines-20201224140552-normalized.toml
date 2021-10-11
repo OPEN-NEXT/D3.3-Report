@@ -1,0 +1,13 @@
+name = "jet engines "
+repo = "https://wikifactory.com/@af/jet-engines"
+version = "20201224140552"
+spdx-license = "N/A"
+licensor = "Andreas Fasoulides"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MDcyNjc="
+function = "Let's experiment with metals and ceramics in order to create a most common jet engine for all use.\nIs it possible to add one way inlet structure on a scramjet ?"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDcyNjg="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Microscópio com Celular"
+repo = "https://wikifactory.com/@ismaelbbc/microscópio-com-celular"
+version = "20201209152311"
+spdx-license = "N/A"
+licensor = "ismaelbbc"
+documentation-language = "en"
+function = "....."

@@ -1,0 +1,68 @@
+name = "Brief 1-Loose Association"
+repo = "https://wikifactory.com/@kennychui/kc-pecha-kucha"
+version = "20191208122338"
+spdx-license = "N/A"
+licensor = "Kenny Chui"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODk3MTA="
+function = "Kenny Chui - Loose Associations and Supply Chain of a phone case"
+[[files]]
+name = "images/blue lighting.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgyMjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/candles.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ5MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Clicker.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/cordyceps fungus.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/green tea.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/history of VR.PNG"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ5MDY="
+mimetype = "image/png"
+
+[[files]]
+name = "images/lighting v2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgyMjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Photo-by-Olivier-Romo-teamLab-Borderless-Flower-Forest2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ5MDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/product_detail_x2_desktop_KU-100-Diagonal_Neumann-Dummy-Head_M.png"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ5MDk="
+mimetype = "image/png"
+
+[[files]]
+name = "images/traditional chinese meds.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ4OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/VR.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ5MDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODg2MDY="
+mimetype = "text/markdown"
+

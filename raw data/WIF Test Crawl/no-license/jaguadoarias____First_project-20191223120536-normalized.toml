@@ -1,0 +1,7 @@
+name = "First project"
+repo = "https://wikifactory.com/@jaguadoarias/first-project-0d76a"
+version = "20191223120536"
+spdx-license = "N/A"
+licensor = "Javier Aguado Arias"
+documentation-language = "en"
+function = "First project"

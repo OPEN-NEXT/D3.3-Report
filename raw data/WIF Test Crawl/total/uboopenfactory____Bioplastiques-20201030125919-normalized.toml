@@ -1,0 +1,28 @@
+name = "Bioplastiques"
+repo = "https://wikifactory.com/@yquere/bioplastiques"
+version = "20201030125919"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0NTU3MzM="
+function = "Démarrage d'une activité sur la création de bio plastiques, notamment à base d'algues"
+[[files]]
+name = "/Infos Aquathon.docx"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjA3NjA="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "Photos/bioplastics.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1MTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1MTk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/recettes aquathon.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjA3NTM="
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+

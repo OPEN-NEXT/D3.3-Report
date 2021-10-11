@@ -1,0 +1,7 @@
+name = "Oitavolik"
+repo = "https://wikifactory.com/@oitavolik/oitavolik"
+version = "20200529035227"
+spdx-license = "N/A"
+licensor = "Oitavolik"
+documentation-language = "es"
+function = "Cnc para multi herramientas"

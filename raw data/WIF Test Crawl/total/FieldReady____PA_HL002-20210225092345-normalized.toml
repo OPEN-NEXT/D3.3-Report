@@ -1,0 +1,33 @@
+name = "PA_HL002"
+repo = "https://wikifactory.com/@charlesbarrete/pahl002"
+version = "20210225092345"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Charles Barrete"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NTg0MjU="
+function = "Face Shield - 4 part (Closed top)"
+[[files]]
+name = "Drawing Pack/PA_HL002_Eng_Dwg_Assembly.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTg0NjI="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/PA_HL002_Eng_Dwg_Frame.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTg0NjE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/PA_HL002_Eng_Dwg_Shield.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTg0NjA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTg0Mjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTg0NTg="
+mimetype = "text/markdown"
+

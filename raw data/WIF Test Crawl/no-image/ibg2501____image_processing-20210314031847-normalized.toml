@@ -1,0 +1,7 @@
+name = "image processing"
+repo = "https://wikifactory.com/@ibg2501/image-processing"
+version = "20210314031847"
+spdx-license = "N/A"
+licensor = "dhanush"
+documentation-language = "en"
+function = "going to create an ml based image recignition system"

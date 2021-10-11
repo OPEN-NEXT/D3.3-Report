@@ -1,0 +1,28 @@
+name = "Precious Plastic "
+repo = "https://wikifactory.com/@inesccprates/precious-plastic"
+version = "20190425141653"
+spdx-license = "N/A"
+licensor = "Ines Prates"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTY0NDQ="
+function = "We are building 4 small-scale plastic recycling machines based on the models done by the Precious Plastic team, using the open-source materials uploaded on their site: http://preciousplastic.com/"
+[[files]]
+name = "images/Screen_Shot_2016-04-05_at_15.53.29.png"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0NDQ="
+mimetype = "image/png"
+
+[[files]]
+name = "images/Screen_Shot_2016-04-30_at_14.41.35.png"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0NDM="
+mimetype = "image/png"
+
+[[files]]
+name = "images/Slack_for_iOS_Upload.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0NDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0NDA="
+mimetype = "text/plain"
+

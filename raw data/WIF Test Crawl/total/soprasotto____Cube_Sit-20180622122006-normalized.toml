@@ -1,0 +1,23 @@
+name = "Cube Sit"
+repo = "https://wikifactory.com/@soprasotto/cube-sit"
+version = "20180622122006"
+spdx-license = "N/A"
+licensor = "SopraSotto"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NTAw"
+function = "<a href=\"https://alpha.wikifactory.com/@soprasotto\"><b>kindergarten furniture kit</b></a> <b>-</b> The <b>cube sit</b> is a multifunctional object; depending on the position it can be used as a chair or table.<br />"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NDgw"
+mimetype = "text/markdown"
+
+[[files]]
+name = "/SopraSotto_Cube Sit.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE3"
+mimetype = "text/plain"
+
+[[files]]
+name = "/SopraSotto_Cube Sit_Assembly instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE5"
+mimetype = "application/pdf"
+

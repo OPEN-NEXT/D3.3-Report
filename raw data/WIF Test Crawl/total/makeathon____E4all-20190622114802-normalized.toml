@@ -1,0 +1,58 @@
+name = "E4all"
+repo = "https://wikifactory.com/@tauan/e4all"
+version = "20190622114802"
+spdx-license = "N/A"
+licensor = "Tauan Bernardo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTU0MTE="
+function = "We're Team 4 on Make-a-Thon! Our mission is to create a solution to provide energy to village people who can't afford to have it inside their homes and study at night."
+[[files]]
+name = "/ChargerProgram.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNTM="
+mimetype = "text/x-arduino"
+
+[[files]]
+name = "/E4ALL (1).pptx"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU0MjA="
+mimetype = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+
+[[files]]
+name = "/E4all-charging_station.step"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzOTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/E4all-charging_station.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzOTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Natural Speaker part 1.gcode"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Natural Speaker part 2.gcode"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Natural Speaker part 3.gcode"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU0MzA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/rhino 3d file - natrual speaker -youjin kim.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNjI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/stl file- natural speaker.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNjE="
+mimetype = "application/sla"
+

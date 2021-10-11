@@ -1,0 +1,17 @@
+name = "Conical drones"
+repo = "https://wikifactory.com/@eurekhaonline/conical-drones"
+version = "20210105065204"
+spdx-license = "N/A"
+licensor = "D PRABHAKAR REDDY"
+documentation-language = "en"
+function = "Why can't we shape a drone in the form of a cone?"
+[[files]]
+name = "/ijrar_issue_20542966.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTMzMDk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTMzMDY="
+mimetype = "text/markdown"
+

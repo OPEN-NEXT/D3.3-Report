@@ -1,0 +1,7 @@
+name = "Lokbidhi"
+repo = "https://wikifactory.com/@manishlok/lokbidhi"
+version = "20200816020837"
+spdx-license = "N/A"
+licensor = "Manish Sahu"
+documentation-language = "en"
+function = "Lokbidhi"

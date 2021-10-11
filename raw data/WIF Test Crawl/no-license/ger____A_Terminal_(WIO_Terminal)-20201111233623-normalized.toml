@@ -1,0 +1,13 @@
+name = "A Terminal (WIO_Terminal)"
+repo = "https://wikifactory.com/@ger/a-terminal-wioterminal"
+version = "20201111233623"
+spdx-license = "N/A"
+licensor = "Gerard Walsh"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NzI4NDg="
+function = "I'm writing a basic interface for Seeed's Wio Terminal... Tests so far, I've got WiFi, MQTT and NTP working. I use Home Assistant, Node-Red and the HA MQTT broker integration on a Raspberry Pi.\nSo hopefully this could be a diy low-ish profile smart-ish display."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NzI4NjM="
+mimetype = "text/markdown"
+

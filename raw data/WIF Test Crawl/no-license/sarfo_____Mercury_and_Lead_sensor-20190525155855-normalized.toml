@@ -1,0 +1,7 @@
+name = " Mercury and Lead sensor "
+repo = "https://wikifactory.com/@sarfo/mercury-and-lead-sensor"
+version = "20190525155855"
+spdx-license = "N/A"
+licensor = "Michael Boakye Sarfo"
+documentation-language = "en"
+function = "Detecting mercury and lead levels in water bodies at mining and industrial areas in Ghana"

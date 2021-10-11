@@ -1,0 +1,18 @@
+name = "Surface Subdivision"
+repo = "https://wikifactory.com/@adolfo/surface-subdivision"
+version = "20180130152413"
+spdx-license = "CC-BY-4.0"
+licensor = "Adolfo Nadal Serrano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2NDg="
+function = "A simple script to be embedded in a python component within the Grasshopper interface. The script divides a surface along its u and v directions creating a subdivision that rationalises the original NURBS geometry. Additionally, it creates tabs for fabrication purposes. See more"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo2NDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/surface_subdivision.py"
+permalink = "https://wikifactory.com/files/RmlsZTo4NjM="
+mimetype = "text/x-python-script"
+

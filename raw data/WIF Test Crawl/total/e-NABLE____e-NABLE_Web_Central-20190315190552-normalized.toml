@@ -1,0 +1,13 @@
+name = "e-NABLE Web Central"
+repo = "https://wikifactory.com/@jeremy/e-nable-web-central"
+version = "20190315190552"
+spdx-license = "N/A"
+licensor = "Jeremy Simon"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDIwOTE="
+function = "e-NABLE Web Central is a web based application designed to help match e-NABLE volunteers with people seeking devices. The platform has been developed and is maintained by <a href=\"http://shop3duniverse.com?aff=2\">3D Universe</a>."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDIwOTI="
+mimetype = "text/markdown"
+

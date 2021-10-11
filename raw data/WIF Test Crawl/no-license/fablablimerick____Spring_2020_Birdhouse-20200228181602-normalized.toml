@@ -1,0 +1,333 @@
+name = "Spring 2020: Birdhouse"
+repo = "https://wikifactory.com/@javierburongarcia/spring-2020-birdhouse"
+version = "20200228181602"
+spdx-license = "N/A"
+licensor = "Javier Buron"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNjE1NTU="
+function = "Work space for SAUL Spring 2020 Elective - Open sourcin' +CityxChange. Project: Birdhouse"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE0NjM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Week 1/CAD Files/Fablab - 3D View - {3D}.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwNjc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Week 1/Illustrator Files/3mm.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwNzc="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Week 1/Illustrator Files/6mm.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwNzY="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Week 1/Illustrator Files/6mm.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwNzU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Week 1/Illustrator Files/Fablab.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwNzQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Week 1/Images of Idea/1.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwNzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 1/Images of Idea/bird house render.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 1/Images of Idea/BMTWN2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 1/Images of Idea/street art birdcage.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 1/Images of Idea/street art birdhouse01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 1/Images of Idea/street art birdhouse02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 1/Revit Files/Fablab.rvt"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwODU="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Week 1/Rhino Files/sensor_holder_idea_1.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwODY="
+mimetype = "application/3dm"
+
+[[files]]
+name = "Week 2/CAD Files/birdhouse_v1_3D_model.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwOTQ="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/birdhouse_v2_laser_cutter_file.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwOTU="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/birdhouse_v3_3D_model_MDF_2mm.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwOTY="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/birdhouse_v3_laser_cutter_file_MDF_2.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwOTc="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/Perspex Finger Joint Case version 1.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwOTg="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/Perspex Finger Joint Case version 2.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEwOTk="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/Perspex Finger Joint Case version 3.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMDE="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/Perspex Finger Joint Case version 4.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMDI="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/Perspex Finger Joint Case version 5.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMDM="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/Perspex Finger Joint Case version 6.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMDQ="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/sensor box CNC final file.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMDk="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/sensor_holder_v1a.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMTE="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/sensor_holder_v1b.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMTM="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/sensor_holder_v2.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMTU="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "Week 2/CAD Files/sensor_holder_v2_0.2mm_PLA_MK3S_2h47m.gcode"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Week 2/Illustrator Files/Perspex Cover for Bird Sensor version 1.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMjA="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Week 2/Illustrator Files/Perspex Cover for Bird Sensor version 2.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMjI="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Week 2/Illustrator Files/Perspex Cover for Bird Sensor version 3.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMjQ="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Week 2/Illustrator Files/Perspex Finger Joint Case version 1.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMjU="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Week 2/Illustrator Files/Perspex Finger Joint Case version 2.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMjk="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Week 2/Illustrator Files/Perspex Finger Joint Case version 3.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMzA="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Week 2/Illustrator Files/Perspex Finger Joint Case version 4.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMzI="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Week 2/Illustrator Files/Perspex Finger Joint Case version 5.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMzM="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Week 2/Illustrator Files/Perspex Finger Joint Case version 6.ai"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExMzU="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Week 2/Images/1/IMG_0261.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Images/1/IMG_0273.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Images/1/IMG_0276.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Images/2/IMG_0265.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExODY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Images/2/IMG_0267.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Images/3/IMG_0281.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExODg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Images/3/IMG_0288.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExOTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Images/IMG_0290.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExOTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Images/Machines/IMG_0291.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExOTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Images/Machines/IMG_0292.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEyMDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Images/Machines/IMG_0293.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEyMDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Images/Machines/IMG_0294.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEyMDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Images/Machines/IMG_0296.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTozMTEyMDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Images/sensor box model image.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExOTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Week 2/Revit Files/Perspex Cover for Bird Sensor.rvt"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExNDA="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Week 2/Revit Files/Perspex Finger Joint Case.rvt"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExNDE="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Week 2/Rhino Files/birdhouse_v1_3D_model.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExNDY="
+mimetype = "application/3dm"
+
+[[files]]
+name = "Week 2/Rhino Files/birdhouse_v1b.3dmk"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExNDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Week 2/Rhino Files/birdhouse_v2_laser_cutter_file_MDF_2mm.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExNDg="
+mimetype = "application/3dm"
+
+[[files]]
+name = "Week 2/Rhino Files/birdhouse_v3_3D_model_MDF_3mm.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExNTM="
+mimetype = "application/3dm"
+
+[[files]]
+name = "Week 2/Rhino Files/birdhouse_v3_laser_cutter_file_MDF_2.5mm.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExNTQ="
+mimetype = "application/3dm"
+
+[[files]]
+name = "Week 2/Rhino Files/birdhouse_v3_laser_cutter_file_MDF_2.5mm.3dmbak"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExNTY="
+mimetype = "application/3dmbak"
+
+[[files]]
+name = "Week 2/Rhino Files/sensor_holder_v1a.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExNTc="
+mimetype = "application/3dm"
+
+[[files]]
+name = "Week 2/Rhino Files/sensor_holder_v1b.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExNTg="
+mimetype = "application/3dm"
+
+[[files]]
+name = "Week 2/Rhino Files/sensor_holder_v2.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExNTk="
+mimetype = "application/3dm"
+
+[[files]]
+name = "Week 2/Rhino Files/sensor_holder_v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExNjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "Week 2/Sketch Up Files/sensor plywood box 3d model testing.skp"
+permalink = "https://wikifactory.com/files/RmlsZTozMTExNzI="
+mimetype = "SKP"
+

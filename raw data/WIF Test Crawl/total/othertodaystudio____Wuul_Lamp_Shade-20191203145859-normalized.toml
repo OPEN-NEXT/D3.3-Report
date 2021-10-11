@@ -1,0 +1,18 @@
+name = "Wuul Lamp Shade"
+repo = "https://wikifactory.com/@louislane51/wuul-lampshade"
+version = "20191203145859"
+spdx-license = "CC-BY-4.0"
+licensor = "Louis Lane"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODQ2ODE="
+function = "A lampshade built from one sheet of felt with no fixtures or fittings. Construction and deconstruction can be done without any tools."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODc2MTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODc2MTY="
+mimetype = "text/markdown"
+

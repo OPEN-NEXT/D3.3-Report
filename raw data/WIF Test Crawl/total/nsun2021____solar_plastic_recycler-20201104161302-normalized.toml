@@ -1,0 +1,7 @@
+name = "solar plastic recycler"
+repo = "https://wikifactory.com/@nsun2021/solar-plastic-recycler"
+version = "20201104161302"
+spdx-license = "N/A"
+licensor = "Nelson Pana"
+documentation-language = "en"
+function = "use solar energy to convert used plastics into molded materiala"

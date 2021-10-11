@@ -1,0 +1,8 @@
+name = "Planche de podorythmie"
+repo = "https://wikifactory.com/@leclercamille96/podorythmie-multimédia"
+version = "20210225220608"
+spdx-license = "N/A"
+licensor = "Camille Leclerc"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1NTkwMTU="
+function = "Contrôleur podorythmie avec des senseurs à pressions (force sensing resistors) détectant l'impact et la vélocité des pieds sur 4 zones. La planche est à la fois un contrôleur MIDI qui anime des visuels en Processing et un \"boutons pour les pieds\" qui fait danser un pantin, l'Être-gigueur."

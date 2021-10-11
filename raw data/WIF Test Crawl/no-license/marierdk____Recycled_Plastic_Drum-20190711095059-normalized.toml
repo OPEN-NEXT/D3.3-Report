@@ -1,0 +1,13 @@
+name = "Recycled Plastic Drum"
+repo = "https://wikifactory.com/@marierdk/plastic-percussion"
+version = "20190711095059"
+spdx-license = "N/A"
+licensor = "Marie RDK"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjU5NDg="
+function = "This project is about experimenting with the different sounds that thermo-pressed - hence recycled - plastic waste could make."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU5NDc="
+mimetype = "text/markdown"
+

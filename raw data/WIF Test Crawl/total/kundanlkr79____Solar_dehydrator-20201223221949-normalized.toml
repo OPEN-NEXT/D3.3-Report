@@ -1,0 +1,7 @@
+name = "Solar dehydrator "
+repo = "https://wikifactory.com/@kundanlkr79/solar-dehydrator"
+version = "20201223221949"
+spdx-license = "N/A"
+licensor = "kundanlkr79"
+documentation-language = "en"
+function = "To dehydrate vegetables to increase its cell life."

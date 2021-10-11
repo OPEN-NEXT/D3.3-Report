@@ -1,0 +1,58 @@
+name = "SOAP RING"
+repo = "https://wikifactory.com/@sgranotich/soap-the-new-diamond"
+version = "20200728021616"
+spdx-license = "N/A"
+licensor = "Sebastian Granotich"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozODUzMDY="
+function = "SOAP, THE NEW DIAMOND.\nThe soup ring is a #safetoplay product to use during activities away from home. People can carry a small soap during the day to wash their hands on those occasions when there are no sinks. It is made for anyone who likes rings! From young children to older adults."
+[[files]]
+name = "3D FILES/3d sketches"
+permalink = "https://wikifactory.com/files/RmlsZTozODUzNTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D FILES/SOAP RING.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozODUzNTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "IMAGES/01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozODUzNDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozODUzNDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/03.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozODUzMzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/04.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozODUzNDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/05.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozODU0Mzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/img 01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTYxOTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/img 02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTYxODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozODU0NDE="
+mimetype = "text/markdown"
+

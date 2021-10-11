@@ -1,0 +1,7 @@
+name = "n ose"
+repo = "https://wikifactory.com/@fedefrankk/n-ose"
+version = "20210311203619"
+spdx-license = "N/A"
+licensor = "federico"
+documentation-language = "en"
+function = "nose"

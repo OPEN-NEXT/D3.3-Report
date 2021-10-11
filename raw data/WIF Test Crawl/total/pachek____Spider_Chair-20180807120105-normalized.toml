@@ -1,0 +1,28 @@
+name = "Spider Chair"
+repo = "https://wikifactory.com/@pachek/spider-chair"
+version = "20180807120105"
+spdx-license = "CC-BY-4.0"
+licensor = "pachek "
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo3MzQ5"
+function = "This unique CNC-cut chair design, with aesthetic and futuristic appearance, will give you more than comfort and maximize your productivity at home!"
+[[files]]
+name = "Cutting Design Files/SPIDER_CHAIR_DRW.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTo3NzE0"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo3MzUx"
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "License/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo3NTUy"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo5MTc1"
+mimetype = "text/markdown"
+

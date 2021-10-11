@@ -1,0 +1,98 @@
+name = "MyOrthotics"
+repo = "https://wikifactory.com/@adrianacabrera/myorthotics"
+version = "20180827162437"
+spdx-license = "N/A"
+licensor = "Adriana Cabrera"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NzY3MTk="
+function = "This is an orthotic brace design that helps the person to have a right posture of the hand , and enable control of the movements of the fingers!"
+[[files]]
+name = "3D Phalange Files/PLA Design/DS_Store"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTAy"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D Phalange Files/PLA Design/PLApart.gcode"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTAz"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D Phalange Files/PLA Design/PLApart.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTA0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Splint Files/InnoFLEX Design/flexpart20speed.gcode"
+permalink = "https://wikifactory.com/files/RmlsZTo5ODk1"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D Splint Files/InnoFLEX Design/flexpart.gcode"
+permalink = "https://wikifactory.com/files/RmlsZTo5ODk0"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D Splint Files/InnoFLEX Design/flexpart.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5ODkz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Splint Files/PLA Design/DS_Store"
+permalink = "https://wikifactory.com/files/RmlsZTo5ODk5"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D Splint Files/PLA Design/PLApart.gcode"
+permalink = "https://wikifactory.com/files/RmlsZTo5ODk4"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D Splint Files/PLA Design/PLApart.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTAw"
+mimetype = "application/sla"
+
+[[files]]
+name = "License/license_1.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTA2"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTA4"
+mimetype = "text/markdown"
+
+[[files]]
+name = "Servo Motor Codes/servo_impuls.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo5ODg3"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "SMA Nitinol Wire Build/nitinol_wire.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTEx"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "VARSpeed Servo Library Codes/keywords.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTE2"
+mimetype = "text/plain"
+
+[[files]]
+name = "VARSpeed Servo Library Codes/LICENSE.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTE3"
+mimetype = "text/plain"
+
+[[files]]
+name = "VARSpeed Servo Library Codes/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTE5"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "VARSpeed Servo Library Codes/VarSpeedServo.cpp"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTE4"
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "VARSpeed Servo Library Codes/VarSpeedServo.h"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTIw"
+mimetype = "text/x-chdr"
+

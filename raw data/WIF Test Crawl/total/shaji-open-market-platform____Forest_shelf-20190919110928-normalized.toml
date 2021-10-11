@@ -1,0 +1,103 @@
+name = "Forest shelf"
+repo = "https://wikifactory.com/@ronen/forest-shelf"
+version = "20190919110928"
+spdx-license = "N/A"
+licensor = "Ronen Kadushin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDc5MzE="
+function = "The Forest shelf takes its inspiration from classic Japanese culture, invoking a sense of simplicity, lightness and natural elegance.<br />It consists of horizontal shelves and vertical stepped columns that easily and intuitively lock together."
+[[files]]
+name = "Assembly Instructions/Forest Shelf Assembly Instructions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MjU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "CAD/Forest shelf 200_ 180_160cm_6x30 18mm v2 SHAJI 190919.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "CAD/Forest shelf Test_Sample18mm v1 SHAJI 190919.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "FIT Furniture logo/FIT Furniture logo ©All Rights Reserved-Ronen Kadushin 2019.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MzA="
+mimetype = "application/postscript"
+
+[[files]]
+name = "Images/FIT_Forest _shelf_Assembly_DSC0705_5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Forest Birch isolated 3-4 6000px2_M3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Forest Birch isolated 6000px_M.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Forest Oak isolated 3-4 6000px_M3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Forest White Isolated 3-4 6000px_M.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Forest_detail_DSC0716.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Forest_shelf_Front_SQ _DSC0794-4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Forest_shelf_Front_SQ _DSC0794-G2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Forest_shelf_Half_Front_SQ _DSC0795.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Forest_shelf_parts_DSC0699.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/FIT_Italic_shelf_half front_DSC0737-3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/Forest Birch 5000px_Set_M_2-1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/Ronen Kadushin_FIT_Forest exploded3 SQ.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDc5MzU="
+mimetype = "text/markdown"
+

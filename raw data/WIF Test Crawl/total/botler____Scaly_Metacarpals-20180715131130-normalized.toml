@@ -1,0 +1,48 @@
+name = "Scaly Metacarpals"
+repo = "https://wikifactory.com/@botler/scaly-metacarpals"
+version = "20180715131130"
+spdx-license = "CC-BY-4.0"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2NjQ5"
+function = "Parametrically generated Self-Cooling Wrist Splint. No more itching and sweating in the brace!"
+[[files]]
+name = "3D Design Files/braceGenerator.gh"
+permalink = "https://wikifactory.com/files/RmlsZTo2NjAz"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D Design Files/scaly_metacarpels.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo2NjAy"
+mimetype = "application/sla"
+
+[[files]]
+name = "ATtiny Sketch/ThermistorCelcius2LightsFan.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo2NjEx"
+mimetype = "text/x-c"
+
+[[files]]
+name = "Bill of Materials/finalBOM.xlsx"
+permalink = "https://wikifactory.com/files/RmlsZTo2NjEz"
+mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo2OTMx"
+mimetype = "text/plain"
+
+[[files]]
+name = "PCB Design Files/VirginiaTempTriggerFanv3.brd"
+permalink = "https://wikifactory.com/files/RmlsZTo2NjA1"
+mimetype = "application/xml"
+
+[[files]]
+name = "PCB Design Files/VirginiaTempTriggerFanv3.sch"
+permalink = "https://wikifactory.com/files/RmlsZTo2NjA2"
+mimetype = "application/xml"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo2NjU1"
+mimetype = "text/markdown"
+

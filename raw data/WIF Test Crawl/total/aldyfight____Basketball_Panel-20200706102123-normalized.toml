@@ -1,0 +1,168 @@
+name = "Basketball Panel"
+repo = "https://wikifactory.com/@aldyfight/basketball-panel"
+version = "20200706102123"
+spdx-license = "N/A"
+licensor = "Rizaldi"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDI2NzM="
+function = "i am making basketball score panel With QT but this project i dont like because it need QT .dll an this so Huge file ... enjoy this guys"
+[[files]]
+name = "/BasketScore.pro"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2OTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/BasketScore.pro.user"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2OTg="
+mimetype = "application/xml"
+
+[[files]]
+name = "/BasketScore.pro.user.4.8-pre1"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2OTc="
+mimetype = "application/xml"
+
+[[files]]
+name = "build/BasketScore"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI3MjU="
+mimetype = "application/x-executable"
+
+[[files]]
+name = "build/music/freethrow.mp3"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI3MjQ="
+mimetype = "audio/mpeg"
+
+[[files]]
+name = "build/music/freethrow_fail.mp3"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI3MjM="
+mimetype = "audio/mpeg"
+
+[[files]]
+name = "build/music/indonesia_raya.mp3"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI3MjI="
+mimetype = "audio/mpeg"
+
+[[files]]
+name = "build/music/music_game_2.mp3"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI3MTg="
+mimetype = "audio/mpeg"
+
+[[files]]
+name = "build/music/music_waiting.mp3"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI3MTc="
+mimetype = "audio/mpeg"
+
+[[files]]
+name = "build/music/semangat.mp3"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI3MTM="
+mimetype = "audio/mpeg"
+
+[[files]]
+name = "build/music/seru2.mp3"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI3MTE="
+mimetype = "audio/mpeg"
+
+[[files]]
+name = "build/music/seru.mp3"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI3MTI="
+mimetype = "audio/mpeg"
+
+[[files]]
+name = "build/music/terompet.mp3"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI3MDg="
+mimetype = "audio/mpeg"
+
+[[files]]
+name = "build/music/tet_panjang.mp3"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI3MDc="
+mimetype = "audio/mpeg"
+
+[[files]]
+name = "build/music/we_are_the_champion.mp3"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI3MDA="
+mimetype = "audio/mpeg"
+
+[[files]]
+name = "/main.cpp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2OTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/mainwindow.cpp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2OTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/musicboard.cpp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2OTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/musicboard.h"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2OTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/musicdialog.cpp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2OTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/musicdialog.ui"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2ODg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/paneladmin.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2ODc="
+mimetype = "image/png"
+
+[[files]]
+name = "/panelmusic.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2ODY="
+mimetype = "image/png"
+
+[[files]]
+name = "/panelscore.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2ODU="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2ODQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/resources.qrc"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2ODM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/ScoreBoard.cpp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2ODI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/ScoreBoard.h"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2ODE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/ScoreDialog.cpp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2ODA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/ScoreDialog.h"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2Nzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/ScoreDialog.ui"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2Nzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/tet.wav"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI2Nzc="
+mimetype = "audio/wav"
+

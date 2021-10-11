@@ -1,0 +1,7 @@
+name = "idk"
+repo = "https://wikifactory.com/@keltonhimself/idk"
+version = "20201222094043"
+spdx-license = "N/A"
+licensor = "Kelton Zhang"
+documentation-language = "en"
+function = "This is for exploring the platform's capability"

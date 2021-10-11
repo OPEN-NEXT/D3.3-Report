@@ -1,0 +1,12 @@
+name = "Wheel 10X2.5 inch"
+repo = "https://wikifactory.com/@ranjan027/wheel-10x25-inch"
+version = "20210105192935"
+spdx-license = "N/A"
+licensor = "Ranjan Shrivastava"
+documentation-language = "en"
+function = "This wheel designed using solidworks to have 3D model of Masswell  wheel for an Electric scooter"
+[[files]]
+name = "/Masswell wheel 10X2.5 INCH.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTM2ODA="
+mimetype = "application/octet-stream"
+

@@ -1,0 +1,12 @@
+name = "SION Ambient LED Lighting"
+repo = "https://wikifactory.com/@martijnvanhoorn/sion-ambient-led-lighting"
+version = "20210411182750"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Martijn van Hoorn"
+documentation-language = "en"
+function = "Adding some lighting atmosphere to the SION"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzg5MDI="
+mimetype = "text/plain"
+

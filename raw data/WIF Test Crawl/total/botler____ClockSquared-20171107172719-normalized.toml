@@ -1,0 +1,8 @@
+name = "ClockSquared"
+repo = "https://wikifactory.com/@botler/ClockSquared"
+version = "20171107172719"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDQ="
+function = "Word Clock that can display time in all colours, congratulates you on your birthday, has a special engraved back and then some additional features."

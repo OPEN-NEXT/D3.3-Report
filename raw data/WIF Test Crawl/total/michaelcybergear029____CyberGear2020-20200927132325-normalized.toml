@@ -1,0 +1,7 @@
+name = "CyberGear2020"
+repo = "https://wikifactory.com/@michaelcybergear029/cybergear2020"
+version = "20200927132325"
+spdx-license = "N/A"
+licensor = "Michael CyberGear"
+documentation-language = "en"
+function = "Bluetooth product's"

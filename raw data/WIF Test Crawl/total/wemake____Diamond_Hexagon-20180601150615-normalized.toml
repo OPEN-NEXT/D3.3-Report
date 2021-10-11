@@ -1,0 +1,23 @@
+name = "Diamond Hexagon "
+repo = "https://wikifactory.com/@zoe/diamond-hexagon"
+version = "20180601150615"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Zoe Romano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTIw"
+function = "Diamond-shaped eco-leather module for 2d and 3d shapes. Part of the Modular Fashion initiative at <a href=\"www.wikifactory.com/+wemake\">WeMake</a>."
+[[files]]
+name = "/Diamond Hexagon .svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjgx"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE0"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI4"
+mimetype = "text/markdown"
+

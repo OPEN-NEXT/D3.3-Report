@@ -1,0 +1,7 @@
+name = "wheelin"
+repo = "https://wikifactory.com/@freds4hb/wheelin"
+version = "20201002195433"
+spdx-license = "N/A"
+licensor = "Fred Schechter"
+documentation-language = "en"
+function = "button box for sim racing"

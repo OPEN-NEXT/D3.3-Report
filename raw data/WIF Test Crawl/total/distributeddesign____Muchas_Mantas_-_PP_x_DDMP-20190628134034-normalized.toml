@@ -1,0 +1,58 @@
+name = "Muchas Mantas - PP x DDMP"
+repo = "https://wikifactory.com/@aniol/muchas-mantas"
+version = "20190628134034"
+spdx-license = "N/A"
+licensor = "Aniol Lopez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTYzNjY="
+function = "It is a modular tile system that can be used for building facades or rooftops, easily made out of single use plastic waste. We used material developed from the v4 Precious Plastic Sheet Press that is being released in October."
+[[files]]
+name = "/muchasmentas_1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTYyNjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/muchasmentas_2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTYyNjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/muchasmentas_3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTYyNjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/muchasmentas_4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTYyNjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/muchasmentas_5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTYyNjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/muchasmentas_6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTYyNjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/muchasmentas_7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTYyNjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/muchasmentas_8b.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTYyODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/muchasmentas_9.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTYyODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTczMjU="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "B"
+repo = "https://wikifactory.com/@benjainflatt/b"
+version = "20200609003240"
+spdx-license = "N/A"
+licensor = "benjainflatt"
+documentation-language = "en"
+function = "B"

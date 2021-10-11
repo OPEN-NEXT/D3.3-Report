@@ -1,0 +1,7 @@
+name = "AutonaBee"
+repo = "https://wikifactory.com/@cilou/autonabee"
+version = "20210304145517"
+spdx-license = "N/A"
+licensor = "Cecile Pacoret"
+documentation-language = "en"
+function = "Prototype yourself"

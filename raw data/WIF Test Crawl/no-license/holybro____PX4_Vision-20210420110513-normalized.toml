@@ -1,0 +1,88 @@
+name = "PX4 Vision"
+repo = "https://wikifactory.com/@qingguoling/px4-vision"
+version = "20210420110513"
+spdx-license = "N/A"
+licensor = "qin guoling"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTYxNzM="
+function = "Quad-rotor frame autonomous drone development kit. \nCo-developed with <a href=\"https://auterion.com/\">Auterion</a>."
+[[files]]
+name = "3D Files/hvis-ke-computer-down.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE4MDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/hvis-ke-computer-top.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE4MDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/hvis-zao-guang-c32.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE4MTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/hvis-zhijia-pla.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE4MDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/px4-vision_asm.stp"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE4MTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D Files/tpu-jiao-hvis.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE4MDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/tpu-tao-power-hvis.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE4MDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "Drone Pictures/PX4 Vision Components.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNTQyMTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Drone Pictures/PX4-vision-01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE4MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Drone Pictures/PX4-vision-02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE4MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Drone Pictures/PX4-vision-03.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE4MTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Drone Pictures/PX4-vision-04.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMTE4MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/px4vision_v1_4.px4"
+permalink = "https://wikifactory.com/files/RmlsZTozNDEyNDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTgyODk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Schematics/Carrier-Board-RC02.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI1Mzk="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Schematics/Carrier-Board-RC03.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTI1NDA="
+mimetype = "application/pdf"
+

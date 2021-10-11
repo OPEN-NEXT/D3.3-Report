@@ -1,0 +1,18 @@
+name = "08-TravailDécent"
+repo = "https://wikifactory.com/@burcadus/08-travaildécent"
+version = "20191104194051"
+spdx-license = "CC-BY-4.0"
+licensor = "Jérôme Frédéric Bouchard"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZToyNDI1Njc="
+function = "En lien avec l’occupation du territoire et la rareté de main-d’oeuvre, quelles actions pourraient être réalisées afin que la population se sente concernée dans l’intégration de nouveaux arrivants? Comment pourrions-nous nous sentir davantage concernés par l’accueil des nouveaux arrivants?"
+[[files]]
+name = "/70041792_378088666196767_3148484656039460864_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg3Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDI1NzM="
+mimetype = "text/plain"
+

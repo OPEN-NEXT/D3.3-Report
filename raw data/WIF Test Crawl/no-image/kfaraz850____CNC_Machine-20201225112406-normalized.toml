@@ -1,0 +1,7 @@
+name = "CNC Machine"
+repo = "https://wikifactory.com/@kfaraz850/cnc-machine"
+version = "20201225112406"
+spdx-license = "N/A"
+licensor = "Faraz Khan"
+documentation-language = "en"
+function = "Numerical control (also computer numerical control, and commonly called CNC)"

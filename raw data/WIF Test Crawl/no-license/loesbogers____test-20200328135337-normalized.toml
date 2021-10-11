@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@loesbogers/test"
+version = "20200328135337"
+spdx-license = "N/A"
+licensor = "Loes Bogers"
+documentation-language = "en"
+function = "test"

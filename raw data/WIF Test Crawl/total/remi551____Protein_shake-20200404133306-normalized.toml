@@ -1,0 +1,7 @@
+name = "Protein shake"
+repo = "https://wikifactory.com/@remi551/protein-shake"
+version = "20200404133306"
+spdx-license = "N/A"
+licensor = "Remzi Begolli"
+documentation-language = "en"
+function = "I \ufeffwould like to create an ready drink with high protein"

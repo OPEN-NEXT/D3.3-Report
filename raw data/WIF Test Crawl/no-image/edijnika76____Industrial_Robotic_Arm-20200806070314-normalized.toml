@@ -1,0 +1,7 @@
+name = "Industrial Robotic Arm"
+repo = "https://wikifactory.com/@edijnika76/industrial-robotic-arm"
+version = "20200806070314"
+spdx-license = "N/A"
+licensor = "Bruno Akinjide Orisanaiye"
+documentation-language = "en"
+function = "Design and Implementation of a Pick  and Place Industrial Robotic arm using SolidEdge for CAD Model"

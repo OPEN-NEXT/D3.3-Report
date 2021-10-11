@@ -1,0 +1,12 @@
+name = "flying camera"
+repo = "https://wikifactory.com/@lolstare123/flying-camera"
+version = "20210106154354"
+spdx-license = "N/A"
+licensor = "lolstare123"
+documentation-language = "en"
+function = "it works  by shadow"
+[[files]]
+name = "/ali.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQwODA="
+mimetype = "image/png"
+

@@ -1,0 +1,33 @@
+name = "Cardboard Stages"
+repo = "https://wikifactory.com/@nadya/cardboard-stages"
+version = "20180704143619"
+spdx-license = "MIT"
+licensor = "Nadya Peek"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODcw"
+function = "To make it quicker to prototype motion, James Coleman and Nadya Peek designed a stage made out of tri-fold cardboard, the kind used for science fair displays. These stages can be used to experiment with configurations before making a final machine design, or used as the final machine."
+[[files]]
+name = "3D model/Stage_3Dmodel_complete.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODEx"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Code/makefile.mak"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIx"
+mimetype = "text/x-makefile"
+
+[[files]]
+name = "Code/talkingToNodes.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODIy"
+mimetype = "text/x-python-script"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODAw"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo2MDAx"
+mimetype = "text/markdown"
+

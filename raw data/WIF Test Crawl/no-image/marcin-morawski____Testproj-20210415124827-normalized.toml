@@ -1,0 +1,7 @@
+name = "Testproj"
+repo = "https://wikifactory.com/@marcin-morawski/testproj"
+version = "20210415124827"
+spdx-license = "N/A"
+licensor = "Marcin Morawski"
+documentation-language = "en"
+function = "..."

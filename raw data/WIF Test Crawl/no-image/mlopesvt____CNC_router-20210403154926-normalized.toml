@@ -1,0 +1,7 @@
+name = "CNC router"
+repo = "https://wikifactory.com/@mlopesvt/cnc-router"
+version = "20210403154926"
+spdx-license = "N/A"
+licensor = "Márcio Lopes"
+documentation-language = "fr"
+function = "test CNC router\ufeff"

@@ -1,0 +1,13 @@
+name = "Strings to Storms "
+repo = "https://wikifactory.com/@mungochambers/strings-to-storms"
+version = "20210121141409"
+spdx-license = "N/A"
+licensor = "Mungo Chambers"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTkxNTI="
+function = "A creative research exercise that opens up a divergent thinking journey."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQzNTY="
+mimetype = "text/markdown"
+

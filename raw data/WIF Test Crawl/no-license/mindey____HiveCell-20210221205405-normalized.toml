@@ -1,0 +1,12 @@
+name = "HiveCell"
+repo = "https://wikifactory.com/@mindey/hivecell"
+version = "20210221205405"
+spdx-license = "N/A"
+licensor = "Mindey"
+documentation-language = "en"
+function = "HiveCell"
+[[files]]
+name = "/rhombic-dodecahedron-net.ipt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY2NTA="
+mimetype = "application/CDFV2-unknown"
+

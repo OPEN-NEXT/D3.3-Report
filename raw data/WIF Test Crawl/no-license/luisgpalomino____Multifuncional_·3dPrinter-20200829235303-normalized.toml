@@ -1,0 +1,7 @@
+name = "Multifuncional ·3dPrinter"
+repo = "https://wikifactory.com/@luisgpalomino/multifuncional-3dprinter"
+version = "20200829235303"
+spdx-license = "N/A"
+licensor = "luisguillermopalomino"
+documentation-language = "ca"
+function = "is a multifuncional 3d printers."

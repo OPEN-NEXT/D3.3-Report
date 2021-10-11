@@ -1,0 +1,33 @@
+name = "Pliolog"
+repo = "https://wikifactory.com/@yannick/pliolog"
+version = "20190616063026"
+spdx-license = "N/A"
+licensor = "Yannick Raoul"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZToyMTM1Nzg="
+function = "Une plieuse à fil chaud, pour accompagner une découpeuse laser.\nAvec les contraintes de fabrication \"DIY\"."
+[[files]]
+name = "Documentation externe/plexiglas-forming-manual.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM1ODE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Documentation externe/plexiglas-general-information-and-physical-properties.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM1ODQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Documentation externe/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM1ODg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQyMzE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Sécurité/thplieuse_securite.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTM1NTM="
+mimetype = "application/pdf"
+

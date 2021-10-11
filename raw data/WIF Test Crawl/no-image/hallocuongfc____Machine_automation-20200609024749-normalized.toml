@@ -1,0 +1,7 @@
+name = "Machine automation"
+repo = "https://wikifactory.com/@hallocuongfc/machine-automation"
+version = "20200609024749"
+spdx-license = "N/A"
+licensor = "Cường Phan"
+documentation-language = "en"
+function = "Automation, Robots, Port machinery, Port Operation"

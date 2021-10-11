@@ -1,0 +1,7 @@
+name = "drone"
+repo = "https://wikifactory.com/@syedsulthank/drone"
+version = "20210411114753"
+spdx-license = "N/A"
+licensor = "Syed Sulthan k"
+documentation-language = "en"
+function = "construction of drone"

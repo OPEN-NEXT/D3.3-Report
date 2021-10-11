@@ -1,0 +1,7 @@
+name = "Highly Visible bouy"
+repo = "https://wikifactory.com/@trizal1978/highly-visible-bouy"
+version = "20201225141732"
+spdx-license = "N/A"
+licensor = "TAUFIK RIZAL HAMSAN"
+documentation-language = "en"
+function = "bouy and leading light using low power laser as landmark marker and channel marker"

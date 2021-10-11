@@ -1,0 +1,7 @@
+name = "Iron Manufacturing"
+repo = "https://wikifactory.com/@hannantomeet/iron-manufacturing"
+version = "20200422025418"
+spdx-license = "N/A"
+licensor = "hannantomeet"
+documentation-language = "en"
+function = "Any iron manufacturing industry design"

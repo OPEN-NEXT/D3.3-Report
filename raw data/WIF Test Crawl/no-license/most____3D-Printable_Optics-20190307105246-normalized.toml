@@ -1,0 +1,18 @@
+name = "3D-Printable Optics"
+repo = "https://wikifactory.com/@jpearce/3d-printable-optics-21eaa"
+version = "20190307105246"
+spdx-license = "N/A"
+licensor = "Joshua Pearce"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDEzMDc="
+function = "This study demonstrates an open-source optical library, which significantly reduces the costs associated with much optical equipment, while also enabling relatively easily adapted customizable designs."
+[[files]]
+name = "/journal_publication.pone.0059840.PDF"
+permalink = "https://wikifactory.com/files/RmlsZToxNDEzMDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDEzMDk="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "asdf"
+repo = "https://wikifactory.com/@davidvajda1998/asdf"
+version = "20191212140047"
+spdx-license = "N/A"
+licensor = "davidvajda1998"
+documentation-language = "en"
+function = "asdfg"

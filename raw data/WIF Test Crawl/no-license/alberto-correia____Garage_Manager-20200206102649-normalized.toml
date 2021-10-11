@@ -1,0 +1,8 @@
+name = "Garage Manager"
+repo = "https://wikifactory.com/@alberto-correia/garage-manager"
+version = "20200206102649"
+spdx-license = "N/A"
+licensor = "Alberto Alves Correia"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDM3NjI="
+function = "A program design for managing Mechanic Workshops, only and only, Mechanic Worshops. It allows you to see, add, remove Employes, Cars, Clients, and all that you have in your workshop."

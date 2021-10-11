@@ -1,0 +1,7 @@
+name = "Industrial electricial"
+repo = "https://wikifactory.com/@stetsoooo4/industrial-electricial"
+version = "20200912143553"
+spdx-license = "N/A"
+licensor = "stetsoneze"
+documentation-language = "ro"
+function = "Industrial surge panel"

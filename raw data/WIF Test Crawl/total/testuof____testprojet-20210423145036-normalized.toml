@@ -1,0 +1,7 @@
+name = "testprojet"
+repo = "https://wikifactory.com/@yquere/testprojet"
+version = "20210423145036"
+spdx-license = "N/A"
+licensor = "Yves QUERE"
+documentation-language = "en"
+function = "blablab"

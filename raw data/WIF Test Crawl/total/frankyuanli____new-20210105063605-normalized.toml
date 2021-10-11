@@ -1,0 +1,7 @@
+name = "new"
+repo = "https://wikifactory.com/@frankyuanli/new"
+version = "20210105063605"
+spdx-license = "N/A"
+licensor = "frankyuanli"
+documentation-language = "en"
+function = "new project"

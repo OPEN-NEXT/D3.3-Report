@@ -1,0 +1,7 @@
+name = "Ken Test 1"
+repo = "https://wikifactory.com/@kennet63/ken-test-1"
+version = "20210213195820"
+spdx-license = "N/A"
+licensor = "kennet63"
+documentation-language = "et"
+function = "just a test"

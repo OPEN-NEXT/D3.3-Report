@@ -1,0 +1,7 @@
+name = "Tele machine"
+repo = "https://wikifactory.com/@romanpettenon/tele-machine"
+version = "20210412022513"
+spdx-license = "N/A"
+licensor = "romanpettenon"
+documentation-language = "en"
+function = "Development a safety industrial remote control for industrial machine like cranes and lifts."

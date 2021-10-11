@@ -1,0 +1,7 @@
+name = "Helpdroid"
+repo = "https://wikifactory.com/@vsj/helpdroid"
+version = "20200918175410"
+spdx-license = "N/A"
+licensor = "mynameisvaibhavjadhav"
+documentation-language = "en"
+function = "This a robot made to help doctors and nurses during covid 19 pandemic by reducing the direct contact with patient."

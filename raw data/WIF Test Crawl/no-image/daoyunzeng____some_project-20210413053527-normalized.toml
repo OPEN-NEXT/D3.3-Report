@@ -1,0 +1,22 @@
+name = "some project"
+repo = "https://wikifactory.com/@daoyunzeng/some-project"
+version = "20210413053527"
+spdx-license = "N/A"
+licensor = "daoyunzeng"
+documentation-language = "en"
+function = "Hello world"
+[[files]]
+name = "/as1-oc-214.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzgwOTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/dronecoria_v0_6 (1).3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzk0MjM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/dronecoria_v0_6.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjEzOTE="
+mimetype = "application/octet-stream"
+

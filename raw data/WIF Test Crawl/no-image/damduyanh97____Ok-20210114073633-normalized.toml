@@ -1,0 +1,27 @@
+name = "Ok"
+repo = "https://wikifactory.com/@damduyanh97/ok"
+version = "20210114073633"
+spdx-license = "N/A"
+licensor = "damduyanh97"
+documentation-language = "en"
+function = "ok"
+[[files]]
+name = "/framescale.iam"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg2MTE="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "/khung1.5.ipt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg2MDU="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "/laprap1.5.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg1OTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/xop.ipt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTg2MTQ="
+mimetype = "application/CDFV2-unknown"
+

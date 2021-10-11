@@ -1,0 +1,23 @@
+name = "900%"
+repo = "https://wikifactory.com/@bcronnie/900"
+version = "20191017145938"
+spdx-license = "N/A"
+licensor = "Ben Ronnie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzUwMTM="
+function = "Recycling and reusing materials to improve value."
+[[files]]
+name = "/long boat shape.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUwMTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/small hex tower.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUwMTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/square small.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUwMTg="
+mimetype = "application/octet-stream"
+

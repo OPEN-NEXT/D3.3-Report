@@ -1,0 +1,13 @@
+name = "Multi-Material Printer"
+repo = "https://wikifactory.com/@gorunus/multi-material-printer"
+version = "20190325205910"
+spdx-license = "N/A"
+licensor = "Alptekin Görünüş"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDcwNTg="
+function = "This machine is designed as a multifunction technical CNC.<br />\n<br />\n<br />\n<br />\nThe clay printer unit can heat up to 440 degrees Celsius and produce polymer-supported ceramic.<br />\n<br />\nIn addition, there is provided a structure on the z-axis that allows the placement of an Alumina-crucible of 1300 degrees for glass melting."
+[[files]]
+name = "/IMG_8730.MOV"
+permalink = "https://wikifactory.com/files/RmlsZToyMDcwNTk="
+mimetype = "video/quicktime"
+

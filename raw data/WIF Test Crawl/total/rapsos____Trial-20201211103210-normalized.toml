@@ -1,0 +1,7 @@
+name = "Trial"
+repo = "https://wikifactory.com/@rapsos/trial"
+version = "20201211103210"
+spdx-license = "N/A"
+licensor = "Aristeidis Rapsomatiotis"
+documentation-language = "en"
+function = "First trial project"

@@ -1,0 +1,13 @@
+name = "Recycled Electric Scooter"
+repo = "https://wikifactory.com/@plasticridemx/recycled-electric-scooter"
+version = "20201029184736"
+spdx-license = "N/A"
+licensor = "plasticridemx"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTYzMjY="
+function = "We design and manufacture an electric scooter <a href=\"https://www.youtube.com/watch?v=4tsbvIySy2g&amp;t=13s\">(design video process) </a>made from recycled plastic, using computer design cnc machinery, welding, screws, lathes and milling machines <a href=\"https://www.youtube.com/watch?v=23H3qY_cGI0\">Last Pitch Video</a> Makers4Good(10/28/20)\nInyection plastic process\nPlastic ride reduce the pollution in CDMX <a href=\"https://www.youtube.com/watch?v=3wqqI_Ownrg&amp;t=20s\">Video</a>"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjE4MTY="
+mimetype = "text/markdown"
+

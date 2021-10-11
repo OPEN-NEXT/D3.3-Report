@@ -1,0 +1,12 @@
+name = "Das boot"
+repo = "https://wikifactory.com/@rendier/das-boot"
+version = "20191104144506"
+spdx-license = "N/A"
+licensor = "Stijn "
+documentation-language = "en"
+function = "test project"
+[[files]]
+name = "/Beheer uw reserveringen - Booking.com chinees.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg3MDM="
+mimetype = "application/pdf"
+

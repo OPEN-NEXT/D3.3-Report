@@ -1,0 +1,7 @@
+name = "BiznoGram"
+repo = "https://wikifactory.com/@codeogramindia/biznogram"
+version = "20210131114905"
+spdx-license = "N/A"
+licensor = "codeogramindia"
+documentation-language = "en"
+function = "Business software"

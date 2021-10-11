@@ -1,0 +1,18 @@
+name = "Cinematography of Nature"
+repo = "https://wikifactory.com/@fergushughes/cinematography-of-nature"
+version = "20210121153759"
+spdx-license = "N/A"
+licensor = "Fergus Hughes"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MjQ0NDQ="
+function = "Finding a way to improve cinematography methods of nature, in the hope to increase its emotional effect on people, who can then positively impact climate change."
+[[files]]
+name = "/README-2.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQzNzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjQ0NTY="
+mimetype = "text/markdown"
+

@@ -1,0 +1,37 @@
+name = "ArcticMicroFactory"
+repo = "https://wikifactory.com/@hominidae/arcticmicrofactory"
+version = "20200528002340"
+spdx-license = "N/A"
+licensor = "Bryan Vandenbrink"
+documentation-language = "en"
+function = "The concept of the ArcticMicroFactory project involves putting everything needed to sustainably recycle a variety of mateirals into a 20 foot shipping container. Recyclng aluminum, aluminum cans, copper wire to plastic is within the realm of what is possible."
+[[files]]
+name = "ProjectManagement/Freemind Map_Arctic MicroFactory.mm"
+permalink = "https://wikifactory.com/files/RmlsZTozNDg1Nzc="
+mimetype = "application/x-freemind"
+
+[[files]]
+name = "ProjectManagement/GanttChart.gan"
+permalink = "https://wikifactory.com/files/RmlsZTozNDg1NzI="
+mimetype = "application/x-ganttproject"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU0NzU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Reference Photos/Sea Can_01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDczOTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Reference Photos/Sea Can_02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc0MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Reference Photos/Sea Can_03.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDc0MDE="
+mimetype = "image/jpeg"
+

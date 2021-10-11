@@ -1,0 +1,7 @@
+name = "Rotary CNC"
+repo = "https://wikifactory.com/@vanceracing57x/rotary-cnc"
+version = "20210331141401"
+spdx-license = "N/A"
+licensor = "vanceracing57x"
+documentation-language = "en"
+function = "A 2 axis router with a rotary head instead of an X axis"

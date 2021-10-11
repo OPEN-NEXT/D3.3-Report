@@ -1,0 +1,58 @@
+name = "Carry Mask"
+repo = "https://wikifactory.com/@aethelian/carry-mask"
+version = "20200704223527"
+spdx-license = "N/A"
+licensor = "Gert-Jan Van de Voorde"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDIyMjU="
+function = "Whether you need a spare mask, or want to keep your mask from becoming dirty. This sturdy mask case will keep your mask safe while you are out exploring, cycling, or sporting, even while you're playing chess.\nThe lid is antiviral and the design lets you remove the mask in the best, most hygienic way."
+[[files]]
+name = "/CM_3D Model.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIxODM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/CM_Bottom.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIxODc="
+mimetype = "image/png"
+
+[[files]]
+name = "/CM_gif.gif"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIyMjY="
+mimetype = "image/gif"
+
+[[files]]
+name = "/CM_Initial Sketches (2).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIxOTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/CM_Initial Sketches.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIzMDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/CM_Render Half Open.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIyMTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/CM_Render Open.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIyMTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/CM_Sections.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIxOTI="
+mimetype = "image/png"
+
+[[files]]
+name = "/CM_Top.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIxODU="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIzMDc="
+mimetype = "text/markdown"
+

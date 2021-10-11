@@ -1,0 +1,7 @@
+name = "Retropi arcade box "
+repo = "https://wikifactory.com/@rudolffortes/retropi-arcade-box"
+version = "20200625181901"
+spdx-license = "N/A"
+licensor = "rudolffortes"
+documentation-language = "en"
+function = "Arcade ... Retropi with 3d printed parts"

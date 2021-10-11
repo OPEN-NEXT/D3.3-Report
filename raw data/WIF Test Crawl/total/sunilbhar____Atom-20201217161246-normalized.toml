@@ -1,0 +1,7 @@
+name = "Atom"
+repo = "https://wikifactory.com/@sunilbhar/atom"
+version = "20201217161246"
+spdx-license = "N/A"
+licensor = "Sunil"
+documentation-language = "en"
+function = "Atom"

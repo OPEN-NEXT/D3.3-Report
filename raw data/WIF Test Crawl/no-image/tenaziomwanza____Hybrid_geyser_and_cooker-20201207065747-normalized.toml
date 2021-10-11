@@ -1,0 +1,7 @@
+name = "Hybrid geyser and cooker"
+repo = "https://wikifactory.com/@tenaziomwanza/hybrid-geyser-and-cooker"
+version = "20201207065747"
+spdx-license = "N/A"
+licensor = "tenazio mwanza"
+documentation-language = "en"
+function = "A cooking and water heating unit that use  renewable sources for domestic and institution energy saving that enables the user to simultaneously cook food while at the same time heat up water with excess released heat so as to maximize on heat energy usage, consumption, time spent, money saved."

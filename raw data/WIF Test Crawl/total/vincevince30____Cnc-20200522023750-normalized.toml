@@ -1,0 +1,7 @@
+name = "Cnc"
+repo = "https://wikifactory.com/@vincevince30/cnc"
+version = "20200522023750"
+spdx-license = "N/A"
+licensor = "Vince T. Mudd"
+documentation-language = "en"
+function = "cnc"

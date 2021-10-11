@@ -1,0 +1,17 @@
+name = "DRIVERLESSCAR New Concept"
+repo = "https://wikifactory.com/@swamy1958/driverlesscar-new-concept"
+version = "20210422084430"
+spdx-license = "N/A"
+licensor = "RAMA LINGA SWAMY"
+documentation-language = "en"
+function = "In this Project, if the Passenger opted for travel, and sits in his Trolley / Cabin, at the Pickup Center / Apartment Building TOP,  the Engine will pick up & drop the trolley at the other end with Bullet speed using Racing Car Technology  on separately laid Tracks."
+[[files]]
+name = "/DRIVER-LESS-CAR.pptx"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk4MDQ="
+mimetype = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk4MDE="
+mimetype = "text/markdown"
+

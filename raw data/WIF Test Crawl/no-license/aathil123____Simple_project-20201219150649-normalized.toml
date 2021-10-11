@@ -1,0 +1,7 @@
+name = "Simple project"
+repo = "https://wikifactory.com/@aathil123/simple-project"
+version = "20201219150649"
+spdx-license = "N/A"
+licensor = "Aathil Mohamed"
+documentation-language = "en"
+function = "Simple project"

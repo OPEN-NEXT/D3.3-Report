@@ -1,0 +1,7 @@
+name = "Mosquito Trap"
+repo = "https://wikifactory.com/@mikaelarhelger/mosquito-trap-b984c"
+version = "20200929103822"
+spdx-license = "N/A"
+licensor = "Mikael Arhelger"
+documentation-language = "ca"
+function = "Mosquito Trap: Push Pull"

@@ -1,0 +1,58 @@
+name = "Spoon-IT"
+repo = "https://wikifactory.com/@tauan/spoon-it"
+version = "20190622115435"
+spdx-license = "N/A"
+licensor = "Tauan Bernardo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDk2MDk="
+function = "Our fantastic team aims to create a device - our 'magic' spoon - that really takes care for those who suffer from food restrictions.<br />\n<b>Spoon-IT, the spoon that keeps you healthy!</b>"
+[[files]]
+name = "3D Design - Files/64834532_2206793469356914_2629329569307426816_n.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU0Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "3D Design - Files/cover.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU0NTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design - Files/handle.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU0NDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design - Files/shell.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU0NTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "Images/IMG_20190622_193310.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ5MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU0NjU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/SalinatorTabajara.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUyNDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Videos/video-1561262550.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNzQ="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Videos/video-1561262557.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNzM="
+mimetype = "video/mp4"
+
+[[files]]
+name = "Videos/video-1561289747.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyMTUzNzI="
+mimetype = "video/mp4"
+

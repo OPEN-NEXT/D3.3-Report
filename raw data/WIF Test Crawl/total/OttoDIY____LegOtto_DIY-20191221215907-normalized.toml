@@ -1,0 +1,13 @@
+name = "LegOtto DIY"
+repo = "https://wikifactory.com/@hankasandova/legotto-diy"
+version = "20191221215907"
+spdx-license = "N/A"
+licensor = "Hanka Sandova"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTc5MjY="
+function = "Build an Otto bot quick and easy with few Lego bricks, geekservos and micro:bit board."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTEwODM="
+mimetype = "text/markdown"
+

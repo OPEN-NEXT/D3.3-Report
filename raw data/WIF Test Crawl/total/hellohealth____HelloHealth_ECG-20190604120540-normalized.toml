@@ -1,0 +1,38 @@
+name = "HelloHealth_ECG "
+repo = "https://wikifactory.com/@rutvijpathak/hellohealthecg"
+version = "20190604120540"
+spdx-license = "N/A"
+licensor = "Rutvij Pathak"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODUzNzg="
+function = "This is the ECG created out of the standard FabLab standard inventory . which will be the Version v.0.1 of the this project."
+[[files]]
+name = "/ECG+AMP.brd"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU2MDY="
+mimetype = "application/xml"
+
+[[files]]
+name = "/ECG+AMP.sch"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU2MDU="
+mimetype = "application/xml"
+
+[[files]]
+name = "/ECG_shell.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU2MTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/FabEEG_v6.brd"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU2MDQ="
+mimetype = "application/xml"
+
+[[files]]
+name = "/FabEEG_v6.sch"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU2MDM="
+mimetype = "application/xml"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE2MDA="
+mimetype = "text/markdown"
+

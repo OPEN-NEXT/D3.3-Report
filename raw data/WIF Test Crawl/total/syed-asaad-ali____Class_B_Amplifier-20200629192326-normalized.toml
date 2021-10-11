@@ -1,0 +1,12 @@
+name = "Class B Amplifier"
+repo = "https://wikifactory.com/@syed-asaad-ali/class-b-amplifier"
+version = "20200629192326"
+spdx-license = "N/A"
+licensor = "Syed Asaad"
+documentation-language = "en"
+function = "It is a Class B Amplifier, related to Electronics."
+[[files]]
+name = "/ASSIGNMENT AIC B.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozOTUwMDA="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+

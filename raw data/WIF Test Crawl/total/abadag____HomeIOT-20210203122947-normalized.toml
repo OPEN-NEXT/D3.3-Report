@@ -1,0 +1,7 @@
+name = "HomeIOT"
+repo = "https://wikifactory.com/@abadag/homeiot"
+version = "20210203122947"
+spdx-license = "N/A"
+licensor = "abdulbasithashraf"
+documentation-language = "en"
+function = "Automation of Lights and remote control"

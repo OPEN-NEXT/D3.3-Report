@@ -1,0 +1,7 @@
+name = "Environment cleaning "
+repo = "https://wikifactory.com/@gesswiki/environment-cleaning"
+version = "20210117122325"
+spdx-license = "N/A"
+licensor = "George Saliba "
+documentation-language = "en"
+function = "Self sustained Vessels that works on pyrolysis of plastics and all kinds of waste that pollute the environment especially oceans and landfills ."

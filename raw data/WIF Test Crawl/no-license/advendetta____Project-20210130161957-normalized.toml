@@ -1,0 +1,7 @@
+name = "Project"
+repo = "https://wikifactory.com/@advendetta/project"
+version = "20210130161957"
+spdx-license = "N/A"
+licensor = "Advay Dhar"
+documentation-language = "en"
+function = "ok"

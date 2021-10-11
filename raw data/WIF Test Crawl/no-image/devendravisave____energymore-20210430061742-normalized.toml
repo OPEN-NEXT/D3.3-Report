@@ -1,0 +1,7 @@
+name = "energymore"
+repo = "https://wikifactory.com/@devendravisave/energymore"
+version = "20210430061742"
+spdx-license = "N/A"
+licensor = "Devendra Visave"
+documentation-language = "en"
+function = "more energy saving at one molecule"

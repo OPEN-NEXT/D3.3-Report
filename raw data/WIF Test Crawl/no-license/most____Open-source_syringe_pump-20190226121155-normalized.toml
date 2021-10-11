@@ -1,0 +1,648 @@
+name = "Open-source syringe pump"
+repo = "https://wikifactory.com/@jpearce/open-source-syringe-pump"
+version = "20190226121155"
+spdx-license = "N/A"
+licensor = "Joshua Pearce"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzA1Nw=="
+function = "A syringe pump was designed using freely available open-source computer aided design (CAD) software and manufactured using an open-source RepRap 3-D printer and readily available parts. The use of an open-source Raspberry Pi computer as a wireless control device is also illustrated."
+[[files]]
+name = "/Journal Publication"
+permalink = "https://wikifactory.com/files/RmlsZToyNzE2MA=="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/LICENSE.html"
+permalink = "https://wikifactory.com/files/RmlsZToyNzExNg=="
+mimetype = "text/html"
+
+[[files]]
+name = "most-scad-libraries-master/adafruit_lcd_shield_face.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYzMw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/airtripper-extruder-gca.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYzMg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/bearings.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYzMQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/belt_profiles.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYzMA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/belt_terminator.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYyOQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/bowden.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYyOA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/calibration_block.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYyNw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/caulk_extruder.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYyNg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/cog.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYyNQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fasteners.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYyNA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fio.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYyMw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/0.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYxOA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYxNw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/2.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYxNg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/3.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYxNQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/4.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYxNA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/5.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYxMw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/6.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYxMg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/7.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYxMQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/8.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYxMA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/9.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwOQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/!.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYyMg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/#.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYyMQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/+.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYyMA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/,.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYxOQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/=.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwOA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/@.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwNw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/[.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwNg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/].dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwNQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/_.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwNA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/__1.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwMw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/a-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwMg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/A.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwMQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/amperstand.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzYwMA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/asterisk.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU5OQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/b-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU5OA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/B.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU5Nw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/backslash.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU5Ng=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/bar.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU5NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/c-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU5NA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/C.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU5Mw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/closepar.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU5Mg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/d-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU5MQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/D.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU5MA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/dash.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU4OQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/dollarsign.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU4OA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/dot.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU4Nw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/doublequote.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU4Ng=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/e-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU4NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/E.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU4NA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/f-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU4Mw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/F.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU4Mg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/forwardslash.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU4MQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/g-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU4MA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/G.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3OQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/greaterthen.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3OA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/h-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3Nw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/H.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3Ng=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/i-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/I.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3NA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/j-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3Mw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/J.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3Mg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/k-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3MQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/K.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU3MA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/l-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU2OQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/L.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU2OA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/lessthen.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU2Nw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/m-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU2Ng=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/M.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU2NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/n-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU2NA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/N.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU2Mw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/o-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU2Mg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/O.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU2MQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/openpar.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU2MA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/p-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1OQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/P.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1OA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/percent.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1Nw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/q-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1Ng=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/Q.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/question.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1NA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/r-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1Mw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/R.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1Mg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/s-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1MQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/S.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU1MA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/singlequote.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0OQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/t-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0OA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/T.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0Nw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/u-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0Ng=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/U.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/v-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0NA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/V.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0Mw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/w-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0Mg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/W.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0MQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/x-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzU0MA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/X.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUzOQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/y-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUzOA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/Y.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUzNw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/z-lower.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUzNg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/fnt-LeagueGothic/Z.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUzNQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/gear_calculator.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUzNA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/hotends.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUzMw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/NEMA17.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUzMg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/OpenScadFont.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUzMQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/parametric_involute_gear_v5.0.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUzMA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/planetary_extruder.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyOQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/PlanetaryGearbox_V04.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyOA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/PlanetaryGearboxModules.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyNw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/readme.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyNg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/scadfont/example.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyNQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/scadfont/font2openscad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyMw=="
+mimetype = "text/x-python"
+
+[[files]]
+name = "most-scad-libraries-master/scadfont/font.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyNA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/scadfont/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyMg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/scadfont/text.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyMQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/sprocket_tooth.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyMA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/steppers.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUxOQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "most-scad-libraries-master/Triangles.scad"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUxOA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzIxMw=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "STL files/linear_actuator_v0-1.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzExNA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/linear_actuator_v0-2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzExMA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/linear_actuator_v0-3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzExMw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/linear_actuator_v0-4.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzExMQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/linear_actuator_v0-5.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzEwOA=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/linear_actuator_v0-6.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzEwOQ=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/linear_actuator_v0-7.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzExMg=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL files/linear_actuator_v0-8.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzEwNw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "/syringe-pump-attribution.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzExOA=="
+mimetype = "application/pdf"
+

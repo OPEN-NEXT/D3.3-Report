@@ -1,0 +1,7 @@
+name = "Test Project"
+repo = "https://wikifactory.com/@gavinrea/test-project"
+version = "20210313062544"
+spdx-license = "N/A"
+licensor = "gavin rea"
+documentation-language = "et"
+function = "just a test"

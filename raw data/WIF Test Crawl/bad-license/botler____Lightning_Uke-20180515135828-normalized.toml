@@ -1,0 +1,43 @@
+name = "Lightning Uke"
+repo = "https://wikifactory.com/@botler/lightning-uke"
+version = "20180515135828"
+spdx-license = "BAD"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTEw"
+function = "Full size 3D printable Soprano Ukulele with built-in amplifier for under $60. For the rocker trapped inside you, by <a href=\"https://twitter.com/penk\">Ping-Hsun Chen</a>."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxOTA5"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTgw"
+mimetype = "text/markdown"
+
+[[files]]
+name = "stl/body-solid-v21.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxOTEx"
+mimetype = "application/sla"
+
+[[files]]
+name = "stl/body-v21-.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxOTEz"
+mimetype = "application/sla"
+
+[[files]]
+name = "stl/handle-v20.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxOTE0"
+mimetype = "application/sla"
+
+[[files]]
+name = "stl/neck-v20.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxOTEy"
+mimetype = "application/sla"
+
+[[files]]
+name = "stl/v21.123dx"
+permalink = "https://wikifactory.com/files/RmlsZToxOTE1"
+mimetype = "application/zip"
+

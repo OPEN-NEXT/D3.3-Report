@@ -1,0 +1,7 @@
+name = "Energy Storage systems"
+repo = "https://wikifactory.com/@masko/energy-storage-systems"
+version = "20200813060201"
+spdx-license = "N/A"
+licensor = "Masud Musa"
+documentation-language = "en"
+function = "Energy storage systems i.e battery, how to recycle, construct and maintain."

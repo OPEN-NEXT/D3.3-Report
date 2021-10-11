@@ -1,0 +1,18 @@
+name = "Atari Punk Console"
+repo = "https://wikifactory.com/@diegoarias/atari-punk-console"
+version = "20181017173451"
+spdx-license = "CC-BY-4.0"
+licensor = "Diego Arias"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMzYwNQ=="
+function = "Project executed for the Circuit Breakers Fall18 Session at NYUAD. Custom-made APC or Sound Synthesizer that uses a 556 dual timer IC."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMzU4OA=="
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTEzMDQ="
+mimetype = "text/markdown"
+

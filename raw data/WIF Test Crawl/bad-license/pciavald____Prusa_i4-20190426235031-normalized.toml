@@ -1,0 +1,12 @@
+name = "Prusa i4"
+repo = "https://wikifactory.com/@pciavald/prusa-i4"
+version = "20190426235031"
+spdx-license = "BAD"
+licensor = "Pierre-Alexis Ciavaldini"
+documentation-language = "ca"
+function = "Prusa i3 enhanced"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMDYxMTg="
+mimetype = "text/plain"
+

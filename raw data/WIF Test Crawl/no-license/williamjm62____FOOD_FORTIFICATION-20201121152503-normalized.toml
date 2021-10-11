@@ -1,0 +1,7 @@
+name = "FOOD FORTIFICATION"
+repo = "https://wikifactory.com/@williamjm62/food-fortification"
+version = "20201121152503"
+spdx-license = "N/A"
+licensor = "William Mwamasangula"
+documentation-language = "en"
+function = "Food fortification using organic food products ! No chemical use"

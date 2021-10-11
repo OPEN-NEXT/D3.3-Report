@@ -1,0 +1,12 @@
+name = "Zark"
+repo = "https://wikifactory.com/@zakfifa/zark"
+version = "20210427181445"
+spdx-license = "N/A"
+licensor = "zakfifa"
+documentation-language = "en"
+function = "Robotic Arm"
+[[files]]
+name = "/ns.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTIwMDc="
+mimetype = "application/sla"
+

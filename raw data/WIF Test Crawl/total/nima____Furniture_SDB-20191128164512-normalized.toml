@@ -1,0 +1,13 @@
+name = "Furniture SDB"
+repo = "https://wikifactory.com/@nima/furniture-sdb"
+version = "20191128164512"
+spdx-license = "N/A"
+licensor = "Nawel Khenak"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODYzNTA="
+function = "This project describes the construction of an item of 2-storey storage furniture (dimensions: 52 x 50 x 25 [cm]).\nMaterial used: Beech wood, depth = 5 mm.\nMachines used: Laser-cutting machine."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODYzNjI="
+mimetype = "text/markdown"
+

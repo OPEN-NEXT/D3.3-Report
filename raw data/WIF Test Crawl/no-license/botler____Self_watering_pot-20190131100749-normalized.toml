@@ -1,0 +1,28 @@
+name = "Self watering pot"
+repo = "https://wikifactory.com/@botler/self-watering-pot"
+version = "20190131100749"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMzk4MQ=="
+function = "3d printed self watering pot.\n\nDesigned by <a href=\"https://parallelgoods.co/\">Parallel Goods</a>."
+[[files]]
+name = "/Photo fo the two Parts.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMzg2Mg=="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDIyMA=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "STL Files/small_pot.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM1Mw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/small_reservoir.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM1Mg=="
+mimetype = "application/sla"
+

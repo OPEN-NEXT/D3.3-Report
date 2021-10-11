@@ -1,0 +1,7 @@
+name = "Mobile Phone detector"
+repo = "https://wikifactory.com/@antony70807/mobile-phone-detector"
+version = "20201101052317"
+spdx-license = "N/A"
+licensor = "Antony John"
+documentation-language = "en"
+function = "Using LM 358 IC or by using CA3130 IC"

@@ -1,0 +1,37 @@
+name = "PCB"
+repo = "https://wikifactory.com/@zqch1818/pcb"
+version = "20210408090520"
+spdx-license = "N/A"
+licensor = "xiaoqiang"
+documentation-language = "it"
+function = "otto+ pcb file"
+[[files]]
+name = "/Gerber_PCB_2020-07-29_17-28-41_2020-07-30_10-00-24.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc1NjU="
+mimetype = "application/zip"
+
+[[files]]
+name = "/IMG_20200801_092614.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc1NzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/lceda-6.3.53-windows-x64.rar"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc1ODI="
+mimetype = "application/rar"
+
+[[files]]
+name = "/QQ截图20200729190808.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc1NzA="
+mimetype = "image/png"
+
+[[files]]
+name = "/QQ截图20200729190827.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc1Njk="
+mimetype = "image/png"
+
+[[files]]
+name = "/QQ截图20200729191152.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Nzc1Njg="
+mimetype = "image/png"
+

@@ -1,0 +1,38 @@
+name = "Cross Pollination Project"
+repo = "https://wikifactory.com/@rubin/cross-pollination-project"
+version = "20190604024957"
+spdx-license = "N/A"
+licensor = "B Rubin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTE2Njg="
+function = "This project aims to support the organization of e-NABLE community stories, experiment with shared strategies for media, and explore avenues for monetization through social campaigns."
+[[files]]
+name = "Images/2019-06-04.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE2NzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Images/pollination.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE2NzI="
+mimetype = "image/png"
+
+[[files]]
+name = "MEDIA/eNABLE _ Marketing the Mission.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3MDQ="
+mimetype = "application/pdf"
+
+[[files]]
+name = "MEETING Notes/Ben Notes.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE0OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "MEETING Notes/Schull Notes.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE0OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTE3MDI="
+mimetype = "text/markdown"
+

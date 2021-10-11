@@ -1,0 +1,43 @@
+name = "disposable copper bottle"
+repo = "https://wikifactory.com/@sriki/disposable-copper-bottle"
+version = "20200705171313"
+spdx-license = "N/A"
+licensor = "Srikanth P"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDM5MzY="
+function = "A bottle that can save your money as well as you from microbial. it is a simple and unique design where plastic is protected from virus resistant materials."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM5NjM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "solid part file/CAP.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQwMTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "solid part file/CASING.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQwMDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "solid part file/TANK.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQwMTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "stl files/CAP.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM5NzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "stl files/CASING.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM5NzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "stl files/TANK.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM5NzA="
+mimetype = "application/sla"
+

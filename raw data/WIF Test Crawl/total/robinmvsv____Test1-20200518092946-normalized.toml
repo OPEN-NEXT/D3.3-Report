@@ -1,0 +1,7 @@
+name = "Test1"
+repo = "https://wikifactory.com/@robinmvsv/test1"
+version = "20200518092946"
+spdx-license = "N/A"
+licensor = "Robin"
+documentation-language = "en"
+function = "no"

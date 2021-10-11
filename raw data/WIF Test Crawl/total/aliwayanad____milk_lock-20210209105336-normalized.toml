@@ -1,0 +1,7 @@
+name = "milk lock"
+repo = "https://wikifactory.com/@aliwayanad/milk-lock"
+version = "20210209105336"
+spdx-license = "N/A"
+licensor = "shakkeer"
+documentation-language = "en"
+function = "new way to cut milk bags which will avoid scissring the bag and making it as plastic waste"

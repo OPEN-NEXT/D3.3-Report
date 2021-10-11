@@ -1,0 +1,13 @@
+name = "Basic Mac Air Cam Cover"
+repo = "https://wikifactory.com/@lukasmaximus89/basic-mac-air-cam-cover"
+version = "20180406121623"
+spdx-license = "CC-BY-4.0"
+licensor = "Luke Henderson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjUz"
+function = "The issue of cybersecurity is becoming more and more prevalent. Who knows if you&#x27;re being watched. 3D print this and be rest assured that no one is secretly spying on you through your webcam whilst your not using it."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMjUw"
+mimetype = "text/plain"
+

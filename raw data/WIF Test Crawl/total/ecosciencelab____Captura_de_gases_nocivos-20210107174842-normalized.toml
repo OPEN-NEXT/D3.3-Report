@@ -1,0 +1,13 @@
+name = "Captura de gases nocivos"
+repo = "https://wikifactory.com/@ecosciencelab/captura-de-gases-nocivos"
+version = "20210107174842"
+spdx-license = "N/A"
+licensor = "ecosciencelab"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo0NTUyMzc="
+function = "Sistema integral biotecnológico para la captura y transformación de gases de combustión generados por fuentes fijas industriales.\n\nEl sistema permite capturar los gases de combustión mediante organismos fotosintéticos, los cuales a su vez se encargan de transformarlos en oxígeno y biomasa."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTQ0NjQ="
+mimetype = "text/markdown"
+

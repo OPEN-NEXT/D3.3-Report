@@ -1,0 +1,18 @@
+name = "Recycleroo"
+repo = "https://wikifactory.com/@ewanbrammall/recycleroo"
+version = "20210115153933"
+spdx-license = "CC-BY-4.0"
+licensor = "Ewan Brammall"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODkwMDc="
+function = "A recycling scheme for cafes so they no longer have to pay for recycling to be taken away and something of value can be created from something that is actually a financial loss. This project will propose a recycling scheme for cafes as well as showing a possible product that can be made."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTkzOTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk3NTU="
+mimetype = "text/markdown"
+

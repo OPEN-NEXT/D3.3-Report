@@ -1,0 +1,93 @@
+name = "Green House"
+repo = "https://wikifactory.com/@botler/green-house"
+version = "20180905094919"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMDk4NA=="
+function = "It is a 4' x 3' sprouting seeds green house used to start a garden plants from seed to early spring. When the temperature within the green house get too hot , a fan will start the air circulation. By <a href=\"http://archive.fabacademy.org/archives/2016/fablablccc/students/457/project.html\">Karen Hardway</a>"
+[[files]]
+name = "Design/2x4_Sides.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIxNA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Beams_for_Roof.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIxMA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/boardholder_3Dprinter.STL"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIwMw=="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "Design/Cable_board_holder.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIxMw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/gh.DXF"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIwNQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Glass-plexi-Center.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIwOA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Glass-plexi-End.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIxNg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Glass-plexi-Middle.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIwNg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/GreenHouseAssembly.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIxMg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Roof_Glass.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIwNA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Side_supports.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIwMg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Truss.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIxMQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/Windows.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIwOQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Board.brd"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIyMg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Schematic.sch"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIyMQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/Code.c"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIyNA=="
+mimetype = "text/x-csrc"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMTE4Ng=="
+mimetype = "text/markdown"
+

@@ -1,0 +1,18 @@
+name = "Theremin"
+repo = "https://wikifactory.com/@fabiosouza/theremin"
+version = "20191212131050"
+spdx-license = "CC-BY-4.0"
+licensor = "Fabio Souza"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZToyOTAxODU="
+function = "Projeto de um theremin usando a Franzininho DIY"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyOTAxODI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTAxODc="
+mimetype = "text/markdown"
+

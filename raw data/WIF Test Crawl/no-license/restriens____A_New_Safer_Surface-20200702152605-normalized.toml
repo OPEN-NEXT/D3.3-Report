@@ -1,0 +1,53 @@
+name = "A New Safer Surface "
+repo = "https://wikifactory.com/@restriens/a-new-safer-surface"
+version = "20200702152605"
+spdx-license = "N/A"
+licensor = "Euardo Sifuentes Galván"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTgzNDg="
+function = "A New Safer Surface can be achieved by improving previous surfaces with 3D technologies, copper sheet, and safe materials. \nWhen you go to a hospital, bank or office there are surfaces that have been touch by the hands of visitors in the building this day and the days before. \nMake it #safetoplay"
+[[files]]
+name = "/ANSS.step"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg0MDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/ASaferRD.step"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg1NzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Desk Before.step"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg0NTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Desk Improved.step"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg0MjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Fixture.step"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg0Nzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Fixture.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTgzNTA="
+mimetype = "application/vnd.ms-pki.stl"
+
+[[files]]
+name = "/Half desk.step"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg0MjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTk1NjM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Receptiondesk.step"
+permalink = "https://wikifactory.com/files/RmlsZTozOTg1NjI="
+mimetype = "text/plain"
+

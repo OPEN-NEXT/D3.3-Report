@@ -1,0 +1,103 @@
+name = "Dispensador"
+repo = "https://wikifactory.com/@filipacurado97/dispensador"
+version = "20210131185107"
+spdx-license = "N/A"
+licensor = "Filipa Curado"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTo1MzA5OTI="
+function = "Como fazer um dispensador?\nDispensador de álcool gel automático com pulverizadores ativado por sensores de movimento. Contém sinais sonoros para invisuais ativados por sensores de movimento/proximidade."
+[[files]]
+name = "/código no make.code microbit.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE4OTM="
+mimetype = "image/png"
+
+[[files]]
+name = "/d_alcool.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/d_combustivel.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/d_doces.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1ODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/d_molhos.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjI1Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Dispensador_Proj1.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzA5OTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/microbit 1.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE4ODY="
+mimetype = "image/png"
+
+[[files]]
+name = "/microbit 2.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE4ODc="
+mimetype = "image/png"
+
+[[files]]
+name = "/microbit 3.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE4ODg="
+mimetype = "image/png"
+
+[[files]]
+name = "/microbit 4.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE4ODk="
+mimetype = "image/png"
+
+[[files]]
+name = "/microbit 5.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE4OTA="
+mimetype = "image/png"
+
+[[files]]
+name = "/microbit 6.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE4OTE="
+mimetype = "image/png"
+
+[[files]]
+name = "/microbit 7.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE4OTI="
+mimetype = "image/png"
+
+[[files]]
+name = "/microbit-Sensor-de-distância.hex"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE4OTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/microbit.PNG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE4ODU="
+mimetype = "image/png"
+
+[[files]]
+name = "/Prancha A3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI5MTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI5MTM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Renders 3D.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzI5MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Vídeo microbit a funcionar 2.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzE4OTQ="
+mimetype = "video/mp4"
+

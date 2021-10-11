@@ -1,0 +1,7 @@
+name = "Non Equilibrium Generator"
+repo = "https://wikifactory.com/@zuryasebastian/non-equilibrium-generator"
+version = "20201126101709"
+spdx-license = "N/A"
+licensor = "Zurya Sebastian"
+documentation-language = "en"
+function = "This project is based on creating a constant kinetic energy feed back electric generators that may break the laws of conservativation of energy."

@@ -1,0 +1,38 @@
+name = "Clean Cookstove Knob"
+repo = "https://wikifactory.com/@mayaroman/clean-cookstove-knob"
+version = "20200507161711"
+spdx-license = "BAD"
+licensor = "Maya Roman"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDcyMjA="
+function = "A spare knob for the African Clean Energy cookstove"
+[[files]]
+name = "CAD Data/EE001_CAD.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyMjg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "CAD Data/EE001_CAD.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyMjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "Drawing Pack/EE001_Eng_Dwg.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyMzA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Drawing Pack/EE001_Eng_Dwg.slddrw"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyMzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyMjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDcyNTc="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Herman's Bed"
+repo = "https://wikifactory.com/@ronmakebell/hermans-bed"
+version = "20201210040215"
+spdx-license = "N/A"
+licensor = "Ron"
+documentation-language = "en"
+function = "Bed for Herman"

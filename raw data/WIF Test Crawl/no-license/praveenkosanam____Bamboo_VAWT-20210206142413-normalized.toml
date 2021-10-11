@@ -1,0 +1,7 @@
+name = "Bamboo VAWT"
+repo = "https://wikifactory.com/@praveenkosanam/bamboo-vawt"
+version = "20210206142413"
+spdx-license = "N/A"
+licensor = "praveenkosanam"
+documentation-language = "en"
+function = "I am trying to Build a Vertical Axis Wind Turbine using bamboo, I would like to design it with minimal parts. If we have many of these.. they should be able to provide enough KW to power 2 HP motor."

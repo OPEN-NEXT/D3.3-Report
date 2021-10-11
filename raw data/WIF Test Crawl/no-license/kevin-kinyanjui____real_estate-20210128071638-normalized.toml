@@ -1,0 +1,7 @@
+name = "real estate"
+repo = "https://wikifactory.com/@kevin-kinyanjui/real-estate"
+version = "20210128071638"
+spdx-license = "N/A"
+licensor = "Kevin Kinyanjui"
+documentation-language = "en"
+function = "Gated community with all social amenities living with a style"

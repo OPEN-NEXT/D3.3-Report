@@ -1,0 +1,7 @@
+name = "Smart Coaster"
+repo = "https://wikifactory.com/@sonika/smart-coaster"
+version = "20191028114547"
+spdx-license = "N/A"
+licensor = "Sonika KG"
+documentation-language = "en"
+function = "A customizable smart coaster which provides users with various smart services."

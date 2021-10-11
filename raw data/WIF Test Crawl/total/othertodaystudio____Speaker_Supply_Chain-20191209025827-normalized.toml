@@ -1,0 +1,8 @@
+name = "Speaker Supply Chain"
+repo = "https://wikifactory.com/@danbalint/speaker-supply-chain"
+version = "20191209025827"
+spdx-license = "N/A"
+licensor = "Dan Balint"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODkwNDQ="
+function = "Examining the supply chain of generic speaker drivers"

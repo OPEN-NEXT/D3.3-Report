@@ -1,0 +1,12 @@
+name = "Test"
+repo = "https://wikifactory.com/@tomveuskens/test"
+version = "20200608141508"
+spdx-license = "N/A"
+licensor = "Tom"
+documentation-language = "en"
+function = "Test"
+[[files]]
+name = "/shower v3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNzYxOTc="
+mimetype = "application/sla"
+

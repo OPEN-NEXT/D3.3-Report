@@ -1,0 +1,7 @@
+name = "Art"
+repo = "https://wikifactory.com/@anil-muthubandara/art"
+version = "20210129073725"
+spdx-license = "N/A"
+licensor = "Anil Piyasena Muthubandara"
+documentation-language = "en"
+function = "Drawing"

@@ -1,0 +1,13 @@
+name = "BigFDM"
+repo = "https://wikifactory.com/@satsha/bigfdm"
+version = "20190729131533"
+spdx-license = "N/A"
+licensor = "Daniele Ingrassia"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjgwNDQ="
+function = "BigFDM has a printing area of 800 x 800 x 900mm, its BOM is less than $3,000, and can be made in any fablab near to you!"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjgxOTg="
+mimetype = "text/markdown"
+

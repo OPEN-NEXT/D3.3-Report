@@ -1,0 +1,33 @@
+name = "OTTOBITE"
+repo = "https://wikifactory.com/@personalrobots/ottobite"
+version = "20191103204815"
+spdx-license = "N/A"
+licensor = "personalrobots"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzgxNzM="
+function = "Modified version of OTTO ZERO that can \"open\" it's mouth and  \"speak\" or \"eat\" !"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgxNzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/otto bite base .stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgxMzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/otto bite head led eyes.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgxMjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/otto bite head.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgxMjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzgxODA="
+mimetype = "text/markdown"
+

@@ -1,0 +1,73 @@
+name = "Safety Wristband #m4g"
+repo = "https://wikifactory.com/@gabo98/safety-wristband-m4g"
+version = "20200731013539"
+spdx-license = "N/A"
+licensor = "Gabriel Maldonado"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MTc1MTQ="
+function = "This project goal is to develop a bracelet that offers children security at a restaurant’s playground This bracelet works with RFID sensors that helps the adult to locate the kid on a designated area."
+[[files]]
+name = "/Article.docx"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0NDM="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/Child's wristband operating code.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0NDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Circuit image.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0NDk="
+mimetype = "image/png"
+
+[[files]]
+name = "/Database image.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Estuche circuito nene.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0NTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Estuche circuito.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0NTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Inner link.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0NTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/innerpeque.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0NTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Parent's wristband operating code.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0NDg="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0ODU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Tapa.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0NTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Wristband Operation Video Part 1.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0NDQ="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Wristband Operation Video Part 2..mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0MTc0NDY="
+mimetype = "video/mp4"
+

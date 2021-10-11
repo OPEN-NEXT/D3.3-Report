@@ -1,0 +1,172 @@
+name = "biogum"
+repo = "https://wikifactory.com/@orduzandres02/biogum"
+version = "20210203161302"
+spdx-license = "N/A"
+licensor = "orduzandres02"
+documentation-language = "no"
+function = "biogum for bauker drill"
+[[files]]
+name = "/25MM.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ5MDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/26.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ5MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/BIOGUN1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4ODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/BIOGUN2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/BIOGUN3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/BIOGUN4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/BIOGUN5.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/BIOGUN6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4ODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/BIOGUN7.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/BIOGUN8.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/BIOGUN PIEZA 1 v0.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ5MDE="
+mimetype = "application/fusion"
+
+[[files]]
+name = "/BIOGUN PIEZA 1 v1.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ5MDA="
+mimetype = "application/fusion"
+
+[[files]]
+name = "/BIOGUN PIEZA 1 v1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4OTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/BIOGUN PIEZA 1 v2.f3d"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4OTI="
+mimetype = "application/fusion"
+
+[[files]]
+name = "/BIOGUN PIEZA 1 v2.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4OTE="
+mimetype = "image/png"
+
+[[files]]
+name = "/BIOGUN PIEZA 1 v2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4OTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/BIOGUN.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/BOQUILLA.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4NzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Bot_Main_Mount.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4NzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/FIJADOR DE BOQUILLA.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4NzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/FIJADOR.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4NzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/FOXN8290.MP4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4NzE="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/IMG_7767.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4NzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_7768.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_7769.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4Njg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_7770.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_7771.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_7772.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/IMG_7905.MOV"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4NDU="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "/Magazine_Holder1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4NDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/SOPORTEUPBIOMATERIAL.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4NDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/TORNILLO.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4NDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/TUERCA.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzQ4NDA="
+mimetype = "application/sla"
+

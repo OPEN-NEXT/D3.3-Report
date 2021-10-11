@@ -1,0 +1,13 @@
+name = "PortFolio L. Fiorrito"
+repo = "https://wikifactory.com/@uboopenfactory/portfolio-l-fiorrito"
+version = "20201209093218"
+spdx-license = "N/A"
+licensor = "uboopenfactory"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo0ODYzNzk="
+function = "Graphisme, Communication inclusive et Transition numérique. Projet de création d'auto-entreprise dans le graphisme, mélangeant communication inclusive (inclusion des individus) et transition numérique."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTU1MjM="
+mimetype = "text/markdown"
+

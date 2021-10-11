@@ -1,0 +1,7 @@
+name = "tryitout"
+repo = "https://wikifactory.com/@phamtuanchip/tryitout"
+version = "20201225092807"
+spdx-license = "N/A"
+licensor = "PHAM Tuan"
+documentation-language = "en"
+function = "this to try the new platform"

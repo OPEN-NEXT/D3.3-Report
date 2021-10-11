@@ -1,0 +1,7 @@
+name = "my 1st project "
+repo = "https://wikifactory.com/@kaouther-ben-haddada/my-1st-project"
+version = "20200709121440"
+spdx-license = "N/A"
+licensor = "Ben Haddada Kaouther"
+documentation-language = "en"
+function = "it's not easy to start a new project \ni have many ideas and i didn't find the way to do my first step \nmabe it's the begining"

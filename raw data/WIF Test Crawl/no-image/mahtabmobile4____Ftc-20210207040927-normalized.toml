@@ -1,0 +1,12 @@
+name = "Ftc"
+repo = "https://wikifactory.com/@mahtabmobile4/ftc"
+version = "20210207040927"
+spdx-license = "N/A"
+licensor = "Mahtab alam "
+documentation-language = "en"
+function = "Fast estesting"
+[[files]]
+name = "/Light Blub black ling.ai"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzcxNjY="
+mimetype = "application/postscript"
+

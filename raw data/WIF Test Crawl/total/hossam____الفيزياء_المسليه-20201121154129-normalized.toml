@@ -1,0 +1,7 @@
+name = "الفيزياء المسليه "
+repo = "https://wikifactory.com/@hossammaher/الفيزياء-المسليه"
+version = "20201121154129"
+spdx-license = "N/A"
+licensor = "Hossam maher amin "
+documentation-language = "ar"
+function = "هو عده مشاريع تعتمد على قوانين فيزيائيه منطقيه نقوم بتدوين طريقه عملها وندون المواد المستخدمه وسبب حدوث الظواهر الناتجه عن التجارب من بدايه الصفوف الاول الثانوي حتى الثالث الثانوي"

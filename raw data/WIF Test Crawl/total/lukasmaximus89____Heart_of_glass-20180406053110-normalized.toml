@@ -1,0 +1,13 @@
+name = "Heart of glass"
+repo = "https://wikifactory.com/@lukasmaximus89/heart-of-glass"
+version = "20180406053110"
+spdx-license = "CC0-1.0"
+licensor = "Luke Henderson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjQ4"
+function = "Laser cut acrylic ornament which creates the illusion of a heart trapped inside a glass cube"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMjQ3"
+mimetype = "text/plain"
+

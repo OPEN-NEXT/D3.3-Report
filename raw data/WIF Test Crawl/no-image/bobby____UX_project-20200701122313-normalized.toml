@@ -1,0 +1,12 @@
+name = "UX project"
+repo = "https://wikifactory.com/@bobby/ux-project"
+version = "20200701122313"
+spdx-license = "N/A"
+licensor = "Bobby"
+documentation-language = "en"
+function = "This is awesome."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTc4MzM="
+mimetype = "text/markdown"
+

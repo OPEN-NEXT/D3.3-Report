@@ -1,0 +1,7 @@
+name = "Valitirus"
+repo = "https://wikifactory.com/@davidnightingale/valitirus"
+version = "20191125150902"
+spdx-license = "N/A"
+licensor = "david nightingale"
+documentation-language = "en"
+function = "Valitirus"

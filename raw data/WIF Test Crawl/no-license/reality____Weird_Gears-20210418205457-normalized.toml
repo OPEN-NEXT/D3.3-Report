@@ -1,0 +1,7 @@
+name = "Weird Gears"
+repo = "https://wikifactory.com/@reality/weird-gears"
+version = "20210418205457"
+spdx-license = "N/A"
+licensor = "Henry F Kroll III"
+documentation-language = "en"
+function = "I saw a demo of some odd-shaped gears that turn. We're going to make a similar thing with a crank and handle. It could be used as part of a class demonstration or toy, for example."

@@ -1,0 +1,12 @@
+name = "x"
+repo = "https://wikifactory.com/@marujaj/x"
+version = "20210218045904"
+spdx-license = "N/A"
+licensor = "Maria Eugenia Sanchez"
+documentation-language = "en"
+function = "x"
+[[files]]
+name = "/geo_house.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTQ5ODA="
+mimetype = "application/octet-stream"
+

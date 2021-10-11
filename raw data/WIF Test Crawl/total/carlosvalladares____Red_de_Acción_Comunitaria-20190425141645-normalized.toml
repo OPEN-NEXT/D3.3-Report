@@ -1,0 +1,28 @@
+name = "Red de Acción Comunitaria"
+repo = "https://wikifactory.com/@carlosvalladares/red-de-acción-comunitaria"
+version = "20190425141645"
+spdx-license = "N/A"
+licensor = "Carlos Valladares"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDU5MzQ="
+function = "Red de Acción Comunitaria is an early warning system based on community organization and a standalone communications network to empower vulnerable groups in the occurrence of natural disasters."
+[[files]]
+name = "images/Afiches-01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Afiches-02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0Mjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/Afiches-03.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0Mjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY0MjQ="
+mimetype = "text/plain"
+

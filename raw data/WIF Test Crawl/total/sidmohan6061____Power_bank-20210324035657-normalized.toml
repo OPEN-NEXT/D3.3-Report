@@ -1,0 +1,7 @@
+name = "Power bank "
+repo = "https://wikifactory.com/@sidmohan6061/power-bank"
+version = "20210324035657"
+spdx-license = "N/A"
+licensor = "sidmohan6061"
+documentation-language = "en"
+function = "Power bank around 60k mah, full fill the need of power in travel , charges with a mini wind generator or water turbine"

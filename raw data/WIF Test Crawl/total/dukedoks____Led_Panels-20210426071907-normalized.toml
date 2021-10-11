@@ -1,0 +1,113 @@
+name = "Led Panels"
+repo = "https://wikifactory.com/@dukedoks/led-panels"
+version = "20210426071907"
+spdx-license = "N/A"
+licensor = "Antonio García Tomás"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1OTIyMTk="
+function = "This modular LED panels gives us the possibility to create different compositions on our wall.\nIt have 3D printed estructure and the covers are thermoformed in a Form Box."
+[[files]]
+name = "Photos/Frame spot 01.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzNTc="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos/Frame spot 02.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzNTY="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos/Frame spot 03.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzNTU="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos/Frame spot 04.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzNTQ="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos/Paneles 01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzMjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Paneles 02.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzMjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Paneles 03.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzMTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Paneles 04.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzMTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Paneles 05.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzMTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Paneles 06.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzMTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Paneles 07.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzMTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Paneles 08.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzMTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Paneles 09.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzMTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Paneles 10.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzMTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/Paneles LED Stills_00000.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzNjA="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos/Paneles LED Stills_00001.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzNTk="
+mimetype = "image/png"
+
+[[files]]
+name = "Photos/Paneles LED Stills_00002.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzNTg="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzNjU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "STL Files/Clip.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzMDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Mold.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzMDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Panel.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTEzMDk="
+mimetype = "application/sla"
+

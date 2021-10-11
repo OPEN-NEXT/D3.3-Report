@@ -1,0 +1,28 @@
+name = "The Fabnik"
+repo = "https://wikifactory.com/@niko11/wind-turbine"
+version = "20180906142033"
+spdx-license = "MIT"
+licensor = "Niko"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTAxNTg="
+function = "A Vertical-Axis Wind Turbine (VAWT)"
+[[files]]
+name = "Final Tachometer Files/tach1.brd"
+permalink = "https://wikifactory.com/files/RmlsZToxMjYxMg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Final Tachometer Files/tach1.sch"
+permalink = "https://wikifactory.com/files/RmlsZToxMjYxMw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMjEyNA=="
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxMjYyNQ=="
+mimetype = "text/markdown"
+

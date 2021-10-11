@@ -1,0 +1,13 @@
+name = "Voxel Link"
+repo = "https://wikifactory.com/@tokytome/voxel-link"
+version = "20180923221514"
+spdx-license = "N/A"
+licensor = "Diana Veiga"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMjU1Mw=="
+function = "Voxel puzzle of Classic Link from The Legend of Zelda (NES), based on the amiibo figure.\nDesigned so it can be 3D printed without supports and with different colors.\nWork in progress!"
+[[files]]
+name = "/VoxelLink.STEP"
+permalink = "https://wikifactory.com/files/RmlsZToxMjU1MA=="
+mimetype = "application/octet-stream"
+

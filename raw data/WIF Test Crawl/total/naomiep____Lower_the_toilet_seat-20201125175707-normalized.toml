@@ -1,0 +1,13 @@
+name = "Lower the toilet seat"
+repo = "https://wikifactory.com/@naomiep/lower-the-toilet-seat"
+version = "20201125175707"
+spdx-license = "N/A"
+licensor = "Naomie Perrier"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0ODk1MDk="
+function = "We made this as a little reminder for the men to lower the toilet seat. \n\nMade in Inkscape then cut with the Silhouette Cameo.\nMaterial used: Teal Vinyl sticker sheet"
+[[files]]
+name = "/lower the seat.studio3"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODk1MTA="
+mimetype = "application/octet-stream"
+

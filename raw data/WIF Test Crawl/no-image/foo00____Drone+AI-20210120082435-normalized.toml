@@ -1,0 +1,12 @@
+name = "Drone+AI"
+repo = "https://wikifactory.com/@foo00/diyaidrone"
+version = "20210120082435"
+spdx-license = "MIT"
+licensor = "Peter"
+documentation-language = "en"
+function = "using jetson nano to streaming drone video footage for detecting and path planning"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjI5MTY="
+mimetype = "text/plain"
+

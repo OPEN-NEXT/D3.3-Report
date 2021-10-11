@@ -1,0 +1,13 @@
+name = "FitPick"
+repo = "https://wikifactory.com/@edenbunce2/modploggers-picker"
+version = "20200116110711"
+spdx-license = "N/A"
+licensor = "Eden Bunce"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODkzODU="
+function = "Modified Litter picking equipment specialised for runners."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyOTg1NTQ="
+mimetype = "text/markdown"
+

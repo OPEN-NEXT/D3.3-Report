@@ -1,0 +1,228 @@
+name = "EngraveCube"
+repo = "https://wikifactory.com/@antoniogrillo/engravecube"
+version = "20181026171834"
+spdx-license = "N/A"
+licensor = "Antonio Grillo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1OTIyMTc="
+function = "Engrave Cube (E³) is the device designed by Fablab Naples that lets you create gorgeous laser engraving in a simple and safe manner. Through the embedded web control interface you can, directly from your smartphone."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDAyMw=="
+mimetype = "{text/plain,NULL}"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDQwMg=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README_EN.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDMzMw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/requirements.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxNDMzMA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-Design/_src/engrave_017.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM0Mw=="
+mimetype = "application/3dm"
+
+[[files]]
+name = "src/E3-Design/AI - Laser Cutter/bottom_uvplex_3.175mm.ai"
+permalink = "https://wikifactory.com/files/RmlsZToxNDMzNw=="
+mimetype = "application/postscript"
+
+[[files]]
+name = "src/E3-Design/AI - Laser Cutter/plints.ai"
+permalink = "https://wikifactory.com/files/RmlsZToxNDMzNg=="
+mimetype = "application/postscript"
+
+[[files]]
+name = "src/E3-Design/AI - Laser Cutter/power_in_adapter_3mm.ai"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM0MA=="
+mimetype = "application/postscript"
+
+[[files]]
+name = "src/E3-Design/AI - Laser Cutter/target_3mm.AI"
+permalink = "https://wikifactory.com/files/RmlsZToxNDMzOQ=="
+mimetype = "application/postscript"
+
+[[files]]
+name = "src/E3-Design/AI - Laser Cutter/top_plex_3mm.ai"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM0MQ=="
+mimetype = "application/postscript"
+
+[[files]]
+name = "src/E3-Design/STL - 3D Printing/base.0.13.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM1Nw=="
+mimetype = "application/sla"
+
+[[files]]
+name = "src/E3-Design/STL - 3D Printing/portaSpecchi_x2.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM1Ng=="
+mimetype = "application/sla"
+
+[[files]]
+name = "src/E3-Firmware/config.h"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM4OQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-Firmware/E3-Firmware.ino"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM5MA=="
+mimetype = "text/x-c"
+
+[[files]]
+name = "src/E3-Firmware/e3Utils.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM5MQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-Firmware/e3Utils.h"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM5Mg=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-Firmware/EngraveCube.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM5Mw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-Firmware/EngraveCube.h"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM5NA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-GH_PostProcessorForRhino/EngraveCAM.gh"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM5Ng=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "src/E3-GH_PostProcessorForRhino/GH_EngraveCAM2.png"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM5Nw=="
+mimetype = "image/png"
+
+[[files]]
+name = "src/E3-GH_PostProcessorForRhino/GH_EngraveCAM.png"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM5OA=="
+mimetype = "image/png"
+
+[[files]]
+name = "src/E3-Hardware/billOfMaterials.MD"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM2OA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-PostProcessor/E3ImageEditor.py"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM2NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-PostProcessor/E3PostProcessor.py"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM2Ng=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-PostProcessor/E3ppNote.md"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM2Nw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-Sender/E3Sender.py"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM4OA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-webUI/app/config.py"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM3NA=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-webUI/app/forms.py"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM3Ng=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-webUI/app/init__.py"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM3NQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-webUI/app/routes.py"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM3Nw=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-webUI/app/templates/about.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM3OQ=="
+mimetype = "text/html"
+
+[[files]]
+name = "src/E3-webUI/app/templates/credits.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM4MA=="
+mimetype = "text/html"
+
+[[files]]
+name = "src/E3-webUI/app/templates/engraveDone.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM4MQ=="
+mimetype = "text/html"
+
+[[files]]
+name = "src/E3-webUI/app/templates/engraveForm.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM3OA=="
+mimetype = "text/html"
+
+[[files]]
+name = "src/E3-webUI/app/templates/layout.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM4Mg=="
+mimetype = "text/html"
+
+[[files]]
+name = "src/E3-webUI/app/templates/static/css/reset.css"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM4Ng=="
+mimetype = "text/css"
+
+[[files]]
+name = "src/E3-webUI/app/templates/static/css/style.css"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM4NQ=="
+mimetype = "text/css"
+
+[[files]]
+name = "src/E3-webUI/app/templates/static/img/logo.png"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM4NA=="
+mimetype = "image/png"
+
+[[files]]
+name = "src/E3-webUI/app/templates/streaming.html"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM4Mw=="
+mimetype = "text/html"
+
+[[files]]
+name = "src/E3-webUI/E3-webUI.py"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM2OQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "src/E3-webUI/uxStart"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM3MA=="
+mimetype = "text/x-shellscript"
+
+[[files]]
+name = "src/E3-webUI/winStart.bat"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM3Mg=="
+mimetype = "application/x-msdos-program"
+
+[[files]]
+name = "src/E3-webUI/winStart_py_in_path.bat"
+permalink = "https://wikifactory.com/files/RmlsZToxNDM3MQ=="
+mimetype = "application/x-msdos-program"
+
+[[files]]
+name = "/SysIntHowTo_IT.MD"
+permalink = "https://wikifactory.com/files/RmlsZToxNDMzMQ=="
+mimetype = "text/plain"
+

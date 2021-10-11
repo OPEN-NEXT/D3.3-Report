@@ -1,0 +1,12 @@
+name = "Test"
+repo = "https://wikifactory.com/@sharat/test"
+version = "20200128122611"
+spdx-license = "N/A"
+licensor = "Sharat Chander Reddy Kamidi"
+documentation-language = "en"
+function = "Test"
+[[files]]
+name = "/ESE58R61B.step"
+permalink = "https://wikifactory.com/files/RmlsZTozMDE2NDY="
+mimetype = "text/plain"
+

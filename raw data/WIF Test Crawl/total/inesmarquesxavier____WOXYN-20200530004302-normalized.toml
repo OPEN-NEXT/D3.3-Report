@@ -1,0 +1,273 @@
+name = "WOXYN"
+repo = "https://wikifactory.com/@inesmarquesxavier/oxygen-mask"
+version = "20200530004302"
+spdx-license = "N/A"
+licensor = "inesmarquesxavier"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNjc3OTk="
+function = "This work aims to create a mask that comes after the problem of rising sea level that will have a big impact in Portugal in the year 2050."
+[[files]]
+name = "IMAGES/attachment.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUxMDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/bag.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUwNTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/bajaus.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ4NjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/bom.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUzMTM="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/cint.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyMjY="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/componens.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyMDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/drawingfilter.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyMDk="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/drawingglasses1.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkxOTk="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/drawingmask.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUwNzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/filter1.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyNzg="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/filter2.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyODE="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/filter3.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyODI="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/filtertot.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyMjg="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/float.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ4OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/flux.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ5MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/geostorm.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ4NDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/graphic1.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ4NDk="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/house.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyMjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/InstrutionsMask.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUyMjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/isntrutions Filter.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUyMjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/map1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ4Mjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/map2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ4Mjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/mask water.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUyNDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/maskdecatlhon.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ5OTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/maskdraw.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUzMzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/maskines1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUyOTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/maskines.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUyOTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/maskone.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyMjU="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/maskstenc.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyMjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/mental.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ5Mjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/model1.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ4Nzc="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/model2.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ4ODE="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/model3.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ4ODY="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/model5.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyMjc="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/modelplast.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUwODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/moodboard1.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyMzk="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/moodboard.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyMzY="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/plant.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ4OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/render1.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkxOTM="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/render2.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyMDY="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/shelterhouse.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyNDE="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/sistem water.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyNDA="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/Study1.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUxMDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/Study2.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUwOTk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/studymask.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNjU5Nzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "IMAGES/ursopolar.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ4NTI="
+mimetype = "image/png"
+
+[[files]]
+name = "IMAGES/waternevel.png"
+permalink = "https://wikifactory.com/files/RmlsZTozNjQ4NTU="
+mimetype = "image/png"
+
+[[files]]
+name = "MODELO3D/filter.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkxOTA="
+mimetype = ""
+
+[[files]]
+name = "MODELO3D/filter.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkxODk="
+mimetype = "text/plain"
+
+[[files]]
+name = "MODELO3D/mask v6.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUzNjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "MODELO3D/mask v7.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNjUzNjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyOTU="
+mimetype = "text/markdown"
+
+[[files]]
+name = "VIDEO/filter.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTozNjkyMTc="
+mimetype = "video/mp4"
+

@@ -1,0 +1,7 @@
+name = "Agrisolar"
+repo = "https://wikifactory.com/@raghavendra0882/agrisolar"
+version = "20210130161612"
+spdx-license = "N/A"
+licensor = "raghavendra0882"
+documentation-language = "en"
+function = "To implant solar and hybrid air generators to use the electric facility to avoid insects that affect the  crops"

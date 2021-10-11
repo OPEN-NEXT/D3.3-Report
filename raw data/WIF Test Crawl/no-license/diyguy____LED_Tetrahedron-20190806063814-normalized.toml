@@ -1,0 +1,43 @@
+name = "LED Tetrahedron"
+repo = "https://wikifactory.com/@diyguy/led-tetrahedron"
+version = "20190806063814"
+spdx-license = "N/A"
+licensor = "Silvan Reiser"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjg3MDU="
+function = "A geometric light installation for the garden, events or as a requisite for photography or filming. You can find out how you can build such a part yourself here."
+[[files]]
+name = "/Baugruppe.iam"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg3MTI="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "/Deckel.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg3MTE="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "/Deckel.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg3MTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Deckel_mit_Loch.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg3MDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/DreieckDings.ipt"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg3MDg="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "/DreieckDings.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg3MDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjg3MTc="
+mimetype = "text/markdown"
+

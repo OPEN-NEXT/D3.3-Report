@@ -1,0 +1,7 @@
+name = "COVID-19 AutoHS"
+repo = "https://wikifactory.com/@tchoffo-fotsap-zinedi/covid-19-autohs"
+version = "20200524111323"
+spdx-license = "N/A"
+licensor = "TCHOFFO FOTSAP Zinedi"
+documentation-language = "en"
+function = "The COVID-19 automatic hand sanitizer is a project I worked on inother to decrease the propagation of the Corona virus since there is no contact with the hand sanitizer . I am actually selling the sanitizer in Cameroon and will like to export to other African countries"

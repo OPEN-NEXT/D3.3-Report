@@ -1,0 +1,7 @@
+name = "I.E.gov"
+repo = "https://wikifactory.com/@ashrafhafz/iegov"
+version = "20200508082904"
+spdx-license = "N/A"
+licensor = "ashrafhafz"
+documentation-language = "en"
+function = "Citizens have electronic cart can use it to get all government services and other services such as water supply , electricity supply and all organizations services in his country .we do this by using services orinted software"

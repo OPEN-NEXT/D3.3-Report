@@ -1,0 +1,7 @@
+name = "CNC machine "
+repo = "https://wikifactory.com/@bellimimerouan/cnc-machine"
+version = "20201209003416"
+spdx-license = "N/A"
+licensor = "bellimimerouan"
+documentation-language = "fr"
+function = "Réalisation d’un projet CNC"

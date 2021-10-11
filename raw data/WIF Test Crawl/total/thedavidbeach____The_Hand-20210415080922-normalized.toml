@@ -1,0 +1,7 @@
+name = "The Hand"
+repo = "https://wikifactory.com/@thedavidbeach/the-hand"
+version = "20210415080922"
+spdx-license = "N/A"
+licensor = "David"
+documentation-language = "en"
+function = "I am creating Skywalkers robotic right hand"

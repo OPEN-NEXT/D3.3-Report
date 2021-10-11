@@ -1,0 +1,7 @@
+name = "Visera de protección"
+repo = "https://wikifactory.com/@ingeniería3ddigital/visera-de-protección"
+version = "20200503090703"
+spdx-license = "N/A"
+licensor = "David"
+documentation-language = "es"
+function = "Visera de protección frente al coronavirus impresa 3D.\nLa estamos produciendo en masa desde <a href=\"https://ingenieria3ddigital.es/\">Ingeniería 3D</a>"

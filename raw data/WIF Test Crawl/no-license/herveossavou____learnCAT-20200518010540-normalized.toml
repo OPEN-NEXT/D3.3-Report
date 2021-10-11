@@ -1,0 +1,7 @@
+name = "learnCAT"
+repo = "https://wikifactory.com/@herveossavou/learncat"
+version = "20200518010540"
+spdx-license = "N/A"
+licensor = "OBH"
+documentation-language = "en"
+function = "Control and Acquisition Technology"

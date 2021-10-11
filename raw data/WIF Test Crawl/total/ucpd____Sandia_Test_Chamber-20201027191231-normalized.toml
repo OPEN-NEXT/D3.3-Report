@@ -1,0 +1,23 @@
+name = "Sandia Test Chamber"
+repo = "https://wikifactory.com/@peachthief/sandia-test-chamber"
+version = "20201027191231"
+spdx-license = "BAD"
+licensor = "Chris Jones"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTgxMzY="
+function = "Test chamber used in the Sandia Laboratories Trials.\nMade to run at 30 lpm and deliver approximately 10 mJ/cm2 of UV energy to all the flow.\nCan be used as the basis for a UV sterilisation device requiring 30 lpm of air flow and approximately 3 log expected reduction in Sars-COV2"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTgxMzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTgxMjQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Stadia_UVChamber_Stanley_V1.STEP"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTgxMTY="
+mimetype = "text/plain"
+

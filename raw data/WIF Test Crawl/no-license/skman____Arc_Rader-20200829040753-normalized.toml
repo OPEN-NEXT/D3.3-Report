@@ -1,0 +1,7 @@
+name = "Arc Rader"
+repo = "https://wikifactory.com/@skman/arc-rader"
+version = "20200829040753"
+spdx-license = "N/A"
+licensor = "santhoshkumar"
+documentation-language = "en"
+function = "MY project is Arc Rader with nowowtake project"

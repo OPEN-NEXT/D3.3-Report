@@ -1,0 +1,63 @@
+name = "Transfiguration Station"
+repo = "https://wikifactory.com/@meganjay/transfiguration-station"
+version = "20191209123447"
+spdx-license = "N/A"
+licensor = "Megan Stratford"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODI0NjM="
+function = "A solution to make-up storage"
+[[files]]
+name = "/instructions.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyODI0NTc="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/make up tidy researchy.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyODI0NTI="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "/photos of product.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyODI0NTg="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk0Nzg="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/rhino- make up tidy (first draft).odt"
+permalink = "https://wikifactory.com/files/RmlsZToyODI0NTM="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "/supply chain- transfiguration statgion.ai"
+permalink = "https://wikifactory.com/files/RmlsZToyODI0NjA="
+mimetype = "application/postscript"
+
+[[files]]
+name = "/Transfiguration Station Design Process.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyODI0NTU="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "/visual map.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyODI0NTQ="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "/wastage.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyODI0NTY="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "/~mood board~0i8v_p.idlk"
+permalink = "https://wikifactory.com/files/RmlsZToyODI0NTA="
+mimetype = "application/x-empty"
+
+[[files]]
+name = "/~transfiguration st~-eb9_0.idlk"
+permalink = "https://wikifactory.com/files/RmlsZToyODI0NTE="
+mimetype = "application/x-empty"
+

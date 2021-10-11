@@ -1,0 +1,7 @@
+name = "Kellner parra"
+repo = "https://wikifactory.com/@kellnerpc/kellner-parra"
+version = "20200610043731"
+spdx-license = "N/A"
+licensor = "kellnerpc"
+documentation-language = "es"
+function = "Estudiante de ingeniería mecatrónica"

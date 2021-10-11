@@ -1,0 +1,7 @@
+name = "Sellsoon"
+repo = "https://wikifactory.com/@iddrissajanak/sellsoon"
+version = "20200808144556"
+spdx-license = "N/A"
+licensor = "iddrissajanak"
+documentation-language = "en"
+function = "To sell and buy of second hand goods"

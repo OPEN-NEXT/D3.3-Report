@@ -1,0 +1,7 @@
+name = " Good WiFi antenna"
+repo = "https://wikifactory.com/@umariqbalbhatti/good-wifi-antenna"
+version = "20210114054422"
+spdx-license = "N/A"
+licensor = "Umar Iqbal Bhatti"
+documentation-language = "en"
+function = "We will design a good quality patch antenna to be used for WiFi signals."

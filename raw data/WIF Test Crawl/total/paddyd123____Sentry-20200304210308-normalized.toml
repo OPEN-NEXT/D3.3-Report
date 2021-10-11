@@ -1,0 +1,7 @@
+name = "Sentry"
+repo = "https://wikifactory.com/@paddyd123/sentry"
+version = "20200304210308"
+spdx-license = "N/A"
+licensor = "Patrick"
+documentation-language = "en"
+function = "House perimeter communication system that sniffs digital information and aurally communicates with people who approach within a set distance."

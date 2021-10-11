@@ -1,0 +1,43 @@
+name = "Gravity"
+repo = "https://wikifactory.com/@jean-charles/gravity"
+version = "20171107172719"
+spdx-license = "N/A"
+licensor = "Jean-Charles Rodinger"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxOTI="
+function = "Gravity is a playful mechanical scale for cooking, inspired by ancient scales that rest on the principle of cantilever and balance. It is composed of five 3D printed, and two (5mm thick) laser cut parts. Designed by Jean-Charles Rodinger, Cromagnon."
+[[files]]
+name = "3D printing/Counterweight.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printing/Lid.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printing/Recipient.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printing/SET_01.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTMx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printing/SET_02.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTMw"
+mimetype = "application/sla"
+
+[[files]]
+name = "Laser Cutting/Cutting-Files-Plywood-5mm.dxf"
+permalink = "https://wikifactory.com/files/RmlsZToyMTMy"
+mimetype = "image/vnd.dxf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNTY2"
+mimetype = "text/markdown"
+

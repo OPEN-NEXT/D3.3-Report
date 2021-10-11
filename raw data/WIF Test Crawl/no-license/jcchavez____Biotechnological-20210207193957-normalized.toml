@@ -1,0 +1,8 @@
+name = "Biotechnological"
+repo = "https://wikifactory.com/@jcchavez/biotechnological"
+version = "20210207193957"
+spdx-license = "N/A"
+licensor = "Juan Carlos Chavez Colmenares"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1Mzc0MjE="
+function = "Technological equipment to detect pressure ulcers with thermography and machine learning"

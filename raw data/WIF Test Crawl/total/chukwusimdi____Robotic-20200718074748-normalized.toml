@@ -1,0 +1,7 @@
+name = "Robotic"
+repo = "https://wikifactory.com/@chukwusimdi/robotic"
+version = "20200718074748"
+spdx-license = "N/A"
+licensor = "Chukwusimdi Colins"
+documentation-language = "en"
+function = "It is a minded robot that can obey comads"

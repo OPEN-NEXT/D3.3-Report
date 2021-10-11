@@ -1,0 +1,28 @@
+name = "plastic pipe air pump"
+repo = "https://wikifactory.com/@pcolback/plastic-pipe-air-pump"
+version = "20200422152144"
+spdx-license = "N/A"
+licensor = "Phil Colback"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNDA3Mjc="
+function = "You can use 100mm and 150mm plastic irrigation pipe to make a simple air pump that can replace an Ambu bag."
+[[files]]
+name = "/1m tubes.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDA3MzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/one way valve 1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDA3MzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/one way valve 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozNDA3MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNDA3NDk="
+mimetype = "text/markdown"
+

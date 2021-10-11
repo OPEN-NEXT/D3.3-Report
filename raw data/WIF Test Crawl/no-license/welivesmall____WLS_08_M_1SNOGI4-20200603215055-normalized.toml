@@ -1,0 +1,33 @@
+name = "WLS_08_M_1SNOGI4"
+repo = "https://wikifactory.com/@welivesmall/wls08m1snogi4"
+version = "20200603215055"
+spdx-license = "N/A"
+licensor = "WeLiveSmall"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNzI2MDQ="
+function = "08 STORAGE - Object | Organizing Systems - Special box | Picked group - Adaptive grid : ZIP bag holder"
+[[files]]
+name = "01 Models/WLS_08_M_1SNOGI4.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI2MDc="
+mimetype = "application/pdf"
+
+[[files]]
+name = "01 Models/WLS_08_M_1SNOGI4.step"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI2MDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "02 Production/01_Lazer/WLS_08_M_1SNOGI4.dwg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI2MzE="
+mimetype = "image/vnd.dwg"
+
+[[files]]
+name = "02 Production/01_Lazer/WLS_08_M_1SNOGI4.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI2MDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "02 Production/01_Lazer/WLS_08_M_1SNOGI4.svg"
+permalink = "https://wikifactory.com/files/RmlsZTozNzI2MTg="
+mimetype = "image/svg+xml"
+

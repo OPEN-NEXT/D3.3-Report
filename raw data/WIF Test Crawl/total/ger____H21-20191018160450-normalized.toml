@@ -1,0 +1,18 @@
+name = "H21"
+repo = "https://wikifactory.com/@ger/h21"
+version = "20191018160450"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Gerard Walsh"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDI3MzQ="
+function = "Model of 21. Hartstonge St, Limerick, by the School of Architecture Intelligence Unit for the Positive City ExChange (+CxC) project\n\nEoghan Ryan, Haris Makedonopoulou, Reina Leyva & Fionn Durkin\nKindly assisted by Rosie Webb, Peter Carroll, Gerard Walsh, SAUL, LCCC , +CxC partners and more."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyNjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Model final R5 (1).3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyNzUyNDk="
+mimetype = "application/octet-stream"
+

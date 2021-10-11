@@ -1,0 +1,7 @@
+name = "Diamond sawer"
+repo = "https://wikifactory.com/@ankit71prince/diamond-sawer"
+version = "20200828153947"
+spdx-license = "N/A"
+licensor = "ankit71prince"
+documentation-language = "en"
+function = "To create diamond sawing tool with very less loss of the stone."

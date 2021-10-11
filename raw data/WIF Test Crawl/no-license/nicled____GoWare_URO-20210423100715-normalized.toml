@@ -1,0 +1,22 @@
+name = "GoWare URO"
+repo = "https://wikifactory.com/@nicled/uro"
+version = "20210423100715"
+spdx-license = "N/A"
+licensor = "nicolas le douarec"
+documentation-language = "en"
+function = "a recumbant tricycle to seriously replace daily car trips."
+[[files]]
+name = "/cern_ohl_s_v2.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk1NDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/cern_ohl_s_v2_user_guide.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1ODk1NDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTAyOTE="
+mimetype = "text/markdown"
+

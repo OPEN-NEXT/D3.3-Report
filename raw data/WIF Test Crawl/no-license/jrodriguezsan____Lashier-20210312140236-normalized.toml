@@ -1,0 +1,7 @@
+name = "Lashier"
+repo = "https://wikifactory.com/@jrodriguezsan/lashier"
+version = "20210312140236"
+spdx-license = "N/A"
+licensor = "Juan Sebastián Rodríguez"
+documentation-language = "ca"
+function = "Furniture design proposal for TIEDI"

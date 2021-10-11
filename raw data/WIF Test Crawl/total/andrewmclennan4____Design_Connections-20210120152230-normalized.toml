@@ -1,0 +1,18 @@
+name = "Design Connections"
+repo = "https://wikifactory.com/@andrewmclennan4/loose-associations"
+version = "20210120152230"
+spdx-license = "N/A"
+licensor = "Andrew Mclennan"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTk2MTQ="
+function = "This Pecha-Kucha research exercise explores interesting links and connections between things that appear different."
+[[files]]
+name = "/README (3).md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjA0MTE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MjMzMTQ="
+mimetype = "text/markdown"
+

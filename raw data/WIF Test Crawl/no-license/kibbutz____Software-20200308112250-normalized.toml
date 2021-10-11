@@ -1,0 +1,7 @@
+name = "Software "
+repo = "https://wikifactory.com/@kibbutz/software"
+version = "20200308112250"
+spdx-license = "N/A"
+licensor = "Jose Antonio Dias da Fonseca"
+documentation-language = "hr"
+function = "Inovative small \ufeffproject software projects"

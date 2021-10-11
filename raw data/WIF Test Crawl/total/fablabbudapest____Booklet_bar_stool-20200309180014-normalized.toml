@@ -1,0 +1,18 @@
+name = "Booklet bar stool"
+repo = "https://wikifactory.com/@davidpap/booklet-bar-stool"
+version = "20200309180014"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "David PAP"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTQ3MjA="
+function = "A widely-used furniture that can be easily produced. The bar stool got<br /> the name Booklet after the shape of its seat. The elements are made with CNC milling. The parts could be joined without gluing, as the manufacturing can be adapted to the thickness of the base material easily."
+[[files]]
+name = "cnc_files/Booklet bar stool 18mm - Gergő Csicsics.dxf"
+permalink = "https://wikifactory.com/files/RmlsZTozMTQ3MTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMTQ3MTg="
+mimetype = "text/plain"
+

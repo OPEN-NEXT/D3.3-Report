@@ -1,0 +1,7 @@
+name = "futuristic book"
+repo = "https://wikifactory.com/@wizardese/futuristic-book"
+version = "20210202032918"
+spdx-license = "N/A"
+licensor = "Joseph Miguel Q Ada Jr."
+documentation-language = "en"
+function = "it is a futuristic ipad that can change subject for schools and no games"

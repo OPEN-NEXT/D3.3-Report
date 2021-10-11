@@ -1,0 +1,7 @@
+name = "Dron"
+repo = "https://wikifactory.com/@angelherto22/dron"
+version = "20210209004818"
+spdx-license = "N/A"
+licensor = "Ángel Hernández Torres"
+documentation-language = "es"
+function = "Este proyecto será enfocado a la agricultura"

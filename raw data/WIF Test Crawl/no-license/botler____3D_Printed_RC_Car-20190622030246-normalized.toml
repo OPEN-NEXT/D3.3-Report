@@ -1,0 +1,248 @@
+name = "3D Printed R/C Car"
+repo = "https://wikifactory.com/@botler/3d-printed-rc-car"
+version = "20190622030246"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTQ2ODg="
+function = "No-Screws, Snap-Together, 3D Printed R/C Car\nOwner: <b>Mr. Taylor Alexander (</b><a href=\"https://makezine.com/author/taylor-alexander/\"><b>https://makezine.com/author/taylor-alexander/</b></a><b>)</b>\n<b></b>"
+[[files]]
+name = "/12mm shaft end clip.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/12mm shaft.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/bevel gear for motor.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/bevel gear, large.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3Mzg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/body shell tray.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3MzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/body shell.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3MzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Body support peg front.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3MzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/clip 12mm, rear axle.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/clip, forward drive shaft.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/clip, right rear axle.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/clip. left rear axle.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/forward drive shaft V2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/forward drive shaft.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/front wheel bearing carrier.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3Njg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/front wheel bearing retainer V2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/front wheel bearing retainer.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3Njc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/front wheel shaft.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NDA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Front Wheel.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/large forward gear.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3MjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/large gear for rear.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3Mzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/large rear gear.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3MjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/main axle 12mm.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/main axle.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3Mzk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/main frame, front V2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3MzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/main frame, front.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3MzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/main frame, rear.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3MzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/main small drive gear.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3MjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Motor wedge.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3Mjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NzA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/rear vertical support.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3Mjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Rear Wheel.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Scout tray.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3Mjc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Scout V2 Lid.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3MjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Scout V2 Rear Frame.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3MjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Scout V2.PDF"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NjY="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/secondary small drive gear.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3MzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/servo clamp bar.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Servo hat hex.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/small gear wrench.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3MjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/steering arm v2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/steering arm.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/steering bearing spacer.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/steering pin short.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/steering pin v2 short.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/steering pin v2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/steering pin.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Wheel Bearing Carrier.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Wheel Rim.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMTQ3NjA="
+mimetype = "application/sla"
+

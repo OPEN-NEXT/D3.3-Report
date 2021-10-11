@@ -1,0 +1,83 @@
+name = "Snorkel filter adapter"
+repo = "https://wikifactory.com/@theangelus/snorkel-filter-adapter"
+version = "20200420094434"
+spdx-license = "N/A"
+licensor = "theangelus"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzk1ODg="
+function = "A printable adapter to couple a medical bio-filter to the snorkel port of a full-face Greatever G2 snorkel mask."
+[[files]]
+name = "images/20200420_011442.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk1Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/20200420_011446.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk1ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/20200420_011500.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk1ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/20200420_011514.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk1NzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/20200420_011539.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk1ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/20200420_011558.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk1NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/20200420_023229.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk2NTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/20200420_023243.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk2NTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/20200420_023302.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk2NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/20200420_023337.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk2NjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/20200420_023404.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk2NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/20200420_023411.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk2NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/MaskToFilterv1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk2MDA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk1NjE="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/ValveInsert2.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMzk2MTI="
+mimetype = "application/sla"
+

@@ -1,0 +1,7 @@
+name = "DCOT"
+repo = "https://wikifactory.com/@ddstarbelieveit/dcot"
+version = "20200829192546"
+spdx-license = "N/A"
+licensor = "ddstarbelieveit"
+documentation-language = "en"
+function = "This project is based on building an assistant software"

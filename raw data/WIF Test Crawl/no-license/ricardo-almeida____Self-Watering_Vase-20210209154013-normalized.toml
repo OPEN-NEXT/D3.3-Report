@@ -1,0 +1,423 @@
+name = "Self-Watering Vase "
+repo = "https://wikifactory.com/@ricardo-almeida/dispensador"
+version = "20210209154013"
+spdx-license = "N/A"
+licensor = "Ricardo Fernandes Almeida"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MzMzNzY="
+function = "Self-irrigation structure for plants, reusing rain water and allowing for sustainable and easy to maintain vases."
+[[files]]
+name = "B . O . M/B . O . M.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3NDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Final renders /1.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Final renders /2.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MDc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Final renders /3.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MDY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Final renders /4.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MDU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Final renders /6.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MDQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Final renders /7.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MDM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Final renders /8.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Final renders /WhatsApp_Image_2021-02-01_at_16.04.09.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Fusion .step file/Vaso Final.step"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg4NTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "imagens-moodboard/00dc472b51177d6100a71c1ab110fd44.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/5tjyj.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3NTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/70b927f84721cb434f6d288564e3f093.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3NDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/17805_1_800.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3NDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/Captura de ecrã 2020-10-06, às 17.29.04.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc1Mzk="
+mimetype = "image/png"
+
+[[files]]
+name = "imagens-moodboard/Captura de ecrã 2020-10-06, às 17.29.22.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc1NDA="
+mimetype = "image/png"
+
+[[files]]
+name = "imagens-moodboard/Captura de ecrã 2020-10-06, às 17.36.56.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc1NDk="
+mimetype = "image/png"
+
+[[files]]
+name = "imagens-moodboard/Captura de ecrã 2020-10-06, às 17.40.07.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc1NTk="
+mimetype = "image/png"
+
+[[files]]
+name = "imagens-moodboard/Captura de ecrã 2020-10-06, às 17.54.40.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc1NzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "imagens-moodboard/Captura de ecrã 2020-10-06, às 17.56.02.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc1ODA="
+mimetype = "image/png"
+
+[[files]]
+name = "imagens-moodboard/Captura de ecrã 2020-10-06, às 17.58.30.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc1OTE="
+mimetype = "image/png"
+
+[[files]]
+name = "imagens-moodboard/Captura de ecrã 2020-10-06, às 18.02.26.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc1OTc="
+mimetype = "image/png"
+
+[[files]]
+name = "imagens-moodboard/COFFE DISPENSER"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3MzE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/dispensador-alcool-gel-mecanismo-pedal3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc1NTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/dispensador-bilhetes.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTEzNjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/dispensador-comidagato.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTEzNjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/dispensador-de-agua-automatico-recarregavel-para-garrafoes-de-5-8-e-20-litros.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc1NDg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/dispensador-de-bebida-mochila.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc2MDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/dispensador-estacionamento.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTEzNjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/dispensador-gelados.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTEzNjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/dispensador-para-cereais.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc2MTM="
+mimetype = "image/png"
+
+[[files]]
+name = "imagens-moodboard/Dispensador-para-gestão-de-filas-de-espera-sua-ves-sistema-simples_branco.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc1Njk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/dispensador-sumos.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTEzNjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/DIY-Multi-Roll-Tape-Dispenser-01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/esboços-produto-que-pronto-nue,-é-liddasdaar-irmaum.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTYwMjg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/ona-mist-rozpylacz.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc2MDU="
+mimetype = "image/png"
+
+[[files]]
+name = "imagens-moodboard/PORTABLE DISPENSERR"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTI1Njk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "imagens-moodboard/SALT DISPENSER"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3MzI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/suporte-para-escova-dispenser-de-pasta-de-dente-automatico.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDc1NzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "imagens-moodboard/world-globe-liquor-dispenser.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Micro:bit/1.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Micro:bit/2.JPG"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Micro:bit/WhatsApp_Image_2021-02-01_at_21.49.03.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3OTg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Prancha A3 final/final_prancha_A3_1.0.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3NzM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg2ODA="
+mimetype = "text/markdown"
+
+[[files]]
+name = "sketches/1 (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MzY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/2 (1).jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3Mzc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/3.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3Mzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3Mzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/5tjyj.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/6.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3NDA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/434444.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MzM="
+mimetype = "image/png"
+
+[[files]]
+name = "sketches/132131313.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MTY="
+mimetype = "image/png"
+
+[[files]]
+name = "sketches/a.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/aa.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/b.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MjE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/bb.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/c.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MjI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/Caracteristicas_de_um_Dispensador_-_New_frame.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/cc.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/d34ghetrytjhr4n_.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MTk="
+mimetype = "image/png"
+
+[[files]]
+name = "sketches/d.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/dd.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3Mjc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/dispensador.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3MTk="
+mimetype = "image/png"
+
+[[files]]
+name = "sketches/esbocos-produto-que-pronto-nue-e-lidar-irmaum.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/esbocos-produto-que-pronto-nue-e-liddasdaar-irmaum.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/esbocos_produto2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/forma_finali.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3NDI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/image_4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3Mjg="
+mimetype = "image/png"
+
+[[files]]
+name = "sketches/image_5.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3Mjk="
+mimetype = "image/png"
+
+[[files]]
+name = "sketches/image_6.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MzA="
+mimetype = "image/png"
+
+[[files]]
+name = "sketches/image_7.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MzE="
+mimetype = "image/png"
+
+[[files]]
+name = "sketches/image_8.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MzI="
+mimetype = "image/png"
+
+[[files]]
+name = "sketches/Photo_11-01-2021_18_30_56.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3NDE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/Portable-dispenser.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3NjM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/portable-water-dispenser.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQ3NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/renttrhrt.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MzQ="
+mimetype = "image/png"
+
+[[files]]
+name = "sketches/rtetetetetetet.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MTg="
+mimetype = "image/png"
+
+[[files]]
+name = "sketches/vaso-projeto_para_produto_final.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MzU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "sketches/WhatsApp_Image_2021-02-02_at_21.12.38.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "videos/prototipo.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3ODk="
+mimetype = "video/mp4"
+
+[[files]]
+name = "videos/renders.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzg3ODg="
+mimetype = "video/mp4"
+

@@ -1,0 +1,7 @@
+name = "Android apps "
+repo = "https://wikifactory.com/@hollypr28/android-apps"
+version = "20200622100214"
+spdx-license = "N/A"
+licensor = "Philipo Raphael "
+documentation-language = "en"
+function = "Developing Apps for Android devices"

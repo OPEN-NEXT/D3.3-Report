@@ -1,0 +1,7 @@
+name = "energie solaire"
+repo = "https://wikifactory.com/@issababa/energie-solaire"
+version = "20210113175800"
+spdx-license = "N/A"
+licensor = "Ouedraogo Issa Baba "
+documentation-language = "fr"
+function = "j'aimerais fournir de l'énergie électrique a travers le soleil au pays d'Afrique ou le soleil est"

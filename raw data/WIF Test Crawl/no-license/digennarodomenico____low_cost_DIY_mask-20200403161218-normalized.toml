@@ -1,0 +1,13 @@
+name = "low cost DIY mask"
+repo = "https://wikifactory.com/@digennarodomenico/low-cost-diy-mask"
+version = "20200403161218"
+spdx-license = "N/A"
+licensor = "digennaro domenico"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjk4MzY="
+function = "Mask made with pvc tube and a4 transparent acetate sheet. The cost of production does not exceed the amount of € 1.00.<br />\nTo make the template, few tools are needed that everyone can use. The material is also readily available."
+[[files]]
+name = "/visiera fai da te.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjg1NTA="
+mimetype = "image/jpeg"
+

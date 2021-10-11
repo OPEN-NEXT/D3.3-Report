@@ -1,0 +1,42 @@
+name = "Progress"
+repo = "https://wikifactory.com/@geoshow/progress"
+version = "20201028061531"
+spdx-license = "N/A"
+licensor = "GeoShowLab"
+documentation-language = "es"
+function = "Proceso de fabricacion e ideacion"
+[[files]]
+name = "/geodesica a escala 10a1.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg3MTU="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/geodesica.blend"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg3MTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/geodesicaCON PUERTAS.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg3MTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/video-1603865629.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg3NDI="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/WhatsApp Image 2020-10-04 at 9.02.53 PM.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg3MTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/WhatsApp Image 2020-10-04 at 9.03.58 PM.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg3MTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/WhatsApp Image 2020-10-27 at 3.02.18 PM.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg3MDk="
+mimetype = "image/jpeg"
+

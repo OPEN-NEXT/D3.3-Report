@@ -1,0 +1,7 @@
+name = "House renovation"
+repo = "https://wikifactory.com/@andreajane/house-renovation"
+version = "20210412000709"
+spdx-license = "N/A"
+licensor = "Andrea Jane Alo"
+documentation-language = "en"
+function = "my project is all about house renovation."

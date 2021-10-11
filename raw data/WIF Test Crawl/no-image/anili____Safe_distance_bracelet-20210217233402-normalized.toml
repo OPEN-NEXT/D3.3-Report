@@ -1,0 +1,7 @@
+name = "Safe distance bracelet"
+repo = "https://wikifactory.com/@anili/safe-distance-bracelet"
+version = "20210217233402"
+spdx-license = "N/A"
+licensor = "Ani"
+documentation-language = "en"
+function = "The idea is to construct a cheap, reliable and simple bracelet that will prohibit people from touching their faces (e.g. nose, eyes) which are the main entry points of the covid virus.  i am taking this project open source in order to further advance it"

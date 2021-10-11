@@ -1,0 +1,7 @@
+name = "GROUU Nursery (Kalentzi)"
+repo = "https://wikifactory.com/@steam228/grouu-nursery-kalentzi"
+version = "20190815165415"
+spdx-license = "N/A"
+licensor = "André Rocha"
+documentation-language = "en"
+function = "The first version of GROUU Nursery being developed at Tzoumakers, a Makerspace in Kalentzi, Ioannina run by P2P Lab."

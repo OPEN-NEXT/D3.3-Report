@@ -1,0 +1,13 @@
+name = "smart water dispenser"
+repo = "https://wikifactory.com/@chandanprasad80027/smart-water-dispenser"
+version = "20210228062448"
+spdx-license = "N/A"
+licensor = "chandanprasad80027"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NjAyNzQ="
+function = "A smart water  dispenser which dispenses water according to requirement. This prevent water wastage for domestic and well as for use in public places. In case of agricultural and industrial use  automatic and timely dispensing of water be provided."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjAyNzU="
+mimetype = "text/markdown"
+

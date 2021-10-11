@@ -1,0 +1,7 @@
+name = "MyTestProject"
+repo = "https://wikifactory.com/@kklearchou/mytestproject"
+version = "20201213173624"
+spdx-license = "N/A"
+licensor = "kklearchou"
+documentation-language = "en"
+function = "testing platform"

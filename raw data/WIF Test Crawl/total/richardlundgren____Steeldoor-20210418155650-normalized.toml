@@ -1,0 +1,7 @@
+name = "Steeldoor"
+repo = "https://wikifactory.com/@richardlundgren/steeldoor"
+version = "20210418155650"
+spdx-license = "N/A"
+licensor = "Richard Lundgren"
+documentation-language = "en"
+function = "Cladded steeldoor"

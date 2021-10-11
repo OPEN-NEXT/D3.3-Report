@@ -1,0 +1,18 @@
+name = "1201 Alarm "
+repo = "https://wikifactory.com/@markwrig/1201-alarm"
+version = "20190204112509"
+spdx-license = "N/A"
+licensor = "Mark Wrigley"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNDA2Ng=="
+function = "Back in 1969, before the days of home video recording, I decided that I wanted to record the Apollo moon landings. Now 50 years on, my archive of space material is going on display at the National Science and Media Museum in Bradford, England."
+[[files]]
+name = "/Apollo lift off"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA3MA=="
+mimetype = "video/quicktime"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDA2Nw=="
+mimetype = "text/markdown"
+

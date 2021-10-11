@@ -1,0 +1,13 @@
+name = "Open Butaque: En la lagu "
+repo = "https://wikifactory.com/@oscarvlqz/open-butaque-en-la-lagu"
+version = "20200909221100"
+spdx-license = "N/A"
+licensor = "Oscar Velazquez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NDc1OTA="
+function = "The Open Butaque it was based on the Clara Porset´s classical Butaque chair, and was designed in collaboration between artisans and designers in the Mexico city neighborhood of La Lagunilla, at the open design workshop held by Paolo Cardini, FabLab Impact & LabPLC in 2017."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MzE0MTY="
+mimetype = "text/plain"
+

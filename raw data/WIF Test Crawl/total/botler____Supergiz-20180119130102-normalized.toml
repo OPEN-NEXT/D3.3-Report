@@ -1,0 +1,108 @@
+name = "Supergiz"
+repo = "https://wikifactory.com/@botler/supergiz"
+version = "20180119130102"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "James Botler"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo2NTc="
+function = "SuperGiz es un concepto diferente de prótesis para mano o brazo, no simula una mano humana."
+[[files]]
+name = "/1_Pulpo.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/2a_Tenedor.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/2b_TENEDOR_90º.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/2c_TENEDOR_60º.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/2d_TENEDOR_30º.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/3a_BICI_corredera.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/3b_BICI_Inferior.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/3c_BICI_Superior.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/4_PELOTAS.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/5_ALETA.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/6a_VASO_Trasera.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/6b_VASO_Superior.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/6c_VASO_Inferior.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/7_Botador_baloncesto.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/8_Raqueta_padel.STL"
+permalink = "https://wikifactory.com/files/RmlsZTo0ODk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/9a_Remo.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/9b_Remo_conectores.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "License/LICENSE.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/x_Enganche_hembra.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/x_Enganche_macho.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTM="
+mimetype = "application/sla"
+

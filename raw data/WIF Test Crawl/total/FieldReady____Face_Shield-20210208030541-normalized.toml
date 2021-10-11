@@ -1,0 +1,13 @@
+name = "Face Shield"
+repo = "https://wikifactory.com/@charlesbarrete/portable-handwashing"
+version = "20210208030541"
+spdx-license = "CC-BY-4.0"
+licensor = "Charles Barrete"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1Mzc0OTk="
+function = "An item of personal protective equipment, aims to protect the wearer's entire face from chemical splashes, or potentially infectious materials. \n\ufeff"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc0OTQ="
+mimetype = "text/plain"
+

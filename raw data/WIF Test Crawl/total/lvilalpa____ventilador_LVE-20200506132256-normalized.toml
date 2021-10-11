@@ -1,0 +1,73 @@
+name = "ventilador LVE"
+repo = "https://wikifactory.com/@lvilalpa/ventilador-3d"
+version = "20200506132256"
+spdx-license = "N/A"
+licensor = "Luís Pinto Alves"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTozMzM3ODQ="
+function = "Ventilador muito simples e económico, aproveitando um ressuscitador manual (Ambú), disponibilizado em código aberto (*.STL), para impressora 3d/ cnc, controlado por arduino nano 3 , com regulação de amplitude e frequência respiratória, operando a 12 v cc."
+[[files]]
+name = "/actuador1.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozMzIwMTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/base_1.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozMzIwMTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/braço1.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozMzIwMTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/FUNCIONAMENTO-VENTILADOR.mpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozMzc2MzU="
+mimetype = "video/mpeg"
+
+[[files]]
+name = "/lat1.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozMzIwMDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Mirrorlat1.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozMzIwMDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "/polia1.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozMzE5OTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzc2Mzk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/rod_1.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozMzI5NjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/tampa_1.STL"
+permalink = "https://wikifactory.com/files/RmlsZTozMzE5OTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/VENTILADOR LVE - WIRING.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozNDY2MTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/ventilador_LVE.PDF"
+permalink = "https://wikifactory.com/files/RmlsZTozMzE5NDg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/ventilador_LVE_expl1.avi"
+permalink = "https://wikifactory.com/files/RmlsZTozMzI5Njc="
+mimetype = "video/avi"
+

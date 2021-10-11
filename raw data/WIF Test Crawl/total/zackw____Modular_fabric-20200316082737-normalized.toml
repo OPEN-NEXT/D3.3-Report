@@ -1,0 +1,98 @@
+name = "Modular fabric"
+repo = "https://wikifactory.com/@zackw/plastic"
+version = "20200316082737"
+spdx-license = "N/A"
+licensor = "Zack Wilson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODU1ODQ="
+function = "This is a project to explore how fabric can be made using small modular pieces, fabricated on a laser cutter. I was inspired by water for the design of a modular fabric, which I eventually used in a wave sculpture. I also experimented (less successfully) with using plastic to create the modules."
+[[files]]
+name = "code/servo.ino"
+permalink = "https://wikifactory.com/files/RmlsZTozMTcyNzE="
+mimetype = "text/x-c"
+
+[[files]]
+name = "images/materials-first.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/materials-foam.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1OTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/materials-press.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/MeltedPlastic_detail.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODYxNjA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/plastic-sketches.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1OTI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/plastic-squares.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1OTE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/PlasticStew.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyODYxNjQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/refining-waves.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/sculpture-arduino-wood.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1ODc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/trial1-1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/trial1-4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/trial1-cut.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1ODM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/trial1-fusion.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/trial1-leonardo.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/trial2-back.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1ODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/trial2-front.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDA1Nzg="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMTcyOTE="
+mimetype = "text/markdown"
+

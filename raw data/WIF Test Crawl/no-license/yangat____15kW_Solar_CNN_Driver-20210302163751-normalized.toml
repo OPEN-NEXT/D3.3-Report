@@ -1,0 +1,78 @@
+name = "15kW Solar CNN Driver"
+repo = "https://wikifactory.com/@yangat/15kw-solar-cnn-driver"
+version = "20210302163751"
+spdx-license = "N/A"
+licensor = "Yanga Tekane, PrEng"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTY5Njc="
+function = "Design and analysis of 15kW CNN Power Inverter Driver for one borehole well 2.2kW Submersible Pump and 4 0.37kW centrifugal pumps. The 15kW CNN Inverter Driver is supported by 1kW solar PV & 400AmpH deep cycle battery system. This system supplies a village in South Africa of 250 houses with water."
+[[files]]
+name = "/1 Pump Pressure.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY5NTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/1kW PV-400AmpH 2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY5NTA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/1kW PV-400AmpH.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY5NDk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/2 Pumps Pressure.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY5NTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Final Pressure & Flow Test.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTgyMDU="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Pressure Test 1 Pumo.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY5NTE="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Pressure Test 2 Pumps in Series.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY5NTI="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NjA5NjI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Submersible Pump Pressure Test.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY5NTM="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Test at 1 km from pumps.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY5NjI="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Test at 500 meter from pumps.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY5NjA="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Test at 800 meters from Pumps.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY5NjE="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Timing Data Collection for CNN 2.jpeg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY5NTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/Timing Data Collection for CNN.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTY5NTY="
+mimetype = "image/jpeg"
+

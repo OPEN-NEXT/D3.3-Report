@@ -1,0 +1,13 @@
+name = "Kombucha Speaker"
+repo = "https://wikifactory.com/@sdgsolutionspace/kombucha-speaker"
+version = "20200625122212"
+spdx-license = "N/A"
+licensor = "DURNEY Jean-Marie"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTAwNDk="
+function = "using a wood frame, Kombucha and Copper build a Speaker"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozOTA2NDI="
+mimetype = "text/markdown"
+

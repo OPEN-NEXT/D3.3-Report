@@ -1,0 +1,7 @@
+name = "LED Guitar"
+repo = "https://wikifactory.com/@jinger26/led-guitar"
+version = "20210325143603"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Jinger Zeng"
+documentation-language = "en"
+function = "Plexi LED Guitar, with kill switch and soundsensor that affects LED lights that illumine engraved plexiglass.<a href=\"http://archive.fabacademy.org/archives/2017/fablabhornafjordur/students/201/index.html\"><br /></a>"

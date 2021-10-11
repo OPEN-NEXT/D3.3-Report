@@ -1,0 +1,273 @@
+name = "Franzininho DIY"
+repo = "https://wikifactory.com/@fabiosouza/franzininho-diy"
+version = "20191126032105"
+spdx-license = "CC-BY-4.0"
+licensor = "Fabio Souza"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZToyODU0NDU="
+function = "A Franzininho DIY foi desenvolvida com a proposta de “Faça você mesmo” e com base na plataforma Arduino. O objetivo é que as pessoas que a adquirem, trilhem a jornada do Maker de eletrônica, montando e programando a sua própria placa compatível com Arduino."
+[[files]]
+name = "Franzininho DIY hardware/empty.kicad_wks"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0MjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/fp-info-cache"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0MjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/fp-lib-table"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho-cache.lib"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0MzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho-eagle-import.dcm"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NDg="
+mimetype = "application/dicom"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho-eagle-import.lib"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.bak"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0MzA="
+mimetype = "application/x-trash"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.kicad_pcb"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0MjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.kicad_pcb-bak"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.net"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pretty/1X03.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0MzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pretty/1X08_ROUND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0Mzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pretty/78LXX.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NDI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pretty/AXIAL-0.4.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0MzQ="
+mimetype = "text/html"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pretty/C025-025X050.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pretty/DIODE-1N4148.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pretty/DIODE-BZT52.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pretty/DIP08.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pretty/E2,5-6E.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pretty/LED3MM.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pretty/OSHW-LOGO-M.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0Mzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pretty/TAC-SWITCH-PTH.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0MzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pretty/USB-A-H.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0Mzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.pro"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0MjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.sch"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Franzininho.sch-bak"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0MzI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Gerber-franzininho-v2rv1.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0Mjk="
+mimetype = "application/zip"
+
+[[files]]
+name = "Franzininho DIY hardware/Gerber-franzininho-V2RV2.zip"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0Mjc="
+mimetype = "application/zip"
+
+[[files]]
+name = "Franzininho DIY hardware/Gerber/Franzininho-B_Mask.gbs"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Gerber/Franzininho-B_Paste.gbp"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Gerber/Franzininho-B_SilkS.gbo"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Gerber/Franzininho-Bottom.gbl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Gerber/Franzininho-Edge_Cuts.gm1"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0Njc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Gerber/Franzininho-F_Mask.gts"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Gerber/Franzininho-F_Paste.gtp"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Gerber/Franzininho-F_SilkS.gto"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Gerber/Franzininho-NPTH.drl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Gerber/Franzininho-PTH.drl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0Njk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Gerber/Franzininho-Top.gtl"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0Njg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Graphics.pretty/bandeiraBrasil.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Graphics.pretty/ferrodesolda7x7.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Graphics.pretty/ferrodesolda9x9.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Graphics.pretty/FRANZININHO.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Graphics.pretty/FRANZININHO_16x2.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Graphics.pretty/GND2.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Graphics.pretty/GND.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Graphics.pretty/logo-franzininho10_6.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Graphics.pretty/logo-franzininho12_7.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/Graphics.pretty/logo-franzininho.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0NTc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/library.pretty/TO-92_Inline_Wide.kicad_mod"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0Mjg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Franzininho DIY hardware/sym-lib-table"
+permalink = "https://wikifactory.com/files/RmlsZToyNDM0MzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyODU0Mzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODU0NDM="
+mimetype = "text/markdown"
+

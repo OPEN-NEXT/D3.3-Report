@@ -1,0 +1,27 @@
+name = "Modification"
+repo = "https://wikifactory.com/@meganjay/modification"
+version = "20191126142241"
+spdx-license = "N/A"
+licensor = "Megan Stratford"
+documentation-language = "en"
+function = "I have designed a modification to a TV Remote control which makes it user to use, the project is aimed mainly at the elderly and visually impaired and they seem to be the people who struggle the most to use this everyday product. My modification makes this household item accessible to all."
+[[files]]
+name = "/remote control layers.psd"
+permalink = "https://wikifactory.com/files/RmlsZToyODU1MjA="
+mimetype = "image/x-photoshop"
+
+[[files]]
+name = "/simplifying the over complicated.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyODU1MTg="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "/survey results- tv remote.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyODU1MTc="
+mimetype = "application/vnd.oasis.opendocument.text"
+
+[[files]]
+name = "/TV REMOTE LAYERING.odt"
+permalink = "https://wikifactory.com/files/RmlsZToyODU1MTk="
+mimetype = "application/vnd.oasis.opendocument.text"
+

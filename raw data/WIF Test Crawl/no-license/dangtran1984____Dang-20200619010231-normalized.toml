@@ -1,0 +1,7 @@
+name = "Dang"
+repo = "https://wikifactory.com/@dangtran1984/dang"
+version = "20200619010231"
+spdx-license = "N/A"
+licensor = "Trần Tuấn Đăng"
+documentation-language = "en"
+function = "Cnc machine"

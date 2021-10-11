@@ -1,0 +1,7 @@
+name = "B2B Platform"
+repo = "https://wikifactory.com/@senatorateeq/b2b-platform"
+version = "20201109024744"
+spdx-license = "N/A"
+licensor = "senatorateeq"
+documentation-language = "en"
+function = "To create a B2B Platform"

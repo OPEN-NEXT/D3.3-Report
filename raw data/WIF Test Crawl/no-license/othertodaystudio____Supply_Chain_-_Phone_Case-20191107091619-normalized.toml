@@ -1,0 +1,13 @@
+name = "Supply Chain - Phone Case"
+repo = "https://wikifactory.com/@kennychui/supply-chain-phone-case"
+version = "20191107091619"
+spdx-license = "N/A"
+licensor = "Kenny Chui"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyNzg1NDM="
+function = "Exploring the supply chain of a Phone case"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4Nzc="
+mimetype = "text/markdown"
+

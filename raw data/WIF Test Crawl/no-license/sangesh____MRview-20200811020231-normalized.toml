@@ -1,0 +1,7 @@
+name = "MRview "
+repo = "https://wikifactory.com/@sangesh/mrview"
+version = "20200811020231"
+spdx-license = "N/A"
+licensor = "mailsangesh"
+documentation-language = "en"
+function = "It's a mixed reality based product for online confirance. With holographic projection."

@@ -1,0 +1,13 @@
+name = "The Handy Wrap"
+repo = "https://wikifactory.com/@alexseanhill/modify-organising-combat"
+version = "20191209143354"
+spdx-license = "N/A"
+licensor = "Alex Hill"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODg4ODY="
+function = "This project explores behaviour of athletes and patterns in there behaviour when dealing with pieces of equipment. The aim is to find a solution to improve the hygiene and longevity of a piece of equipment by modifying user behaviour."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk2ODI="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Idisplay"
+repo = "https://wikifactory.com/@sameheddinehchaichi/idisplay"
+version = "20201122110841"
+spdx-license = "N/A"
+licensor = "sameheddinehchaichi"
+documentation-language = "en"
+function = "Desktop calender"

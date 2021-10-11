@@ -1,0 +1,13 @@
+name = "Feira de Ciência"
+repo = "https://wikifactory.com/@lababertofablab/feira-de-ciência"
+version = "20201014172326"
+spdx-license = "N/A"
+licensor = "LAB ABERTO FAB LAB"
+documentation-language = "pt"
+image = "https://wikifactory.com/files/RmlsZTozMDAyMzM="
+function = "Conjunto de atividades experimentais para iniciação aos conceitos mais básicos e fundamentais em Física, Química e Tecnologia."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTM0NTg="
+mimetype = "text/markdown"
+

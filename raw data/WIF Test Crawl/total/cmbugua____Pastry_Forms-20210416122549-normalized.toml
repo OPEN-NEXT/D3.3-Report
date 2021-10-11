@@ -1,0 +1,7 @@
+name = "Pastry Forms"
+repo = "https://wikifactory.com/@cmbugua/pastry-forms"
+version = "20210416122549"
+spdx-license = "N/A"
+licensor = "Cyrus Mbugua"
+documentation-language = "ca"
+function = "Unique Geometric forms for pastries"

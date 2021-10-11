@@ -1,0 +1,8 @@
+name = "FabKulele"
+repo = "https://wikifactory.com/@josepmarti/fabkulele"
+version = "20190710135837"
+spdx-license = "N/A"
+licensor = "Josep Martí"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjc0NzI="
+function = "The FabKulele it's a modular Ukulele fully manufactured with digital fabrication in a Fab-Lab designed to help people to learn how to play.<br /> 3D printed and equipped with electronics to sense and show where to play. Connect it to another FabKulele or to a digital assistant and create MIDI music."

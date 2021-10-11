@@ -1,0 +1,13 @@
+name = "BEBO | EGG CUP"
+repo = "https://wikifactory.com/@gwilym/bebo-egg-cup"
+version = "20191209114038"
+spdx-license = "N/A"
+licensor = "Gwilym James Therin"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODEwOTc="
+function = "Bebo sets to tackle the complexity of fabrication of a simple product. Ceramic egg holders need resources imported from all over the world. Creating an enourmous environmental footprint for such a small product.  Bebo by using eggshells reduces this footprint drastically."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODg5MTk="
+mimetype = "text/markdown"
+

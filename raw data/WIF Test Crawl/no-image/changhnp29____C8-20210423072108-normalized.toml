@@ -1,0 +1,12 @@
+name = "C8"
+repo = "https://wikifactory.com/@changhnp29/c8"
+version = "20210423072108"
+spdx-license = "N/A"
+licensor = "changhnp29"
+documentation-language = "en"
+function = "Create"
+[[files]]
+name = "/1.1.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTAyNTM="
+mimetype = "image/png"
+

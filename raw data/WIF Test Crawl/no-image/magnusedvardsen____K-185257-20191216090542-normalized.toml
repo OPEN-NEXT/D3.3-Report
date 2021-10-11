@@ -1,0 +1,12 @@
+name = "K-185257 "
+repo = "https://wikifactory.com/@magnusedvardsen/k-185257"
+version = "20191216090542"
+spdx-license = "N/A"
+licensor = "Magnus Edvardsen"
+documentation-language = "no"
+function = "K-185257 - Råbygg/Tett bygg"
+[[files]]
+name = "/19003 UNSÖ_MSt arb_191211.3dm"
+permalink = "https://wikifactory.com/files/RmlsZToyOTA1NDc="
+mimetype = "application/octet-stream"
+

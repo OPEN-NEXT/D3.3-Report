@@ -1,0 +1,22 @@
+name = "Covid19 Team Uruguay"
+repo = "https://wikifactory.com/@pablotamb/unidossomosmasuy"
+version = "20200402150757"
+spdx-license = "CC-BY-4.0"
+licensor = "Pablo Tambasco"
+documentation-language = "es"
+function = "Bajo la filosofía del open source, seremos un movimiento autogestionado.\nEl trabajo es de forma libre, colaborativa y cooperativa. \nA través del diseño y producción de insumos médicos, utilizando para ello tecnología digital 3D como: pantallas de protección full-face y máscaras con y sin filtro."
+[[files]]
+name = "Archivos para corte de pantalla/COVID19_SHIELD_FOIL(1).pdf"
+permalink = "https://wikifactory.com/files/RmlsZTozMjc5ODg="
+mimetype = "application/pdf"
+
+[[files]]
+name = "Archivos STL para impresión 3d/PRUSA_brasil_x1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjc5OTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "Archivos STL para impresión 3d/PRUSA_brasil_x2_.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjc5ODk="
+mimetype = "application/sla"
+

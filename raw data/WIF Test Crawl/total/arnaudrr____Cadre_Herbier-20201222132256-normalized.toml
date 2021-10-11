@@ -1,0 +1,48 @@
+name = "Cadre Herbier"
+repo = "https://wikifactory.com/@arnaudrr/cadre-herbier"
+version = "20201222132256"
+spdx-license = "N/A"
+licensor = "Roy Arnaud"
+documentation-language = "fr"
+image = "https://wikifactory.com/files/RmlsZTo1MDU1OTI="
+function = "Le projet est un cadre pour herbier, fleurs séchées, à partir de plaques de contre-plaqué 3mm et d'une feuille de papier épais (type canson).\nIl y a un fond plein [niveau 00], une feuille de papier [niveau 01], une grille [niveau 02] et un couvercle de protection [niveau 03]."
+[[files]]
+name = "/Fleur_00_Fond.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDU1Nzg="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/Fleur_01_Feuille herbier.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDU1Nzc="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/Fleur_02_Grille.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDU1NzY="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/Fleur_03_Couvercle.svg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDU1NzU="
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "Photos/00_Decoupe grille.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDU1OTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/01_Positionnement fleurs.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDU1OTQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/02_Visualisation grille sur fleurs.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDU1OTc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "Photos/03_Teinte bois.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo1MDU1OTY="
+mimetype = "image/jpeg"
+

@@ -1,0 +1,7 @@
+name = "Ben's Project"
+repo = "https://wikifactory.com/@bnjakait1/bens-project"
+version = "20200822100310"
+spdx-license = "N/A"
+licensor = "Benard Jakait"
+documentation-language = "en"
+function = "Initially we developed diagnosis codes for computerized automotives but realizing some problems are rooted to the main internet source, we have opted to full software development and now our applications are safe,, optimized and fast."

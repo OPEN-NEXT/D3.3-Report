@@ -1,0 +1,23 @@
+name = "Circle Felt "
+repo = "https://wikifactory.com/@zoe/circle-felt"
+version = "20180604100558"
+spdx-license = "CC-BY-4.0"
+licensor = "Zoe Romano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTE0"
+function = "Rounded circular felt modules for seamless fashion. Part of the Modular Fashion initiative at <a href=\"www.wikifactory.com/+wemake\">WeMake</a>."
+[[files]]
+name = "/Circle Felt .svg"
+permalink = "https://wikifactory.com/files/RmlsZTozMjkx"
+mimetype = "image/svg+xml"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMjg1"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozNTEz"
+mimetype = "text/markdown"
+

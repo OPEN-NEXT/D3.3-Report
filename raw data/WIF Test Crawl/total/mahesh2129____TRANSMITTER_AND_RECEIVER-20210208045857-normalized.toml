@@ -1,0 +1,28 @@
+name = "TRANSMITTER AND RECEIVER "
+repo = "https://wikifactory.com/@mahesh2129/transmitter"
+version = "20210208045857"
+spdx-license = "N/A"
+licensor = "Mahesh Rakh"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1Mzc1Mzk="
+function = "I made transmitter which has 5km range ,and it is fully handmade, I used nrf24l module and Arduino and for controlling I used joysticks and small switches"
+[[files]]
+name = "/NRF24_receiver_7ch_PPM.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc1NDM="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/NRF24_receiver_7chpwm.zip"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc1NDI="
+mimetype = "application/x-zip-compressed"
+
+[[files]]
+name = "/sch_3.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc1NDE="
+mimetype = "image/png"
+
+[[files]]
+name = "/sch_4.png"
+permalink = "https://wikifactory.com/files/RmlsZTo1Mzc1NDA="
+mimetype = "image/png"
+

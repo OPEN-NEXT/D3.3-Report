@@ -1,0 +1,13 @@
+name = "Lasercut Microbit Case"
+repo = "https://wikifactory.com/@lukasmaximus89/lasercut-microbit-case"
+version = "20180323014451"
+spdx-license = "CC-BY-4.0"
+licensor = "Luke Henderson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxMTI0"
+function = "This is a an acrylic case I designed for the BBC Microbit to help protect the delicate chips on the back surface. I felt the need to design this case after I noticed some of the accelerometer chips had fallen off my Microbits whilst in my bag. It also helps avoid shorting the test pads on the back."
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToxMTIy"
+mimetype = "text/plain"
+

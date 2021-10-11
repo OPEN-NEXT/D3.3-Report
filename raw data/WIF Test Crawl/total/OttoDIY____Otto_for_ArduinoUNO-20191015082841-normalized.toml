@@ -1,0 +1,43 @@
+name = "Otto for ArduinoUNO"
+repo = "https://wikifactory.com/@adda3desing/otto-for-arduinouno"
+version = "20191015082841"
+spdx-license = "CC-BY-4.0"
+licensor = "Adda Vargas Fonseca"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZToyNDk1MjU="
+function = "En busca de que las personas con un arduino UNO pudieran crear a Otto he creado un modelo para esta placa con su correspondiente shield de servomotores. He cambiado librerías y códigos para hacer el programa más liviano y evitar que se reinicie constantemente.  #ottoremixchallenge"
+[[files]]
+name = "/20190801_203419.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1MTY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/20190801_203428.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1MTU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1MjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Manual_otto_arduino.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1MjA="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/Otto2.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1MTM="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Otto.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1MTQ="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Otto_Tiinco.rar"
+permalink = "https://wikifactory.com/files/RmlsZToyNDk1MTk="
+mimetype = "application/rar"
+

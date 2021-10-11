@@ -1,0 +1,7 @@
+name = "Foglia"
+repo = "https://wikifactory.com/@stefanosky/foglia"
+version = "20210313181752"
+spdx-license = "N/A"
+licensor = "stefano varano"
+documentation-language = "ro"
+function = "A leaf for Lasercut"

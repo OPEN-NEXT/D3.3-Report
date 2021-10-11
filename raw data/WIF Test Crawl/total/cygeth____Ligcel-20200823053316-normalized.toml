@@ -1,0 +1,7 @@
+name = "Ligcel"
+repo = "https://wikifactory.com/@cygeth/ligcel"
+version = "20200823053316"
+spdx-license = "N/A"
+licensor = "Cyril G Thottumkal"
+documentation-language = "ca"
+function = "Sustainable composite materials"

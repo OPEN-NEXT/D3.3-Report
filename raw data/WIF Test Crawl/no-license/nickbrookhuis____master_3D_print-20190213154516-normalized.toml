@@ -1,0 +1,527 @@
+name = "master 3D print"
+repo = "https://wikifactory.com/@nickbrookhuis/master-3d-print"
+version = "20190213154516"
+spdx-license = "N/A"
+licensor = "Nick Brookhuis"
+documentation-language = "ro"
+function = "master 3D print"
+[[files]]
+name = "bakje met scharnierpunt/bakje.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5NjU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "bakje met scharnierpunt/bakje.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5ODc="
+mimetype = "application/sla"
+
+[[files]]
+name = "bakje met scharnierpunt/bakje_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5ODY="
+mimetype = "application/sla"
+
+[[files]]
+name = "dynamic surface/poging 1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5Njc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "dynamic surface/poging 2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5NjY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/arm_1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5Mjg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/arm_1.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMTU="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/arm_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5Mjc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/arm_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/as_1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MjY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/as_1.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMTM="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/as_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MjU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/as_4.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MjQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/as_kort.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MjM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/as_kort.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/base_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5OTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/base_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5OTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/borging.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MjI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/borging_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/borging_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/bus_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MjA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/bus_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/clip_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/clip_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/deksel_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5OTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/deksel_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5OTQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/eindopdracht_2.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/frame.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MTc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/frame.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMDg="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/frame_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MTY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/frame_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/krab shell_1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MTU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/krab shell_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MTQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/leg_1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/leg_1.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/leg_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MTI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/leg_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/leg_3_test_1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MTE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/leg_3_test_1.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/leg_3_test_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/leg_3_test_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/leg_4_test.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MDk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/leg_4_test.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/leg_4_test_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MDg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/leg_4_test_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/leg_shell.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMDA="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/leg_shell_1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MDc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/leg_shell_1.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5OTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/leg_shell_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MDY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/leg_shell_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5OTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/leg_shell_3.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/leg_shell_3.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5OTE="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/leg_shell_4.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/leg_shell_4.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5OTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/tandwiel los.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MDM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/tandwiel_1.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/tandwiel_1.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5ODk="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/tandwiel_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MDE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/tandwiel_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5ODg="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/turbine_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5OTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/turbine_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5OTI="
+mimetype = "application/sla"
+
+[[files]]
+name = "eindopdracht cad files/wheel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MDA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "eindopdracht cad files/wiel_arm.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ4OTk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "gear system/as.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5NzU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "gear system/as.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "gear system/as_2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5NzQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "gear system/as_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMzI="
+mimetype = "application/sla"
+
+[[files]]
+name = "gear system/frame.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5NzM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "gear system/frame.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMzE="
+mimetype = "application/sla"
+
+[[files]]
+name = "gear system/gear system_2.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5NzI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "gear system/rack.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5NzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "gear system/rack.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMzA="
+mimetype = "application/sla"
+
+[[files]]
+name = "gear system/tandwiel half.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5NzA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "gear system/tandwiel half.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMjk="
+mimetype = "application/sla"
+
+[[files]]
+name = "gear system/tandwiel klein_3.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5Njk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "gear system/tandwiel klein_3.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMjg="
+mimetype = "application/sla"
+
+[[files]]
+name = "gear system/tandwiel middel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5Njg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "gear system/tandwiel middel.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMjc="
+mimetype = "application/sla"
+
+[[files]]
+name = "gripper/as.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMjI="
+mimetype = "application/sla"
+
+[[files]]
+name = "gripper/as_2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMjE="
+mimetype = "application/sla"
+
+[[files]]
+name = "gripper/frame.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMjA="
+mimetype = "application/sla"
+
+[[files]]
+name = "gripper/gripper.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5Nzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "gripper/gripper.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMjQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "gripper/gripper_v2.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5NzY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "gripper/gripper_v2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMjM="
+mimetype = "application/sla"
+
+[[files]]
+name = "gripper/rack.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMTk="
+mimetype = "application/sla"
+
+[[files]]
+name = "gripper/tandwiel half.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMTg="
+mimetype = "application/sla"
+
+[[files]]
+name = "gripper/tandwiel klein_3.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMTc="
+mimetype = "application/sla"
+
+[[files]]
+name = "gripper/tandwiel middel.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMTY="
+mimetype = "application/sla"
+
+[[files]]
+name = "hart op hart afstand/frame_eigen.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5ODA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "hart op hart afstand/frame_eigen.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwNDE="
+mimetype = "application/sla"
+
+[[files]]
+name = "hart op hart afstand/hart op hart.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5Nzk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "hart op hart afstand/tandwiel.SLDPRT"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5Nzg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "hart op hart afstand/tandwiel.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/oud.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNTA3MQ=="
+mimetype = "text/plain"
+
+[[files]]
+name = "/out"
+permalink = "https://wikifactory.com/files/RmlsZToyNTA0NA=="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/poging 1.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/poging 2.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/poging 3.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwMzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5MzQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Recording #4.mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyMjUwNjI="
+mimetype = "video/mp4"
+
+[[files]]
+name = "stl aanpassing opdracht/2019-03-14 10_59_53-SOLIDWORKS Student Edition - Academic Use Only - [keyring _].png"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5ODM="
+mimetype = "image/png"
+
+[[files]]
+name = "stl aanpassing opdracht/Grand Fulffy.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5ODI="
+mimetype = "application/sla"
+
+[[files]]
+name = "stl aanpassing opdracht/keyring.STL"
+permalink = "https://wikifactory.com/files/RmlsZToyMjQ5ODE="
+mimetype = "application/sla"
+

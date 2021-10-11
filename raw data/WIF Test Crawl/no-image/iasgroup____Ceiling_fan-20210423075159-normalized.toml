@@ -1,0 +1,7 @@
+name = "Ceiling fan"
+repo = "https://wikifactory.com/@iasgroup/ceiling-fan"
+version = "20210423075159"
+spdx-license = "N/A"
+licensor = "Inusah Abubakar"
+documentation-language = "en"
+function = "It’s in how to create a ceiling fan"

@@ -1,0 +1,7 @@
+name = "Sonotherapy Machine"
+repo = "https://wikifactory.com/@omojesus/sonotherapy-machine"
+version = "20200726151333"
+spdx-license = "N/A"
+licensor = "Raphael Ayomide Balogun"
+documentation-language = "en"
+function = "Using sound technology to treat cellular based disease which include cancers and endoparasites as well as viruses"

@@ -1,0 +1,7 @@
+name = "3d modelling"
+repo = "https://wikifactory.com/@syamsul/3d-modelling"
+version = "20200616085842"
+spdx-license = "N/A"
+licensor = "Syamsul Huda"
+documentation-language = "en"
+function = "The project about miniatur figure action"

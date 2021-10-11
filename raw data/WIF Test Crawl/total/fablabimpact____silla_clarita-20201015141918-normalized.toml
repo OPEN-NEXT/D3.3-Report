@@ -1,0 +1,18 @@
+name = "silla clarita"
+repo = "https://wikifactory.com/@oscarvlqz/silla-clarita"
+version = "20201015141918"
+spdx-license = "N/A"
+licensor = "Oscar Velazquez"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NDc2MDM="
+function = "placeholder descriotion"
+[[files]]
+name = "/Master template_ Furniture open design 2020.docx"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTE3MTc="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTE3MzQ="
+mimetype = "text/markdown"
+

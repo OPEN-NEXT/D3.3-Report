@@ -1,0 +1,7 @@
+name = "Fire"
+repo = "https://wikifactory.com/@ishanagrawal1008/fire"
+version = "20210228032323"
+spdx-license = "N/A"
+licensor = "ishanagrawal1008"
+documentation-language = "en"
+function = "."

@@ -1,0 +1,8 @@
+name = "3D printing CL63AMG"
+repo = "https://wikifactory.com/@victor007/3d-printing-mercedes-cl63"
+version = "20190617094642"
+spdx-license = "N/A"
+licensor = "yongliang wang"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTM0NjA="
+function = "I strongly dissatisfied with the online model of the car model, so I designed all the model data of the Mercedes CL63, and tried not to let go of every detail that can be moved. I used FAB tools and materials to design this model. I hope everyone can give more advice!"

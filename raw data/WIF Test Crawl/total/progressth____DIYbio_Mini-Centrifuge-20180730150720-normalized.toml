@@ -1,0 +1,63 @@
+name = "DIYbio Mini-Centrifuge"
+repo = "https://wikifactory.com/@progressth/diybio-mini-centrifuge"
+version = "20180730150720"
+spdx-license = "CC-BY-4.0"
+licensor = "ProgressTH"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo2ODky"
+function = "This 3D-printed DIYbio mini-centrifuge was designed to do simple DNA extraction and quick-spins for mixing the contents of test tubes. It has actually been used in a real university biology lab doing real protocols. By Brian Berletic, Hermes Huang and Bryan Hugill, co-founders of <a href=\"http://f-labth.blogspot.com/\">F.Lab</a>."
+[[files]]
+name = "3D Design Files/Centrifuge_Drone_Motor.skb"
+permalink = "https://wikifactory.com/files/RmlsZTo2ODk4"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "3D Design Files/V2_Body.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo2ODk3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/V2_case_Cover.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo2OTAw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/V2_Cover.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo2ODk5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/V2_Feet.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo2OTAy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/V2_knob.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo2OTAx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/V2_MotorMount.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo2OTAz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Design Files/V2_Rotor.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo2OTA0"
+mimetype = "application/sla"
+
+[[files]]
+name = "Arduino Coding/arduino centrifuge.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo2OTE0"
+mimetype = "text/x-c"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo2OTIz"
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo2OTIw"
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Polargraph"
+repo = "https://wikifactory.com/@simao-basilio/polargraph"
+version = "20201024135714"
+spdx-license = "N/A"
+licensor = "Simao Basilio"
+documentation-language = "en"
+function = "The making of a Vertical Ploter"

@@ -1,0 +1,17 @@
+name = "Fortunatrike"
+repo = "https://wikifactory.com/@renevc/fortunatrike"
+version = "20200116123357"
+spdx-license = "CC0-1.0"
+licensor = "rene van corven"
+documentation-language = "en"
+function = "visualisation of 3D"
+[[files]]
+name = "/fortuna trike solo.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyOTg1NzI="
+mimetype = ""
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyOTg1NzU="
+mimetype = "text/plain"
+

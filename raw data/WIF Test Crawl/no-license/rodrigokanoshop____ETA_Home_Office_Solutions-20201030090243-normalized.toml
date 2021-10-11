@@ -1,0 +1,23 @@
+name = "ETA Home Office Solutions"
+repo = "https://wikifactory.com/@rodrigokanoshop/eta-home-office-solutions"
+version = "20201030090243"
+spdx-license = "N/A"
+licensor = "rodrigokanoshop"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTg2NTI="
+function = "Furniture Solutions for the New Normal."
+[[files]]
+name = "/Kano & Co. ETA Home Office Solutions.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTUyNDE="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/pressKano19 PDF.pdf"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTg2MTM="
+mimetype = "application/pdf"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NjIyNzM="
+mimetype = "text/markdown"
+

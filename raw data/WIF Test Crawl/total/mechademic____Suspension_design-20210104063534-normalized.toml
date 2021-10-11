@@ -1,0 +1,7 @@
+name = "Suspension design "
+repo = "https://wikifactory.com/@mechademic/suspension-design"
+version = "20210104063534"
+spdx-license = "N/A"
+licensor = "Mufaddal Rasheed"
+documentation-language = "en"
+function = "New Suspension design for a Toy car"

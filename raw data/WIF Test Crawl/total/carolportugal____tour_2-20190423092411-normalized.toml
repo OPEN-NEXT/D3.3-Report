@@ -1,0 +1,7 @@
+name = "tour 2"
+repo = "https://wikifactory.com/@carolportugal/tour-2"
+version = "20190423092411"
+spdx-license = "N/A"
+licensor = "Carolina Alves Portugal"
+documentation-language = "en"
+function = "tour"

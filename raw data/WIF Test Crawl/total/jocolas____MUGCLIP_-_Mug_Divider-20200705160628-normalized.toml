@@ -1,0 +1,53 @@
+name = "MUGCLIP - Mug Divider"
+repo = "https://wikifactory.com/@jocolas/mugclip-mug-divider"
+version = "20200705160628"
+spdx-license = "N/A"
+licensor = "Jodie Becard"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDM3NzU="
+function = "This project allows us to simply divide mugs and glasses in our bathroom to store toothbrushes."
+[[files]]
+name = "/MUGCLIP-flat.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM4Mzc="
+mimetype = "image/png"
+
+[[files]]
+name = "/MUGCLIP-in-bathroom.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM3ODQ="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/MUGCLIP-mug-1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM3ODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/MUGCLIP-mug-2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM3ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/MUGCLIP-researches-1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM3ODI="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/MUGCLIP-researches-2.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM3Nzk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/MUGCLIP-shape-variations-1.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM3ODU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/MUGCLIP.obj"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM4NTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM4NDY="
+mimetype = "text/markdown"
+

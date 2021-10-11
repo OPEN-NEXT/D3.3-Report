@@ -1,0 +1,7 @@
+name = "Test"
+repo = "https://wikifactory.com/@fframos17/test"
+version = "20210304192110"
+spdx-license = "N/A"
+licensor = "fframos17"
+documentation-language = "en"
+function = "Test"

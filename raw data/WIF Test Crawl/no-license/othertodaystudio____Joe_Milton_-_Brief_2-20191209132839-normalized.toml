@@ -1,0 +1,43 @@
+name = "Joe Milton - Brief 2"
+repo = "https://wikifactory.com/@joemilton/joes-other-today-work"
+version = "20191209132839"
+spdx-license = "N/A"
+licensor = "Joe Milton"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDczMzk="
+function = "University work for brief 2"
+[[files]]
+name = "/Joe Milton Presentation..mp4"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ1MDA="
+mimetype = "video/mp4"
+
+[[files]]
+name = "/Justification for Project.docx"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4Mzg="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/Presentation layout!.docx"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ2NjY="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/Presentation Research..docx"
+permalink = "https://wikifactory.com/files/RmlsZToyNzQ1NTc="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk2MjI="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/Shelf v2.SLDASM"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4NjE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "/Supply chain for shelf.pdf"
+permalink = "https://wikifactory.com/files/RmlsZToyNzg4ODU="
+mimetype = "application/pdf"
+

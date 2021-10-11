@@ -1,0 +1,613 @@
+name = "BoB"
+repo = "https://wikifactory.com/@cparrapa/bob"
+version = "20190608085218"
+spdx-license = "N/A"
+licensor = "Camilo Parra Palacio"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMTc5MzA="
+function = "BoB a fun introduction to the world of walking robots for children and adults alike! with simple construction and very low part count you can have your bob up and walking in no time. created by Kevin Biagini @kevbiagini"
+[[files]]
+name = "3D Print/Base__repaired_.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1Mzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Foot__repaired_.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1MzY="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Head__repaired_.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1MzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Leg_LH__repaired_.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1MzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Print/Leg_RH__repaired_.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1MzM="
+mimetype = "application/sla"
+
+[[files]]
+name = "Firmware/Biped_Robot_BOB_Arduino.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NzI="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Firmware/BoB poser/BoBPoser.exe"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NDI="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/AboutWindow.xaml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/AboutWindow.xaml.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NDA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Action.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2Mzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/ActionControl.xaml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2Mzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/ActionControl.xaml.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2Mzc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/ActionPlayer.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MzY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/App.xaml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MzU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/App.xaml.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/bin/Debug/BoBPoser.exe"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MzM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/bin/Debug/BoBPoser.pdb"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MzI="
+mimetype = ""
+
+[[files]]
+name = "Firmware/BoB poser/Poser/bin/Debug/BoBPoser.vshost.exe"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MzE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/bin/Debug/BoBPoser.vshost.exe.manifest"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MzA="
+mimetype = "application/x-ms-manifest"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/bin/Release/BoBPoser.exe"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2Mjk="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/bin/Release/BoBPoser.pdb"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2Mjg="
+mimetype = "chemical/x-pdb"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/BoundedSlider.xaml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2Mjc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/BoundedSlider.xaml.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/CommunicationManager.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Experiments.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MjQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/GroupDisplayPanel.xaml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/GroupDisplayPanel.xaml.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Images/BoB clean.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MjE="
+mimetype = "image/png"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Images/favicon.ico"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MjA="
+mimetype = "image/x-icon"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Images/feet 180.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MTk="
+mimetype = "image/png"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Images/FOBO clean.png"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MTg="
+mimetype = "image/png"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Images/ProjectBiped1.ico"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MTY="
+mimetype = "image/x-icon"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Images/ProjectBiped.ico"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MTc="
+mimetype = "image/x-icon"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/MultiServoControl.xaml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/MultiServoControl.xaml.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/AboutWindow.baml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MTM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/AboutWindow.g.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MTI="
+mimetype = ""
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/AboutWindow.g.i.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/ActionControl.baml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/ActionControl.g.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MDk="
+mimetype = ""
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/ActionControl.g.i.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/App.g.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MDc="
+mimetype = ""
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/App.g.i.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/BoBPoser.exe"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MDU="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/BoBPoser.g.resources"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MDQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/BoBPoser.pdb"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MDM="
+mimetype = "chemical/x-pdb"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/BoBPoser_MarkupCompile.cache"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MDI="
+mimetype = "chemical/x-cache"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/BoBPoser_MarkupCompile.i.cache"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MDE="
+mimetype = "chemical/x-cache"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/BoBPoser_MarkupCompile.i.lref"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2MDA="
+mimetype = ""
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/BoBPoser_MarkupCompile.lref"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1OTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/BoundedSlider.baml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1OTg="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/BoundedSlider.g.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1OTc="
+mimetype = ""
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/BoundedSlider.g.i.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1OTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1OTU="
+mimetype = "chemical/x-cache"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/GeneratedInternalTypeHelper.g.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1OTQ="
+mimetype = ""
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/GeneratedInternalTypeHelper.g.i.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1OTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/GenerateResource.read.1.tlog"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1OTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/GenerateResource.write.1.tlog"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1OTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/GroupDisplayPanel.baml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1OTA="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/GroupDisplayPanel.g.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1ODk="
+mimetype = ""
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/GroupDisplayPanel.g.i.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1ODg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/MultiServoControl.baml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1ODc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/MultiServoControl.g.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1ODY="
+mimetype = ""
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/MultiServoControl.g.i.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1ODU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/ReferenceSlider.baml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1ODQ="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/ReferenceSlider.g.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1ODM="
+mimetype = ""
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/ReferenceSlider.g.i.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1ODI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/ServoAngleControl.baml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1ODE="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/ServoAngleControl.g.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1ODA="
+mimetype = ""
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/ServoAngleControl.g.i.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1Nzk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/ServoControl.csproj.FileListAbsolute.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1Nzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/ServoControl.Properties.Resources.resources"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1Nzc="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/StateDisplay.baml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NzY="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/StateDisplay.g.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NzU="
+mimetype = ""
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/StateDisplay.g.i.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/StateValue.baml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NzM="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/StateValue.g.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NzI="
+mimetype = ""
+
+[[files]]
+name = "Firmware/BoB poser/Poser/obj/x86/Debug/StateValue.g.i.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NzE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Poser.sln"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NzA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Poser.suo"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1Njk="
+mimetype = "application/CDFV2-unknown"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Properties/AssemblyInfo.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1Njg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Properties/Resources.Designer.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1Njc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Properties/Resources.resx"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NjY="
+mimetype = "application/xml"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Properties/Settings.Designer.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NjU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Properties/Settings.settings"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NjQ="
+mimetype = "application/xml"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/ReferenceSlider.xaml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NjM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/ReferenceSlider.xaml.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NjI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Servo.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NjE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/ServoAngleControl.xaml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/ServoAngleControl.xaml.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NTk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/ServoCommunicator.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NTg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/ServoControl.csproj"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NTc="
+mimetype = "application/xml"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/ServoControl.csproj.user"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NTY="
+mimetype = "application/xml"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/ServoInteractive.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NTU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/StateDisplay.xaml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NTQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/StateDisplay.xaml.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NTM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/StateValue.xaml"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NTI="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/StateValue.xaml.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/Tools.cs"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NTA="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/walk output2.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/walk output3.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Poser/walk output.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/BoB poser/Remote_Control/Remote_Control.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NDY="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Firmware/Bob_Walk1.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NDU="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Firmware/Bot_Functions.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NzM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/Navigation.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NzQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/NewPing/examples/NewPing15Sensors/NewPing15Sensors.pde"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/NewPing/examples/NewPingEventTimer/NewPingEventTimer.pde"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/NewPing/examples/NewPingExample/NewPingExample.pde"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NDM="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Firmware/NewPing/examples/TimerExample/TimerExample.pde"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NDI="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Firmware/NewPing/keywords.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NDE="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/NewPing/NewPing.cpp"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1NDA="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "Firmware/NewPing/NewPing.h"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI1Mzk="
+mimetype = "text/x-chdr"
+
+[[files]]
+name = "Firmware/Ping.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/Remote_Control.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NzE="
+mimetype = "text/x-c"
+
+[[files]]
+name = "Firmware/Stop.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NDc="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/TurnLeft.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NDY="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/TurnRight.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NDQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/Walk_BackWards.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NDM="
+mimetype = "text/plain"
+
+[[files]]
+name = "Firmware/Walk_Forwards.ino"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NDk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMTI2NTA="
+mimetype = "text/markdown"
+

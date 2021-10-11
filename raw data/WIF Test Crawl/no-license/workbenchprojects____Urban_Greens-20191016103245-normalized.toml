@@ -1,0 +1,7 @@
+name = "Urban Greens"
+repo = "https://wikifactory.com/@rgbiohack/urban-greens"
+version = "20191016103245"
+spdx-license = "N/A"
+licensor = "Richard Gomes"
+documentation-language = "en"
+function = "The project is about creating simple systems to democratize food access anywhere in the world using industrial waste as a resource."

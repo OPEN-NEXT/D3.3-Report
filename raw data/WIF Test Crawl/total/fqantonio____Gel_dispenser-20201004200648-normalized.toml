@@ -1,0 +1,13 @@
+name = "Gel dispenser"
+repo = "https://wikifactory.com/@fqantonio/gel-dispenser"
+version = "20201004200648"
+spdx-license = "N/A"
+licensor = "António Carlos Gonçalves"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NDY2NzM="
+function = "This a project development under the Fab Experience 2020 event that is organized by Lab Aberto Fab Lab non-profit association"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NDY2ODA="
+mimetype = "text/markdown"
+

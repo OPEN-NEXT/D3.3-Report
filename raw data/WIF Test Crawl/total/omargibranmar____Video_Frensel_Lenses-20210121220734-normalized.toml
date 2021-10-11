@@ -1,0 +1,7 @@
+name = "Video Frensel Lenses"
+repo = "https://wikifactory.com/@omargibranmar/video-frensel-lenses"
+version = "20210121220734"
+spdx-license = "N/A"
+licensor = "Omar Gibra Mar Yañez"
+documentation-language = "en"
+function = "A variant of Frensel Lenses intended to be used in the validation of patients with vertigo"

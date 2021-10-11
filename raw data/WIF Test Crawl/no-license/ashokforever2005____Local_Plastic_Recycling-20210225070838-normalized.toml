@@ -1,0 +1,7 @@
+name = "Local Plastic Recycling"
+repo = "https://wikifactory.com/@ashokforever2005/local-plastic-recycling"
+version = "20210225070838"
+spdx-license = "N/A"
+licensor = "ashokforever2005"
+documentation-language = "en"
+function = "Create a small scale plastic recycling machine."

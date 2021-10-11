@@ -1,0 +1,7 @@
+name = "rhino view"
+repo = "https://wikifactory.com/@jcourtney99/rhino-view"
+version = "20190802133807"
+spdx-license = "N/A"
+licensor = "John Courtney"
+documentation-language = "en"
+function = "trying to set up Rhino Viewer"

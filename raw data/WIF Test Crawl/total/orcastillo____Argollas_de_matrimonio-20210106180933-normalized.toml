@@ -1,0 +1,8 @@
+name = "Argollas de matrimonio "
+repo = "https://wikifactory.com/@orcastillo/argollas-de-matrimonio"
+version = "20210106180933"
+spdx-license = "N/A"
+licensor = "Omar Castillo"
+documentation-language = "es"
+image = "https://wikifactory.com/files/RmlsZTo1MTQxMzY="
+function = "Diselo de argollas de matrimoni en open Scad para ser custiomisadas facilmente en taño y talla"

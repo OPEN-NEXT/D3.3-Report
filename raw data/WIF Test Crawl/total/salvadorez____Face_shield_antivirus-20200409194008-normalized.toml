@@ -1,0 +1,12 @@
+name = "Face shield antivirus "
+repo = "https://wikifactory.com/@salvadorez/face-shield-antivirus"
+version = "20200409194008"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Senin Chaman Salvadorez "
+documentation-language = "en"
+function = "Cheap and easy to make face shield antivirus"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTozMzMyODM="
+mimetype = "text/plain"
+

@@ -1,0 +1,7 @@
+name = "Kiran Watch"
+repo = "https://wikifactory.com/@kirankarpur/kiran-watch"
+version = "20200310113911"
+spdx-license = "N/A"
+licensor = "kirankarpur"
+documentation-language = "en"
+function = "Smart Watch"

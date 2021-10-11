@@ -1,0 +1,113 @@
+name = "Volled Board "
+repo = "https://wikifactory.com/@shad0w/volled-board"
+version = "20180830095553"
+spdx-license = "N/A"
+licensor = "Gianfranco Caputo"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo5NzE3"
+function = "The Volled Board is a thin light and colorful electronic scoreboard. It feature rich, cheap, high customizable and fully open source from the frame to the circuits the firmware to the android app."
+[[files]]
+name = "Design/SB_Base.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTY5"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/SB_Middle.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTcy"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/SB_Top.3dm"
+permalink = "https://wikifactory.com/files/RmlsZTo5OTcx"
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Design/scoreboard.skp"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM1Mw=="
+mimetype = "SKP"
+
+[[files]]
+name = "Electronics/Bluetooth/bluetooth.brd"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM4Mg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Bluetooth/bluetooth.sch"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM4MQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Bluetooth/eagle.epf"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM4Mw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Controller/controllerModular.brd"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM2MA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Controller/controllerModular.sch"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM1OQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Controller/eagle.epf"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM2MQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Digit/digit.brd"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM1Nw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Digit/digit.sch"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM1Ng=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Digit/digit.skp"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM1OA=="
+mimetype = "SKP"
+
+[[files]]
+name = "Electronics/Keypad/eagle.epf"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM2Mw=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Keypad/keypad.brd"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM2Mg=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/Keypad/keypad.sch"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM2NA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/RF/eagle.epf"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM4MA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/RF/rf.brd"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM3OA=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Electronics/RF/rf.sch"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM3OQ=="
+mimetype = "application/octet-stream"
+
+[[files]]
+name = "Programming/iScore.zip"
+permalink = "https://wikifactory.com/files/RmlsZToxMDM5OA=="
+mimetype = "application/zip"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo5ODI0"
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "gov91"
+repo = "https://wikifactory.com/@ismael007/gov91"
+version = "20210210055945"
+spdx-license = "N/A"
+licensor = "ismael gomez"
+documentation-language = "es"
+function = "impresión de  dientes o placas d3"

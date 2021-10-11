@@ -1,0 +1,7 @@
+name = "Alkali"
+repo = "https://wikifactory.com/@abdulmuyassir-alkali/alkali"
+version = "20200702105000"
+spdx-license = "N/A"
+licensor = "AbdulmuyassirAlkaliAbdulrahman"
+documentation-language = "ca"
+function = "Farming virtual camera"

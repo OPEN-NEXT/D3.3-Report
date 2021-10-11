@@ -1,0 +1,7 @@
+name = "communication controller"
+repo = "https://wikifactory.com/@habib6287/communication-controller"
+version = "20201028134306"
+spdx-license = "N/A"
+licensor = "habib6287"
+documentation-language = "en"
+function = "communication on many medium over network"

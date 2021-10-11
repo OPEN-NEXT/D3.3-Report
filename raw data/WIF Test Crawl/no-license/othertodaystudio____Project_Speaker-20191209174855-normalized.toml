@@ -1,0 +1,13 @@
+name = "Project Speaker "
+repo = "https://wikifactory.com/@amirtod/project-speaker"
+version = "20191209174855"
+spdx-license = "N/A"
+licensor = "Amir Todorovac"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODk0MDY="
+function = "Here you will find my E-waste project where i find old thrown away technology and find ways of giving it a new lease of life whilst looking into ways of redesigning the speaker for a longer lasting lifespan ."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODk4MzE="
+mimetype = "text/markdown"
+

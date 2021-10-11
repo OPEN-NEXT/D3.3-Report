@@ -1,0 +1,13 @@
+name = "OpenJoy"
+repo = "https://wikifactory.com/@lukasmaximus89/openjoy"
+version = "20180205192342"
+spdx-license = "CC0-1.0"
+licensor = "Luke Henderson"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo5NjM="
+function = "Have you ever wanted to customise the buttons on your game console joypad to get that perfect setup for your gaming needs. Rather than having to model everything from scratch, Openjoy intends to create a repository of customisable buttons, pads, and joysticks from your favourite consoles"
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo5NjQ="
+mimetype = "text/plain"
+

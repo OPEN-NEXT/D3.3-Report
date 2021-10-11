@@ -1,0 +1,7 @@
+name = "A"
+repo = "https://wikifactory.com/@vernieg/a"
+version = "20210207071915"
+spdx-license = "N/A"
+licensor = "vernieg"
+documentation-language = "en"
+function = "A"

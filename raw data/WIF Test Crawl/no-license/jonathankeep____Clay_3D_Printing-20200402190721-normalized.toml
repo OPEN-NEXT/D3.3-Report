@@ -1,0 +1,13 @@
+name = "Clay 3D Printing"
+repo = "https://wikifactory.com/@jonathankeep/clay-3d-printing"
+version = "20200402190721"
+spdx-license = "N/A"
+licensor = "Jonathan Keep"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODc5Mjk="
+function = "This is a brief personal guide to clay 3D printing."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyODc5NzQ="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Help"
+repo = "https://wikifactory.com/@arnaulddjiadie/help"
+version = "20200927120914"
+spdx-license = "N/A"
+licensor = "arnaulddjiadie"
+documentation-language = "fr"
+function = "Programme à rescencer les enfants abandonnés"

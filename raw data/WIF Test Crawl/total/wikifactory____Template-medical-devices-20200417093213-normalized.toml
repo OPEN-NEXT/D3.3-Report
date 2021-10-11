@@ -1,0 +1,33 @@
+name = "Template-medical-devices"
+repo = "https://wikifactory.com/@rebel/project-example-template"
+version = "20200417093213"
+spdx-license = "N/A"
+licensor = "Christina Rebel"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMjIxMTE="
+function = "A template for open initiatives developing digitally fabricated components + hardware solutions for emergency medical supplies.\n<b>Simply </b><a href=\"https://wikifactory.com/+wikifactory/project-example-template/files\"><b><code>download</code></b></a><b> the Template and upload it into the Drive of a new Project </b>to guide your  product development. Available in multiple languages."
+[[files]]
+name = "Español/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjgzOTk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Français/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjI2NTk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Italiano/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjg0MDM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Português /README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMjg0MDQ="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzgzMjg="
+mimetype = "text/markdown"
+

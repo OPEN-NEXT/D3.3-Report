@@ -1,0 +1,18 @@
+name = "DS004 - Wheelchair Hoist "
+repo = "https://wikifactory.com/@mayaroman/ds004-wheelchair-hoist"
+version = "20200414003841"
+spdx-license = "N/A"
+licensor = "Maya Roman"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMzYxMjc="
+function = "To lift occupant out of wheelchairs transfers between bed or chair"
+[[files]]
+name = "/DS004_Manual.docx"
+permalink = "https://wikifactory.com/files/RmlsZTozMzYxMjg="
+mimetype = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMzYxNDA="
+mimetype = "text/markdown"
+

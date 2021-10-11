@@ -1,0 +1,12 @@
+name = "Roots Grow System"
+repo = "https://wikifactory.com/@roots/roots-grow-system"
+version = "20190911121342"
+spdx-license = "N/A"
+licensor = "Jessica Guy"
+documentation-language = "en"
+function = "Aeroponics is a technology in which plants are grown suspended in the air, their roots are misted with a nutrient-water solution. Aeroponics uses less water, nutrients and fertilisers than the other ponics. Please keep in mind that this is the first version of our system. Feel free to contact us!"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyNDU4Mzg="
+mimetype = "text/markdown"
+

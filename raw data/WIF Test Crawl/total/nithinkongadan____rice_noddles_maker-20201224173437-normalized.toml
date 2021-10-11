@@ -1,0 +1,7 @@
+name = "rice noddles maker"
+repo = "https://wikifactory.com/@nithinkongadan/rice-noddles-maker"
+version = "20201224173437"
+spdx-license = "N/A"
+licensor = "Nithin"
+documentation-language = "en"
+function = "automated rice noodle maker"

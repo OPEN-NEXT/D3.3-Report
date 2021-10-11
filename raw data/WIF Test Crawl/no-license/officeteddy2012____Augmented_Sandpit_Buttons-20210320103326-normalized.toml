@@ -1,0 +1,7 @@
+name = "Augmented Sandpit Buttons"
+repo = "https://wikifactory.com/@officeteddy2012/augmented-sandpit-buttons"
+version = "20210320103326"
+spdx-license = "N/A"
+licensor = "officeteddy2012"
+documentation-language = "en"
+function = "I need to create low cost buttons to interact with a windows 10 pc wireless. The keystroke needs to replace the numlock buttons 1-9 and the space bar. The buttons need to be like arcade style buttons"

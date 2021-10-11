@@ -1,0 +1,7 @@
+name = "Testprojekt"
+repo = "https://wikifactory.com/@patrickkathöfer/testprojekt"
+version = "20200527131216"
+spdx-license = "N/A"
+licensor = "Patrick Kathöfer"
+documentation-language = "en"
+function = "Testprojekt"

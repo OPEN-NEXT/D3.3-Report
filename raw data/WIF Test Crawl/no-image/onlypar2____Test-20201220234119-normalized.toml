@@ -1,0 +1,7 @@
+name = "Test "
+repo = "https://wikifactory.com/@onlypar2/test"
+version = "20201220234119"
+spdx-license = "N/A"
+licensor = "Partha Saradhi Reddy"
+documentation-language = "en"
+function = "Test"

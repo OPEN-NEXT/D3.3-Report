@@ -1,0 +1,28 @@
+name = "Hack things around you !"
+repo = "https://wikifactory.com/@minhuy/hack-things-around-you"
+version = "20190425141806"
+spdx-license = "N/A"
+licensor = "NGUYEN HUY VIET MINH"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDU5MTc="
+function = "Some ways to hack things around you. \u200b \u200b \u200b \u200b Five small projects show you the ways to repair, to give the new life for everything around you. Each project is corresponding to a level of intervention."
+[[files]]
+name = "images/minHuy_FAB11_FBB_FbarTable_11.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1NjU="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/minHuy_FAB11_PCB_Pchair_06.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1NjY="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "images/minHuy_FWB_FtoolsWall_01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1Njc="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTY1NjM="
+mimetype = "text/plain"
+

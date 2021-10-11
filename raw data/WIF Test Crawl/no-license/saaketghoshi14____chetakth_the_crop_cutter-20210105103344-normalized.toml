@@ -1,0 +1,7 @@
+name = "chetakth the crop cutter"
+repo = "https://wikifactory.com/@saaketghoshi14/chetakth-the-crop-cutter"
+version = "20210105103344"
+spdx-license = "N/A"
+licensor = "saaketghoshi14"
+documentation-language = "en"
+function = "this is crop cutter"

@@ -1,0 +1,7 @@
+name = "fish grader"
+repo = "https://wikifactory.com/@richardobisesan/fish-grader"
+version = "20201120000022"
+spdx-license = "N/A"
+licensor = "richardobisesan"
+documentation-language = "en"
+function = "My project focus on getting fast uniform fish seeds"

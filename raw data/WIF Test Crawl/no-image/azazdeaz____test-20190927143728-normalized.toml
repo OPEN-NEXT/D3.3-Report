@@ -1,0 +1,7 @@
+name = "test"
+repo = "https://wikifactory.com/@azazdeaz/test"
+version = "20190927143728"
+spdx-license = "N/A"
+licensor = "András Polgár"
+documentation-language = "en"
+function = "test"

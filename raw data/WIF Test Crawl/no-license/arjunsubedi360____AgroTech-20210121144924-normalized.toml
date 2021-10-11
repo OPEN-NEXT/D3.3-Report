@@ -1,0 +1,7 @@
+name = "AgroTech"
+repo = "https://wikifactory.com/@arjunsubedi360/agrotech"
+version = "20210121144924"
+spdx-license = "N/A"
+licensor = "arjunsubedi360"
+documentation-language = "en"
+function = "Get agricultural training and sell products online"

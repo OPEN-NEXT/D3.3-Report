@@ -1,0 +1,8 @@
+name = "Phoenix Hand"
+repo = "https://wikifactory.com/@mark-parrish/phoenix-hand"
+version = "20190610144213"
+spdx-license = "N/A"
+licensor = "Mark Parrish"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMTI4NzE="
+function = "This project is the printing and assembly of the Phoenix V2 hand."

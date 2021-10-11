@@ -1,0 +1,7 @@
+name = "cnc"
+repo = "https://wikifactory.com/@sohaibcris97/cnc"
+version = "20210223112307"
+spdx-license = "N/A"
+licensor = "shaik Abdul qader"
+documentation-language = "en"
+function = "cnc router for ss machining"

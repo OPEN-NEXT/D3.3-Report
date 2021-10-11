@@ -1,0 +1,38 @@
+name = "PC mouse plate"
+repo = "https://wikifactory.com/@itobonifacius/pc-copper-mouse-plate"
+version = "20200705162803"
+spdx-license = "N/A"
+licensor = "itobonifacius"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozOTU2MDE="
+function = "Add a safety barrier between you and pathogens! Your everyday tool of the digital-era: the computer mouse, can now prevent transmission through anti-viral 3D printing!"
+[[files]]
+name = "AR Gallery/front view.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTU1ODk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "AR Gallery/rear view.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTU1ODE="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "AR Gallery/side view.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozOTU1ODA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/mouse joint.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTU1Nzc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/mouse v7.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozOTU1OTA="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDM5MDM="
+mimetype = "text/markdown"
+

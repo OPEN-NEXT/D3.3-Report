@@ -1,0 +1,7 @@
+name = "Wireless transfer"
+repo = "https://wikifactory.com/@rnoga92/wireless-transfer"
+version = "20201031191414"
+spdx-license = "N/A"
+licensor = "rnoga92"
+documentation-language = "en"
+function = "Transfer things to pc from phone"

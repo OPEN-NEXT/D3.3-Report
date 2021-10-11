@@ -1,0 +1,23 @@
+name = "Assistive Ring"
+repo = "https://wikifactory.com/@yde/assistive-ring"
+version = "20201016063834"
+spdx-license = "N/A"
+licensor = "Allan Yde"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MzQ3MTI="
+function = "A smart ring for the visually impaired based on Arduino with lidar and vibrator motor."
+[[files]]
+name = "Arduino/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwOTY="
+mimetype = "text/markdown"
+
+[[files]]
+name = "Arduino/vl53l1xContinouos.cpp"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwOTU="
+mimetype = "text/x-c++src"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTQwOTI="
+mimetype = "text/markdown"
+

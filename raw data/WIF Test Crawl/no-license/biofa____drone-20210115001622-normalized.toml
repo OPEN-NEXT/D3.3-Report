@@ -1,0 +1,7 @@
+name = "drone"
+repo = "https://wikifactory.com/@biofa/drone"
+version = "20210115001622"
+spdx-license = "N/A"
+licensor = "fabio henrique"
+documentation-language = "en"
+function = "voar"

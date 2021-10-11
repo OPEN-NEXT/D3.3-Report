@@ -1,0 +1,7 @@
+name = "Rt"
+repo = "https://wikifactory.com/@hamzabenyamina/rt"
+version = "20210119111307"
+spdx-license = "N/A"
+licensor = "Benyamina hamza"
+documentation-language = "en"
+function = "Rt"

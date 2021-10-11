@@ -1,0 +1,193 @@
+name = "Rigid Heddle Loom"
+repo = "https://wikifactory.com/@progressth/rigid-heddle-loom"
+version = "20171107172719"
+spdx-license = "N/A"
+licensor = "ProgressTH"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDI="
+function = "<a href=\"http://www.progressth.org/2017/08/3d-printed-loom.html\">ProgressTH</a> based in Bangkok designed and built this 3D printed rigid heddle loom. It is a great starting point to begin weaving yourself, as well as explore more complex tools that could benefit from being digitally fabricated. This basic loom costs 1/5 of the equivalent on the market."
+[[files]]
+name = "3D Files/Boat Shuttle/BoatShuttle.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTY3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Boat Shuttle/BoatShuttle_Bobbin.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTY2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Boat Shuttle/Shuttle_Boat_Bobbin_V1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTY4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Boat Shuttle/Shuttle_Boat_V1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTY5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Frame and Parts/knobs.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTcz"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Frame and Parts/Pawl_Cog_V3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTcx"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Frame and Parts/Pawl_Pegs.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTcy"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Frame and Parts/WarpBeam_Frames_V1_1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTcw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Frame and Parts/WarpBeamWashersX4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc0"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Frame and Parts/WarpCogs__Knobs_Pawls_Pegs.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc1"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Rigid Heddle/Heddle_edges.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc4"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Rigid Heddle/heddle_frame_V1_1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc3"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Rigid Heddle/Heddle_Half_A.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc5"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Rigid Heddle/Heddle_Half_B.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTc2"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Rigid Heddle/HeddleFrame.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTgw"
+mimetype = "application/sla"
+
+[[files]]
+name = "3D Files/Rigid Heddle/Heddlex4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTgx"
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo2NzU2"
+mimetype = "text/markdown"
+
+[[files]]
+name = "SketchUp Files/RigidHeddleLoom_V1.skp"
+permalink = "https://wikifactory.com/files/RmlsZToyOTYz"
+mimetype = "application/x-koan"
+
+[[files]]
+name = "STL Files/Boat Shuttle/BoatShuttle.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk5"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Boat Shuttle/BoatShuttle_Bobbin.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMTk4"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Boat Shuttle/Shuttle_Boat_Bobbin_V1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjAw"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Boat Shuttle/Shuttle_Boat_V1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjAx"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Frame and Parts/knobs.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjAz"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Frame and Parts/Pawl_Cog_V3.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjA0"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Frame and Parts/Pawl_Pegs.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjAy"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Frame and Parts/WarpBeam_Frames_V1_1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjA1"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Frame and Parts/WarpBeamWashersX4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjA2"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Frame and Parts/WarpCogs__Knobs_Pawls_Pegs.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjA3"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Rigid Heddle/Heddle_edges.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjA5"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Rigid Heddle/heddle_frame_V1_1.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjEx"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Rigid Heddle/Heddle_Half_A.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjA4"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Rigid Heddle/Heddle_Half_B.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjEw"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Rigid Heddle/HeddleFrame.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjEz"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/Rigid Heddle/Heddlex4.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjEy"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/String Heddle Jig/String_HeddleJig.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjIz"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/String Shuttle/Shuttle190mm.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjIw"
+mimetype = "application/sla"
+
+[[files]]
+name = "STL Files/String Shuttle/Shuttle280mm.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMjE5"
+mimetype = "application/sla"
+

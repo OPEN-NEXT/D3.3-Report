@@ -1,0 +1,12 @@
+name = "In-car warning system"
+repo = "https://wikifactory.com/@stefar70/in-car-warning-system"
+version = "20210329155224"
+spdx-license = "N/A"
+licensor = "Stephen Farrugia"
+documentation-language = "en"
+function = "I thought of a system by which drivers can send messages to other road users and pedestrians through screens at both ends of the car. These messages convert vocal warnings to visual ones and can be displayed on the appropriate screen according to the location of the message's intended recipient"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MzM5MDI="
+mimetype = "text/markdown"
+

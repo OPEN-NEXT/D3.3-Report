@@ -1,0 +1,7 @@
+name = "Sanitizer for home use"
+repo = "https://wikifactory.com/@eswaramoorthi65/sanitizer-for-home-use"
+version = "20200409124523"
+spdx-license = "N/A"
+licensor = "eswaramoorthi65"
+documentation-language = "en"
+function = "\ufeff"

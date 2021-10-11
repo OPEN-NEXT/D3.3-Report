@@ -1,0 +1,23 @@
+name = "Claystruder 2 (Auger)"
+repo = "https://wikifactory.com/@driesverbruggen/claystruder-2-auger"
+version = "20190317143350"
+spdx-license = "N/A"
+licensor = "Dries Verbruggen"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToxNDUxNzM="
+function = "<b>Repost of the 2012 Claystruder 2</b>, a prototype for a paste extruder that is build around a fairly lowcost, off-the-shelf disposable auger extruder. This design is a testbed and not meant as an elegant design.\nThis extruder design was originally published on <a href=\"https://www.thingiverse.com/thing:28018\">Thingiverse</a> & documented on <a href=\"http://unfoldfab.blogspot.be/2012/08/road-to-better-paste-extrusion-episode.html\">Unfold Fab</a>."
+[[files]]
+name = "/Auger-Stepper_connector.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDUxNzU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/HeadV1_5D.stl"
+permalink = "https://wikifactory.com/files/RmlsZToxNDUxNzQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToxOTQxODI="
+mimetype = "text/markdown"
+

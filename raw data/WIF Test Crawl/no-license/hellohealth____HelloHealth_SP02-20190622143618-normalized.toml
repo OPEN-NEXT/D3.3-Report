@@ -1,0 +1,23 @@
+name = "HelloHealth_SP02"
+repo = "https://wikifactory.com/@rutvijpathak/hellohealthsp02"
+version = "20190622143618"
+spdx-license = "N/A"
+licensor = "Rutvij Pathak"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyODUzNzc="
+function = "Following are the plans and production drawings for making the Blood Oxygen level monitoring device made out of the standard FABLAB inventory."
+[[files]]
+name = "/FoldableSpO2_final-v3.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU2MDk="
+mimetype = "application/sla"
+
+[[files]]
+name = "/SP02+ECG.brd"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU2MTE="
+mimetype = "application/xml"
+
+[[files]]
+name = "/SP02+ECG.sch"
+permalink = "https://wikifactory.com/files/RmlsZToyMTU2MTA="
+mimetype = "application/xml"
+

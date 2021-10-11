@@ -1,0 +1,13 @@
+name = "Hướng dẫn Ráp CNC 1x1.5M"
+repo = "https://wikifactory.com/@nndlsvn2020/hướng-dẫn-ráp-cnc-1x15m"
+version = "20201011150001"
+spdx-license = "N/A"
+licensor = "NGUYEN NGOC DUNG"
+documentation-language = "vi"
+image = "https://wikifactory.com/files/RmlsZTo0NTA4NDA="
+function = "Phiên bản M, Máy bao gồm 3 bộ trục đã lắp sẵn đủ hết vitme TBI1605 và TBI1610, Full các trục đều là \"DAY KÉP LIỀN ĐẾ - CHO ĐỘ CHÍNH XÁC CỰC CAO\" vitme bi song mã , Hành trình khoảng 800x1200mm. có 2 phiên bản Spindle dành cho gỗ, Và spindle dành cho nhôm. Phay gỗ tự nhiên, Đặt hàng Zalo: 0986141219."
+[[files]]
+name = "/MAY CNC NHOM PHAY.mp4"
+permalink = "https://wikifactory.com/files/RmlsZTo0NTA4Mzg="
+mimetype = "video/mp4"
+

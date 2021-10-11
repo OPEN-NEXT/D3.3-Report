@@ -1,0 +1,38 @@
+name = "PowerPlanter"
+repo = "https://wikifactory.com/@boettger/powerplanter"
+version = "20210428204401"
+spdx-license = "CC-BY-SA-4.0"
+licensor = "Sebastian Boettger"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1ODE4NzE="
+function = "Smart Charging indicator for your home. The device can show you the charging status of your electric car, wherever you need it. It can even remind you to plug in.\nThe integrated plan not only looks nice, it fully offsets the CO2 needed to power the device, so it's carbon neutral in operation."
+[[files]]
+name = "3D printer cad files/Powerplanter 9.obj"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzQ4NjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "3D printer cad files/Powerplanter 9.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzQ4NjU="
+mimetype = "application/sla"
+
+[[files]]
+name = "3D printer cad files/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzQ4Njk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "ESP 32 Arduino Code/powerplanter_9.ino"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzQ4NzI="
+mimetype = "text/x-c"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo1NzE4Nzg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1OTIzNjE="
+mimetype = "text/markdown"
+

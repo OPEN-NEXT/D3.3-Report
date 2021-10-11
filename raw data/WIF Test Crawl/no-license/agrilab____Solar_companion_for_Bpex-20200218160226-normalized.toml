@@ -1,0 +1,53 @@
+name = "Solar companion for Bpex"
+repo = "https://wikifactory.com/@lhanneus-5744e/solar-companion-for-bpex"
+version = "20200218160226"
+spdx-license = "N/A"
+licensor = "Hanneuse Luc"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDcyNTA="
+function = "Extension for the Bpex outside case that integrate a solar panel for energy sustainable electronic IOT sensors in the field. Fully parametric model designed to be 3D printed."
+[[files]]
+name = "/OpenSCAD_s.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMDcyNzE="
+mimetype = "image/png"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDczMjM="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/screenshot2.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMDcyNzY="
+mimetype = "image/png"
+
+[[files]]
+name = "/screenshot3.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMDcyNzc="
+mimetype = "image/png"
+
+[[files]]
+name = "/screenshot.png"
+permalink = "https://wikifactory.com/files/RmlsZTozMDcyNzU="
+mimetype = "image/png"
+
+[[files]]
+name = "/solar_01.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDcyNjk="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/solar_4.jpg"
+permalink = "https://wikifactory.com/files/RmlsZTozMDcyNzA="
+mimetype = "image/jpeg"
+
+[[files]]
+name = "/solar_def.scad"
+permalink = "https://wikifactory.com/files/RmlsZTozMDcyNjY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/solar_def.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozMDcyNjc="
+mimetype = "application/sla"
+

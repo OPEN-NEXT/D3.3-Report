@@ -1,0 +1,13 @@
+name = "Supply Chain "
+repo = "https://wikifactory.com/@cr555/food-technology"
+version = "20201127162528"
+spdx-license = "N/A"
+licensor = "Cameron Rankin "
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0NTkyMDc="
+function = "This was a task looking at the supply chain of a coffee bean from growth to the final cup of coffee. This looks at all of the factors along the way with a little bit of information on each section."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0OTA3MDc="
+mimetype = "text/markdown"
+

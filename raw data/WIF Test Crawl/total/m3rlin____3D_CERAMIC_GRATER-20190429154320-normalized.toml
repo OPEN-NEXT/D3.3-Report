@@ -1,0 +1,18 @@
+name = "3D CERAMIC GRATER"
+repo = "https://wikifactory.com/@joana/3d-ceramic-grater"
+version = "20190429154320"
+spdx-license = "N/A"
+licensor = "Joana Schmitz"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMDY3NjM="
+function = "How can the material qualities of 3D printed ceramics be utilised in functional ways? Unlike traditional slip casting, 3D printed ceramics allows for non-realising forms and create extremely fine and accurate structures. Let's develop products that take advantage of that!"
+[[files]]
+name = "/grater stl (1,5 mm nozzle, 1 mm layer height)"
+permalink = "https://wikifactory.com/files/RmlsZToyMDY3NjY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMDY3NjU="
+mimetype = "text/markdown"
+

@@ -1,0 +1,7 @@
+name = "Robotic arm"
+repo = "https://wikifactory.com/@munyarutsito/robotic-arm"
+version = "20200620052705"
+spdx-license = "N/A"
+licensor = "Munya Rutsito"
+documentation-language = "en"
+function = "Pick and place"

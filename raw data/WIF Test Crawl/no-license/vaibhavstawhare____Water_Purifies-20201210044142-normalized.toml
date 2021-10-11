@@ -1,0 +1,7 @@
+name = "Water Purifies"
+repo = "https://wikifactory.com/@vaibhavstawhare/water-purifies"
+version = "20201210044142"
+spdx-license = "N/A"
+licensor = "vaibhavstawhare"
+documentation-language = "en"
+function = "R O based water purifiers"

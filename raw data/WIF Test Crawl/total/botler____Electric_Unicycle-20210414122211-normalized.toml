@@ -1,0 +1,48 @@
+name = "Electric Unicycle"
+repo = "https://wikifactory.com/@botler/electric-unicycle"
+version = "20210414122211"
+spdx-license = "CC-BY-4.0"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZToyMjU2MTA="
+function = "High-Power Electric Unicycle, Cruise 25 miles at 20mph on a sweet, one-wheeled ride you built yourself!\nOwner:<b> Mr. Matias Eertola </b>(<a href=\"https://makezine.com/author/matias-eertola/\">https://makezine.com/author/matias-eertola/</a>)"
+[[files]]
+name = "/1-E15S_pedalbracket.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU2NDI="
+mimetype = "application/sla"
+
+[[files]]
+name = "/2-E15S-lower_housing.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU2NDM="
+mimetype = "application/sla"
+
+[[files]]
+name = "/3-E15S_upper housing.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU2NDQ="
+mimetype = "application/sla"
+
+[[files]]
+name = "/4a-E15S_top_ w_holes_newleds.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU2NDU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/4b-E15S_top_ noholes_new.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU2NDY="
+mimetype = "application/sla"
+
+[[files]]
+name = "/5-E15S-handle.stl"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU2NDc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/license.txt"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU2MTE="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZToyMjU2NTI="
+mimetype = "text/markdown"
+

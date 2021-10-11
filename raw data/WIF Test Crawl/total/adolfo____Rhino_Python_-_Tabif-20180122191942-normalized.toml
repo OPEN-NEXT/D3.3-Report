@@ -1,0 +1,13 @@
+name = "Rhino Python - Tabif"
+repo = "https://wikifactory.com/@adolfo/tabify"
+version = "20180122191942"
+spdx-license = "CC-BY-4.0"
+licensor = "Adolfo Nadal Serrano"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1NTU="
+function = "Script written by Fabio Mantuano- http://www.formulas.it/metodi. Use this tool for Rhinoceros 3D to quickly add tabs to your unrolled surfaces... build physical models in no time!"
+[[files]]
+name = "Codebase/tabify.py"
+permalink = "https://wikifactory.com/files/RmlsZTo1NTY="
+mimetype = "text/x-python-script"
+

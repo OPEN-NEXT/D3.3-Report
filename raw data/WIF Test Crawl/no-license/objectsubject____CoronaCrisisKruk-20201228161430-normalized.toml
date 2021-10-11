@@ -1,0 +1,18 @@
+name = "CoronaCrisisKruk"
+repo = "https://wikifactory.com/@objectsubject/coronacrisiskruk"
+version = "20201228161430"
+spdx-license = "N/A"
+licensor = "Object & Subject Studio"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo1MTA1OTg="
+function = "A social distancing bench that helps people to stay at the right distance from eachother in pandemic times."
+[[files]]
+name = "/20201014_CoronaCrisisKruk_Rijsbergen.stp"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTA1ODQ="
+mimetype = "text/plain"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo1MTA1OTI="
+mimetype = "text/markdown"
+

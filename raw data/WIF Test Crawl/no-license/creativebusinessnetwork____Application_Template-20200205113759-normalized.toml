@@ -1,0 +1,13 @@
+name = "Application Template"
+repo = "https://wikifactory.com/@carolportugal/application-template"
+version = "20200205113759"
+spdx-license = "N/A"
+licensor = "Carolina Alves Portugal"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozMDMxNDQ="
+function = "This is the Application Template for reference in the submission of your Project for the Wikifactory Award for Top Hardware Startup at the Creative Business Cup Finals. It includes all the questions you must answer in your own Project to successfully submit. Read this handy story on<a href=\"https://wikifactory.com/+creativebusinessnetwork/stories/how-to-apply-award-for-the-top-hardware-project-at-creative-business-cup\"> how to apply! </a>"
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTozMDM0Nzc="
+mimetype = "text/markdown"
+

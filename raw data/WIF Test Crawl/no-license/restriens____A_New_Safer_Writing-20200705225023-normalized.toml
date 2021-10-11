@@ -1,0 +1,83 @@
+name = "A New Safer Writing"
+repo = "https://wikifactory.com/@restriens/a-new-safer-writing"
+version = "20200705225023"
+spdx-license = "N/A"
+licensor = "Euardo Sifuentes Galván"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTo0MDQ0ODM="
+function = "A new safer writing is at hand just by choosing more suitable materials and shaped it with a 3D printer.\nPens, pencils, markers are everywhere and sometimes we share them so let's make it #safetoplay"
+[[files]]
+name = "/ANSW.png"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ0ODE="
+mimetype = "image/png"
+
+[[files]]
+name = "/ANSW.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIyODk="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Components.bmp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIzMzg="
+mimetype = "image/bmp"
+
+[[files]]
+name = "/Distance.bmp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDE5OTc="
+mimetype = "image/bmp"
+
+[[files]]
+name = "/life pen point.bmp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIzMTQ="
+mimetype = "image/bmp"
+
+[[files]]
+name = "/life pen.bmp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDIyODc="
+mimetype = "image/bmp"
+
+[[files]]
+name = "/Pen Cap.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDE5MDg="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Pen Cap.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ0Njc="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Pen cover.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDE5MjA="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Pen cover.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDI3ODU="
+mimetype = "application/sla"
+
+[[files]]
+name = "/Pen Holder.step"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDE5MDU="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Pen Holder.stl"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ0Njg="
+mimetype = "application/sla"
+
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDQ0ODk="
+mimetype = "text/markdown"
+
+[[files]]
+name = "/README.md.txt"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDE4OTY="
+mimetype = "text/plain"
+
+[[files]]
+name = "/Stay healthy.bmp"
+permalink = "https://wikifactory.com/files/RmlsZTo0MDE5OTQ="
+mimetype = "image/bmp"
+

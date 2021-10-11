@@ -1,0 +1,7 @@
+name = "robo1"
+repo = "https://wikifactory.com/@maurilio/robo1"
+version = "20200124022803"
+spdx-license = "N/A"
+licensor = "Maurílio Lima"
+documentation-language = "pt"
+function = "robo que anda e emite som"

@@ -1,0 +1,7 @@
+name = "MindRoll"
+repo = "https://wikifactory.com/@lucksy/mindroll"
+version = "20210415201808"
+spdx-license = "N/A"
+licensor = "Amila"
+documentation-language = "en"
+function = "MindRoll"

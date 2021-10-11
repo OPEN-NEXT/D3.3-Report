@@ -1,0 +1,48 @@
+name = "Hovalin"
+repo = "https://wikifactory.com/@botler/hovalin"
+version = "20180606133441"
+spdx-license = "N/A"
+licensor = "James Botler"
+documentation-language = "en"
+image = "https://wikifactory.com/files/RmlsZTozNTky"
+function = "A functional acoustic violin by <a href=\"http://www.hovalabs.com/sayhey\">Hova Labs</a> that can be produced using most standard consumer 3d printers. <strong>The total cost of raw materials for the violin is currently about $70.</strong> It was designed with Autodesk Fusion 360, and its shape and dimensions are inspired by the <a href=\"https://en.wikipedia.org/wiki/Stradivarius\">Stradivarius</a> violin model."
+[[files]]
+name = "/README.md"
+permalink = "https://wikifactory.com/files/RmlsZTo3NTk3"
+mimetype = "text/markdown"
+
+[[files]]
+name = "STLs/bottom.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk0"
+mimetype = "application/sla"
+
+[[files]]
+name = "STLs/middle.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk1"
+mimetype = "application/sla"
+
+[[files]]
+name = "STLs/neck.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk2"
+mimetype = "application/sla"
+
+[[files]]
+name = "STLs/notch-bottom.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk3"
+mimetype = "application/sla"
+
+[[files]]
+name = "STLs/notch-top.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk4"
+mimetype = "application/sla"
+
+[[files]]
+name = "STLs/notches.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNTk5"
+mimetype = "application/sla"
+
+[[files]]
+name = "STLs/top.stl"
+permalink = "https://wikifactory.com/files/RmlsZTozNjAw"
+mimetype = "application/sla"
+
