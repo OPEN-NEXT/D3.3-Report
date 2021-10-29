@@ -4,8 +4,8 @@ Report for the D3.3 deliverable ("Wikibase instance demonstrator - Semantic data
 
 ## What will I find in this repository?
 
-- the report ([D3.3_ Wikibase instance demonstrator.odt](D3.3_ Wikibase%20instance%20demonstrator.odt))
-- its annexure ([D3.3_ Wikibase instance demonstrator-Annexure.odt](D3.3_ Wikibase%20instance%20demonstrator-Annexure.odt))
+- the report ([D3.3_ Wikibase instance demonstrator.odt](D3.3_Wikibase%20instance%20demonstrator.odt))
+- its annexure ([D3.3_ Wikibase instance demonstrator-Annexure.odt](D3.3_Wikibase%20instance%20demonstrator-Annexure.odt))
 - raw data used for this report (`raw data`)
 - images used in this report (`images`)
 - a summary of all image attributions ([ATTRIBUTIONS.md](ATTRIBUTIONS.md))
