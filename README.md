@@ -8,8 +8,9 @@ Report for the D3.3 deliverable ("Wikibase instance demonstrator - Semantic data
 - its annexure ([D3.3_ Wikibase instance demonstrator-Annexure.odt](D3.3_Wikibase%20instance%20demonstrator-Annexure.odt))
 - raw data used for this report (`raw data`)
 - images used in this report (`images`)
+- export of all references used in this report ([references.json](references.json)) (import into your reference management system, e.g. [Zotero](https://www.zotero.org/)
 - a summary of all image attributions ([ATTRIBUTIONS.md](ATTRIBUTIONS.md))
-- the licensing terms (free/open source, permissive) ([CC-BY-4.0](LICENSE))
+- the licensing terms for this repository (free/open source, permissive) ([CC-BY-4.0](LICENSE))
 
 Please find the PDF exports of report and annexure in the [release](https://github.com/OPEN-NEXT/D3.3-Report/releases/tag/v1.0.0).
 
