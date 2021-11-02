@@ -12,7 +12,7 @@ Report for the D3.3 deliverable ("Wikibase instance demonstrator - Semantic data
 - a summary of all image attributions ([ATTRIBUTIONS.md](ATTRIBUTIONS.md))
 - the licensing terms for this repository (free/open source, permissive) ([CC-BY-4.0](LICENSE))
 
-Please find the PDF exports of report and annexure in the [release](https://github.com/OPEN-NEXT/D3.3-Report/releases/tag/v1.0.0).
+Please find the PDF exports of report and annexure in the [release](https://github.com/OPEN-NEXT/D3.3-Report/releases/tag/v1.0.2).
 
 ## Original task description
 
